@@ -2,7 +2,7 @@
 
 
 ## 2015.02.18
-Format: Telekonferencja / Skype
+Format: Telekonferencja / Skype#
 Obecni: 
 
 
