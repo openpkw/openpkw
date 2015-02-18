@@ -3,7 +3,6 @@
 
 ## 2015.02.18
 Format: Telekonferencja / Skype<br/>
-Format: Telekonferencja / Skype<br/>
 Czas: 90 min<br/>
 Obecni: Sebastian Celejewski, Adam Kowalewski, Tomasz Klasa, Adam Mańczuk, Bartłomiej Kokoszka,Przemek Jodkowski, Tomasz Woźniak, Marcin Fabrykowski, Marek Piotrów 
 
