@@ -5,17 +5,22 @@ Format: Telekonferencja / Skype<br/>
 Czas: 2h+ <br/>
 Obecni: Sebastian Celejewski, Adam Kowalewski, Marcin Fabrykowski, Bartłomiej Kokoszka, Przemek Jodkowski, Marek Piotrów
 
-**Dyskusja:**
+
+
+
 
 **Postanowienia:**
 
-
 **ToDo:**
-Adam 1: 
-Adam 1: 
-Adam 1: 
-Adam 1: 
+Adam 1: Kontakt z Tomkiem - namiary na ludzi zainteresowanych technologią Java / Java EE
+Adam 2: Wykonam modele procesów w OpenOffice Impress
+Adam 3: Odpowiadam za pull requesty do mojego repozytorium
+Adam 4: Doodle na nadchodzący tydzień
+Adam 5: Kontakt z Markiem - analiza przetargu
+Adam 6: Kontakt z Przemkiem - analiza przetargu
 
+
+**Dyskusja:**
 - brudnopis poranny
 - brudnopis po 22:00
 ————————————
