@@ -1,6 +1,21 @@
 # Protokoły spotkań
 
 ## 2015.02.25
+Format: Telekonferencja / Skype<br/>
+Czas: 2h+ <br/>
+Obecni: Sebastian Celejewski, Adam Kowalewski, Marcin Fabrykowski, Bartłomiej Kokoszka, Przemek Jodkowski, Marek Piotrów
+
+**Dyskusja:**
+
+**Postanowienia:**
+
+
+**ToDo:**
+Adam 1: 
+Adam 1: 
+Adam 1: 
+Adam 1: 
+
 - brudnopis poranny
 - brudnopis po 22:00
 ————————————
