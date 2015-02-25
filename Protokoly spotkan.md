@@ -20,7 +20,7 @@ brak
 * Adam 5: Kontakt z Markiem - analiza przetargu
 * Adam 6: Kontakt z Przemkiem - analiza przetargu
 * Przemek: Przygotuje ciąg wyborczy na lata 2015 i 2016 
-* Marek: Wykona analiza przetargu + tel. z Adamem 
+* Marek: Wykona analizę przetargu + tel. z Adamem 
 * Sebastian 1
 * Sebastian 2
 * Sebastian ... 
