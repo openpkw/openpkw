@@ -10,19 +10,31 @@ Obecni: Sebastian Celejewski, Adam Kowalewski, Marcin Fabrykowski, Bartłomiej K
 
 
 **Postanowienia:**
+brak
 
 **ToDo:**
-Adam 1: Kontakt z Tomkiem - namiary na ludzi zainteresowanych technologią Java / Java EE
-Adam 2: Wykonam modele procesów w OpenOffice Impress
-Adam 3: Odpowiadam za pull requesty do mojego repozytorium
-Adam 4: Doodle na nadchodzący tydzień
-Adam 5: Kontakt z Markiem - analiza przetargu
-Adam 6: Kontakt z Przemkiem - analiza przetargu
-
+* Adam 1: Kontakt z Tomkiem - namiary na ludzi zainteresowanych technologią Java / Java EE
+* Adam 2: Wykonam modele procesów w OpenOffice Impress
+* Adam 3: Odpowiadam za pull requesty do mojego repozytorium
+* Adam 4: Doodle na nadchodzący tydzień
+* Adam 5: Kontakt z Markiem - analiza przetargu
+* Adam 6: Kontakt z Przemkiem - analiza przetargu
+* Przemek: Przygotuje ciąg wyborczy na lata 2015 i 2016 
+* Marek: Wykona analiza przetargu + tel. z Adamem 
+* Sebastian 1
+* Sebastian 2
+* Sebastian ... 
 
 **Dyskusja:**
-- brudnopis poranny
-- brudnopis po 22:00
+* Aktualny status projektu tzn. lista ToDo vs realia
+* Omawiamy proces komisji obwodowej, kolejność kroków
+* Omawiamy tematykę brudnopisu (poranny, wieczorny, kod kreskowy)
+* Pojęcia błędu twardego i miękkiego 
+
+
+<br/><br/><br/>
+brudnopis poranny
+brudnopis po 22:00
 ————————————
 Jeżeli brudnopis poranny = brudnopis po 22 -> wprowadzamy brudnopis poranny 
 Jeżeli brudnopis poranny (różny) brudnopis po 22 -> wypełniamy brudnopis po 22 i wprowadzamy do systemu
