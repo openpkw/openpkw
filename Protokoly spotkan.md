@@ -21,16 +21,20 @@ brak
 * Adam 6: Kontakt z Przemkiem - analiza przetargu
 * Przemek: Przygotuje ciąg wyborczy na lata 2015 i 2016 
 * Marek: Wykona analizę przetargu + tel. z Adamem 
-* Sebastian 1
-* Sebastian 2
-* Sebastian ... 
+* Sebastian 1: Skontaktować się z Tomkiem W. i poprosić o programistów front-end do prac nad prototypem w HTML.
+* Sebastian 2: Skontaktować się z Tomkiem W. i poprosić o zdobycie z PKW reguł walidacji dla komisji obwodowych i komisji okręgowych dla najbliższych wyborów prezydenckich.
+* Sebastian 3: Skontaktować się z Tomkiem W. i poprosić o pomoc w zdobyciu u Kamila dwóch serwerów:
+  * serwer, na którym wystawimy prototyp HTML
+  * serwer Continuous Integration
+* Sebastian 4 (bonus): Preprojektować prototyp w HTML tak, aby odzwierciedlał formularz dla najbliższych wyborów prezydenckich.
+* Sebastian 5 (bonus): Przeprojektować prototyp w HTML tak, aby walidował dane podczas ich wprowadzania, a nie po naciśnięciu przycisku ,,Waliduj''.
 
 **Dyskusja:**
 * Aktualny status projektu tzn. lista ToDo vs realia
-* Omawiamy proces komisji obwodowej, kolejność kroków
-* Omawiamy tematykę brudnopisu (poranny, wieczorny, kod kreskowy)
-* Pojęcia błędu twardego i miękkiego 
-
+* Tożsamość grupy: czy to jest grupa analityczna czy całość OpenPKW i nie ma nikogo innego?
+* Omawiamy proces komisji obwodowej, kolejność kroków.
+* Omawiamy tematykę brudnopisu (poranny, wieczorny, kod kreskowy).
+* Pojęcia błędu twardego i miękkiego .
 
 <br/><br/><br/>
 brudnopis poranny
@@ -55,7 +59,7 @@ Czas: 90 min<br/>
 Obecni: Sebastian Celejewski, Adam Kowalewski, Tomasz Klasa, Adam Mańczuk, Bartłomiej Kokoszka,Przemek Jodkowski, Tomasz Woźniak, Marcin Fabrykowski, Marek Piotrów 
 
 **Postanowienia:**
-
+* Będziemy rozwijać prototyp w HTML.
 
 **ToDo:**
 * Adam przygotuje plik protokołów 
