@@ -1,14 +1,13 @@
-"Ciąg wyborczy" na lata 2015 i 2016
+# "Ciąg wyborczy" na lata 2015 i 2016
 
 
-2015
+## 2015
 - 10 maja I tura wyborów prezydenckich
 - 24 maja II tura wyborów prezydenckich (ewentualnie)
-
 - październik - wybory parlamentarne (Sejm, Senat)
 - październik/listopad - wybory parlamentarne, II tura Senat
 
-2018
+## 2018
 - listopad - wybory samorządowe: 
   - w/b/p; 
   - rada gminy; 
@@ -16,12 +15,12 @@
   - sejmik wojewódzki, 
   - Warszawa (oddzielny "kodeks wyborczy")
 
-2019
+## 2019
 - maj - wybory do Europarlamentu
 - październik - wybory parlamentarne (Sejm, Senat)
 - październik/listopad - wybory parlamentarne, II tura Senat
 
-2020
+## 2020
 - maj - wybory prezydenckie.
 
 
