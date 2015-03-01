@@ -38,10 +38,10 @@ brak
 
 <br/><br/><br/>
 brudnopis poranny
-brudnopis po 22:00
+brudnopis po 21:00
 ————————————
-Jeżeli brudnopis poranny = brudnopis po 22 -> wprowadzamy brudnopis poranny 
-Jeżeli brudnopis poranny (różny) brudnopis po 22 -> wypełniamy brudnopis po 22 i wprowadzamy do systemu
+Jeżeli brudnopis poranny = brudnopis po 21 -> wprowadzamy brudnopis poranny 
+Jeżeli brudnopis poranny (różny) brudnopis po 21 -> wypełniamy brudnopis po 21 i wprowadzamy do systemu
 
 sposób wpisywania do systemu:
 - pierwsze wprowadzanie danych z brudnopisu (z góry do dołu) 
