@@ -59,6 +59,7 @@ każdorazowe wejście do kalkulatora musi być poprzedzone sprawdzeniem pliku li
 
 # 6. Podpisywanie / wysyłanie / drukowanie
 
+
 	# - Podpisanie wszystkich protokołów obwodowych licencją Przewodniczącego Obwodowej Komisji Wyborczej.
 
 * Po podpisaniu protokołu program automatycznie dokonuje próby wysłania protokołu przez
