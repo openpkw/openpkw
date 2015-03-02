@@ -58,25 +58,33 @@ każdorazowe wejście do kalkulatora musi być poprzedzone sprawdzeniem pliku li
 	• usunięcie protokołu (numerowanie wersji)
 
 # 6. Podpisywanie / wysyłanie / drukowanie
+
 	• Podpisanie wszystkich protokołów obwodowych licencją Przewodniczącego Obwodowej Komisji Wyborczej.
+
 * Po podpisaniu protokołu program automatycznie dokonuje próby wysłania protokołu przez
 Internet na serwery KBW. O powodzeniu tej próby (lub niepowodzeniu) operator jest poinformowany stosownym komunikatem.
+
 * Niezależnie od wyniku ww. program przechodzi do zapisu protokołu na dysk w postaci pliku
 .xml.
+
 * Następnie program przechodzi automatycznie do funkcji drukowania protokołu. Operator drukuje 
 1 egzemplarz protokołu głosowania w obwodzie wraz ze stroną zawierającą raport ostrzeżeń (jeśli wystąpiły).
+
 * Komisja weryfikuje zgodność wydruku z projektem (brudnopisem) protokołu i przystępuje do
 składania podpisów.
+
 * W przypadku stwierdzenia różnic, operator nanosi stosowną poprawkę i ponownie drukuje protokół (numerowanie wersji).
 Jeśli nie będzie technicznej możliwości poprawienia istniejącego protokołu należy utworzyć nowy protokół
 i ponownie wprowadzić wszystkie dane.(numerowanie wersji)
 
 	• Wysłanie wszystkich podpisanych protokołów obwodowych przez Internet lub zapisanie na nośnik zewnętrzny
-i dostarczenie do właściwej Rejonowej lub Okręgowej Komisji Wyborczej.
+	i dostarczenie do właściwej Rejonowej lub Okręgowej Komisji Wyborczej.
+
 * Jeżeli protokoły nie zostały automatycznie wysłane na serwery KBW a w lokalu Komisji jest sprawne łącze
 do Internetu, operator ponawia próbę wysłania protokołu – funkcja „Wyślij”.
 	
 	• Wykonanie wydruków protokołów, raportu ostrzeżeń i weryfikacja poprawności tych wydruków.
+
 * każda zamiana dokonana w wersji elektronicznej protokołu zmienia jego sumę kontrolną widoczną na wydruku.
 Niezgodność sum kontrolnych wykryta przez Terenową/Okręgową KW skutkuje odrzuceniem protokołu.
 Po zmianach należy więc ponownie wydrukować wszystkie egzemplarze zmienionego protokołu.
@@ -106,9 +114,10 @@ Pytanie:
 w SIWZ z 2014 r, jest zapis:
 
 	7) zapewnienie mechanizmu odblokowania możliwości wydruku danego protokołu po akceptacji 
-terytorialnej komisji wyborczej (przekazywanie treści zablokowanych danych i ostrzeżeń 
-oraz przekazywanie informacji umożliwiającej wydruk protokołu wyników głosowania), 
-przekazanego do kalkulatora w postaci kodu do wprowadzenia lub pobrania z serwisu internetowego komisji nadrzędnej,
+	terytorialnej komisji wyborczej (przekazywanie treści zablokowanych danych i ostrzeżeń
+	oraz przekazywanie informacji umożliwiającej wydruk protokołu wyników głosowania), 
+	przekazanego do kalkulatora w postaci kodu do wprowadzenia lub pobrania z serwisu 
+	internetowego komisji nadrzędnej,
 
 	8) zapewnienie możliwości całkowitego wyłączenia blokady wydruku opisanego w ppkt 6 przez 
-administratora PKW,  dla kalkulatorów wyborczych posiadających dostęp do sieci publicznej;
+	administratora PKW,  dla kalkulatorów wyborczych posiadających dostęp do sieci publicznej;
