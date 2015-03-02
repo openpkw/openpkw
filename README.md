@@ -24,6 +24,8 @@
 - maj - wybory prezydenckie.
 
 
-ale:
-od 22 lutego 2015 do 17 maja 2015 odbędzie się (już jest zaplanowane przez PKW) w Polsce 245 akcji wyborczych
+## ale uwaga w Polsce wybory odbywają się co tydzień przez cały rok:
+
+
+od 22 lutego 2015 do 17 maja 2015 odbędzie się (już jest zaplanowane przez PKW) 245 akcji wyborczych
 patrz plik Open_Season
