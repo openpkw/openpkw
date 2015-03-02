@@ -1,6 +1,6 @@
 Kolejność działań wykonywana przez kalkulator obwodowy
 
-1. instalacja
+# 1. instalacja
 	- uruchomic plik z roszerzeniem .exe umieszczony na płycie instalacyjnej lub pobrać ze strony: https://..........
 	- Okno powitalne, klawisz Dalej
 
@@ -15,7 +15,7 @@ potwierdzenie wyboru.
 
 Logowanie do systemu - prośba o wskazanie pliku z licencją operatora/przewodniczącego
 
-2. wytworzenie lub wczytanie pliku licencji (operatora, przewodniczącego OKW) z nośnika.
+# 2. wytworzenie lub wczytanie pliku licencji (operatora, przewodniczącego OKW) z nośnika.
 	- operator otrzymuje login i hasło od pełnomocnika w gminie/okręgu (wytworzone wcześniej w Centrum Wydawania Licencji KBW)
 
 2.1 wytworzenie w kalkulatorze
