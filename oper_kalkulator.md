@@ -75,7 +75,7 @@ i ponownie wprowadzić wszystkie dane.(numerowanie wersji)
 i dostarczenie do właściwej Rejonowej lub Okręgowej Komisji Wyborczej.
 * Jeżeli protokoły nie zostały automatycznie wysłane na serwery KBW a w lokalu Komisji jest sprawne łącze
 do Internetu, operator ponawia próbę wysłania protokołu – funkcja „Wyślij”.
-	- 
+	
 	• Wykonanie wydruków protokołów, raportu ostrzeżeń i weryfikacja poprawności tych wydruków.
 * każda zamiana dokonana w wersji elektronicznej protokołu zmienia jego sumę kontrolną widoczną na wydruku.
 Niezgodność sum kontrolnych wykryta przez Terenową/Okręgową KW skutkuje odrzuceniem protokołu.
@@ -90,23 +90,25 @@ Podmiana pojedynczych stron protokołu jest niedopuszczalna!
 UWAGA
 (wersja dla komisji bez obsługi informatycznej)
 Zgodnie z uchwałą PKW z dnia 4.11.2014 r.
-W przypadku gdy istnieje możliwość sporządzenia projektów protokołów głosowania w „Platformie wyborczej”,
+
+"W przypadku gdy istnieje możliwość sporządzenia projektów protokołów głosowania w „Platformie wyborczej”,
 a jedynie brak jest możliwości dokonania transmisji danych do terytorialnych komisji wyborczych, 
 komisje sporządzają projekty protokołów i jeżeli jest taka możliwość techniczna zapisują 
 w „Platformie wyborczej”, uwierzytelnione licencją przewodniczącego komisji lub jego zastępcy dane 
 z protokołów na nośniki elektroniczne. Nośnik przekazuje się właściwej terytorialnej komisji wyborczej 
 wraz z raportem ostrzeżeń (jeżeli został sporządzony), zgodnie z powołanymi wytycznymi.
 Jeżeli nie ma możliwości zapisania danych na nośniku, komisja przekazuje terytorialnej
-komisji wyborczej protokół i ewentualnie raport ostrzeżeń (w wersji papierowej).
+komisji wyborczej protokół i ewentualnie raport ostrzeżeń (w wersji papierowej)."
 
 Pytanie:
 * 1. Jak rozwiązać sprawę odblokowania drukowania po 'nie wysłaniu" protokołu elektronicznie?
 
 w SIWZ z 2014 r, jest zapis:
-7)	zapewnienie mechanizmu odblokowania możliwości wydruku danego protokołu po akceptacji 
-terytorialnej komisji wyborczej 
-(przekazywanie treści zablokowanych danych i ostrzeżeń oraz przekazywanie informacji umożliwiającej 
-wydruk protokołu wyników głosowania), przekazanego do kalkulatora w postaci kodu do wprowadzenia 
-lub pobrania z serwisu internetowego komisji nadrzędnej,
-8)	zapewnienie możliwości całkowitego wyłączenia blokady wydruku opisanego w ppkt 6 przez 
+
+	7) zapewnienie mechanizmu odblokowania możliwości wydruku danego protokołu po akceptacji 
+terytorialnej komisji wyborczej (przekazywanie treści zablokowanych danych i ostrzeżeń 
+oraz przekazywanie informacji umożliwiającej wydruk protokołu wyników głosowania), 
+przekazanego do kalkulatora w postaci kodu do wprowadzenia lub pobrania z serwisu internetowego komisji nadrzędnej,
+
+	8) zapewnienie możliwości całkowitego wyłączenia blokady wydruku opisanego w ppkt 6 przez 
 administratora PKW,  dla kalkulatorów wyborczych posiadających dostęp do sieci publicznej;
