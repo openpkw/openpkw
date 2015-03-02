@@ -59,7 +59,7 @@ każdorazowe wejście do kalkulatora musi być poprzedzone sprawdzeniem pliku li
 
 # 6. Podpisywanie / wysyłanie / drukowanie
 
-	• Podpisanie wszystkich protokołów obwodowych licencją Przewodniczącego Obwodowej Komisji Wyborczej.
+	# - Podpisanie wszystkich protokołów obwodowych licencją Przewodniczącego Obwodowej Komisji Wyborczej.
 
 * Po podpisaniu protokołu program automatycznie dokonuje próby wysłania protokołu przez
 Internet na serwery KBW. O powodzeniu tej próby (lub niepowodzeniu) operator jest poinformowany stosownym komunikatem.
@@ -77,13 +77,13 @@ składania podpisów.
 Jeśli nie będzie technicznej możliwości poprawienia istniejącego protokołu należy utworzyć nowy protokół
 i ponownie wprowadzić wszystkie dane.(numerowanie wersji)
 
-• Wysłanie wszystkich podpisanych protokołów obwodowych przez Internet lub zapisanie na nośnik zewnętrzny
+	# - Wysłanie wszystkich podpisanych protokołów obwodowych przez Internet lub zapisanie na nośnik zewnętrzny
 	i dostarczenie do właściwej Rejonowej lub Okręgowej Komisji Wyborczej.
 
 * Jeżeli protokoły nie zostały automatycznie wysłane na serwery KBW a w lokalu Komisji jest sprawne łącze
 do Internetu, operator ponawia próbę wysłania protokołu – funkcja „Wyślij”.
 	
-	• Wykonanie wydruków protokołów, raportu ostrzeżeń i weryfikacja poprawności tych wydruków.
+	# - Wykonanie wydruków protokołów, raportu ostrzeżeń i weryfikacja poprawności tych wydruków.
 
 * każda zamiana dokonana w wersji elektronicznej protokołu zmienia jego sumę kontrolną widoczną na wydruku.
 Niezgodność sum kontrolnych wykryta przez Terenową/Okręgową KW skutkuje odrzuceniem protokołu.
