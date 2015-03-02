@@ -38,7 +38,7 @@ każdorazowe wejście do kalkulatora musi być poprzedzone sprawdzeniem pliku li
 	* plik dla całej gminy z danymi o wyborach i geografii wyborczej;
 	* plik z informacjami o składzie komisji obwodowej;
 	* plik zawierający warunki poprawności i blokowania protokołów z zasadami walidacji).
-• rodzaj wczytanego pliku .klk (rodzaj akcji wyborczej) rozpoznawany po licencji operatora/przewodniczącego 
+• rodzaj wczytanego pliku .klk (rodzaj akcji wyborczej) rozpoznawany po licencji operatora/przewodniczącego  
 • data i godzina wygenerowania na serwerze pliku .klk informuje czy plik jest aktualny
 
 # 4. Weryfikacja operatora (wizualna)
