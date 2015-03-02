@@ -1,17 +1,14 @@
 ## Kolejność działań wykonywana przez kalkulator obwodowy
 
 # 1. instalacja
-	- uruchomic plik z roszerzeniem .exe umieszczony na płycie instalacyjnej lub pobrać ze strony: https://......
-	- Okno powitalne, klawisz Dalej
-
+	- uruchomić plik z roszerzeniem .exe umieszczony na płycie instalacyjnej lub pobrać ze strony: https://......
+	- okno powitalne, klawisz Dalej
 	- okno z wyborem/zmianą katalogu instalacji 
-(opcje: utwórz automatycznie / wybierz/utwórz nowy  katalog) 
-potwierdzenie wyboru.
+		(opcje: utwórz automatycznie / wybierz/utwórz nowy  katalog) potwierdzenie wyboru.
 
 	- Instalacja zakończona  klawisz Zakończ
 	- okno z wyborem/zmianą katalogu na pliki wynikowe (protokoły) 
-(opcje: utwórz automatycznie / wybierz/utwórz nowy  katalog) 
-potwierdzenie wyboru.
+		(opcje: utwórz automatycznie / wybierz/utwórz nowy  katalog) potwierdzenie wyboru.
 
 Logowanie do systemu - prośba o wskazanie pliku z licencją operatora/przewodniczącego
 
