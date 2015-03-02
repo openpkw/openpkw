@@ -77,7 +77,7 @@ składania podpisów.
 Jeśli nie będzie technicznej możliwości poprawienia istniejącego protokołu należy utworzyć nowy protokół
 i ponownie wprowadzić wszystkie dane.(numerowanie wersji)
 
-	• Wysłanie wszystkich podpisanych protokołów obwodowych przez Internet lub zapisanie na nośnik zewnętrzny
+• Wysłanie wszystkich podpisanych protokołów obwodowych przez Internet lub zapisanie na nośnik zewnętrzny
 	i dostarczenie do właściwej Rejonowej lub Okręgowej Komisji Wyborczej.
 
 * Jeżeli protokoły nie zostały automatycznie wysłane na serwery KBW a w lokalu Komisji jest sprawne łącze
