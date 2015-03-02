@@ -37,7 +37,7 @@ Logowanie do systemu - prośba o wskazanie pliku z licencją operatora/przewodni
 każdorazowe wejście do kalkulatora musi być poprzedzone sprawdzeniem pliku licencji i podaniem hasła licencji.
 		
 # 3. pobranie z sieci lub wczytanie plików .klk z nośnika.
-	*plik z danymi o listach i kandydatach zarejestrowanych w danym okręgu;
+	* plik z danymi o listach i kandydatach zarejestrowanych w danym okręgu;
 	* plik dla całej gminy z danymi o wyborach i geografii wyborczej;
 	* plik z informacjami o składzie komisji obwodowej;
 	* plik zawierający warunki poprawności i blokowania protokołów z zasadami walidacji).
