@@ -28,4 +28,4 @@
 
 
 od 22 lutego 2015 do 17 maja 2015 odbędzie się (już jest zaplanowane przez PKW) 245 akcji wyborczych
-patrz plik Open_Season
+patrz plik [Open_Season] (http://pkw.gov.pl/g2/oryginal/2015_02/d8b0bd05502edbb7ecb960acb4a5ce9d.pdf)
