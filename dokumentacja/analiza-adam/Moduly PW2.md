@@ -8,14 +8,14 @@ podział gminy na obwody głosowania
 podział na okręgi wyborcze
 
 Moduły 1 i 2 maja zapewnić:
-zarządzanie projektami podziału
-    zatwierdzanie decyzji (coś w rodzaju Workflow)
-    działać na podstawie
-        systemu PESEL
-        system ewidencji ludności
-        słowników podziału kraju 
-    archiwizować dane
-    Zapewnić funkcje import / eksport na bazie XML
+* zarządzanie projektami podziału
+* zatwierdzanie decyzji (coś w rodzaju Workflow)
+* działać na podstawie
+  * systemu PESEL
+  * system ewidencji ludności
+  * słowników podziału kraju 
+* archiwizować dane
+* Zapewnić funkcje import / eksport na bazie XML
 
 ## M3: Meldunek kwartalny i przedwyborczy
 Bardzo kiepski opis.
