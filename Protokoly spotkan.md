@@ -1,17 +1,23 @@
 # Protokoły spotkań
 
 ## 2015.03.04
-Format: Telekonferencja / Skype <br/>
-Czas: 2h <br/>
+Format: Telekonferencja / Skype  
+Czas: 2h  
 Obecni: Sebastian Celejewski, Adam Kowalewski, Rafał Reguła, Adam Mańczuk, Marcin Fabrykowski, Tomasz Woźniak, Przemek Jodkowski, Bartłomiej Kokoszka
 
 **Postępy prac**
 
 Adam 1: Kontakt z Tomkiem - namiary na ludzi zainteresowanych technologią Java / Java EE
-- nie udało się
+- WiP: Czekamy na odpowiedz od Tomka
 
 Adam 2: Wykonam modele procesów w OpenOffice Impress
-- Diagram zrobiony w draw.io: https://raw.githubusercontent.com/adamkowalewski/openpkw/docs/adam/dokumentacja/procesy/Obwodowa%20komisja%20wyborcza.xml
+- Po wykonaniu prototypów w OO Impress jak i [draw.io](http://www.draw.io) stwierdzam, zwycięzcą jest aplikacja draw.io. Kilka argumentów: 
+  - praca z draw.io nie wymaga konta / rejestracji
+  - działa w przeglądarce 
+  - diagramy są zapisywane w formacie XML
+  - bardzo dobra paleta szablonów 
+  - bardzo prosta obsługa  
+- Pliki procesów w formacie draw.io XML są dostępne tutaj [dokumentacja/procesy/] (dokumentacja/procesy/)
 
 Adam 3: Odpowiadam za pull requesty do mojego repozytorium
 - Wszystko zintegrowane
@@ -23,7 +29,7 @@ Adam 5: Kontakt z Markiem - analiza przetargu
 - Nie udało się.
 
 Adam 6: Kontakt z Przemkiem - analiza przetargu
-- Przedyskutowane. Rezultat jest tutaj: https://github.com/adamkowalewski/openpkw/blob/docs/adam/dokumentacja/analiza-adam/Moduly%20PW2.md
+- Przedyskutowane. Rezultat jest tutaj: [/dokumentacja/analiza-adam/] (/dokumentacja/analiza-adam/Moduly%20PW2.md)
 
 Przemek: Przygotuje ciąg wyborczy na lata 2015 i 2016
 - Przygotowany. Wrzucony tutaj: https://github.com/Tirramisu/przemekjodkowski-openpkw
