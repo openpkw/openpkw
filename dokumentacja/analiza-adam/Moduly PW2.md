@@ -72,11 +72,22 @@ Typowy kalendarz, dużo szablonów itp.
 Podpunkt e jest dość dziwny, dotyczy walidacji a jednocześnie jest ściśle połączony z modułem 5. Na poziomie PKW. 
 
 ## M8: Centralny rejestr osób
+Obejmuje kandydatów, członków organów wyborczych poszczególnych szczebli, pełnomocników komitetów wyborczych,  
+wyborców posiadających informacje dodatkowe rejestru wyborców wraz z adresami zamieszkania bazującymi  
+na słowniku podziału terytorialnego opisanym w pkt. M4;
 
-## M9: Informacje dodatkowe dla rejestru
+## M9: Informacje dodatkowe dla Centralnego rejestru osób M8
 Jak dla mnie to 8 i 9 to jeden wielki znak zapytania.
 
-## M10: Baza organów wyborczych
+Zakres informacji:
+a. dane osób w powiązaniu z centralnym rejestr osób;  
+b. informacji dodatkowych z rejestru wyborców wraz zdanymi o adresie zamieszkania;  
+c. sprawdzenie poprawności informacji dodatkowych;  
+d. raporty i zestawienia dotyczące liczby i poprawności informacji dodatkowych na określony dzień  
+i zakres terytorialny (gmina, Delegatura Krajowego Biura Wyborczego);  
+e. wymiana danych z systemem ewidencji ludności w gminie i centralnym rejestrze PESEL  
+
+## M10: Baza organów wyborczych (powiązane z M8 i M9)
 Definicja organu wyborczego?
 
 Odp:
@@ -86,18 +97,36 @@ powszechnego głosowania w ramach wyborów (lub odpowiednio referendów), w tym 
 W Polsce organami wyborczymi są:  
 
 stałe organy wyborcze, powołane na określoną kadencję:  
-Państwowa Komisja Wyborcza  
-komisarze wyborczy  
 
-doraźne komisje wyborcze, powoływane do przeprowadzenia konkretnych wyborów lub referendów i rozwiązywane po wykonaniu ich ustawowych zadań:
-okręgowe komisje wyborcze (w wyborach parlamentarnych, prezydenckich, europejskich)  
-terytorialne komisje wyborcze (w wyborach samorządowych): wojewódzka, powiatowa i gminna (miejska) komisja wyborcza  
-terytorialne komisje ds. referendum (w referendum lokalnym): wojewódzka, powiatowa i gminna (miejska) komisja do spraw referendum  
-rejonowe komisje wyborcze (w wyborach europejskich)  
-obwodowe komisje wyborcze (we wszystkich wyborach oraz w referendum ogólnokrajowym) — lokale wyborcze wyposażone w urny do głosowania  
-obwodowa komisja ds. referendum (w referendum lokalnym)  
+   - Państwowa Komisja Wyborcza  
+   - komisarze wyborczy  
 
-## M11: Autentykacja i autoryzacja
+doraźne komisje wyborcze, powoływane do przeprowadzenia konkretnych wyborów lub referendów  
+i rozwiązywane po wykonaniu ich ustawowych zadań:  
+   - okręgowe komisje wyborcze (w wyborach parlamentarnych, prezydenckich, europejskich);  
+   - terytorialne komisje wyborcze (w wyborach samorządowych): wojewódzka, powiatowa  
+   i gminna (miejska) komisja wyborcza;  
+   - terytorialne komisje ds. referendum (w referendum lokalnym): wojewódzka, powiatowa  
+   i gminna (miejska) komisja do spraw referendum;  
+   - rejonowe komisje wyborcze (w wyborach europejskich);  
+   - obwodowe komisje wyborcze (we wszystkich wyborach oraz w referendum ogólnokrajowym);  
+   - obwodowa komisja ds. referendum (w referendum lokalnym).  
+
+W module tym również:
+- webserwis umożliwiający pobranie danych o składzie wybranego organu wyborczego,
+- webserwis umożliwiający wprowadzenie danych o składzie wybranego organu wyborczego przez program zewnętrzny  
+w formacie XML;
+
+## M11: Autentykacja i autoryzacja użytkowników systemu PW wraz z zarządzaniem uprawnieniami i certyfikatami dostępowymi   użytkowników - umożliwiający między innymi:
+a. autoryzację użytkowników za pomocą certyfikatów oraz nazwy użytkownika i hasła;  
+b. zaimplementowanie polityki zmiany haseł z informowaniem o zbliżającym się terminie zmiany hasła, zmianę hasła przez   użytkownika również po terminie wygaśnięcia, blokowaniem konta przy próbie ataku na hasło użytkownika  
+c. dodatkowo dwuskładnikową autentykację użytkowników;  
+d. zarządzanie użytkownikami (tworzenie, usuwanie, aktywowanie, zmiana danych użytkownika, daty nadania i wygaśnięcia   uprawnienia, wymuszenie zmiany hasła, podłączenie certyfikatu/certyfikatów do konta użytkownika,
+przydział uprawnień użytkownika) dla administratorów KBW obsługujących wszystkich użytkowników i dla administratorów   delegatury obsługujących użytkowników delegatury i jednostek samorządu terytorialnego we właściwości  
+terytorialnej danej delegatury KBW;  
+e. Zawężenie uprawnień użytkowników do okręgu wyborczego i organu wyborczego;  
+f. Utrzymanie uprawnień niezależnych od danych wyborów lub nadawane na konkretne akcje wyborcze;  
+g. Korzystanie z autoryzacji i autentykacji wraz z logowaniem i pobraniem uprawnień przez zewnętrzne systemy i programy;  
 
 ## M12: Infrastruktura PKI
 
@@ -106,6 +135,12 @@ obwodowa komisja ds. referendum (w referendum lokalnym)
 ## M14: Rejestracja kandydatów
 
 ## M15: Generowanie i eksport  plików klk dla kalkulatora
+
+pliki XML zawierające:  
+a. dane okręgu wyborczego wraz z komitetami, listami kandydatów oraz kandydatami,  
+b. dane obwodu głosowania (obwodów głosowania w gminie) wraz z powiązaniem do okręgów wyborczych,  
+c. skład obwodowej komisji wyborczej,  
+d. warunki poprawności protokołu obwodowego;  
 
 ## M16: Numeracja list i kandydatów
 Jak działa taka numeracja?
@@ -117,18 +152,16 @@ Na potrzeby wyborów Polska zostaje podzielona wirtualnie na poziomy (państwo, 
 :)
 
 ## M18: Frekwencja wyborcza
-Frekwencja jest przekazywana do centrali dwukrotnie, o godzinie 12 jak i  17, w ciągu dnia wyborczego. Przekaz wykonany jest poprzez kalkulator wyborczy jako liczba podpisów w spisie wyborczów = liczba wydanych kart do głosowania. 
-
+Frekwencja jest przekazywana do centrali dwukrotnie, o godzinie 12 jak i  17, w ciągu dnia wyborczego. Przekaz wykonany jest poprzez kalkulator wyborczy jako liczba: podpisów w spisie wyborczów = liczba wydanych kart do głosowania, oraz liczbę wszystkich wyborców (+ dopisani w dniu głosowania przez OKW) ujętych w spisie. 
 
 ## M19: Kontrola spływu protokołów
-Dostęp do protokołów przez przeglądarkę, filtrowanie, sortowanie, analiza ostrzeżeń i błędów.
+Dostęp do przeglądania protokołów przez przeglądarkę, filtrowanie, sortowanie, analiza ostrzeżeń i błędów.
 
 ## M20: Przyjmowanie protokołów
-Upload danych z kalkulatorów, autoryzacja, walidacja protokołów itp.
+Moduł przyjmowanie obwodowych protokołów z kalkulatorów oraz webserwis spływu.
 
 ## M21: Obsługa komisji wyborczych wszelkich szczebli
-Weryfikacja i zatwierdzenie protokołów.
-
+Weryfikacja i zatwierdzenie protokołów elektronicznych na podstawie protokołów papierowych.
 
 ## M22: Wyniki wyborów
 
@@ -136,7 +169,15 @@ Weryfikacja i zatwierdzenie protokołów.
   - Liczenie na wyższych poziomach, w zależności od wyborów, może być bardzo skomplikowane (miejsca po przecinku, uwzględnienie jak i rozdysponowanie głosów nieważnych itp.). 
 
 ## M23: Generowanie dokumentów
+
+Obwieszczenia, postanowienia, uchwały komisji terytorialnych i okręgowych, dokumenty rejestracyjne komitetów wyborczych  
+i kandydatów, wzory kart do głosowania itp. itd.  
+
 ## M24: Rejestr partii politycznych
+
+Stały rejestr partii politycznych wraz ze zmianami. Archiwizacja wszystkich zmian. Treść wszystkich dokumentów związanych  
+z rejestracją i zmianami, sprawozdania finansowe partii, sprawozdania z funduszu wyborczego.  
+
 ## M25: Centralna archiwizacja.
 
 
