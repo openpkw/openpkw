@@ -17,7 +17,7 @@
 <form>
 	<h1>Kalkulator OpenPKW - Komisja Obwodowa</h1>
 	<input type="hidden" id="liczba_wyborcow" value="">
-	<p class="info">Wersja 9. Wstępna wersja drukowania formularza jako pliku PDF. Zalążek generowania formularza w formacie XML. Taksonomia geograficzna pobierana jest ze słownika <a href="teryt.json">TERYT</a>. Dane komisji obwodowych pobierane pobierane są z <a href="106101.xml">pliku KLK</a> (na razie tylko dla Łodzi).</p>
+	<p class="info">Wersja 10. Dwie wersje drukowania formularza jako pliku PDF. Zalążek generowania formularza w formacie XML. Taksonomia geograficzna pobierana jest ze słownika <a href="teryt.json">TERYT</a>. Dane komisji obwodowych pobierane pobierane są z <a href="106101.xml">pliku KLK</a> (na razie tylko dla Łodzi).</p>
 	<div>
 		<label for="wyborWojewodztwa" style="width: 150px; display: inline-block">Wybierz wyjewództwo</label>
 		<select id="wyborWojewodztwa" style="width: 200px"></select>
@@ -32,7 +32,8 @@
 	</div>		
 	<button type="button" onClick="validate()">Sprawdź formularz</button>
 	<button type="button" onClick="send()">Wyślij formularz</button>
-	<button type="button" onClick="location.href='/openpkw/PdfServlet'">Wydrukuj formularz</button>
+	<button type="button" onClick="location.href='/openpkw/PdfServlet?version_1'">Wydrukuj formularz (metoda 1)</button>
+	<button type="button" onClick="location.href='/openpkw/PdfServlet?version_2'">Wydrukuj formularz (metoda 2)</button>
 	<hr>
 
 	<table class="with_borders">

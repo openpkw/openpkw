@@ -14,8 +14,31 @@ public class PdfServlet extends HttpServlet {
 	}
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		int version = 1;
+
+		if (request.getQueryString() != null && request.getQueryString().contains("version_1")) {
+			version = 1;
+		}
+
+		if (request.getQueryString() != null && request.getQueryString().contains("version_2")) {
+			version = 2;
+		}
+		
+		if (version == 1) {
+			generate_v1(request, response);
+		} else {
+			generate_v2(request, response);
+		}
+	}
+
+	private void generate_v1(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		PdfGenerator generator = new PdfGenerator();
-		// byte[] pdfDocument = generator.generatePdf();
+		byte[] pdfDocument = generator.generatePdf();
+		response.getOutputStream().write(pdfDocument);
+	}
+	
+	private void generate_v2(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException  {
+		PdfGenerator generator = new PdfGenerator();
 		Formularz f = new Formularz();
 		f.setKodTerytorialnyGminy("180801");
 		f.setNumerObwoduGlosowania("5");
@@ -44,6 +67,7 @@ public class PdfServlet extends HttpServlet {
 		byte[] pdfDocument = generator.stamp(f);
 		response.getOutputStream().write(pdfDocument);
 	}
+
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
