@@ -1,5 +1,14 @@
 # Protokoły spotkań
 
+
+## Agenda na najbliższe spotkanie 
+Zbieramy tematy na najbliższą telekonferencje. Będę wdzięczny za akceptację schematu **autor: treść**
+* Adam: Strona internetowa openpkw.pl, grupa jak i Fanpage na Facebook nadal milczą, proponuje nawiązać kontakt z administratorami i wyznaczyć 2-3 osoby odpowiedzialne za ową domenę.
+* Adam: Tematyka NIWA CI(Continuous Integration). Proponuje wysłać zapytanie do NIWA czy mogliby nam udostępnić serwer CI, najlepiej Jenkins, jak i doświadczonego administratora - czyli osobę która zna tematykę CI jak i Jenkinsa jak własną kieszeń.
+* Adam: IMHO na dzień dzisiejszy jesteśmy zbyt roz-forkowani. Powinniśmy ASAP usprawnić proces synchronizacji z głównym repozytorium. 
+
+
+
 ## 2015.03.04 20:00
 Format: Telekonferencja / Skype  
 Czas: 2h  
