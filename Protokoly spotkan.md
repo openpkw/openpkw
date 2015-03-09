@@ -9,6 +9,7 @@ Aktualna ankieta w doodle http://doodle.com/bq2q2fbyimu6kwxk
 * Adam: IMHO na dzień dzisiejszy jesteśmy zbyt roz-forkowani. Powinniśmy ASAP usprawnić proces synchronizacji z głównym repozytorium.
 * Sebastian: Kilka spraw deweloperskich (powitanie członków zespołu deweloperskiego, postępy w prototypie).
 * Sebastian: Dodanie wszystkich biorących udział w OpenPKW jako członków organizacji openpkw w GitHubie oraz jako kontrybutorów w projekcie openpkw/openpkw.
+* Rafał R. Dołaczy do Konferencji Pan Robert. 
 
 ## 2015.03.04 20:00
 Format: Telekonferencja / Skype  
