@@ -1,79 +1,102 @@
 package pl.openpkw.poc.webapp;
 
-
 public class Formularz {
 
 	@FormElement(page = 1, x = 200, y = 750)
+	@RequestParameter("kodGminy")
 	private String kodTerytorialnyGminy;
-	
+
 	@FormElement(page = 1, x = 480, y = 750)
+	@RequestParameter("nrObwodu")
 	private String numerObwoduGlosowania;
-	
+
 	@FormElement(page = 1, x = 220, y = 720)
+	@RequestParameter("adresOKW")
 	private String siedzibaObwodowejKomisjiWyborczej;
-	
+
 	@FormElement(page = 1, x = 110, y = 695)
+	@RequestParameter("gmina")
 	private String gminaDzielnica;
-	
+
 	@FormElement(page = 1, x = 250, y = 695)
+	@RequestParameter
 	private String powiat;
-	
+
 	@FormElement(page = 1, x = 440, y = 695)
+	@RequestParameter
 	private String wojewodztwo;
-	
+
 	@FormElement(page = 1, x = 290, y = 645)
+	@RequestParameter
 	private String dataGlosowania;
-	
+
 	@FormElement(page = 1, x = 220, y = 625)
+	@RequestParameter
 	private String dzienMiesiacGlosowania;
 
 	@FormElement(page = 1, x = 305, y = 625)
+	@RequestParameter
 	private String rokGlosowania;
 
 	@FormElement(page = 1, x = 365, y = 625)
+	@RequestParameter
 	private String godzinaGlosowaniaOd;
-	
+
 	@FormElement(page = 1, x = 460, y = 625)
+	@RequestParameter
 	private String godzinaGlosowaniaDo;
-	
+
 	@FormElement(page = 1, x = 420, y = 585)
-	private String pole_I_1;
-	
+	@RequestParameter
+	private String pole_1_1;
+
 	@FormElement(page = 1, x = 420, y = 535)
-	private String pole_I_2;
-	
+	@RequestParameter
+	private String pole_1_2;
+
 	@FormElement(page = 1, x = 420, y = 505)
-	private String pole_I_3;
-	
+	@RequestParameter
+	private String pole_1_3;
+
 	@FormElement(page = 1, x = 420, y = 475)
-	private String pole_I_4;
-	
+	@RequestParameter
+	private String pole_1_4;
+
 	@FormElement(page = 1, x = 420, y = 425)
-	private String pole_I_5;
-	
+	@RequestParameter
+	private String pole_1_5;
+
 	@FormElement(page = 1, x = 420, y = 368)
-	private String pole_I_6;
-	
+	@RequestParameter
+	private String pole_1_6;
+
 	@FormElement(page = 1, x = 420, y = 310)
-	private String pole_I_7;
-	
+	@RequestParameter
+	private String pole_1_7;
+
 	@FormElement(page = 1, x = 420, y = 280)
-	private String pole_I_8;
-	
+	@RequestParameter
+	private String pole_1_8;
+
 	@FormElement(page = 1, x = 420, y = 251)
-	private String pole_I_8a;
-	
+	@RequestParameter
+	private String pole_1_8a;
+
 	@FormElement(page = 1, x = 420, y = 222)
-	private String pole_I_8b;
-	
+	@RequestParameter
+	private String pole_1_8b;
+
 	@FormElement(page = 1, x = 420, y = 193)
-	private String pole_I_8c;
-	
+	@RequestParameter
+	private String pole_1_8c;
+
 	@FormElement(page = 1, x = 420, y = 164)
-	private String pole_I_8d;
-	
+	@RequestParameter
+	private String pole_1_8d;
+
 	@FormElement(page = 1, x = 420, y = 135)
-	private String pole_I_8e;
+	@RequestParameter
+	private String pole_1_8e;
 
 	public String getKodTerytorialnyGminy() {
 		return kodTerytorialnyGminy;
@@ -131,126 +154,6 @@ public class Formularz {
 		this.dataGlosowania = dataGlosowania;
 	}
 
-	public String getGodzinaGlosowaniaOd() {
-		return godzinaGlosowaniaOd;
-	}
-
-	public void setGodzinaGlosowaniaOd(String godzinaGlosowaniaOd) {
-		this.godzinaGlosowaniaOd = godzinaGlosowaniaOd;
-	}
-
-	public String getGodzinaGlosowaniaDo() {
-		return godzinaGlosowaniaDo;
-	}
-
-	public void setGodzinaGlosowaniaDo(String godzinaGlosowaniaDo) {
-		this.godzinaGlosowaniaDo = godzinaGlosowaniaDo;
-	}
-
-	public String getPole_I_1() {
-		return pole_I_1;
-	}
-
-	public void setPole_I_1(String pole_I_1) {
-		this.pole_I_1 = pole_I_1;
-	}
-
-	public String getPole_I_2() {
-		return pole_I_2;
-	}
-
-	public void setPole_I_2(String pole_I_2) {
-		this.pole_I_2 = pole_I_2;
-	}
-
-	public String getPole_I_3() {
-		return pole_I_3;
-	}
-
-	public void setPole_I_3(String pole_I_3) {
-		this.pole_I_3 = pole_I_3;
-	}
-
-	public String getPole_I_4() {
-		return pole_I_4;
-	}
-
-	public void setPole_I_4(String pole_I_4) {
-		this.pole_I_4 = pole_I_4;
-	}
-
-	public String getPole_I_5() {
-		return pole_I_5;
-	}
-
-	public void setPole_I_5(String pole_I_5) {
-		this.pole_I_5 = pole_I_5;
-	}
-
-	public String getPole_I_6() {
-		return pole_I_6;
-	}
-
-	public void setPole_I_6(String pole_I_6) {
-		this.pole_I_6 = pole_I_6;
-	}
-
-	public String getPole_I_7() {
-		return pole_I_7;
-	}
-
-	public void setPole_I_7(String pole_I_7) {
-		this.pole_I_7 = pole_I_7;
-	}
-
-	public String getPole_I_8() {
-		return pole_I_8;
-	}
-
-	public void setPole_I_8(String pole_I_8) {
-		this.pole_I_8 = pole_I_8;
-	}
-
-	public String getPole_I_8a() {
-		return pole_I_8a;
-	}
-
-	public void setPole_I_8a(String pole_I_8a) {
-		this.pole_I_8a = pole_I_8a;
-	}
-
-	public String getPole_I_8b() {
-		return pole_I_8b;
-	}
-
-	public void setPole_I_8b(String pole_I_8b) {
-		this.pole_I_8b = pole_I_8b;
-	}
-
-	public String getPole_I_8c() {
-		return pole_I_8c;
-	}
-
-	public void setPole_I_8c(String pole_I_8c) {
-		this.pole_I_8c = pole_I_8c;
-	}
-
-	public String getPole_I_8d() {
-		return pole_I_8d;
-	}
-
-	public void setPole_I_8d(String pole_I_8d) {
-		this.pole_I_8d = pole_I_8d;
-	}
-
-	public String getPole_I_8e() {
-		return pole_I_8e;
-	}
-
-	public void setPole_I_8e(String pole_I_8e) {
-		this.pole_I_8e = pole_I_8e;
-	}
-
 	public String getDzienMiesiacGlosowania() {
 		return dzienMiesiacGlosowania;
 	}
@@ -267,6 +170,123 @@ public class Formularz {
 		this.rokGlosowania = rokGlosowania;
 	}
 
-	
-	
+	public String getGodzinaGlosowaniaOd() {
+		return godzinaGlosowaniaOd;
+	}
+
+	public void setGodzinaGlosowaniaOd(String godzinaGlosowaniaOd) {
+		this.godzinaGlosowaniaOd = godzinaGlosowaniaOd;
+	}
+
+	public String getGodzinaGlosowaniaDo() {
+		return godzinaGlosowaniaDo;
+	}
+
+	public void setGodzinaGlosowaniaDo(String godzinaGlosowaniaDo) {
+		this.godzinaGlosowaniaDo = godzinaGlosowaniaDo;
+	}
+
+	public String getPole_1_1() {
+		return pole_1_1;
+	}
+
+	public void setPole_1_1(String pole_1_1) {
+		this.pole_1_1 = pole_1_1;
+	}
+
+	public String getPole_1_2() {
+		return pole_1_2;
+	}
+
+	public void setPole_1_2(String pole_1_2) {
+		this.pole_1_2 = pole_1_2;
+	}
+
+	public String getPole_1_3() {
+		return pole_1_3;
+	}
+
+	public void setPole_1_3(String pole_1_3) {
+		this.pole_1_3 = pole_1_3;
+	}
+
+	public String getPole_1_4() {
+		return pole_1_4;
+	}
+
+	public void setPole_1_4(String pole_1_4) {
+		this.pole_1_4 = pole_1_4;
+	}
+
+	public String getPole_1_5() {
+		return pole_1_5;
+	}
+
+	public void setPole_1_5(String pole_1_5) {
+		this.pole_1_5 = pole_1_5;
+	}
+
+	public String getPole_1_6() {
+		return pole_1_6;
+	}
+
+	public void setPole_1_6(String pole_1_6) {
+		this.pole_1_6 = pole_1_6;
+	}
+
+	public String getPole_1_7() {
+		return pole_1_7;
+	}
+
+	public void setPole_1_7(String pole_1_7) {
+		this.pole_1_7 = pole_1_7;
+	}
+
+	public String getPole_1_8() {
+		return pole_1_8;
+	}
+
+	public void setPole_1_8(String pole_1_8) {
+		this.pole_1_8 = pole_1_8;
+	}
+
+	public String getPole_1_8a() {
+		return pole_1_8a;
+	}
+
+	public void setPole_1_8a(String pole_1_8a) {
+		this.pole_1_8a = pole_1_8a;
+	}
+
+	public String getPole_1_8b() {
+		return pole_1_8b;
+	}
+
+	public void setPole_1_8b(String pole_1_8b) {
+		this.pole_1_8b = pole_1_8b;
+	}
+
+	public String getPole_1_8c() {
+		return pole_1_8c;
+	}
+
+	public void setPole_1_8c(String pole_1_8c) {
+		this.pole_1_8c = pole_1_8c;
+	}
+
+	public String getPole_1_8d() {
+		return pole_1_8d;
+	}
+
+	public void setPole_1_8d(String pole_1_8d) {
+		this.pole_1_8d = pole_1_8d;
+	}
+
+	public String getPole_1_8e() {
+		return pole_1_8e;
+	}
+
+	public void setPole_1_8e(String pole_1_8e) {
+		this.pole_1_8e = pole_1_8e;
+	}
 }

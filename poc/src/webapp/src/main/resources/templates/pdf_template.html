@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Wybory prezydenta Rzeczypospolitej Polskiej</title>
 	<link rel="stylesheet" href="styles.css"/>
 </head>
@@ -14,52 +15,52 @@
 		</tr>
 		<tr>
 			<td colspan="2" style="text-align: right">Kod terytorialny gminy<br/>(dzielnicy w m. st. Warszawie)</td>
-			<td></td>
+			<td>${form.kodTerytorialnyGminy}</td>
 			<td colspan="2" style="text-align:right">Nr obwodu głosowania</td>
-			<td></td>
+			<td>${form.numerObwoduGlosowania}</td>
 		</tr>
 		<tr>
 			<td colspan="2" style="text-align: right">Siedziba Obwodowej Komisji Wyborczej (adres)</td>
-			<td colspan="4"></td>
+			<td colspan="4">${form.numerObwoduGlosowania}</td>
 		</tr>
 		<tr>
 			<td style="text-align: right">Gmina/Dzielnica</td>
-			<td></td>
+			<td>${form.gminaDzielnica}</td>
 			<td style="text-align: right">Powiat</td>
-			<td></td>
-			<td style="text-align: right">Wojew�dztwo</td>
-			<td></td>
+			<td>${form.powiat}</td>
+			<td style="text-align: right">Województwo</td>
+			<td>${form.wojewodztwo}</td>
 		</tr>
 	</table>
 
     <h2>Protokół wyników głosowania w obwodzie<br />
         w wyborach Prezydenta Rzeczypospolitej Polskiej<br />
-		przeprowadzonego w dniu ...</h2>
-	<p>Głosowanie rozpoczęło się w dniu ... 	
-	o godz. ... i trwało do godz.
+		przeprowadzonego w dniu ${form.dataGlosowania}.</h2>
+	<p>Głosowanie rozpoczęło się w dniu ${form.dzienMiesiacGlosowania} 20${form.rokGlosowania} r. 	
+	o godz. ${form.godzinaGlosowaniaOd} i trwało do godz. ${form.godzinaGlosowaniaDo}
 	.</p>
 
 	<h3>I. Rozliczenie kart do głosowania</h3>
 	<table class="with_borders">
 		<tr>
-			<td class="lp">1.</td>
-			<td>Liczba wyborców uprawnionych do głosowania <i>(umieszczonych w spisie, z uwzględnieniem dodatkowych formularzy)</i> w chwili zakończenia głosowania</td>
-			<td>...</td>
+			<td class="lp" style="width:40px">1.</td>
+			<td style="width: 400px">Liczba wyborców uprawnionych do głosowania <i>(umieszczonych w spisie, z uwzględnieniem dodatkowych formularzy)</i> w chwili zakończenia głosowania</td>
+			<td style="width: 100px">${form.pole_1_1}</td>
 		</tr>
 		<tr>
 			<td class="lp">2.</td>
 			<td>Komisja otrzymała kart do głosowania</td>
-			<td>...</td>
+			<td>${form.pole_1_2}</td>
 		</tr>
 		<tr>
 			<td class="lp">3.</td>
 			<td>Nie wykorzystano kart do głosowania</td>
-			<td>...</td>
+			<td>${form.pole_1_3}</td>
 		</tr>
 		<tr>
 			<td class="lp">4.</td>
 			<td>Liczba wyborców, którym wydano karty do głosowania</td>
-			<td>...</td>
+			<td>${form.pole_1_4}</td>
 		</tr>
 		<tr class="uwaga">
 			<td colspan="3" class="uwaga"><b>Uwaga!</b> Suma liczb z pkt. 3 i 4 powinna być równa liczbie z pkt. 2. Jeśli tak nie jest, przypuszczalną przyczynę należy omówić w pkt. 9.</td>
@@ -67,49 +68,49 @@
 		<tr>
 			<td class="lp">5.</td>
 			<td>Liczba wyborców głosujących przez pełnomocnika <i>(liczba kart do głosowania wydanych na podstawie otrzymanych przez komisję aktów pełnomocnictwa)</i></td>
-			<td>...</td>
+			<td>${form.pole_1_5}</td>
 		</tr>
 		<tr class="uwaga"><td colspan="3"></td></tr>
 		<tr>
 			<td class="lp">6.</td>
 			<td>Liczba wyborców głosujących na podstawie zaświadczenia o prawie do głosowania</td>
-			<td>...</td>
+			<td>${form.pole_1_6}</td>
 		</tr>
 		<tr class="uwaga"><td colspan="3"></td></tr>
 		<tr>
 			<td class="lp">7.</td>
 			<td>Liczba wyborców, którym wysłano pakiety wyborcze</td>
-			<td>...</td>
+			<td>${form.pole_1_7}</td>
 		</tr>
 		<tr>
 			<td class="lp">8.</td>
 			<td>Liczba otrzymanych kopert zwrotnych</td>
-			<td>...</td>
+			<td>${form.pole_1_8}</td>
 		</tr>
 		<tr>
 			<td class="lp">8a.</td>
 			<td>Liczba kopert zwrotnych, w których nie było oświadczenia o osobistym i tajnym oddaniu głosu</td>
-			<td>...</td>
+			<td>${form.pole_1_8a}</td>
 		</tr>
 		<tr>
 			<td class="lp">8b.</td>
 			<td>Liczba kopert zwrotnych, w których oświadczenie nie było podpisane przez wyborcę</td>
-			<td>...</td>
+			<td>${form.pole_1_8b}.</td>
 		</tr>
 		<tr>
 			<td class="lp">8c.</td>
 			<td>Liczba kopert zwrotnych, w których nie było koperty na kartę do głosowania</td>
-			<td>...</td>
+			<td>${form.pole_1_8c}</td>
 		</tr>
 		<tr>
 			<td class="lp">8d.</td>
 			<td>Liczba kopert zwrotnych, w których znajdowała się niezaklejona koperta na kartę do głosowania</td>
-			<td>...</td>
+			<td>${form.pole_1_8d}</td>
 		</tr>
 		<tr>
 			<td class="lp">8e.</td>
 			<td>Liczba kopert na kartę do głosowania wrzuconych do urny</td>
-			<td>...</td>
+			<td>${form.pole_1_8e}</td>
 		</tr>
 		<tr class="uwaga">
 			<td colspan="3"><b>Uwaga!</b> Liczba z pkt. 8 nie może być większa od liczby z pkt. 7. Suma liczba z pkt. 8a–8e nie może być większa od liczby z pkt. 8.</td>
@@ -210,7 +211,7 @@
 		</tr>
 		<tr>
 			<td class="lp">10.</td>
-			<td>...></td>
+			<td>...</td>
 			<td>...</td>
 		</tr>
 		<tr>
