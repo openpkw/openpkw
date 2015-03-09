@@ -9,14 +9,16 @@
 	<script src="jscript/KlkParser.js"></script>
 	<script src="jscript/PollingStationData.js"></script>
 	<script src="jscript/ValidationRules.js"></script> 
-	<script src="jscript/Sending.js"></script> 
+	<script src="jscript/Sending.js"></script>
+	<script src="jscript/Printing.js"></script> 
 	<script src="jscript/OpenPKW.js"></script>
 </head>
 <body>
 
-<form>
+<form id="theForm" action="PdfServlet" method="post">
 	<h1>Kalkulator OpenPKW - Komisja Obwodowa</h1>
-	<input type="hidden" id="liczba_wyborcow" value="">
+	<input type="hidden" id="liczba_wyborcow" name="liczbaWyborcow" value="">
+	<input type="hidden" id="pdfMethod" name="pdfMethod"/>
 	<p class="info">Wersja 10. Dwie wersje drukowania formularza jako pliku PDF. Zalążek generowania formularza w formacie XML. Taksonomia geograficzna pobierana jest ze słownika <a href="teryt.json">TERYT</a>. Dane komisji obwodowych pobierane pobierane są z <a href="106101.xml">pliku KLK</a> (na razie tylko dla Łodzi).</p>
 	<div>
 		<label for="wyborWojewodztwa" style="width: 150px; display: inline-block">Wybierz wyjewództwo</label>
@@ -32,8 +34,8 @@
 	</div>		
 	<button type="button" onClick="validate()">Sprawdź formularz</button>
 	<button type="button" onClick="send()">Wyślij formularz</button>
-	<button type="button" onClick="location.href='/openpkw/PdfServlet?version_1'">Wydrukuj formularz (metoda 1)</button>
-	<button type="button" onClick="location.href='/openpkw/PdfServlet?version_2'">Wydrukuj formularz (metoda 2)</button>
+	<button type="button" onClick="printForm(1); return false;">Wydrukuj formularz (metoda 1)</button>
+	<button type="button" onClick="printForm(2); return false;">Wydrukuj formularz (metoda 2)</button>
 	<hr>
 
 	<table class="with_borders">
@@ -42,21 +44,21 @@
 		</tr>
 		<tr>
 			<td colspan="2" style="text-align: right">Kod terytorialny gminy<br/>(dzielnicy w m. st. Warszawie)</td>
-			<td><input type="text" id="kodGminy" style="width:50px"></td>
+			<td><input type="text" id="kodGminy" name="kodGminy" style="width:50px"></td>
 			<td colspan="2" style="text-align:right">Nr obwodu głosowania</td>
-			<td><input type="text" id="nrObwodu"></td>
+			<td><input type="text" id="nrObwodu" name="nrObwodu"></td>
 		</tr>
 		<tr>
 			<td colspan="2" style="text-align: right">Siedziba Obwodowej Komisji Wyborczej (adres)</td>
-			<td colspan="4"><input type="text" id="adresOKW" style="width: 493px"></td>
+			<td colspan="4"><input type="text" id="adresOKW" name="adresOKW" style="width: 493px"></td>
 		</tr>
 		<tr>
 			<td style="text-align: right">Gmina/Dzielnica</td>
-			<td><input type="text" id="gmina" style="width: 130px"></td>
+			<td><input type="text" id="gmina" name="gmina" style="width: 130px"></td>
 			<td style="text-align: right">Powiat</td>
-			<td><input type="text" id="powiat" style="width: 130px"></td>
+			<td><input type="text" id="powiat" name="powiat" style="width: 130px"></td>
 			<td style="text-align: right">Województwo</td>
-			<td><input type="text" id="wojewodztwo" style="width: 180px"></td>
+			<td><input type="text" id="wojewodztwo" name="wojewodztwo" style="width: 180px"></td>
 		</tr>
 	</table>
 
@@ -64,33 +66,33 @@
         w wyborach Prezydenta Rzeczypospolitej Polskiej<br />
 		przeprowadzonego w dniu <input type="text" id="dataGlosowania" style="width: 400px"></h2>
 	<p>Głosowanie rozpoczęło się w dniu
-	<input type="text" id="dzienGlosowania">
+	<input type="text" id="dzienGlosowania" name="dzienGlosowania">
 	o godz.
-	<input type="text" id="godzinaGlosowaniaOd" style="width: 50px">
+	<input type="text" id="godzinaGlosowaniaOd" name="godzinaGlosowaniaOd" style="width: 50px">
 	i trwało do godz.
-	<input type="text" id="godzinaGlosowaniaDo" style="width: 50px">.</p>
+	<input type="text" id="godzinaGlosowaniaDo" name="godzinaGlosowaniaDo" style="width: 50px">.</p>
 
 	<h3>I. Rozliczenie kart do głosowania</h3>
 	<table class="with_borders">
 		<tr>
 			<td class="lp">1.</td>
 			<td>Liczba wyborców uprawnionych do głosowania <i>(umieszczonych w spisie, z uwzględnieniem dodatkowych formularzy)</i> w chwili zakończenia głosowania</td>
-			<td><input type="text" id="liczba_1_1"></td>
+			<td><input type="text" id="liczba_1_1" name="liczba_1_1"></td>
 		</tr>
 		<tr>
 			<td class="lp">2.</td>
 			<td>Komisja otrzymała kart do głosowania</td>
-			<td><input type="text" id="liczba_1_2"></td>
+			<td><input type="text" id="liczba_1_2" name="liczba_1_2"></td>
 		</tr>
 		<tr>
 			<td class="lp">3.</td>
 			<td>Nie wykorzystano kart do głosowania</td>
-			<td><input type="text" id="liczba_1_3"></td>
+			<td><input type="text" id="liczba_1_3" name="liczba_1_3"></td>
 		</tr>
 		<tr>
 			<td class="lp">4.</td>
 			<td>Liczba wyborców, którym wydano karty do głosowania</td>
-			<td><input type="text" id="liczba_1_4"></td>
+			<td><input type="text" id="liczba_1_4" name="liczba_1_4"></td>
 		</tr>
 		<tr class="uwaga">
 			<td colspan="3" class="uwaga"><b>Uwaga!</b> Suma liczb z pkt. 3 i 4 powinna być równa liczbie z pkt. 2. Jeśli tak nie jest, przypuszczalną przyczynę należy omówić w pkt. 9.</td>

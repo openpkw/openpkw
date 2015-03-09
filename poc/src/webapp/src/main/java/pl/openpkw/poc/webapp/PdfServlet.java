@@ -1,6 +1,7 @@
 package pl.openpkw.poc.webapp;
 
 import java.io.IOException;
+
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -9,22 +10,18 @@ import javax.servlet.http.HttpServletResponse;
 public class PdfServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
-	public PdfServlet() {
-		// TODO Auto-generated constructor stub
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		handle(request, response);
+
 	}
 
-	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		int version = 1;
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		handle(request, response);
+	}
 
-		if (request.getQueryString() != null && request.getQueryString().contains("version_1")) {
-			version = 1;
-		}
-
-		if (request.getQueryString() != null && request.getQueryString().contains("version_2")) {
-			version = 2;
-		}
-		
-		if (version == 1) {
+	private void handle(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		String method = request.getParameter("pdfMethod");
+		if (method.equals("1")) {
 			generate_v1(request, response);
 		} else {
 			generate_v2(request, response);
@@ -36,16 +33,16 @@ public class PdfServlet extends HttpServlet {
 		byte[] pdfDocument = generator.generatePdf();
 		response.getOutputStream().write(pdfDocument);
 	}
-	
-	private void generate_v2(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException  {
+
+	private void generate_v2(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		PdfGenerator generator = new PdfGenerator();
 		Formularz f = new Formularz();
-		f.setKodTerytorialnyGminy("180801");
-		f.setNumerObwoduGlosowania("5");
-		f.setSiedzibaObwodowejKomisjiWyborczej("Gimnazjum Miejskie im. W³adys³awa Jagie³³y, Le¿ajsk ul. Sk³odowskiej 8, 37-300 Le¿ajsk");
-		f.setGminaDzielnica("m. Le¿ajsk");
-		f.setPowiat("le¿ajski");
-		f.setWojewodztwo("podkarpackie");
+		f.setKodTerytorialnyGminy(request.getParameter("kodGminy"));
+		f.setNumerObwoduGlosowania(request.getParameter("nrObwodu"));
+		f.setSiedzibaObwodowejKomisjiWyborczej(request.getParameter("adresOKW"));
+		f.setGminaDzielnica(request.getParameter("gmina"));
+		f.setPowiat(request.getParameter("powiat"));
+		f.setWojewodztwo(request.getParameter("wojewodztwo"));
 		f.setDataGlosowania("15 marca 2015 r.");
 		f.setDzienMiesiacGlosowania("15 marca");
 		f.setRokGlosowania("15");
@@ -66,10 +63,5 @@ public class PdfServlet extends HttpServlet {
 		f.setPole_I_8e("pole_I_8e");
 		byte[] pdfDocument = generator.stamp(f);
 		response.getOutputStream().write(pdfDocument);
-	}
-
-
-	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		// TODO Auto-generated method stub
 	}
 }
