@@ -6,12 +6,14 @@ import java.io.FileOutputStream;
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
 import java.net.URL;
+import java.net.URLConnection;
 import java.nio.file.FileSystems;
 import java.nio.file.Files;
 import java.nio.file.StandardCopyOption;
 import java.util.Calendar;
 
 import org.apache.velocity.VelocityContext;
+import org.jboss.vfs.VirtualFile;
 import org.xhtmlrenderer.pdf.ITextRenderer;
 
 import com.lowagie.text.Element;
@@ -49,12 +51,14 @@ public class PdfGenerator {
 
 			ByteArrayOutputStream os = new ByteArrayOutputStream();
 			ITextRenderer renderer = new ITextRenderer();
-			URL fontsFolderName = this.getClass().getResource("/fonts");
-			File fontsFolder = new File(fontsFolderName.toURI());
 
+			File fontsFolder = getFontsFolder();
+			System.out.println(fontsFolder);
 			String fontsFolderPath = fontsFolder.getAbsolutePath() + File.separatorChar;
-			String[] fontNames = fontsFolder.list();
-			for (String fontName : fontNames) {
+			System.out.println(fontsFolderPath);
+			String[] getFontFileNames = fontsFolder.list();
+
+			for (String fontName : getFontFileNames) {
 				String fontFullPath = fontsFolderPath + fontName;
 				System.out.println(fontFullPath);
 				renderer.getFontResolver().addFont(fontFullPath, BaseFont.IDENTITY_H, BaseFont.EMBEDDED);
@@ -75,6 +79,24 @@ public class PdfGenerator {
 			return result;
 		} catch (Exception ex) {
 			throw new RuntimeException("Failed to generate a PDF document: " + ex.getMessage(), ex);
+		}
+	}
+
+	private File getFontsFolder() {
+		try {
+			URL fontsFolderName = this.getClass().getResource("/fonts");
+			File fontsFolder = null;
+			if (fontsFolderName.getProtocol().equals("vfs")) {
+				URLConnection conn = fontsFolderName.openConnection();
+				VirtualFile vf = (VirtualFile) conn.getContent();
+				fontsFolder = vf.getPhysicalFile();
+			} else {
+				fontsFolder = new File(fontsFolderName.toURI());
+			}
+
+			return fontsFolder;
+		} catch (Exception ex) {
+			throw new RuntimeException("Failed to get a list of font file names: " + ex.getMessage(), ex);
 		}
 	}
 
@@ -113,9 +135,11 @@ public class PdfGenerator {
 
 	private void print(PdfStamper stamper, String text, int page, int x, int y) throws Exception {
 		PdfContentByte content = stamper.getUnderContent(page);
-		BaseFont bf = BaseFont.createFont("/fonts/arial.ttf", BaseFont.IDENTITY_H, BaseFont.EMBEDDED);
+		File fontsFolder = getFontsFolder();
+		String timesFontPath = fontsFolder.getAbsolutePath() + File.separatorChar + "times.ttf";
+		BaseFont bf = BaseFont.createFont(timesFontPath, BaseFont.IDENTITY_H, BaseFont.EMBEDDED);
 		Font f = new Font(bf, 10);
-		f.setColor(255, 0, 0);
+		f.setColor(0, 0, 0);
 		Phrase p = new Phrase(text, f);
 		ColumnText.showTextAligned(content, Element.ALIGN_LEFT, p, x, y, 0);
 	}
