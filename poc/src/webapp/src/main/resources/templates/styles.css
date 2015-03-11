@@ -1,0 +1,88 @@
+body {
+	font-size: 16px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+	font-size: 24px;
+	border-bottom: 1px solid red;
+}
+
+h2 {
+	text-align: center;	
+	font-size: 16px;
+	text-transform: uppercase;
+}
+
+h3 {
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+h4 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+body {
+	width: 650px;
+	font-size: 13px;
+	font-family: "Times New Roman";
+}
+
+.uwaga {
+	color: #203030;
+	font-size: 12px;
+}
+
+input {
+	color: blue;
+}
+
+textarea {
+	color: blue;
+}
+
+table {
+	width: 100%;
+	background-color: white;
+}
+
+.with_borders {
+	border: 1px solid #a0a0a0;
+	border-collapse: collapse;
+}
+
+tr {
+	height: 40px;
+}
+
+table.with_borders tr {
+	border: 1px solid #a0a0a0;
+}
+
+tr.uwaga {
+	border: none;
+	background-color: white;
+}
+
+td {
+	padding: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+table.with_borders td {
+	border: 1px solid #a0a0a0;
+}
+
+.lp {
+	text-align: center;
+}
+
+.info {
+	text-align: center;
+}

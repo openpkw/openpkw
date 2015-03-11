@@ -1,0 +1,37 @@
+Install JBoss
+
+* Download JBoss: wget http://download.jboss.org/jbossas/7.1/jboss-as-7.1.1.Final/jboss-as-7.1.1.Final.tar.gz -P ~/install
+* Extract JBoss: sudo tar -zxvf ~/install/jboss-as-7.1.1.Final.tar.gz -C /opt
+* Create link: sudo ln /opt/jboss-as-7.1.1.Final/ /opt/jboss -s
+* Create JBoss user: sudo useradd -r jboss -d /opt/jboss-as-7.1.1.Final
+* Change JBoss directory ownership: sudo chown jboss: -R /opt/jboss-as-7.1.1.Final
+* Enable access to JBoss interface: sudo vi /opt/jboss/standalone/configuration/standalone.xml
+
+    <interface name="management">
+      <any-ipv4-address/>
+    </interface>
+    <interface name="public">
+      <any-ipv4-address/>
+    </interface>
+
+* Set up JBoss to run as a service:
+sudo cp /opt/jboss/bin/init.d/jboss-as-standalone.sh /etc/init.d/jboss
+
+sudo chmod +x /etc/init.d/jboss
+
+sudo mkdir /etc/jboss-as
+
+* Create JBoss config file:
+sudo vi /etc/jboss-as/jboss-as.conf
+
+    JBOSS_HOME=/opt/jboss-as-7.1.1.Final
+    JBOSS_CONSOLE_LOG=/var/log/jboss-console.log
+    JBOSS_USER=jboss
+
+* Start JBoss: sudo service jboss start
+* Another mysterkous step: sudo chkconfig jboss on
+* Create admin user for JBoss
+
+    cd /opt/jboss/bin
+    sudo ./add-user.sh
+* Using Amazon Console open inbound port 9990 

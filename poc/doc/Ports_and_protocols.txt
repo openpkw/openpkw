@@ -1,0 +1,17 @@
+Name: sc-ec2-openpkw
+Public DNS: ec2-54-173-158-97.compute-1.amazonaws.com
+Public IP: 54.173.158.97
+- httpd
+- tomcat
+- jboss
+
+
+Name: sc-ec2-openpkw-go
+ec2-54-165-238-83.compute-1.amazonaws.com
+54.165.238.83
+
+ec2-54-173-148-112.compute-1.amazonaws.com
+54.173.148.112
+- go server
+- go agent
+

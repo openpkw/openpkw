@@ -1,0 +1,104 @@
+<save>
+	<step>0</step>
+	<header>
+		<id_intytucji>2d69cde5-86d0-ba5f-100d-dc34f1c2038b</id_intytucji>
+		<id_okregu>d08e6eeac932e8796a5871dff2718a2c</id_okregu>
+		<instJNS>180801</instJNS>
+		<nazwaRadyDopel>BURMISTRZA LEŻAJSKA</nazwaRadyDopel>
+		<jns_kod>180801</jns_kod>
+		<nrObwodu>5</nrObwodu>
+		<siedziba>Gimnazjum Miejskie im. Władysława Jagiełły, Leżajsk ul. Skłodowskiej 8, 37-300 Leżajsk</siedziba>
+		<nameGmina>m. Leżajsk</nameGmina>
+		<namePowiat>leżajski</namePowiat>
+		<nameWojewództwo>podkarpackie</nameWojewództwo>
+		<ORGANNAZWA1>BURMISTRZA</ORGANNAZWA1>
+		<Data_rozpoczecia>16-11-2014</Data_rozpoczecia>
+		<godz_rozpoczecia>07:00</godz_rozpoczecia>
+		<godz_zakonczenia>21:00</godz_zakonczenia>
+		<nrOkregu>1</nrOkregu>
+		<KalVersion>v. 2.0.0.98</KalVersion>
+		<system>Microsoft Windows NT 6.2.9200.0</system>
+		<defklk>
+			<klk name="20141116/000000/SMD-WBP" data_wersji="2014-07-25 10:00" />
+			<klk name="20141116/000000/SMD-180801-5" data_wersji="2014-11-15 14:05:42" />
+			<klk name="20141116/000000/SMD-WBP/Walidacja" data_wersji="2014-11-03 10:00" />
+			<klk name="20141116/000000/SMD-WBP-180801-1" data_wersji="2014-11-15 18:27:40" />
+			<klk name="20141116/000000/SMD-180801" data_wersji="2014-11-16 02:31:42" />
+		</defklk>
+	</header>
+	<form>
+		<field_1_1>1462</field_1_1>
+		<field_1_1a>1462</field_1_1a>
+		<field_1_1b>0</field_1_1b>
+		<field_1_2>1165</field_1_2>
+		<field_1_3>513</field_1_3>
+		<field_1_4>652</field_1_4>
+		<field_1_4a>652</field_1_4a>
+		<field_1_4b>0</field_1_4b>
+		<field_1_5>0</field_1_5>
+		<field_1_6>0</field_1_6>
+		<field_1_7>0</field_1_7>
+		<field_1_7a>0</field_1_7a>
+		<field_1_7b>0</field_1_7b>
+		<field_1_7c>0</field_1_7c>
+		<field_1_7d>0</field_1_7d>
+		<field_1_7e>0</field_1_7e>
+		<field_1_8>652</field_1_8>
+		<field_1_8a>0</field_1_8a>
+		<field_1_9>0</field_1_9>
+		<field_1_10>652</field_1_10>
+		<field_1_11>21</field_1_11>
+		<field_1_11a>3</field_1_11a>
+		<field_1_11b>18</field_1_11b>
+		<field_1_11c>0</field_1_11c>
+		<field_1_12>631</field_1_12>
+		<Kandydtat_1 id_kand="58c78f03-29cc-1dbd-19a0-0b365c90ee0d">325</Kandydtat_1>
+		<Kandydtat_2 id_kand="551d88a5-1dc5-5ff9-656e-b057168c03a2">306</Kandydtat_2>
+		<razem>631</razem>
+		<field_3_14>brak uwag</field_3_14>
+		<field_3_15>brak uwag</field_3_15>
+		<field_3_16>brak uwag</field_3_16>
+		<field_3_17>brak zarządzeń</field_3_17>
+		<field_3_18>brak uwag</field_3_18>
+		<field_3_19>brak zarzutów</field_3_19>
+		<field_3_20>brak uwag</field_3_20>
+		<skresleni/>
+	</form>
+	<komisja_sklad awa_kod="20141116/000000/SMD" obwod_nr="5" jns_kod="180801" data_wersji="2014-11-15 14:05:42" min_l_wymaganych="6" l_wymaganych="9">
+		<osoba imie="Paulina" imie2="Zuzanna" nazwisko="Sander" funkcja="PRZEWODNICZĄCY" obecny="True" />
+		<osoba imie="Przemys%c5%82aw" imie2="" nazwisko="Jodkowski" funkcja="ZASTĘPCA" obecny="True" />
+		<osoba imie="Jadwiga" imie2="" nazwisko="Szumilas" funkcja="CZŁONEK" obecny="True" />
+		<osoba imie="Aleksandra" imie2="" nazwisko="%c4%86wik%c5%82a" funkcja="CZŁONEK" obecny="True" />
+		<osoba imie="Beata" imie2="Maria" nazwisko="Ko%c5%82odziej" funkcja="CZŁONEK" obecny="True" />
+		<osoba imie="Ewa" imie2="" nazwisko="Trojan" funkcja="CZŁONEK" obecny="True" />
+		<osoba imie="Helena" imie2="Maria" nazwisko="Maczuga" funkcja="CZŁONEK" obecny="True" />
+		<osoba imie="Wojciech" imie2="Micha%c5%82" nazwisko="Kielar" funkcja="CZŁONEK" obecny="True" />
+		<osoba imie="Magdalena" imie2="Iwona" nazwisko="Duda" funkcja="CZŁONEK" obecny="True" />
+	</komisja_sklad>
+	<status>wysłany</status>
+	<codeBar>
+		<code>1010111101101010001101001001000010101010010001010001001010000101100010101000100101100101001001000101100010101000101001010000101101001001001001001000010101010100001000101001101001001100100101000101001010010001000100101001010001100100101000101001010001001000101001000101001101001001101000101010010001010110001100010101010111101</code>
+		<id>AB91-23F8-D6F0-3B59-70BE-0184-E020-0BC1</id>
+	</codeBar>
+	<report/>
+	<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+		<SignedInfo>
+			<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+			<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+			<Reference URI="">
+				<Transforms>
+					<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+					<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+				</Transforms>
+				<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+				<DigestValue>1LfylhBVgl7vNUhgwA5f8mzduz8=</DigestValue>
+			</Reference>
+		</SignedInfo>
+		<SignatureValue>Uw/Sq3Agbz7Lc4+qJRG6NqBXEiZvbEdPe+7yuSYbh1nOcB6RtEVNwJwgjPMEa0VcMy9qC+Z5jpZRgGnBE/HRzYDuZs6PJIRBQqD83dYbqML4jVSZFWzDmQi33cYVpxZoXj6k0t24jdcvwrJyCTGwAIIjw2HOaIh9Tcfv3bwAzHFkLqTcJ9F+Th4UjJ4nu+1slzd5jie3CjB0k1cchgx8jt9D46jbebvfVUJ4PFSh75zZUSDh+a/8aLOe2yoNAI8yfpPy6wVj4hZrC5tlUgyHRNZqhNYsNfe3kY8+SPKsxXWGkrx0mpyey/pkMrLg4+YSyn4oZYWpwgrNfKSY2OH4zg==</SignatureValue>
+		<KeyInfo>
+			<X509Data>
+				<X509Certificate>MIID7TCCAtWgAwIBAgIBADANBgkqhkiG9w0BAQUFADCBiDELMAkGA1UEBhMCUEwxFDASBgNVBAgTC01hem93aWVja2llMREwDwYDVQQHEwhXYXJzemF3YTEMMAoGA1UEChMDS0JXMRAwDgYDVQQLEwdLQlcgWklXMQ4wDAYDVQQDEwVLQldDQTEgMB4GCSqGSIb3DQEJARYRa29udGFrdEBuYWJpbm8ucGwwHhcNMTQxMTE0MDcxMjUxWhcNMTQxMjA5MDcxMjUxWjCBmDELMAkGA1UEBhMCUEwxFDASBgNVBAgMC01hem93aWVja2llMREwDwYDVQQHDAhXYXJzemF3YTEMMAoGA1UECgwDS0JXMScwJQYDVQQLDB4yMDE0MTExNi8wMDAwMDAvU01ELTE4MDgwMS1QLTUxFzAVBgNVBAMMDlBhdWxpbmEgU2FuZGVyMRAwDgYJKoZIhvcNAQkBFgEtMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtPOIuamVnTefsimKhfaDvaIJDREsrhWDoEwmu+1rZ1cjhdA/IyJ74y4U1E8jsF3ibx96eY6WB6TmNRKEdvenZPKZOTJEyT3IqynRQ69jBUL/EKhUcd8R+07tJ3x4bPeSl5Kc8UAm0fui9QtzY0fVgua9cUnx0SGLYzIY/4StgleYf241fPlJmELBFRt9fzNumqA9WfUF+1KnnU/pe0VFxjGNuR7n56RT+wU3nbehO88Pt95Wnwnj+E9G6G82dsySLN7QcbgINivUwRi1/0ZCJB7nJuChROAv+qMM3gNGgKE+qptUGMgE0FnvUTzb3uOgAN5xbHZ3aOXb+TPEtCLVrwIDAQABo1AwTjAdBgNVHQ4EFgQU/tjNJviQiu4zkmCL7NVjUhJp9AIwHwYDVR0jBBgwFoAUBUMM+73PyXL8RWeCM9dwCt4B8f0wDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOCAQEAu1NL+otaEKTecPOooa4t4zPH4S8fAucSuWD39AtM6Rd5gkx+ZLHsxssLTX//YxOjJZpxGONgl0IzilKp4UG5kvAVAovhZpz1ieYH5rCXWfWXPQXcYOxYi9HjPzPqdFk8OjmFP0q6iMsU0irkEdal6rZDoChLnRM7QCCwLl3l1extfVLznpAPXaVYrz0dYb+oLWAgt9PuJKHWiRDVRBRHyCwmm9A+y5XsBWGIVotKlTtBJmJdOaZkivD980xMlkx8zkKRaO1CONz714mQrIGK3oMzhpNLIGnYTWvZHW4qbt8L1fFE22OG5Y4DShEHb/EZweclUOlfZVbK4Zm/D/qVmA==</X509Certificate>
+			</X509Data>
+		</KeyInfo>
+	</Signature>
+</save>

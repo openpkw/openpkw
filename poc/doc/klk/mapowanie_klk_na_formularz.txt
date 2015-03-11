@@ -1,0 +1,38 @@
+Kod terytorialny gminy /kalkulator/akcja/jednostka/jednostka/jednostka/@jnsKod
+Nr obwodu głosowania /kalkulator/akcja/jednostka/jednostka/jednostka/obwod/@obdNumer
+Siedziba Obwodowej Komisji Wyborczej /kalkulator/akcja/jednostka/jednostka/jednostka/obwod/obdAdres
+Gmina /kalkulator/akcja/jednostka/jednostka/jednostka/jnsNazwa
+Powiat ?
+Województwo /kalkulator/akcja/jednostka/jednostka/jnsNazwa
+Okręgowa Komisja Wyborcza nr /kalkulator/akcja/jednostka/jednostka/jednostka/organWyborczy/slownik/wpis[@typ="NUMER"]
+w /kalkulator/akcja/jednostka/jednostka/jednostka/organWyborczy/slownik/wpis[@typ="MIEJSCOWNIK_W"]
+
+<kalkulator dataUtworzenia="2010-05-21 16:50:22" jnsKod="106101" klkTyp="OBD">
+	<akcja awaId="" awaTyp="G" gweData1="2010-06-20" gweData2="" gweTura="1" id="1" wbyKod="20100620/000000/PZT">
+		<wbyNazwa>Wybory Prezydenta Rzeczypospolitej Polskiej zarządzone na dzień 20 czerwca 2010 r. - UWAGA DANE TESTOWE</wbyNazwa>
+		<jednostka jnsId="000000" jnsKod="000000" jnsTeren="3" jnsTyp="KR">
+			<jnsNazwa>Polska</jnsNazwa>
+			<organWyborczy ozrKod="000000" ozrMiejscowosc="Warszawa" ozrNazwa="Państwowa Komisja Wyborcza" ozrTyp="PKW">
+				<slownik>
+					<wpis typ="MIEJSCOWNIK_W">w Warszawie</wpis>
+					<wpis typ="MIANOWNIK_SIEDZIBA">Warszawa</wpis>
+					<wpis typ="PARAMETR.SYG.PREFIX">ZPOW-640-</wpis>
+					<wpis typ="PARAMETR.SYG.POSTFIX">/10</wpis>
+				</slownik>
+			</organWyborczy>
+			<jednostka jnsId="100000" jnsKod="100000" jnsTeren="3" jnsTyp="WO">
+				<jnsNazwa>łódzkie</jnsNazwa>
+				<jednostka jnsId="106101" jnsKod="106101" jnsTeren="1" jnsTyp="GM">
+					<jnsNazwa>Łódź</jnsNazwa>
+					<organWyborczy ozrKod="OLD1" ozrMiejscowosc="Łódź" ozrNazwa="Okręgowa Komisja Wyborcza nr 14 z siedzibą w Łodzi" ozrTyp="OKW_PZT">
+						<slownik>
+							<wpis typ="MIANOWNIK_SIEDZIBA">Łódź</wpis>
+							<wpis typ="MIEJSCOWNIK_W">w Łodzi</wpis>
+							<wpis typ="NUMER">14</wpis>
+							<wpis typ="ZASIEG_DZIALANIA">miasto na prawach powiatu: Łódź</wpis>
+						</slownik>
+					</organWyborczy>
+					<obwod obdId="106101-1" obdNumer="1" obdTeren="1" obdTyp="P">
+						<obdAdres>Studio Consulting sp. z o.o., ul. Romanowska 55F</obdAdres>
+						<obwodPzt oodId="106101-1-PZT-000000" oodLiczbaWyborcow="828"/>
+					</obwod>
