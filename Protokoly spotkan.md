@@ -3,13 +3,8 @@
 
 ## Agenda na najbliższe spotkanie 
 Zbieramy tematy na najbliższą telekonferencje. Będę wdzięczny za akceptację schematu **autor: treść**  
-Aktualna ankieta w doodle http://doodle.com/bq2q2fbyimu6kwxk
-* Adam: Strona internetowa openpkw.pl, grupa jak i Fanpage na Facebook nadal milczą, proponuje nawiązać kontakt z administratorami i wyznaczyć 2-3 osoby odpowiedzialne za ową domenę.
-* Adam: Tematyka NIWA CI(Continuous Integration). Proponuje wysłać zapytanie do NIWA czy mogliby nam udostępnić serwer CI, najlepiej Jenkins, jak i doświadczonego administratora - czyli osobę która zna tematykę CI jak i Jenkinsa jak własną kieszeń.
-* Adam: IMHO na dzień dzisiejszy jesteśmy zbyt roz-forkowani. Powinniśmy ASAP usprawnić proces synchronizacji z głównym repozytorium.
-* Sebastian: Kilka spraw deweloperskich (powitanie członków zespołu deweloperskiego, postępy w prototypie).
-* Sebastian: Dodanie wszystkich biorących udział w OpenPKW jako członków organizacji openpkw w GitHubie oraz jako kontrybutorów w projekcie openpkw/openpkw.
-* Rafał R. Dołaczy do Konferencji Pan Robert. 
+Aktualna ankieta w doodle http://doodle.com/n4gs893r2efcyx36
+
 
 ## Aktualna lista ToDo 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] opis**. 
@@ -20,8 +15,14 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 * 2015.03.11-5: [Przemek] Analiza zależności pomiędzy modułami specyfikacji PW2. 
 * 2015.03.11-6: [Adam] Odpowiedzialny za protokół. 
 * 2015.03.11-7: [Adam] Odnowi kontakt z NIWA. Tematyka infrastruktury i CI. Postara się zaprosić kogoś z NIWA do udziału w jednej z nadchodzących telekonferencji. 
+* 2015.03.11-8: [Sebastian] Integracja POC kalkulatora w organizacji [OpenPKW@github](https://github.com/openpkw/openpkw) tzn. nowe repo + merge 
 * 2015.03.04-1: [Tomasz Woźniak] Zdobyć w PKW informację gdzie i kiedy generowany jest barcode dla formularzy? Czy w kalkulatorze czy na serwerze.
 * 2015.03.04-2: [Tomasz Woźniak] Zdobyć w PKW wszystkie pliki KLK na najbliższe wybory prezydenckie. Zarówno pliki KLK zawierające dane komisji i listy kandydatów, jak i pliki KLK z regułami walidacji.
+* 2015.03.04-3: [Sebastian] Zaimplementować zapis formularza do formatu XML.
+  * WiP
+* 2015.03.04-4: [Sebastian] Zaimplementować generowanie sumy MD5.
+* 2015.03.04-5: [Sebastian] Zaimplementować generowanie PDFa z wypełnionym formularzem i barcodem (współpraca wszystkich zainteresowanych bardzo mile widziana).
+  * WiP
 
 ## 2015.03.11 20:00 [Work in progress by Adam]
 Format: Telekonferencja / Skype  
@@ -37,10 +38,22 @@ Obecni: Adam Kowalewski, Sebastian Celejewski, Michał Grabkowski, Tomasz Woźni
   * Prywatne serwery - Adam prywatny, płatny serwer Ubuntu dostępny 24/7 jako opcjonalny fallback
 * Continuous Integration 
   * Sebastian i Błażej posiadają praktyczne doświadczenie w tematyce CI. 
-  
+* Adam: Strona internetowa openpkw.pl, grupa jak i Fanpage na Facebook nadal milczą, proponuje nawiązać kontakt z administratorami i wyznaczyć 2-3 osoby odpowiedzialne za ową domenę.
+  * ToDo 2015.03.11-3 dla Tomka + Adam i Sebastian jako administratorzy grupy na FB.
+* Adam: Tematyka NIWA CI(Continuous Integration). Proponuje wysłać zapytanie do NIWA czy mogliby nam udostępnić serwer CI, najlepiej Jenkins, jak i doświadczonego administratora - czyli osobę która zna tematykę CI jak i Jenkinsa jak własną kieszeń.
+  * ToDo 2015.03.11-7 dla Adama 
+* Adam: IMHO na dzień dzisiejszy jesteśmy zbyt roz-forkowani. Powinniśmy ASAP usprawnić proces synchronizacji z głównym repozytorium.
+  * Adam i Sebastian otrzymali prawa administracji w centralnym github. ToDo 2015.03.11-4 i 2015.03.11-8
+* Sebastian: Kilka spraw deweloperskich (powitanie członków zespołu deweloperskiego, postępy w prototypie).
+  * DONE 
+* Sebastian: Dodanie wszystkich biorących udział w OpenPKW jako członków organizacji openpkw w GitHubie oraz jako kontrybutorów w projekcie openpkw/openpkw.
+* Rafał R. Dołaczy do Konferencji Pan Robert. 
+
+
 **Zrealizowane elementy ToDo**
-
-
+* Rafał: Porozmawiać z kierownikiem referatu informatyki z Ursynowa w celu nawiązania stosunków i spytania na jakie problemy techniczne możemy się natknąć.
+  * DONE + ToDo 2015.03.11-1
+* Adam + Przemek: Proces komisji obwodowej [dokumentacja/procesy/] (dokumentacja/procesy/) + wprowadzenie do [draw.io](http://www.draw.io)
 
 ## 2015.03.04 20:00
 Format: Telekonferencja / Skype  
