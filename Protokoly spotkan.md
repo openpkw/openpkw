@@ -30,6 +30,7 @@ Czas: 90min
 Obecni: Adam Kowalewski, Sebastian Celejewski, Michał Grabkowski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Błażej Ksycki
 
 **Dyskusja**
+* Aktualne prototypy PW2 dostarczone przez PKW/KBW. 
 * Reguły walidacji i ich reprezentacja w plikach KLK
 * Aktualna infrastruktura OpenPKW
   * Chmura Azure - Tomek pracuje nad serwerami (aktualnie 2 max 6)
