@@ -11,6 +11,37 @@ Aktualna ankieta w doodle http://doodle.com/bq2q2fbyimu6kwxk
 * Sebastian: Dodanie wszystkich biorących udział w OpenPKW jako członków organizacji openpkw w GitHubie oraz jako kontrybutorów w projekcie openpkw/openpkw.
 * Rafał R. Dołaczy do Konferencji Pan Robert. 
 
+## Aktualna lista ToDo 
+Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] opis**. 
+* 2015.03.11-1: [Robert, Rafał] Gromadzenie informacji na temat reguł walidacji i plików  KLK. 
+* 2015.03.11-2: [Tomasz Woźniak] Konfiguracja wirtualnej maszyny w Azure tak aby administratorzy CI mogli skonfigurować środowisko. 
+* 2015.03.11-3: [Tomasz Woźniak] Kontakt z Magdą w celu reaktywacji zespołu PR jak i aktualizacji strony http://openpkw.pl
+* 2015.03.11-4: [Adam, Przemek] Konsolidacja dokumentacji do głównego repozytorium. 
+* 2015.03.11-5: [Przemek] Analiza zależności pomiędzy modułami specyfikacji PW2. 
+* 2015.03.11-6: [Adam] Odpowiedzialny za protokół. 
+* 2015.03.11-7: [Adam] Odnowi kontakt z NIWA. Tematyka infrastruktury i CI. Postara się zaprosić kogoś z NIWA do udziału w jednej z nadchodzących telekonferencji. 
+* 2015.03.04-1: [Tomasz Woźniak] Zdobyć w PKW informację gdzie i kiedy generowany jest barcode dla formularzy? Czy w kalkulatorze czy na serwerze.
+* 2015.03.04-2: [Tomasz Woźniak] Zdobyć w PKW wszystkie pliki KLK na najbliższe wybory prezydenckie. Zarówno pliki KLK zawierające dane komisji i listy kandydatów, jak i pliki KLK z regułami walidacji.
+
+## 2015.03.11 20:00 [Work in progress by Adam]
+Format: Telekonferencja / Skype  
+Czas: 90min  
+Obecni: Adam Kowalewski, Sebastian Celejewski, Michał Grabkowski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Błażej Ksycki
+
+**Dyskusja**
+* Reguły walidacji i ich reprezentacja w plikach KLK
+* Aktualna infrastruktura OpenPKW
+  * Chmura Azure - Tomek pracuje nad serwerami (aktualnie 2 max 6)
+  * Chmura Amazon - Sebastian ma darmowy pakiet, mało pamięci RAM, brak stałego IP 
+  * NIWA - Adam 
+  * Prywatne serwery - Adam prywatny, płatny serwer Ubuntu dostępny 24/7 jako opcjonalny fallback
+* Continuous Integration 
+  * Sebastian i Błażej posiadają praktyczne doświadczenie w tematyce CI. 
+  
+**Zrealizowane elementy ToDo**
+
+
+
 ## 2015.03.04 20:00
 Format: Telekonferencja / Skype  
 Czas: 2h  
