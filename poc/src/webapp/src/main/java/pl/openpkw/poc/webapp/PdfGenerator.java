@@ -53,14 +53,12 @@ public class PdfGenerator {
 			ITextRenderer renderer = new ITextRenderer();
 
 			File fontsFolder = getFontsFolder();
-			System.out.println(fontsFolder);
 			String fontsFolderPath = fontsFolder.getAbsolutePath() + File.separatorChar;
-			System.out.println(fontsFolderPath);
 			String[] getFontFileNames = fontsFolder.list();
 
 			for (String fontName : getFontFileNames) {
 				String fontFullPath = fontsFolderPath + fontName;
-				System.out.println(fontFullPath);
+				System.out.println("Loading font " + fontFullPath);
 				renderer.getFontResolver().addFont(fontFullPath, BaseFont.IDENTITY_H, BaseFont.EMBEDDED);
 			}
 
@@ -110,11 +108,13 @@ public class PdfGenerator {
 			for (Field f : fields) {
 				f.setAccessible(true);
 				Annotation a = f.getAnnotation(FormElement.class);
-				String text = (String) f.get(formularz);
-				int page = ((FormElement) a).page();
-				int x = ((FormElement) a).x();
-				int y = ((FormElement) a).y();
-				print(pdfStamper, text, page, x, y);
+				if (a != null) {
+					String text = (String) f.get(formularz);
+					int page = ((FormElement) a).page();
+					int x = ((FormElement) a).x();
+					int y = ((FormElement) a).y();
+					print(pdfStamper, text, page, x, y);
+				}
 			}
 
 			for (int i = 1; i <= pdfReader.getNumberOfPages(); i++) {

@@ -10,6 +10,7 @@
 	<script src="jscript/PollingStationData.js"></script>
 	<script src="jscript/ValidationRules.js"></script> 
 	<script src="jscript/Sending.js"></script>
+	<script src="jscript/FillingWithExampleData.js"></script>
 	<script src="jscript/Printing.js"></script> 
 	<script src="jscript/OpenPKW.js"></script>
 </head>
@@ -19,7 +20,7 @@
 	<h1>Kalkulator OpenPKW - Komisja Obwodowa</h1>
 	<input type="hidden" id="pole_wyborcow" name="liczbaWyborcow" value="">
 	<input type="hidden" id="pdfMethod" name="pdfMethod"/>
-	<p class="info">Wersja 10. Dwie wersje drukowania formularza jako pliku PDF. Zalążek generowania formularza w formacie XML. Taksonomia geograficzna pobierana jest ze słownika <a href="teryt.json">TERYT</a>. Dane komisji obwodowych pobierane pobierane są z <a href="106101.xml">pliku KLK</a> (na razie tylko dla Łodzi).</p>
+	<p class="info">Wersja 11. Wypełnienie formularza przykładowymi danymi. Dwie wersje drukowania formularza jako pliku PDF. Zalążek generowania formularza w formacie XML. Taksonomia geograficzna pobierana jest ze słownika <a href="teryt.json">TERYT</a>. Dane komisji obwodowych pobierane pobierane są z <a href="106101.xml">pliku KLK</a> (na razie tylko dla Łodzi).</p>
 	<div>
 		<label for="wyborWojewodztwa" style="width: 150px; display: inline-block">Wybierz wyjewództwo</label>
 		<select id="wyborWojewodztwa" style="width: 200px"></select>
@@ -32,6 +33,9 @@
 		<label for="wyborOKW" style="width: 120px; display: inline-block">Wybierz obwód</label>
 		<select id="wyborOKW" style="width: 300px"></select>
 	</div>		
+	<hr>
+	<button type="button" onClick="fill()">Wypełnij formularz przykładowymi danymi</button>
+	<hr>
 	<button type="button" onClick="validate()">Sprawdź formularz</button>
 	<button type="button" onClick="send()">Wyślij formularz</button>
 	<button type="button" onClick="printForm(1); return false;">Wydrukuj formularz (metoda 1)</button>
@@ -156,12 +160,12 @@
 		<tr>
 			<td class="lp">9.</td>
 			<td>Liczba kart wyjętych z urny</td>
-			<td><input type="text" id="pole_1_9"></td>
+			<td><input type="text" id="pole_2_9" name="pole_2_9"></td>
 		</tr>
 		<tr>
 			<td class="lp">9a.</td>
 			<td>w tym liczba kart wyjętych z kopert na kartę do głosowania</td>
-			<td><input type="text" id="pole_1_9a"></td>
+			<td><input type="text" id="pole_2_9a" name="pole_2_9a"></td>
 		</tr>
 		<tr class="uwaga">
 			<td colspan="3"><b>Uwaga!</b> Liczba z pkt. 9 pomniejszona o liczbę z pkt. 9a powinna być równa liczbie z pkt. 4. Dodatkowo liczba z pkt. 9a nie powinna być większa od liczby z pkt. 8e; jeśli tak nie jest &mdash; przypuszczalną przyczynę należy opisać w punkcie 16.</td>
@@ -169,12 +173,12 @@
 		<tr>
 			<td class="lp">10.</td>
 			<td>Liczba kart nieważnych <i>(innych niż urzędowo ustalone lub nieopatrzonych pieczęcią obwodowej komisji wyborczej)</i></td>
-			<td><input type="text" id="pole_1_10"></td>
+			<td><input type="text" id="pole_2_10" name="pole_2_10"></td>
 		</tr>
 		<tr>
 			<td class="lp">11.</td>
 			<td>Liczba kart ważnych</td>
-			<td><input type="text" id="pole_1_11"></td>
+			<td><input type="text" id="pole_2_11" name="pole_2_11"></td>
 		</tr>
 		<tr class="uwaga">
 			<td colspan="3"><b>Uwaga!</b> Suma liczb z pkt. 10 i 11 <b>musi</b> być równa liczbie z pkt. 9. Jeśli w pkt. 10 liczba jest większa niż 0, przyczynę należy opisać w pkt. 17.</td>
@@ -182,12 +186,12 @@
 		<tr>
 			<td class="lp">12.</td>
 			<td>Liczba głosów nieważnych <i>(z kart ważnych)</i></td>
-			<td><input type="text" id="pole_1_12"></td>
+			<td><input type="text" id="pole_2_12" name="pole_2_12"></td>
 		</tr>
 		<tr>
 			<td class="lp">13.</td>
 			<td>Liczba głosów ważnych oddanych łącznie na wszystkich kandydatów <i>(z kart ważnych)</i></td>
-			<td><input type="text" id="pole_1_13"></td>
+			<td><input type="text" id="pole_2_13" name="pole_2_13"></td>
 		</tr>
 		<tr class="uwaga">
 			<td colspan="3"><b>Uwaga!</b> Suma liczb z pkt. 12 i 13 <b>musi</b> być równa liczbie z pkt. 11.</td>
@@ -198,58 +202,58 @@
 	<table class="with_borders">
 		<tr>
 			<td class="lp">1.</td>
-			<td><input type="text" id="kandydat_1_imiona_i_nazwisko" style="width: 300px"></td>
-			<td><input type="text" id="kandydat_1_liczba_glosow_waznych"></td>
+			<td><input type="text" id="kandydat_1_imiona_i_nazwisko" name="kandydat_1_imiona_i_nazwisko" style="width: 300px"></td>
+			<td><input type="text" id="kandydat_1_liczba_glosow_waznych" name="kandydat_1_liczba_glosow_waznych"></td>
 		</tr>
 		<tr>
 			<td class="lp">2.</td>
-			<td><input type="text" id="kandydat_2_imiona_i_nazwisko" style="width: 300px"></td>
-			<td><input type="text" id="kandydat_2_liczba_glosow_waznych"></td>
+			<td><input type="text" id="kandydat_2_imiona_i_nazwisko" name="kandydat_2_imiona_i_nazwisko"style="width: 300px"></td>
+			<td><input type="text" id="kandydat_2_liczba_glosow_waznych" name="kandydat_2_liczba_glosow_waznych"></td>
 		</tr>
 		<tr>
 			<td class="lp">3.</td>
-			<td><input type="text" id="kandydat_3_imiona_i_nazwisko" style="width: 300px"></td>
-			<td><input type="text" id="kandydat_3_liczba_glosow_waznych"></td>
+			<td><input type="text" id="kandydat_3_imiona_i_nazwisko" name="kandydat_3_imiona_i_nazwisko"style="width: 300px"></td>
+			<td><input type="text" id="kandydat_3_liczba_glosow_waznych" name="kandydat_3_liczba_glosow_waznych"></td>
 		</tr>
 		<tr>
 			<td class="lp">4.</td>
-			<td><input type="text" id="kandydat_4_imiona_i_nazwisko" style="width: 300px"></td>
-			<td><input type="text" id="kandydat_4_liczba_glosow_waznych"></td>
+			<td><input type="text" id="kandydat_4_imiona_i_nazwisko" name="kandydat_4_imiona_i_nazwisko"style="width: 300px"></td>
+			<td><input type="text" id="kandydat_4_liczba_glosow_waznych" name="kandydat_4_liczba_glosow_waznych"></td>
 		</tr>
 		<tr>
 			<td class="lp">5.</td>
-			<td><input type="text" id="kandydat_5_imiona_i_nazwisko" style="width: 300px"></td>
-			<td><input type="text" id="kandydat_5_liczba_glosow_waznych"></td>
+			<td><input type="text" id="kandydat_5_imiona_i_nazwisko" name="kandydat_5_imiona_i_nazwisko"style="width: 300px"></td>
+			<td><input type="text" id="kandydat_5_liczba_glosow_waznych" name="kandydat_5_liczba_glosow_waznych"></td>
 		</tr>
 		<tr>
 			<td class="lp">6.</td>
-			<td><input type="text" id="kandydat_6_imiona_i_nazwisko" style="width: 300px"></td>
-			<td><input type="text" id="kandydat_6_liczba_glosow_waznych"></td>
+			<td><input type="text" id="kandydat_6_imiona_i_nazwisko" name="kandydat_6_imiona_i_nazwisko"style="width: 300px"></td>
+			<td><input type="text" id="kandydat_6_liczba_glosow_waznych" name="kandydat_6_liczba_glosow_waznych"></td>
 		</tr>
 		<tr>
 			<td class="lp">7.</td>
-			<td><input type="text" id="kandydat_7_imiona_i_nazwisko" style="width: 300px"></td>
-			<td><input type="text" id="kandydat_7_liczba_glosow_waznych"></td>
+			<td><input type="text" id="kandydat_7_imiona_i_nazwisko" name="kandydat_7_imiona_i_nazwisko"style="width: 300px"></td>
+			<td><input type="text" id="kandydat_7_liczba_glosow_waznych" name="kandydat_7_liczba_glosow_waznych"></td>
 		</tr>
 		<tr>
 			<td class="lp">8.</td>
-			<td><input type="text" id="kandydat_8_imiona_i_nazwisko" style="width: 300px"></td>
-			<td><input type="text" id="kandydat_8_liczba_glosow_waznych"></td>
+			<td><input type="text" id="kandydat_8_imiona_i_nazwisko" name="kandydat_8_imiona_i_nazwisko"style="width: 300px"></td>
+			<td><input type="text" id="kandydat_8_liczba_glosow_waznych" name="kandydat_8_liczba_glosow_waznych"></td>
 		</tr>
 		<tr>
 			<td class="lp">9.</td>
-			<td><input type="text" id="kandydat_9_imiona_i_nazwisko" style="width: 300px"></td>
-			<td><input type="text" id="kandydat_9_liczba_glosow_waznych"></td>
+			<td><input type="text" id="kandydat_9_imiona_i_nazwisko" name="kandydat_9_imiona_i_nazwisko"style="width: 300px"></td>
+			<td><input type="text" id="kandydat_9_liczba_glosow_waznych" name="kandydat_9_liczba_glosow_waznych"></td>
 		</tr>
 		<tr>
 			<td class="lp">10.</td>
-			<td><input type="text" id="kandydat_10_imiona_i_nazwisko" style="width: 300px"></td>
-			<td><input type="text" id="kandydat_10_liczba_glosow_waznych"></td>
+			<td><input type="text" id="kandydat_10_imiona_i_nazwisko" name="kandydat_10_imiona_i_nazwisko"style="width: 300px"></td>
+			<td><input type="text" id="kandydat_10_liczba_glosow_waznych" name="kandydat_10_liczba_glosow_waznych"></td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
 			<td style="text-align: right"><b>Razem:</b></td>
-			<td><input type="text" id="suma_glosow_waznych"></td>
+			<td><input type="text" id="suma_glosow_waznych" name="suma_glosow_waznych"></td>
 		</tr>
 	</table>	
 
@@ -264,7 +268,7 @@
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
-			<td><textarea id="uwagi_15" rows="5" cols="90"></textarea>
+			<td><textarea id="uwagi_3_15" name="uwagi_3_15" rows="5" cols="90"></textarea>
 		</tr>
 
 		<tr>
@@ -273,7 +277,7 @@
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
-			<td><textarea id="uwagi_16" rows="5" cols="90"></textarea>
+			<td><textarea id="uwagi_3_16" name="uwagi_3_16" rows="5" cols="90"></textarea>
 		</tr>
 
 		<tr>
@@ -282,7 +286,7 @@
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
-			<td><textarea id="uwagi_17" rows="5" cols="90"></textarea>
+			<td><textarea id="uwagi_3_17" name="uwagi_3_17" rows="5" cols="90"></textarea>
 		</tr>
 
 		<tr>
@@ -291,7 +295,7 @@
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
-			<td><textarea id="uwagi_18" rows="5" cols="90"></textarea>
+			<td><textarea id="uwagi_3_18" name="uwagi_3_18" rows="5" cols="90"></textarea>
 		</tr>
 		<tr>
 			<td>19.</td>
@@ -299,7 +303,7 @@
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
-			<td><textarea id="uwagi_19" rows="5" cols="90"></textarea>
+			<td><textarea id="uwagi_3_19" name="uwagi_3_19" rows="5" cols="90"></textarea>
 		</tr>
 		<tr>
 			<td>20.</td>
@@ -307,7 +311,7 @@
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
-			<td><textarea id="uwagi_20" rows="5" cols="90"></textarea>
+			<td><textarea id="uwagi_3_20" name="uwagi_3_20" rows="5" cols="90"></textarea>
 		</tr>
 		<tr>
 			<td>21.</td>
@@ -315,7 +319,7 @@
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
-			<td><textarea id="uwagi_21" rows="5" cols="90"></textarea>
+			<td><textarea id="uwagi_3_21" name="uwagi_3_21" rows="5" cols="90"></textarea>
 		</tr>
 	</table>
 
@@ -324,39 +328,39 @@
 	<table class="without_borders">
 		<tr>
 			<td class="lp">1.</td>
-			<td><input type="text" label="czlonek_01" style="width: 350px"></td>
+			<td><input type="text" id="czlonek_01" name="czlonek_01" style="width: 350px"></td>
 		</tr>
 		<tr>
 			<td class="lp">2.</td>
-			<td><input type="text" label="czlonek_02" style="width: 350px"></td>
+			<td><input type="text" id="czlonek_02" name="czlonek_02" style="width: 350px"></td>
 		</tr>
 		<tr>
 			<td class="lp">3.</td>
-			<td><input type="text" label="czlonek_03" style="width: 350px"></td>
+			<td><input type="text" id="czlonek_03" name="czlonek_03" style="width: 350px"></td>
 		</tr>
 		<tr>
 			<td class="lp">4.</td>
-			<td><input type="text" label="czlonek_04" style="width: 350px"></td>
+			<td><input type="text" id="czlonek_04" name="czlonek_04" style="width: 350px"></td>
 		</tr>
 		<tr>
 			<td class="lp">5.</td>
-			<td><input type="text" label="czlonek_05" style="width: 350px"></td>
+			<td><input type="text" id="czlonek_05" name="czlonek_05" style="width: 350px"></td>
 		</tr>
 		<tr>
 			<td class="lp">6.</td>
-			<td><input type="text" label="czlonek_06" style="width: 350px"></td>
+			<td><input type="text" id="czlonek_06" name="czlonek_06" style="width: 350px"></td>
 		</tr>
 		<tr>
 			<td class="lp">7.</td>
-			<td><input type="text" label="czlonek_07" style="width: 350px"></td>
+			<td><input type="text" id="czlonek_07" name="czlonek_07" style="width: 350px"></td>
 		</tr>
 		<tr>
 			<td class="lp">8.</td>
-			<td><input type="text" label="czlonek_08" style="width: 350px"></td>
+			<td><input type="text" id="czlonek_08" name="czlonek_08" style="width: 350px"></td>
 		</tr>
 		<tr>
 			<td class="lp">9.</td>
-			<td><input type="text" label="czlonek_09" style="width: 350px"></td>
+			<td><input type="text" id="czlonek_09" name="czlonek_09" style="width: 350px"></td>
 		</tr>
 	</table>
 </form>

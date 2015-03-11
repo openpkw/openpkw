@@ -51,13 +51,17 @@ public class PdfServlet extends HttpServlet {
 			try {
 				f.setAccessible(true);
 				Annotation a = f.getAnnotation(RequestParameter.class);
-				String parameterName = ((RequestParameter) a).value();
-				if (parameterName.equals("")) {
-					parameterName = f.getName();
+				if (a != null) {
+					String parameterName = ((RequestParameter) a).value();
+					if (parameterName.equals("")) {
+						parameterName = f.getName();
+					}
+					String parameterValue = request.getParameter(parameterName);
+					if (parameterValue != null) {
+						parameterValue = new String(parameterValue.getBytes("iso-8859-1"), "UTF-8");
+					}
+					f.set(formularz, parameterValue);
 				}
-				String parameterValue = request.getParameter(parameterName);
-				parameterValue = new String(parameterValue.getBytes("iso-8859-1"), "UTF-8");
-				f.set(formularz, parameterValue);
 			} catch (Exception ex) {
 				throw new RuntimeException("Failed to set field " + f.getName() + ": " + ex.getMessage(), ex);
 			}

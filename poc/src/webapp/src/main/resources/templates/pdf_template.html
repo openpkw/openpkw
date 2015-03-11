@@ -43,7 +43,7 @@
 	<h3>I. Rozliczenie kart do głosowania</h3>
 	<table class="with_borders">
 		<tr>
-			<td class="lp" style="width:40px">1.</td>
+			<td class="lp" style="width:20px">1.</td>
 			<td style="width: 400px">Liczba wyborców uprawnionych do głosowania <i>(umieszczonych w spisie, z uwzględnieniem dodatkowych formularzy)</i> w chwili zakończenia głosowania</td>
 			<td style="width: 100px">${form.pole_1_1}</td>
 		</tr>
@@ -122,14 +122,14 @@
 
 	<table class="with_borders">
 		<tr>
-			<td class="lp">9.</td>
+			<td class="lp" style="width: 20px">9.</td>
 			<td>Liczba kart wyjętych z urny</td>
-			<td>...</td>
+			<td style="width: 100px">${form.pole_2_9}</td>
 		</tr>
 		<tr>
 			<td class="lp">9a.</td>
 			<td>w tym liczba kart wyjętych z kopert na kartę do głosowania</td>
-			<td>...</td>
+			<td>${form.pole_2_9a}</td>
 		</tr>
 		<tr class="uwaga">
 			<td colspan="3"><b>Uwaga!</b> Liczba z pkt. 9 pomniejszona o liczbę z pkt. 9a powinna być równa liczbie z pkt. 4. Dodatkowo liczba z pkt. 9a nie powinna być większa od liczby z pkt. 8e; jeśli tak nie jest &mdash; przypuszczalną przyczynę należy opisać w punkcie 16.</td>
@@ -137,12 +137,12 @@
 		<tr>
 			<td class="lp">10.</td>
 			<td>Liczba kart nieważnych <i>(innych niż urzędowo ustalone lub nieopatrzonych pieczęcią obwodowej komisji wyborczej)</i></td>
-			<td>...</td>
+			<td>${form.pole_2_10}</td>
 		</tr>
 		<tr>
 			<td class="lp">11.</td>
 			<td>Liczba kart ważnych</td>
-			<td>...</td>
+			<td>${form.pole_2_11}</td>
 		</tr>
 		<tr class="uwaga">
 			<td colspan="3"><b>Uwaga!</b> Suma liczb z pkt. 10 i 11 <b>musi</b> być równa liczbie z pkt. 9. Jeśli w pkt. 10 liczba jest większa niż 0, przyczynę należy opisać w pkt. 17.</td>
@@ -150,12 +150,12 @@
 		<tr>
 			<td class="lp">12.</td>
 			<td>Liczba głosów nieważnych <i>(z kart ważnych)</i></td>
-			<td>...</td>
+			<td>${form.pole_2_12}</td>
 		</tr>
 		<tr>
 			<td class="lp">13.</td>
 			<td>Liczba głosów ważnych oddanych łącznie na wszystkich kandydatów <i>(z kart ważnych)</i></td>
-			<td>...</td>
+			<td>${form.pole_2_13}</td>
 		</tr>
 		<tr class="uwaga">
 			<td colspan="3"><b>Uwaga!</b> Suma liczb z pkt. 12 i 13 <b>musi</b> być równa liczbie z pkt. 11.</td>
@@ -165,59 +165,59 @@
 	<h4>14. Na poszczególnych kandydatów na Prezydenta Rzeczypospolitej Polskiej oddano następujące liczby głosów ważnych:</h4>
 	<table class="with_borders">
 		<tr>
-			<td class="lp">1.</td>
-			<td>...</td>
-			<td>...</td>
+			<td class="lp" style="width:20px">1.</td>
+			<td>${form.kandydat_1_imiona_i_nazwisko}</td>
+			<td style="width: 100px">${form.kandydat_1_liczba_glosow_waznych}</td>
 		</tr>
 		<tr>
 			<td class="lp">2.</td>
-			<td>...</td>
-			<td>...</td>
+			<td>${form.kandydat_2_imiona_i_nazwisko}</td>
+			<td>${form.kandydat_2_liczba_glosow_waznych}</td>
 		</tr>
 		<tr>
 			<td class="lp">3.</td>
-			<td>...</td>
-			<td>...</td>
+			<td>${form.kandydat_3_imiona_i_nazwisko}</td>
+			<td>${form.kandydat_3_liczba_glosow_waznych}</td>
 		</tr>
 		<tr>
 			<td class="lp">4.</td>
-			<td>...</td>
-			<td>...</td>
+			<td>${form.kandydat_4_imiona_i_nazwisko}</td>
+			<td>${form.kandydat_4_liczba_glosow_waznych}</td>
 		</tr>
 		<tr>
 			<td class="lp">5.</td>
-			<td>...</td>
-			<td>...</td>
+			<td>${form.kandydat_5_imiona_i_nazwisko}</td>
+			<td>${form.kandydat_5_liczba_glosow_waznych}</td>
 		</tr>
 		<tr>
 			<td class="lp">6.</td>
-			<td>...</td>
-			<td>...</td>
+			<td>${form.kandydat_6_imiona_i_nazwisko}</td>
+			<td>${form.kandydat_6_liczba_glosow_waznych}</td>
 		</tr>
 		<tr>
 			<td class="lp">7.</td>
-			<td>...</td>
-			<td>...</td>
+			<td>${form.kandydat_7_imiona_i_nazwisko}</td>
+			<td>${form.kandydat_7_liczba_glosow_waznych}</td>
 		</tr>
 		<tr>
 			<td class="lp">8.</td>
-			<td>...</td>
-			<td>...</td>
+			<td>${form.kandydat_8_imiona_i_nazwisko}</td>
+			<td>${form.kandydat_8_liczba_glosow_waznych}</td>
 		</tr>
 		<tr>
 			<td class="lp">9.</td>
-			<td>...</td>
-			<td>...</td>
+			<td>${form.kandydat_9_imiona_i_nazwisko}</td>
+			<td>${form.kandydat_9_liczba_glosow_waznych}</td>
 		</tr>
 		<tr>
 			<td class="lp">10.</td>
-			<td>...</td>
-			<td>...</td>
+			<td>${form.kandydat_10_imiona_i_nazwisko}</td>
+			<td>${form.kandydat_10_liczba_glosow_waznych}</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
 			<td style="text-align: right"><b>Razem:</b></td>
-			<td>...</td>
+			<td>${form.suma_glosow_waznych}</td>
 		</tr>
 	</table>	
 
@@ -227,63 +227,63 @@
 
 	<table>
 		<tr>
-			<td>15.</td>
-			<td>Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy sumą liczb z pkt. 3 i 4, a liczbą z pkt. 2. Jeżeli różnica nie występuje, wpisać &#8222;brak uwag&#8221;.</td>
+			<td style="width: 20px; vertical-align: top">15.</td>
+			<td style="vertical-align: top">Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy sumą liczb z pkt. 3 i 4, a liczbą z pkt. 2. Jeżeli różnica nie występuje, wpisać &#8222;brak uwag&#8221;: </td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
-			<td>...</td>
+			<td style="vertical-align: top">${form.uwagi_3_15}</td>
 		</tr>
 
 		<tr>
-			<td>16.</td>
-			<td>Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy liczbą z pkt. 9 pomniejszoną o liczbę z pkt. 9a, a liczbą z pkt. 4, a także o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy liczbą z pkt. 9a a liczbą z pkt. 8e. Jeżeli różnica nie występuje, wpisać &#8222;brak uwag&#8221;.</td>
+			<td style="vertical-align: top">16.</td>
+			<td style="vertical-align: top">Uwagi o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy liczbą z pkt. 9 pomniejszoną o liczbę z pkt. 9a, a liczbą z pkt. 4, a także o przypuszczalnej przyczynie ewentualnej różnicy pomiędzy liczbą z pkt. 9a a liczbą z pkt. 8e. Jeżeli różnica nie występuje, wpisać &#8222;brak uwag&#8221;.</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
-			<td>...</td>
+			<td style="vertical-align: top">${form.uwagi_3_16}</td>
 		</tr>
 
 		<tr>
-			<td>17.</td>
-			<td>Uwagi o przypuszczalnej przyczynie wystąpienia kart nieważnych (pkt. 10); jeżeli liczba w pkt. 10 wynosi 0, wpisać &#8222;brak uwag&#8221;.</td>
+			<td style="vertical-align: top">17.</td>
+			<td style="vertical-align: top">Uwagi o przypuszczalnej przyczynie wystąpienia kart nieważnych (pkt. 10); jeżeli liczba w pkt. 10 wynosi 0, wpisać &#8222;brak uwag&#8221;.</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
-			<td>...</td>
+			<td style="vertical-align: top">${form.uwagi_3_17}</td>
 		</tr>
 
 		<tr>
-			<td>18.</td>
-			<td>W trakcie głosowana wydano następujące zarządzenia. Jeżeli nie wydano, wpisać &#8222;brak zarządzeń&#8221;.</td>
+			<td style="vertical-align: top">18.</td>
+			<td style="vertical-align: top">W trakcie głosowana wydano następujące zarządzenia. Jeżeli nie wydano, wpisać &#8222;brak zarządzeń&#8221;.</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
-			<td>...</td>
+			<td style="vertical-align: top">${form.uwagi_3_18}</td>
 		</tr>
 		<tr>
-			<td>19.</td>
-			<td>Adnotacje o wniesieniu uwag przez mężów zaufania z wymienieniem konkretnych zarzutów. Jeżeli nie ma, wpisać &#8222;brak zarzutów&#8221; lub &#8222;brak mężów zaufania w obwodzie&#8221;.</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>...</td>
-		</tr>
-		<tr>
-			<td>20.</td>
-			<td>Adnotacje o wniesieniu uwag przez członków Komisji z wymienieniem konkretnych zarzutów. Jeżeli nie ma, wpisać &#8222;brak zarzutów&#8221;.</td>
+			<td style="vertical-align: top">19.</td>
+			<td style="vertical-align: top">Adnotacje o wniesieniu uwag przez mężów zaufania z wymienieniem konkretnych zarzutów. Jeżeli nie ma, wpisać &#8222;brak zarzutów&#8221; lub &#8222;brak mężów zaufania w obwodzie&#8221;.</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
-			<td>...</td>
+			<td style="vertical-align: top">${form.uwagi_3_19}</td>
 		</tr>
 		<tr>
-			<td>21.</td>
-			<td>Inne uwagi. Jeżeli nie ma, wpisać &#8222;brak uwag&#8221;.</td>
+			<td style="vertical-align: top">20.</td>
+			<td style="vertical-align: top">Adnotacje o wniesieniu uwag przez członków Komisji z wymienieniem konkretnych zarzutów. Jeżeli nie ma, wpisać &#8222;brak zarzutów&#8221;.</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
-			<td>...</td>
+			<td style="vertical-align: top">${form.uwagi_3_20}</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: top">21.</td>
+			<td style="vertical-align: top">Inne uwagi. Jeżeli nie ma, wpisać &#8222;brak uwag&#8221;.</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td style="vertical-align: top">${form.uwagi_3_21}</td>
 		</tr>
 	</table>
 
@@ -291,40 +291,40 @@
 
 	<table class="without_borders">
 		<tr>
-			<td class="lp">1.</td>
-			<td>...</td>
+			<td class="lp" style="width: 20px; vertical-align: top">1.</td>
+			<td style="vertical-align:top">${form.czlonek_01}</td>
 		</tr>
 		<tr>
-			<td class="lp">2.</td>
-			<td>...</td>
+			<td class="lp" style="vertical-align:top">2.</td>
+			<td style="vertical-align:top">${form.czlonek_02}.</td>
 		</tr>
 		<tr>
-			<td class="lp">3.</td>
-			<td>...</td>
+			<td style="vertical-align:top" class="lp">3.</td>
+			<td style="vertical-align:top">${form.czlonek_03}</td>
 		</tr>
 		<tr>
-			<td class="lp">4.</td>
-			<td>...</td>
+			<td style="vertical-align:top" class="lp">4.</td>
+			<td style="vertical-align:top">${form.czlonek_04}</td>
 		</tr>
 		<tr>
-			<td class="lp">5.</td>
-			<td>...</td>
+			<td style="vertical-align:top" class="lp">5.</td>
+			<td style="vertical-align:top">${form.czlonek_05}</td>
 		</tr>
 		<tr>
-			<td class="lp">6.</td>
-			<td>...</td>
+			<td style="vertical-align:top" class="lp">6.</td>
+			<td style="vertical-align:top">${form.czlonek_06}</td>
 		</tr>
 		<tr>
-			<td class="lp">7.</td>
-			<td>...</td>
+			<td style="vertical-align:top" class="lp">7.</td>
+			<td style="vertical-align:top">${form.czlonek_07}</td>
 		</tr>
 		<tr>
-			<td class="lp">8.</td>
-			<td>...</td>
+			<td style="vertical-align:top" class="lp">8.</td>
+			<td style="vertical-align:top">${form.czlonek_08}</td>
 		</tr>
 		<tr>
-			<td class="lp">9.</td>
-			<td>...</td>
+			<td style="vertical-align:top" class="lp">9.</td>
+			<td style="vertical-align:top">${form.czlonek_09}</td>
 		</tr>
 	</table>
 	
