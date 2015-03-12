@@ -48,7 +48,7 @@ Obecni: Adam Kowalewski, Sebastian Celejewski, Michał Grabkowski, Tomasz Woźni
 * Sebastian: Kilka spraw deweloperskich (powitanie członków zespołu deweloperskiego, postępy w prototypie).
   * DONE 
 * Sebastian: Dodanie wszystkich biorących udział w OpenPKW jako członków organizacji openpkw w GitHubie oraz jako kontrybutorów w projekcie openpkw/openpkw.
-* Rafał R. Dołaczy do Konferencji Pan Robert. 
+* Rafał R. Dołączy do Konferencji Pan Robert. 
 
 
 **Zrealizowane elementy ToDo**
