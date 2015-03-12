@@ -24,7 +24,7 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 * 2015.03.04-5: [Sebastian] Zaimplementować generowanie PDFa z wypełnionym formularzem i barcodem (współpraca wszystkich zainteresowanych bardzo mile widziana).
   * WiP
 
-## 2015.03.11 20:00 [Work in progress by Adam]
+## 2015.03.11 20:00
 Format: Telekonferencja / Skype  
 Czas: 90min  
 Obecni: Adam Kowalewski, Sebastian Celejewski, Michał Grabkowski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Błażej Ksycki
