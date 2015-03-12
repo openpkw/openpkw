@@ -27,7 +27,7 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 ## 2015.03.11 20:00
 Format: Telekonferencja / Skype  
 Czas: 90min  
-Obecni: Adam Kowalewski, Sebastian Celejewski, Michał Grabkowski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Błażej Ksycki
+Obecni: Adam Kowalewski, Sebastian Celejewski, Michał Grabkowski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Błażej Ksycki, Marcin Tokarski
 
 **Dyskusja**
 * Aktualne prototypy PW2 dostarczone przez PKW/KBW. 
