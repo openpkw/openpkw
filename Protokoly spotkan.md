@@ -4,6 +4,12 @@
 ## Agenda na najbliższe spotkanie 
 Zbieramy tematy na najbliższą telekonferencje. Będę wdzięczny za akceptację schematu **autor: treść**  
 Aktualna ankieta w doodle http://doodle.com/n4gs893r2efcyx36
+* Adam: Aktualna sytuacja na github
+* Adam: Status implementacji 
+  * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
+  * [OPW wybory prezydenckie 2015] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
+* Adam: Aktualna infrastruktura OpenPKW (kontynuacja z ubiegłego tygodnia)
+
 
 
 ## Aktualna lista ToDo 
