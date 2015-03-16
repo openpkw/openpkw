@@ -9,6 +9,7 @@ Aktualna ankieta w doodle http://doodle.com/n4gs893r2efcyx36
   * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
   * [OPW wybory prezydenckie 2015] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
 * Adam: Aktualna infrastruktura OpenPKW (kontynuacja z ubiegłego tygodnia)
+* Adam: Czas zdefiniować developer guidelines & workspace configuration 
 
 
 
