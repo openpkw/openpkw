@@ -10,6 +10,7 @@ Aktualna ankieta w doodle http://doodle.com/n4gs893r2efcyx36
   * [OPW wybory prezydenckie 2015] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
 * Adam: Aktualna infrastruktura OpenPKW (kontynuacja z ubiegłego tygodnia)
 * Adam: Czas zdefiniować developer guidelines & workspace configuration 
+* Rafał Reguła: Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW. Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról. 
 
 
 
