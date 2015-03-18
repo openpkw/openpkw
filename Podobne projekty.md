@@ -1,5 +1,7 @@
 ##Nowy System wyborczy PKW
 
+**2015.03.18** PKW na liście systemów infrastruktury krytycznej
+http://www.wprost.pl/ar/498924/Szczegolna-ochrona-dla-systemu-obslugi-wyborow/
 
 **2015.02.29** - wybory w 2015 bez wsparcia systemu informatycznego  
 http://www.tvn24.pl/wiadomosci-z-kraju,3/wybory-2015-pkw-recznie-policzy-glosy,510193.html
