@@ -4,7 +4,7 @@
 ## Agenda na najbliższe spotkanie 
 Zbieramy tematy na najbliższą telekonferencje. Będę wdzięczny za akceptację schematu **autor: treść**  
 Aktualna ankieta w doodle http://doodle.com/n4gs893r2efcyx36
-* Adam: Aktualna sytuacja na github
+
 * Adam: Status implementacji 
   * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
   * [OPW wybory prezydenckie 2015] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
@@ -13,18 +13,20 @@ Aktualna ankieta w doodle http://doodle.com/n4gs893r2efcyx36
 * Rafał Reguła: Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW. Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról.
 * Sebastian: Włączenie programistów Java i programistów front-endowych do prac nad OpenPKW. W szczególności: kto się zgłosił, czy oni są gdzieś wynotowani, jak się z nimi skontaktować itd.
 * Sebastian: Czy możemy już się zastanowić nad wyborem docelowej technologii?
-* Sebastian: Dalsze porządki na githubie: Przeniesienie docs/adam do głównego repo i może także przeniesienie OPW do organizacji OpenPKW?
+
 * Sebastian: Skonfigurowanie Jenkinsa na nowej maszynie wirtualnej. Niech bierze kod z gita, buduje i deployuje na jakiś serwer.
 * Sebastian: Potrzebujemy jeszcze przynajmniej jedną maszynę wirtualną aby wystawić gdzieś nasze prototypy.
 
 ## Aktualna lista ToDo 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] opis**. 
+* 2015.03.18-1: [Sebastian i Adam] Wykonanie protokołu. 
+* 2015.03.18-2: [Tomek, Sebastian, Adam] Temetyka CI w Azure, cel to budujący i testujący Jenkins. 
+* 2015.03.18-3: [Marcin, Sebastian, Adam] Definicja zadań (user story) dla kontrybutorów. 
+* 2015.03.18-4: [Adam, Sebastian] Reverse fork do głównego repozytorium wraz z wszelkimi konfliktami. 
+* 2015.03.18-5: [
+* 2015.03.18-6: [
 * 2015.03.11-1: [Robert, Rafał] Gromadzenie informacji na temat reguł walidacji i plików  KLK. 
-* 2015.03.11-2: [Tomasz Woźniak] Konfiguracja wirtualnej maszyny w Azure tak aby administratorzy CI mogli skonfigurować środowisko. 
-* 2015.03.11-3: [Tomasz Woźniak] Kontakt z Magdą w celu reaktywacji zespołu PR jak i aktualizacji strony http://openpkw.pl
 * 2015.03.11-4: [Adam, Przemek] Konsolidacja dokumentacji do głównego repozytorium. 
-* 2015.03.11-5: [Przemek] Analiza zależności pomiędzy modułami specyfikacji PW2. 
-* 2015.03.11-6: [Adam] Odpowiedzialny za protokół. 
 * 2015.03.11-7: [Adam] Odnowi kontakt z NIWA. Tematyka infrastruktury i CI. Postara się zaprosić kogoś z NIWA do udziału w jednej z nadchodzących telekonferencji. 
 * 2015.03.11-8: [Sebastian] Integracja POC kalkulatora w organizacji [OpenPKW@github](https://github.com/openpkw/openpkw) tzn. nowe repo + merge (zrobione)
 * 2015.03.04-1: [Tomasz Woźniak] Zdobyć w PKW informację gdzie i kiedy generowany jest barcode dla formularzy? Czy w kalkulatorze czy na serwerze.
@@ -35,6 +37,27 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
   * Status na 18 marca (Sebastian): Nic nie zrobione, ktoś chętny może to zadanie wziąć. Zadanie do zrobienia jak zostane zrobiony zapis formularza do formatu XML.
 * 2015.03.04-5: [Sebastian] Zaimplementować generowanie PDFa z wypełnionym formularzem i barcodem (współpraca wszystkich zainteresowanych bardzo mile widziana).
   * Status na 18 marca (Sebastian C., Marcin T., Michał G.): Przygotowane trzy różne prototypy generowania plików PDF, można się przyjrzeć i wybrać docelowy. Nie jest zaimplementowana walidacja, zadanie jest do wzięcia przez chętnych.
+
+
+## 2015.03.18 20:00 [WiP]
+Format: Telekonferencja / Skype  
+Czas: 120 min  
+Obecni: Adam Kowalewski, Sebastian Celejewski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Marcin Tokarski, Robert Postek, Tomasz Klasa
+
+**[WiP] Dyskusja**
+* [ Adam: Aktualna sytuacja na github ] & [ Sebastian: Dalsze porządki na githubie: Przeniesienie docs/adam do głównego repo i może także przeniesienie OPW do organizacji OpenPKW? ]
+
+
+
+**[WiP] Zrealizowane elementy ToDo**
+* 2015.03.11-6: [Adam] Odpowiedzialny za protokół. [DONE]
+* 2015.03.11-2: [Tomasz Woźniak] Konfiguracja wirtualnej maszyny w Azure tak aby administratorzy CI mogli skonfigurować środowisko. 
+  * Maszyna jest, rozpoczynamy konfigurację środowiska CI. Patrz ToDo 2015.03.18-2
+* 2015.03.11-3: [Tomasz Woźniak] Kontakt z Magdą w celu reaktywacji zespołu PR jak i aktualizacji strony http://openpkw.pl
+  * No niestety [Oświadczenie członków core team](http://openpkw.pl/pipermail/lista/2015-March/001445.html)
+* 2015.03.11-5: [Przemek] Analiza zależności pomiędzy modułami specyfikacji PW2. 
+  * Koniec i bomba a kto czytał (i analizował) ten trąba. PKW na przełomie ostatnich 12 miesięcy trzykrotnie aktualizowała wymagania PW2 (25 modułów -> 10 modułów -> 11 modułów). 
+
 
 ## 2015.03.11 20:00
 Format: Telekonferencja / Skype  
