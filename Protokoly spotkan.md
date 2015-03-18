@@ -10,9 +10,12 @@ Aktualna ankieta w doodle http://doodle.com/n4gs893r2efcyx36
   * [OPW wybory prezydenckie 2015] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
 * Adam: Aktualna infrastruktura OpenPKW (kontynuacja z ubiegłego tygodnia)
 * Adam: Czas zdefiniować developer guidelines & workspace configuration 
-* Rafał Reguła: Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW. Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról. 
-
-
+* Rafał Reguła: Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW. Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról.
+* Sebastian: Włączenie programistów Java i programistów front-endowych do prac nad OpenPKW. W szczególności: kto się zgłosił, czy oni są gdzieś wynotowani, jak się z nimi skontaktować itd.
+* Sebastian: Czy możemy już się zastanowić nad wyborem docelowej technologii?
+* Sebastian: Dalsze porządki na githubie: Przeniesienie docs/adam do głównego repo i może także przeniesienie OPW do organizacji OpenPKW?
+* Sebastian: Skonfigurowanie Jenkinsa na nowej maszynie wirtualnej. Niech bierze kod z gita, buduje i deployuje na jakiś serwer.
+* Sebastian: Potrzebujemy jeszcze przynajmniej jedną maszynę wirtualną aby wystawić gdzieś nasze prototypy.
 
 ## Aktualna lista ToDo 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] opis**. 
@@ -23,14 +26,15 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 * 2015.03.11-5: [Przemek] Analiza zależności pomiędzy modułami specyfikacji PW2. 
 * 2015.03.11-6: [Adam] Odpowiedzialny za protokół. 
 * 2015.03.11-7: [Adam] Odnowi kontakt z NIWA. Tematyka infrastruktury i CI. Postara się zaprosić kogoś z NIWA do udziału w jednej z nadchodzących telekonferencji. 
-* 2015.03.11-8: [Sebastian] Integracja POC kalkulatora w organizacji [OpenPKW@github](https://github.com/openpkw/openpkw) tzn. nowe repo + merge 
+* 2015.03.11-8: [Sebastian] Integracja POC kalkulatora w organizacji [OpenPKW@github](https://github.com/openpkw/openpkw) tzn. nowe repo + merge (zrobione)
 * 2015.03.04-1: [Tomasz Woźniak] Zdobyć w PKW informację gdzie i kiedy generowany jest barcode dla formularzy? Czy w kalkulatorze czy na serwerze.
 * 2015.03.04-2: [Tomasz Woźniak] Zdobyć w PKW wszystkie pliki KLK na najbliższe wybory prezydenckie. Zarówno pliki KLK zawierające dane komisji i listy kandydatów, jak i pliki KLK z regułami walidacji.
 * 2015.03.04-3: [Sebastian] Zaimplementować zapis formularza do formatu XML.
-  * WiP
+  * Status na 18 marca (Sebastian): Nic nie zrobione, ktoś chętny może to zadanie wziąć. Zadanie dla frontendowca.
 * 2015.03.04-4: [Sebastian] Zaimplementować generowanie sumy MD5.
+  * Status na 18 marca (Sebastian): Nic nie zrobione, ktoś chętny może to zadanie wziąć. Zadanie do zrobienia jak zostane zrobiony zapis formularza do formatu XML.
 * 2015.03.04-5: [Sebastian] Zaimplementować generowanie PDFa z wypełnionym formularzem i barcodem (współpraca wszystkich zainteresowanych bardzo mile widziana).
-  * WiP
+  * Status na 18 marca (Sebastian C., Marcin T., Michał G.): Przygotowane trzy różne prototypy generowania plików PDF, można się przyjrzeć i wybrać docelowy. Nie jest zaimplementowana walidacja, zadanie jest do wzięcia przez chętnych.
 
 ## 2015.03.11 20:00
 Format: Telekonferencja / Skype  
