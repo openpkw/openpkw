@@ -29,9 +29,9 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 * 2015.03.11-7: [Adam] Odnowi kontakt z NIWA. Tematyka infrastruktury i CI. Postara się zaprosić kogoś z NIWA do udziału w jednej z nadchodzących telekonferencji. 
 * 2015.03.04-1: [Tomasz Woźniak] Zdobyć w PKW informację gdzie i kiedy generowany jest barcode dla formularzy? Czy w kalkulatorze czy na serwerze. SC: Ja bym to uznał za zamknięte, bo wiemy, że dotychczas barcode był generowany w kliencie.
 * 2015.03.04-2: [Tomasz Woźniak] Zdobyć w PKW wszystkie pliki KLK na najbliższe wybory prezydenckie. Zarówno pliki KLK zawierające dane komisji i listy kandydatów, jak i pliki KLK z regułami walidacji.
-* 2015.03.04-3: [Sebastian] Zaimplementować zapis formularza do formatu XML.
-* 2015.03.04-4: [Sebastian] Zaimplementować generowanie sumy MD5 (zależy od 2015.03.04-3).
-* 2015.03.04-5: [Sebastian] Dokończyć wariant 3 generowania PDFa z wypełnionym formularzem.
+* 2015.03.04-3: [Sebastian -> Programiści] Zaimplementować zapis formularza do formatu XML.
+* 2015.03.04-4: [Sebastian -> Programiści] Zaimplementować generowanie sumy MD5 (zależy od 2015.03.04-3).
+* 2015.03.04-5: [Marcin lub inni Programiści] Dokończyć wariant 3 generowania PDFa z wypełnionym formularzem.
 * 2015.03.18-1: [Programiści] Zaimplementować podpisywanie protokołu w postaci pliku XML certyfikatem.
 * 2015.03.18-2: [Programiści] Zaimplementować obsługę tzw. raportu błędów.
 * 2015.03.18-3: [Programiści] Zaimplementować obsługę uwag i adnotacji (punkty 15-21 formularza).
