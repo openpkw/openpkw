@@ -182,12 +182,8 @@ Format: Telekonferencja / Skype<br/>
 Czas: 2h+ <br/>
 Obecni: Sebastian Celejewski, Adam Kowalewski, Marcin Fabrykowski, Bartłomiej Kokoszka, Przemek Jodkowski, Marek Piotrów
 
-
-
-
-
 **Postanowienia:**
-brak
+* brak
 
 **ToDo:**
 * Adam 1: Kontakt z Tomkiem - namiary na ludzi zainteresowanych technologią Java / Java EE
@@ -211,24 +207,8 @@ brak
 * Tożsamość grupy: czy to jest grupa analityczna czy całość OpenPKW i nie ma nikogo innego?
 * Omawiamy proces komisji obwodowej, kolejność kroków.
 * Omawiamy tematykę brudnopisu (poranny, wieczorny, kod kreskowy).
-* Pojęcia błędu twardego i miękkiego .
-
-<br/><br/><br/>
-brudnopis poranny
-brudnopis po 21:00
-————————————
-Jeżeli brudnopis poranny = brudnopis po 21 -> wprowadzamy brudnopis poranny 
-Jeżeli brudnopis poranny (różny) brudnopis po 21 -> wypełniamy brudnopis po 21 i wprowadzamy do systemu
-
-sposób wpisywania do systemu:
-- pierwsze wprowadzanie danych z brudnopisu (z góry do dołu) 
-- drugie wpisywanie danych z brudnopisu (z dołu do góry)
-———————————————————————————————————
-podczas każdego wpisywania danych następuje weryfikacja:
-- błąd twardy: system uniemożliwia wpisanie dalszych informacji
-- błąd miękki: system umożliwia wpisanie dalszych danych
-
-Kalkulator OpenPKW w wyborach prezydenckich powinien być użyty równolegle do obowiązującego kalkulatora
+* Pojęcia błędu twardego i miękkiego.
+* Kalkulator OpenPKW w wyborach prezydenckich powinien być użyty równolegle do obowiązującego kalkulatora
 
 ## 2015.02.18 20:00
 Format: Telekonferencja / Skype<br/>
