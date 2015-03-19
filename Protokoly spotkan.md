@@ -2,10 +2,6 @@
 
 
 ## Agenda na najbliższe spotkanie
-
-* 2015.03.17 [Rafał Reguła].  Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW.  Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról. 
-
-
 Zbieramy tematy na najbliższą telekonferencje. Będę wdzięczny za akceptację schematu **autor: treść** 
 Aktualna ankieta w doodle http://doodle.com/n4gs893r2efcyx36
 
