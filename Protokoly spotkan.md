@@ -1,6 +1,103 @@
 # Protokoły spotkań
 
-## 2015.03.04
+
+## Agenda na najbliższe spotkanie
+
+* 2015.03.17 [Rafał Reguła].  Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW.  Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról. 
+
+
+Zbieramy tematy na najbliższą telekonferencje. Będę wdzięczny za akceptację schematu **autor: treść** 
+Aktualna ankieta w doodle http://doodle.com/n4gs893r2efcyx36
+
+* Adam: Status implementacji 
+  * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
+  * [OPW wybory prezydenckie 2015] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
+* Adam: Aktualna infrastruktura OpenPKW (kontynuacja z ubiegłego tygodnia)
+* Adam: Czas zdefiniować developer guidelines & workspace configuration 
+* Rafał Reguła: Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW. Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról.
+* Sebastian: Włączenie programistów Java i programistów front-endowych do prac nad OpenPKW. W szczególności: kto się zgłosił, czy oni są gdzieś wynotowani, jak się z nimi skontaktować itd.
+* Sebastian: Czy możemy już się zastanowić nad wyborem docelowej technologii?
+* Sebastian: Skonfigurowanie Jenkinsa na nowej maszynie wirtualnej. Niech bierze kod z gita, buduje i deployuje na jakiś serwer.
+* Sebastian: Potrzebujemy jeszcze przynajmniej jedną maszynę wirtualną aby wystawić gdzieś nasze prototypy.
+
+
+## Aktualna lista ToDo 
+Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] opis**. 
+* 2015.03.18-1: [Sebastian i Adam] Wykonanie protokołu. 
+* 2015.03.18-2: [Tomek, Sebastian, Adam] Temetyka CI w Azure, cel to budujący i testujący Jenkins.
+* 2015.03.18-3: [Marcin, Sebastian, Adam] Definicja zadań (user story) dla kontrybutorów. 
+* 2015.03.18-4: [Adam, Sebastian] Reverse fork do głównego repozytorium wraz z wszelkimi konfliktami. 
+* 2015.03.18-5: [
+* 2015.03.18-6: [
+* 2015.03.11-1: [Robert, Rafał] Gromadzenie informacji na temat reguł walidacji i plików  KLK. 
+* 2015.03.11-4: [Adam, Przemek] Konsolidacja dokumentacji do głównego repozytorium. 
+* 2015.03.11-7: [Adam] Odnowi kontakt z NIWA. Tematyka infrastruktury i CI. Postara się zaprosić kogoś z NIWA do udziału w jednej z nadchodzących telekonferencji. 
+* 2015.03.04-1: [Tomasz Woźniak] Zdobyć w PKW informację gdzie i kiedy generowany jest barcode dla formularzy? Czy w kalkulatorze czy na serwerze. SC: Ja bym to uznał za zamknięte, bo wiemy, że dotychczas barcode był generowany w kliencie.
+* 2015.03.04-2: [Tomasz Woźniak] Zdobyć w PKW wszystkie pliki KLK na najbliższe wybory prezydenckie. Zarówno pliki KLK zawierające dane komisji i listy kandydatów, jak i pliki KLK z regułami walidacji.
+* 2015.03.04-3: [Sebastian -> Programiści] Zaimplementować zapis formularza do formatu XML.
+* 2015.03.04-4: [Sebastian -> Programiści] Zaimplementować generowanie sumy MD5 (zależy od 2015.03.04-3).
+* 2015.03.04-5: [Marcin lub inni Programiści] Dokończyć wariant 3 generowania PDFa z wypełnionym formularzem.
+* 2015.03.18-1: [Programiści] Zaimplementować podpisywanie protokołu w postaci pliku XML certyfikatem.
+* 2015.03.18-2: [Programiści] Zaimplementować obsługę tzw. raportu błędów.
+* 2015.03.18-3: [Programiści] Zaimplementować obsługę uwag i adnotacji (punkty 15-21 formularza).
+* 2015.03.18-4: [Programiści] Zaimplementować walidację pól formularza do końca.
+
+## 2015.03.18 20:00 [WiP]
+Format: Telekonferencja / Skype  
+Czas: 120 min  
+Obecni: Adam Kowalewski, Sebastian Celejewski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Marcin Tokarski, Robert Postek, Tomasz Klasa, Bartłomiej Kokoszka
+
+**[WiP] Dyskusja**
+* Aktualna sytuacja na GitHubie oraz dalsze kroki. Repozytorium kodu prototypów przeniesione (zadanie 2015.03.11-8), dokumentację trzeba przenieść (zadanie 2015.03.11-4 i chyba też 2015.03.18-4 o ile dobrze rozumiem).
+* Prototyp HTML/Java - co dalej? Czy uznajemy, że przećwiczyliśmy technologię i zamykamy prototyp, czy implementujemy wszystko ze szczegółami? Decyzja: trzeba jeszcze parę rzeczy implementować: 2015.03.04-3 (zapis do XML), 2015.03.04-4 (generowanie barcode), dokończyć 2015.03.04-5 (generowanie PDFa - wariant 3) i 2015.03.18-4 (dokończenie walidacji). Oprócz tego musimy zaimplementować kilka nowych rzeczy: 2015-03.18-1 (podpisywanie protokołu certyfikatem), 2015.03.18-2 (raport błędów) i 2015.03.18-3 (uwagi i adnotacje). Wszystkie aktualne zadania programistyczne są tutaj: https://trello.com/b/1PocOld8/poc-wp.
+* Dyskusja na temat zagadnienia zgłoszonego przez Rafała Regułę: ,,Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW. Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról.'' Był to taki wstęp do dyskusji, która być może czeka nas w najbliższej przyszłości: jak pracować nad OpenPKW? jak koordynować prace? czy jakoś przydzielać role? itd. Spora rozbieżność poglądów, zapewne będziemy to dyskutować na następnych spotkaniach, aby ludzie specjalizujący się w różnych dziedzinach mogli się wzajemnie zrozumieć.
+* OpenProject - sprawa nieprzedyskutowana z powodu braku czasu, ale wygląda na to, że będziemy musieli o tym porozmawiać. Spektrum poglądów szerokie - od ,,po co nam w ogóle OpenProject?'' po ,,wszystko odnotowujmy w OpenProject''.
+* Krótka refleksja na temat oświadczenia czwórki członków tzw. Core Teamu o odejściu z OpenPKW. Teraz my ciągniemy sztafetę, ale każdy ma prawo zrezygnować w dowolnym momencie, zapewne ludzie będą zarówno do projektu dochodzić, jak i się z niego odłączać i to jest OK.
+* Nowi zgłaszający się do projektu ludzie - w jaki sposób rozpocząć współpracę, w jaki sposób rozdzielać zadania itd. Pierwszym krokiem będzie stworzenie w OpenProjectie zadań 2015.03.04-3 (eksport do XML), 2015-03.18-1 (certyfikaty), 2015.03.18-2 (raport błędów), 2015.03.18-3 (uwagi i adnotacje) i 2015.03.18-4 (dokończenie walidacji).
+
+**[WiP] Zrealizowane elementy ToDo**
+* 2015.03.11-6: [Adam] Odpowiedzialny za protokół. [DONE]
+* 2015.03.11-2: [Tomasz Woźniak] Konfiguracja wirtualnej maszyny w Azure tak aby administratorzy CI mogli skonfigurować środowisko. 
+  * Maszyna jest, rozpoczynamy konfigurację środowiska CI. Patrz ToDo 2015.03.18-2
+* 2015.03.11-3: [Tomasz Woźniak] Kontakt z Magdą w celu reaktywacji zespołu PR jak i aktualizacji strony http://openpkw.pl
+  * No niestety [Oświadczenie członków core team](http://openpkw.pl/pipermail/lista/2015-March/001445.html)
+* 2015.03.11-5: [Przemek] Analiza zależności pomiędzy modułami specyfikacji PW2. 
+  * Koniec i bomba a kto czytał (i analizował) ten trąba. PKW na przełomie ostatnich 12 miesięcy trzykrotnie aktualizowała wymagania PW2 (25 modułów -> 10 modułów -> 11 modułów). 
+* 2015.03.11-8: [Sebastian] Integracja POC kalkulatora w organizacji [OpenPKW@github](https://github.com/openpkw/openpkw) tzn. nowe repo + merge (zrobione, kod przeniesiony do https://github.com/openpkw/PocKalkulatorWyborczyHtml, programiści mają prawa do zapisu, pierwsze commity za płoty) 
+
+## 2015.03.11 20:00
+Format: Telekonferencja / Skype  
+Czas: 90min  
+Obecni: Adam Kowalewski, Sebastian Celejewski, Michał Grabkowski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Błażej Ksycki, Marcin Tokarski
+
+**Dyskusja**
+* Aktualne prototypy PW2 dostarczone przez PKW/KBW. 
+* Reguły walidacji i ich reprezentacja w plikach KLK
+* Aktualna infrastruktura OpenPKW
+  * Chmura Azure - Tomek pracuje nad serwerami (aktualnie 2 max 6)
+  * Chmura Amazon - Sebastian ma darmowy pakiet, mało pamięci RAM, brak stałego IP 
+  * NIWA - Adam 
+  * Prywatne serwery - Adam prywatny, płatny serwer Ubuntu dostępny 24/7 jako opcjonalny fallback
+* Continuous Integration 
+  * Sebastian i Błażej posiadają praktyczne doświadczenie w tematyce CI. 
+* Adam: Strona internetowa openpkw.pl, grupa jak i Fanpage na Facebook nadal milczą, proponuje nawiązać kontakt z administratorami i wyznaczyć 2-3 osoby odpowiedzialne za ową domenę.
+  * ToDo 2015.03.11-3 dla Tomka + Adam i Sebastian jako administratorzy grupy na FB.
+* Adam: Tematyka NIWA CI(Continuous Integration). Proponuje wysłać zapytanie do NIWA czy mogliby nam udostępnić serwer CI, najlepiej Jenkins, jak i doświadczonego administratora - czyli osobę która zna tematykę CI jak i Jenkinsa jak własną kieszeń.
+  * ToDo 2015.03.11-7 dla Adama 
+* Adam: IMHO na dzień dzisiejszy jesteśmy zbyt roz-forkowani. Powinniśmy ASAP usprawnić proces synchronizacji z głównym repozytorium.
+  * Adam i Sebastian otrzymali prawa administracji w centralnym github. ToDo 2015.03.11-4 i 2015.03.11-8
+* Sebastian: Kilka spraw deweloperskich (powitanie członków zespołu deweloperskiego, postępy w prototypie).
+  * DONE 
+* Sebastian: Dodanie wszystkich biorących udział w OpenPKW jako członków organizacji openpkw w GitHubie oraz jako kontrybutorów w projekcie openpkw/openpkw.
+* Rafał R. Dołączy do Konferencji Pan Robert. 
+
+
+**Zrealizowane elementy ToDo**
+* Rafał: Porozmawiać z kierownikiem referatu informatyki z Ursynowa w celu nawiązania stosunków i spytania na jakie problemy techniczne możemy się natknąć.
+  * DONE + ToDo 2015.03.11-1
+* Adam + Przemek: Proces komisji obwodowej [dokumentacja/procesy/] (dokumentacja/procesy/) + wprowadzenie do [draw.io](http://www.draw.io)
+
+## 2015.03.04 20:00
 Format: Telekonferencja / Skype  
 Czas: 2h  
 Obecni: Sebastian Celejewski, Adam Kowalewski, Rafał Reguła, Adam Mańczuk, Marcin Fabrykowski, Tomasz Woźniak, Przemek Jodkowski, Bartłomiej Kokoszka
@@ -80,7 +177,7 @@ Rafał może nas skontaktować z posłami i z Komitetem Obrony Wyborów.
 - Rafał: Porozmawiać z kierownikiem referatu informatyki z Ursynowa w celu nawiązania stosunków i spytania na jakie problemy techniczne możemy się natknąć.
 
 
-## 2015.02.25
+## 2015.02.25 20:00
 Format: Telekonferencja / Skype<br/>
 Czas: 2h+ <br/>
 Obecni: Sebastian Celejewski, Adam Kowalewski, Marcin Fabrykowski, Bartłomiej Kokoszka, Przemek Jodkowski, Marek Piotrów
@@ -133,12 +230,10 @@ podczas każdego wpisywania danych następuje weryfikacja:
 
 Kalkulator OpenPKW w wyborach prezydenckich powinien być użyty równolegle do obowiązującego kalkulatora
 
-## 2015.02.18
+## 2015.02.18 20:00
 Format: Telekonferencja / Skype<br/>
 Czas: 90 min<br/>
 Obecni: Sebastian Celejewski, Adam Kowalewski, Tomasz Klasa, Adam Mańczuk, Bartłomiej Kokoszka, Przemek Jodkowski, Tomasz Woźniak, Marcin Fabrykowski, Marek Piotrów 
-
-Przeprowadzono test konferencji na Tox. Spotkanie miało charakter określenie zakresu prac, poznania się i zakreślenia metodyki dalszej pracy.
 
 **Postanowienia:**
 * Idziemy dwutorowo- jednocześnie tworzymy prototyp i analizę.
@@ -150,9 +245,11 @@ Przeprowadzono test konferencji na Tox. Spotkanie miało charakter określenie z
 * Prototyp formularza posłuży do spisania historii użytkowników, wymagań i zapotrzebowań.
 
 **ToDo:**
-* Adam przygotuje plik protokołów 
+* Adam przygotuje plik protokołów
 * Tomasz Woźniak- zorganizuje grupę "frontendowów" HTML+JS+CSS do tworzenia formularza.
 
+**Dyskusja:**
+Przeprowadzono test konferencji na Tox. Spotkanie miało charakter określenie zakresu prac, poznania się i zakreślenia metodyki dalszej pracy.
 
 ## 2015.02.11 18:00
 Format: Telekonferencja / Skype<br/>
@@ -170,3 +267,16 @@ Było to pierwsze spotkanie. Ogólna dyskusja m.in. na następujące tematy: syt
 * Adam i Sebastian wykonają pierwszą wersję Roadmap
 * Sebastian zorganizuje kolejną telekonferencję 
 
+
+## 2014.12.06 
+Format: Spotkanie inicjujące we Wrocławiu <br/>
+
+**Interesujące informacje**
+* W Polsce mamy około 27 000 komisji obwodowych. 
+* W samej tylko Warszawie mamy około 800 okregów wyborczych.
+* Kalkulator nie może liczyć za ludzi [http://youtu.be/gdmSWaz_lP8?t=1h21m45s]
+* Kalkulator musi być zdolny do pracy offline. Nie wszystkie komisje mają dostęp do internetu. 
+* Kryteria walidacji są określone ustawowo. 
+* Testy wyborcze 
+1. 	na 3 tyg przed wyborami
+2. 	na 1/2 tyg przed wyborami
