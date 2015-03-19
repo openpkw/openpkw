@@ -233,7 +233,7 @@ Kalkulator OpenPKW w wyborach prezydenckich powinien być użyty równolegle do 
 ## 2015.02.18 20:00
 Format: Telekonferencja / Skype<br/>
 Czas: 90 min<br/>
-Obecni: Sebastian Celejewski, Adam Kowalewski, Tomasz Klasa, Adam Mańczuk, Bartłomiej Kokoszka,Przemek Jodkowski, Tomasz Woźniak, Marcin Fabrykowski, Marek Piotrów 
+Obecni: Sebastian Celejewski, Adam Kowalewski, Tomasz Klasa, Adam Mańczuk, Bartłomiej Kokoszka, Przemek Jodkowski, Tomasz Woźniak, Marcin Fabrykowski, Marek Piotrów 
 
 **Postanowienia:**
 * Idziemy dwutorowo- jednocześnie tworzymy prototyp i analizę.
