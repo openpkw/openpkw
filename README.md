@@ -19,14 +19,12 @@ Jak pomóc?
 
 Aktualny status
 ---------------
-  * Mamy ustalonych ludzi odpowiedzialnych za zarządzanie konkretnymi grupami.: https://openpkw.pl/kontakt/
-  * Zespół prawników ustalił już metodę licencjonowania, sposób jej przestrzegania w projekcie i zasady pracy przy elementach dołączanych na innych licencjach (o ile się takie zdarzą).
-  * Staramy się uzyskać wgląd w specyfikację od PKW i dokumentację przetargową na aktualnie działający system.
-  * Aktualnie mamy ponad 500 zgłoszeń ochotników, którzy obecnie przydzielani są do odpowiednich grup.
-  * Ruszają pracę zespołu analityków.
-
-
-
+  * Nastąpiła zmiana organizacji projektu. Jest ona skutkiem zarówno zrezygnowania z udziału w projekcie dotychczasowych liderów zespołów Public Relations, Analizy, Architektury i Technicznego, jak i specyfiki pracy rozproszonego zespołu wolontariuszy. Wyłonił się zespół zajmujący się analizą, a także organizowane są zespoły programistów. Prawdopodobnie w najbliższym czasie nastąpią dalsze zmiany kadrowe. TODO: Zaktualizować stronę https://openpkw.pl/kontakt/ .
+  * Na chwilę obecną toczą się prace analityczne nad jednym z kilkunastu modułów OpenPKW, mianowicie Kalkulatorem Wyborczym. Jest to aplikacja służąca Obwodowym Komisjom Wyborczym do weryfikowania, drukowania i przesyłania formularzy zawierających wyniki wyborów.
+  * W ramach prac analitycznych tworzony jest prototyp Kalkulatora Wyborczego OpenPKW w technologiach webowych. Prototyp ma posłużyć do zweryfikowania czy zespół analityczny dobrze rozumie wymagania, czy rozumiemy specyfikę pracy komisji wyborczych, czy nasze wyobrażenia o tym jak ma działać kalkulator są poprawne itd.
+  * Pojawiają się zręby infrastruktury: tworzone i konfigurowane są serwery, które będą służyć do budowania, testowania i hostowania efektów pracy zespołu OpenPKW.
+  * Ciekawym ale i trudnym zadaniem jest włączanie do projektu nowych ochotników, a także wypracowywanie wspólnej metodyki pracy. Zespół jest rozproszony, są to ochotnicy pracujący w swoim wolnym czasie (skąpym!), ustalenia są wypracowywane w trakcie dyskusji, a spektrum poglądów na niemal każdy temat jest bardzo szerokie.
+  
 Adresy!
 -------
  * Strona informacyjna: http://openpkw.pl/
