@@ -6,7 +6,7 @@ Zbieramy tematy na najbliższą telekonferencje. Będę wdzięczny za akceptacj�
 Aktualna ankieta w doodle http://doodle.com/n4gs893r2efcyx36
 
 * Przemek: Nowa filozofia działania państwowych systemów wyborczych (PW 2.0) na podstawie Wytycznych PKW z 9 marca 2015 r.  
-* [wstępna analiza](https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
+  * 21 marca 2015 r.: [Wstępna analiza](https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
 * Adam: Status implementacji 
   * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
   * [OPW wybory prezydenckie 2015] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
