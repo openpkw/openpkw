@@ -7,26 +7,31 @@ Aktualna ankieta w doodle http://doodle.com/n4gs893r2efcyx36
 
 * Przemek: Nowa filozofia działania państwowych systemów wyborczych (PW 2.0) na podstawie Wytycznych PKW z 9 marca 2015 r.  
   * 21 marca 2015 r.: [Wstępna analiza](https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
+  * Sebastian: Od strony prototypu HTML bardzo interesuje mnie sprawa loginów, haseł, certyfikatów i kodów jednorazowych.
 * Adam: Status implementacji 
   * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
   * [OPW wybory prezydenckie 2015] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
 * Adam: Aktualna infrastruktura OpenPKW (kontynuacja z ubiegłego tygodnia)
+  * Sebastian: Czy tutaj omówimy jakie mamy maszyny wirtualne i co na nich już stoi? Np. Jenkins na GlassFishu, prototyp kalkulatora na JBossie, itd.
 * Adam: Aktualna sytuacja na wiki - musimy tam posprzątać. 
 * Adam: Czas zdefiniować developer guidelines & workspace configuration 
+  * Sebastian: Zalążek jest tutaj: https://github.com/openpkw/PocKalkulatorWyborczyHtml/blob/master/README.md
 * Rafał Reguła: Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW. Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról.
-* Sebastian: Włączenie programistów Java i programistów front-endowych do prac nad OpenPKW. W szczególności: kto się zgłosił, czy oni są gdzieś wynotowani, jak się z nimi skontaktować itd.
+  * Sebastian: Odbył się szereg dyskusji mailowo-skypowych na ten temat.
+* Sebastian: Aktualna sytuacja z włączaniem programistów do prac nad OpenPKW.
 * Sebastian: Czy możemy już się zastanowić nad wyborem docelowej technologii?
-* Sebastian: Skonfigurowanie Jenkinsa na nowej maszynie wirtualnej. Niech bierze kod z gita, buduje i deployuje na jakiś serwer.
-* Sebastian: Potrzebujemy jeszcze przynajmniej jedną maszynę wirtualną aby wystawić gdzieś nasze prototypy.
-
+  * Programiści Javowi dążą w stronę aplikacji webowej w Java EE. Prototyp jest właśnie w tej technologii.
+  * Programiści front-endowi proponują postawienie prototypu HTML na serwerze HTML (Apache, Node.js).
 
 ## Aktualna lista ToDo 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] opis**. 
-* 2015.03.18-1: [Sebastian i Adam] Wykonanie protokołu. 
+* 2015.03.18-1: [Sebastian i Adam] Wykonanie protokołu.
+  * Zrobione.
 * 2015.03.18-2: [Tomek, Sebastian, Adam] Tematyka CI w Azure, cel to budujący i testujący Jenkins.
   * Adam & Sebastian: jesteśmy zgodni, jedna solidna VM w Azure wystarczy na początek. Zmieniamy pakiet z A0 na D3 [Pakiety Azure](http://azure.microsoft.com/pl-pl/pricing/details/virtual-machines/#Linux)
   * Jenkins został skonfigurowany i buduje POC_KW jak i OPW. Infrastrukture udostępnia Adam. 
-* 2015.03.18-3: [Marcin, Sebastian, Adam] Definicja zadań (user story) dla kontrybutorów POC. 
+* 2015.03.18-3: [Marcin, Sebastian, Adam] Definicja zadań (user story) dla kontrybutorów POC.
+  * Sebastian: Utworzyłem zadania w OpenProject, ale nie jestem zadowolony z funkcjonalności.
 * 2015.03.18-4: [Adam] Reverse fork do głównego repozytorium wraz z wszelkimi konfliktami. 
   * [DONE] docs/adam oznaczone jako @Deprecated 
 * 2015.03.18-5: [Adam] Sprawdzi możliwość integracji technologi SMS z OPW. 
@@ -41,12 +46,19 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
   * 2015.03.18 Rafał przejmuje koordynacje tego zadania. 
   * Adam dodał zformatowane pliki do repozytorium. 
 * 2015.03.04-3: [Sebastian -> Programiści] Zaimplementować zapis formularza do formatu XML.
+  * Nikt nie wziął zadania.
 * 2015.03.04-4: [Sebastian -> Programiści] Zaimplementować generowanie sumy MD5 (zależy od 2015.03.04-3).
+  * Nikt nie wziął zadania.
 * 2015.03.04-5: [Marcin lub inni Programiści] Dokończyć wariant 3 generowania PDFa z wypełnionym formularzem.
+  * Nikt nie wziął zadania.
 * 2015.03.18-1: [Programiści] Zaimplementować podpisywanie protokołu w postaci pliku XML certyfikatem.
+  * Nikt nie wziął zadania.
 * 2015.03.18-2: [Programiści] Zaimplementować obsługę tzw. raportu błędów.
+  * Nikt nie wziął zadania.
 * 2015.03.18-3: [Programiści] Zaimplementować obsługę uwag i adnotacji (punkty 15-21 formularza).
+  * Nikt nie wziął zadania.
 * 2015.03.18-4: [Programiści] Zaimplementować walidację pól formularza do końca.
+  * Nikt nie wziął zadania.
 
 ## 2015.03.18 20:00
 Format: Telekonferencja / Skype  
