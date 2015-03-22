@@ -11,6 +11,7 @@ Aktualna ankieta w doodle http://doodle.com/n4gs893r2efcyx36
   * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
   * [OPW wybory prezydenckie 2015] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
 * Adam: Aktualna infrastruktura OpenPKW (kontynuacja z ubiegłego tygodnia)
+* Adam: Aktualna sytuacja na wiki - musimy tam posprzątać. 
 * Adam: Czas zdefiniować developer guidelines & workspace configuration 
 * Rafał Reguła: Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW. Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról.
 * Sebastian: Włączenie programistów Java i programistów front-endowych do prac nad OpenPKW. W szczególności: kto się zgłosił, czy oni są gdzieś wynotowani, jak się z nimi skontaktować itd.
