@@ -14,8 +14,10 @@ Aktualna ankieta w doodle http://doodle.com/n4gs893r2efcyx36
 * Adam: Aktualna infrastruktura OpenPKW (kontynuacja z ubiegłego tygodnia)
   * Sebastian: Czy tutaj omówimy jakie mamy maszyny wirtualne i co na nich już stoi? Np. Jenkins na GlassFishu, prototyp kalkulatora na JBossie, itd.
 * Adam: Aktualna sytuacja na wiki - musimy tam posprzątać. 
+* Adam: Aktualna sytuacja w issues - same jurrasic tickets. 
 * Adam: Czas zdefiniować developer guidelines & workspace configuration 
   * Sebastian: Zalążek jest tutaj: https://github.com/openpkw/PocKalkulatorWyborczyHtml/blob/master/README.md
+  * Adam: a tutaj reality https://github.com/openpkw/PocKalkulatorWyborczyHtml/issues/1 
 * Rafał Reguła: Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW. Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról.
   * Sebastian: Odbył się szereg dyskusji mailowo-skypowych na ten temat.
 * Sebastian: Aktualna sytuacja z włączaniem programistów do prac nad OpenPKW.
