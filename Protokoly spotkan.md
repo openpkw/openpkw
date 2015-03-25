@@ -4,7 +4,6 @@
 ## Agenda na najbliższe spotkanie
 Zbieramy tematy na najbliższą telekonferencje. Będę wdzięczny za akceptację schematu **autor: treść** 
 
-
 * Przemek: Nowa filozofia działania państwowych systemów wyborczych (PW 2.0) na podstawie Wytycznych PKW dla Obwodowych KW z 9 marca 2015 r.  
   * 21 marca 2015 r.: [Wstępna analiza](https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
   * Sebastian: Od strony prototypu HTML bardzo interesuje mnie sprawa loginów, haseł, certyfikatów i kodów jednorazowych.  
@@ -17,7 +16,6 @@ Zbieramy tematy na najbliższą telekonferencje. Będę wdzięczny za akceptacj�
   * Sebastian: Czy tutaj omówimy jakie mamy maszyny wirtualne i co na nich już stoi? Np. Jenkins na GlassFishu, prototyp kalkulatora na JBossie, itd.
 * Adam: Czas zdefiniować developer guidelines & workspace configuration 
   * Sebastian: Zalążek jest tutaj: https://github.com/openpkw/PocKalkulatorWyborczyHtml/blob/master/README.md
-
 * Sebastian: Aktualna sytuacja z włączaniem programistów do prac nad OpenPKW.
 * Sebastian: Czy możemy już się zastanowić nad wyborem docelowej technologii?
   * Programiści Javowi dążą w stronę aplikacji webowej w Java EE. Prototyp jest właśnie w tej technologii.
