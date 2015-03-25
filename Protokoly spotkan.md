@@ -63,6 +63,13 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 * 2015.03.18-4: [Programiści] Zaimplementować walidację pól formularza do końca.
   * Nikt nie wziął zadania.
 
+
+##2015.03.25 20:00 [WiP]
+
+Format: Telekonferencja / Skype
+Czas: 120 min
+Obecni: Adam Kowalewski, Sebastian Celejewski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Marcin Tokarski, Robert Postek
+
 ## 2015.03.18 20:00
 Format: Telekonferencja / Skype  
 Czas: 120 min  
