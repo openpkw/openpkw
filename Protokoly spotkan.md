@@ -54,6 +54,7 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 Format: Telekonferencja / Skype  
 Czas: 120 min  
 Obecni: Adam Kowalewski, Sebastian Celejewski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Marcin Tokarski, Robert Postek  
+Odpowiedzialny za protokół: Rafał 
 
 **Dyskusja**
 * Adam: Aktualna sytuacja na wiki - musimy tam posprzątać. 
