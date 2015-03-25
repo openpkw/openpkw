@@ -9,7 +9,7 @@ Zbieramy tematy na najbliższą telekonferencje. Będę wdzięczny za akceptacj�
   * 21 marca 2015 r.: [Wstępna analiza](https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
   * Sebastian: Od strony prototypu HTML bardzo interesuje mnie sprawa loginów, haseł, certyfikatów i kodów jednorazowych.  
   * Przemek: wczoraj (24.03) ukazały się wytyczne PKW dla Okręgowych KW z 23 marca 20115 - trwa analiza.
-  * Przemek: najnowsze zasady walidacji dla wyborów prezydenckich:  [walidacja](https://github.com/Tirramisu/openpkw/blob/master/walidacja_2015_prezydent.md)
+  * Przemek: najnowsze zasady poprawności protokołów dla wyborów prezydenckich:  [walidacja](https://github.com/Tirramisu/openpkw/blob/master/walidacja_2015_prezydent.md)
 * Adam: Status implementacji 
   * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
   * [OPW wybory prezydenckie 2015] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
