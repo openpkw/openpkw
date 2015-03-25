@@ -17,8 +17,7 @@ Zbieramy tematy na najbliższą telekonferencje. Będę wdzięczny za akceptacj�
   * Sebastian: Czy tutaj omówimy jakie mamy maszyny wirtualne i co na nich już stoi? Np. Jenkins na GlassFishu, prototyp kalkulatora na JBossie, itd.
 * Adam: Czas zdefiniować developer guidelines & workspace configuration 
   * Sebastian: Zalążek jest tutaj: https://github.com/openpkw/PocKalkulatorWyborczyHtml/blob/master/README.md
-* Rafał Reguła: Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW. Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról.
-  * Sebastian: Odbył się szereg dyskusji mailowo-skypowych na ten temat.
+
 * Sebastian: Aktualna sytuacja z włączaniem programistów do prac nad OpenPKW.
 * Sebastian: Czy możemy już się zastanowić nad wyborem docelowej technologii?
   * Programiści Javowi dążą w stronę aplikacji webowej w Java EE. Prototyp jest właśnie w tej technologii.
@@ -52,14 +51,17 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 
 
 ##2015.03.25 20:00 [WiP]
-
-Format: Telekonferencja / Skype
-Czas: 120 min
-Obecni: Adam Kowalewski, Sebastian Celejewski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Marcin Tokarski, Robert Postek
+Format: Telekonferencja / Skype  
+Czas: 120 min  
+Obecni: Adam Kowalewski, Sebastian Celejewski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Marcin Tokarski, Robert Postek  
 
 **Dyskusja**
 * Adam: Aktualna sytuacja na wiki - musimy tam posprzątać. 
+  * Patrz ToDo Tomek i Przemek???
 * Adam: Aktualna sytuacja w issues - same jurrasic tickets.
+  * Patrz ToDo Tomek???
+* Rafał Reguła: Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW. Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról.
+  * Sebastian: Odbył się szereg dyskusji mailowo-skypowych na ten temat.
 
 **ToDo zrobione**
 * 2015.03.18-1: [Sebastian i Adam] Wykonanie protokołu. [DONE]
