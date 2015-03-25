@@ -15,8 +15,6 @@ Zbieramy tematy na najbliższą telekonferencje. Będę wdzięczny za akceptacj�
   * [OPW wybory prezydenckie 2015] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
 * Adam: Aktualna infrastruktura OpenPKW (kontynuacja z ubiegłego tygodnia)
   * Sebastian: Czy tutaj omówimy jakie mamy maszyny wirtualne i co na nich już stoi? Np. Jenkins na GlassFishu, prototyp kalkulatora na JBossie, itd.
-* Adam: Aktualna sytuacja na wiki - musimy tam posprzątać. 
-* Adam: Aktualna sytuacja w issues - same jurrasic tickets. 
 * Adam: Czas zdefiniować developer guidelines & workspace configuration 
   * Sebastian: Zalążek jest tutaj: https://github.com/openpkw/PocKalkulatorWyborczyHtml/blob/master/README.md
 * Rafał Reguła: Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW. Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról.
@@ -59,6 +57,9 @@ Format: Telekonferencja / Skype
 Czas: 120 min
 Obecni: Adam Kowalewski, Sebastian Celejewski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Marcin Tokarski, Robert Postek
 
+**Dyskusja**
+* Adam: Aktualna sytuacja na wiki - musimy tam posprzątać. 
+* Adam: Aktualna sytuacja w issues - same jurrasic tickets.
 
 **ToDo zrobione**
 * 2015.03.18-1: [Sebastian i Adam] Wykonanie protokołu. [DONE]
@@ -71,7 +72,6 @@ Obecni: Adam Kowalewski, Sebastian Celejewski, Tomasz Woźniak, Przemek Jodkowsk
   * Sprawdzone i udokumentowane w OPW.
 * 2015.03.11-4: [Adam, Przemek] Konsolidacja dokumentacji do głównego repozytorium. 
   * [DONE] Adam wykonał merge repozytorium Przemka. 
-  * 
 * 2015.03.18-6: [Rafał] Przejmuje długoterminową koordynację komunikacji z PKW / KBW. 
   * Kontakt nawiązany, Rafał koordynuje kommunikacje z PKW. 
 
@@ -81,7 +81,7 @@ Format: Telekonferencja / Skype
 Czas: 120 min  
 Obecni: Adam Kowalewski, Sebastian Celejewski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Marcin Tokarski, Robert Postek, Tomasz Klasa, Bartłomiej Kokoszka
 
-**[WiP] Dyskusja**
+**Dyskusja**
 * Aktualna sytuacja na GitHubie oraz dalsze kroki. Repozytorium kodu prototypów przeniesione (zadanie 2015.03.11-8), dokumentację trzeba przenieść (zadanie 2015.03.11-4 i chyba też 2015.03.18-4 o ile dobrze rozumiem).
 
 * Status implementacji 
