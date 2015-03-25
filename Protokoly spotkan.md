@@ -3,7 +3,7 @@
 
 ## Agenda na najbliższe spotkanie
 Zbieramy tematy na najbliższą telekonferencje. Będę wdzięczny za akceptację schematu **autor: treść** 
-Aktualna ankieta w doodle http://doodle.com/n4gs893r2efcyx36
+
 
 * Przemek: Nowa filozofia działania państwowych systemów wyborczych (PW 2.0) na podstawie Wytycznych PKW dla Obwodowych KW z 9 marca 2015 r.  
   * 21 marca 2015 r.: [Wstępna analiza](https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
