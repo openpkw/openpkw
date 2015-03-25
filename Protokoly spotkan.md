@@ -28,20 +28,9 @@ Zbieramy tematy na najbliższą telekonferencje. Będę wdzięczny za akceptacj�
 
 ## Aktualna lista ToDo 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] opis**. 
-* 2015.03.18-1: [Sebastian i Adam] Wykonanie protokołu.
-  * Zrobione.
-* 2015.03.18-2: [Tomek, Sebastian, Adam] Tematyka CI w Azure, cel to budujący i testujący Jenkins.
-  * Adam & Sebastian: jesteśmy zgodni, jedna solidna VM w Azure wystarczy na początek. Zmieniamy pakiet z A0 na D3 [Pakiety Azure](http://azure.microsoft.com/pl-pl/pricing/details/virtual-machines/#Linux)
-  * Jenkins został skonfigurowany i buduje POC_KW jak i OPW. Infrastrukture udostępnia Adam. 
 * 2015.03.18-3: [Marcin, Sebastian, Adam] Definicja zadań (user story) dla kontrybutorów POC.
   * Sebastian: Utworzyłem zadania w OpenProject, ale nie jestem zadowolony z funkcjonalności.
-* 2015.03.18-4: [Adam] Reverse fork do głównego repozytorium wraz z wszelkimi konfliktami. 
-  * [DONE] docs/adam oznaczone jako @Deprecated 
-* 2015.03.18-5: [Adam] Sprawdzi możliwość integracji technologi SMS z OPW. 
-* 2015.03.18-6: [Rafał] Przejmuje długoterminową koordynację komunikacji z PKW / KBW. 
 * 2015.03.11-1: [Robert, Rafał] Gromadzenie informacji na temat reguł walidacji i plików  KLK. 
-* 2015.03.11-4: [Adam, Przemek] Konsolidacja dokumentacji do głównego repozytorium. 
-  * [DONE] Adam wykonał merge repozytorium Przemka. 
 * 2015.03.11-7: [Adam] Odnowi kontakt z NIWA. Tematyka infrastruktury i CI. Postara się zaprosić kogoś z NIWA do udziału w jednej z nadchodzących telekonferencji. 
 * 2015.03.04-1: [Tomasz Woźniak] Zdobyć w PKW informację gdzie i kiedy generowany jest barcode dla formularzy? Czy w kalkulatorze czy na serwerze. SC: Ja bym to uznał za zamknięte, bo wiemy, że dotychczas barcode był generowany w kliencie.
   * 2015.03.18 Zadanie przejmuje Robert. 
@@ -69,6 +58,23 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 Format: Telekonferencja / Skype
 Czas: 120 min
 Obecni: Adam Kowalewski, Sebastian Celejewski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Marcin Tokarski, Robert Postek
+
+
+**ToDo zrobione**
+* 2015.03.18-1: [Sebastian i Adam] Wykonanie protokołu. [DONE]
+* 2015.03.18-2: [Tomek, Sebastian, Adam] Tematyka CI w Azure, cel to budujący i testujący Jenkins.
+  * Adam & Sebastian: jesteśmy zgodni, jedna solidna VM w Azure wystarczy na początek. Zmieniamy pakiet z A0 na D3 [Pakiety Azure](http://azure.microsoft.com/pl-pl/pricing/details/virtual-machines/#Linux)
+  * Jenkins został skonfigurowany i buduje POC_KW jak i OPW. Infrastrukture udostępnia Adam. 
+* 2015.03.18-4: [Adam] Reverse fork do głównego repozytorium wraz z wszelkimi konfliktami. 
+  * [DONE] docs/adam oznaczone jako @Deprecated 
+* 2015.03.18-5: [Adam] Sprawdzi możliwość integracji technologi SMS z OPW. 
+  * Sprawdzone i udokumentowane w OPW.
+* 2015.03.11-4: [Adam, Przemek] Konsolidacja dokumentacji do głównego repozytorium. 
+  * [DONE] Adam wykonał merge repozytorium Przemka. 
+  * 
+* 2015.03.18-6: [Rafał] Przejmuje długoterminową koordynację komunikacji z PKW / KBW. 
+  * Kontakt nawiązany, Rafał koordynuje kommunikacje z PKW. 
+
 
 ## 2015.03.18 20:00
 Format: Telekonferencja / Skype  
