@@ -2,79 +2,75 @@
 
 
 ## Agenda na najbliższe spotkanie
-Zbieramy tematy na najbliższą telekonferencje. Będę wdzięczny za akceptację schematu **autor: treść** 
+Zbieramy tematy na najbliższą telekonferencje tj. 1.04.2015 {Prima Aprilis}. Będę wdzięczny za akceptację schematu ** data, [autor],[status],[treść]** 
 
-* Przemek: Nowa filozofia działania państwowych systemów wyborczych (PW 2.0) na podstawie Wytycznych PKW dla Obwodowych KW z 9 marca 2015 r.  
-  * 21 marca 2015 r.: [Wstępna analiza](https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
-  * Sebastian: Od strony prototypu HTML bardzo interesuje mnie sprawa loginów, haseł, certyfikatów i kodów jednorazowych.  
-  * Przemek: wczoraj (24.03) ukazały się wytyczne PKW dla Okręgowych KW z 23 marca 20115 - trwa analiza.
-  * Przemek: najnowsze zasady poprawności protokołów dla wyborów prezydenckich:  [walidacja](https://github.com/Tirramisu/openpkw/blob/master/walidacja_2015_prezydent.md)
-* Adam: Status implementacji 
+*  2015.03.26 [Przemek], [Pending]: Nowa filozofia działania państwowych systemów wyborczych (PW 2.0) na podstawie Wytycznych PKW dla Obwodowych KW z 9 marca 2015 r.   
+ * (https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
+ * 2015.03.26 [Sebastian] [Pending]: Od strony prototypu HTML bardzo interesuje mnie sprawa loginów, haseł, certyfikatów i kodów jednorazowych.  
+  
+* 2015.03.26 [Adam] [Pending] : Status implementacji 
   * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
   * [OPW wybory prezydenckie 2015] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
-* Adam: Aktualna infrastruktura OpenPKW (kontynuacja z ubiegłego tygodnia)
-  * Sebastian: Czy tutaj omówimy jakie mamy maszyny wirtualne i co na nich już stoi? Np. Jenkins na GlassFishu, prototyp kalkulatora na JBossie, itd.
-* Adam: Czas zdefiniować developer guidelines & workspace configuration 
+
+* 2015.03.26 [Adam] [Pending] : Czas zdefiniować developer guidelines & workspace configuration 
   * Sebastian: Zalążek jest tutaj: https://github.com/openpkw/PocKalkulatorWyborczyHtml/blob/master/README.md
-* Sebastian: Aktualna sytuacja z włączaniem programistów do prac nad OpenPKW.
-* Sebastian: Czy możemy już się zastanowić nad wyborem docelowej technologii?
+* 2015.03.26 [Sebastian] [Pending] Aktualna sytuacja z włączaniem programistów do prac nad OpenPKW.
+* 2015.03.26 [Sebastian][Pending] Czy możemy już się zastanowić nad wyborem docelowej technologii?
   * Programiści Javowi dążą w stronę aplikacji webowej w Java EE. Prototyp jest właśnie w tej technologii.
   * Programiści front-endowi proponują postawienie prototypu HTML na serwerze HTML (Apache, Node.js).
 
-## Aktualna lista ToDo 
-Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] opis**. 
-* 2015.03.18-3: [Marcin, Sebastian, Adam] Definicja zadań (user story) dla kontrybutorów POC.
+## Aktualna lista ToDo: 
+Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
+* 2015.03.25-0 [Tomek] [Pending], przekazac namiary na Mobile  i Java Developers. 
+* 2015.03.25-1 [Rafał] [Pending], Zaproponować dokumenty Project Office ( dokumentacja projektowa ) + wewnetrzna komunikacja ( kontakty do nas wszytkich )
+* 2015.03.25-2: [Marcin, Sebastian, Adam] [Pending]:  Definicja zadań (user story) dla kontrybutorów POC.
   * Sebastian: Utworzyłem zadania w OpenProject, ale nie jestem zadowolony z funkcjonalności.
-* 2015.03.11-1: [Robert, Rafał] Gromadzenie informacji na temat reguł walidacji i plików  KLK. 
-* 2015.03.11-7: [Adam] Odnowi kontakt z NIWA. Tematyka infrastruktury i CI. Postara się zaprosić kogoś z NIWA do udziału w jednej z nadchodzących telekonferencji. 
-* 2015.03.04-1: [Tomasz Woźniak] Zdobyć w PKW informację gdzie i kiedy generowany jest barcode dla formularzy? Czy w kalkulatorze czy na serwerze. SC: Ja bym to uznał za zamknięte, bo wiemy, że dotychczas barcode był generowany w kliencie.
-  * 2015.03.18 Zadanie przejmuje Robert. 
-* 2015.03.04-2: [Tomasz Woźniak] Zdobyć w PKW wszystkie pliki KLK na najbliższe wybory prezydenckie. Zarówno pliki KLK zawierające dane komisji i listy kandydatów, jak i pliki KLK z regułami walidacji.
-  * 2015.03.18 Rafał przejmuje koordynacje tego zadania. 
-  * Adam dodał zformatowane pliki do repozytorium. 
-* 2015.03.04-3: [Sebastian -> Programiści] Zaimplementować zapis formularza do formatu XML.
+* 2015.03.25-3: [Robert, Rafał]  [Pending], Gromadzenie informacji na temat reguł walidacji i plików  KLK. 
+* 2015.03.04-4: [Rafał], [Pending], Zdobyć w PKW wszystkie pliki KLK na najbliższe wybory prezydenckie. Zarówno pliki KLK zawierające dane komisji i listy kandydatów, jak i pliki KLK z regułami walidacji.
+* 2015.03.25-5: [Marek, Przemek], [Pending] : Sprawdzić i posprzatac WIKI
+* 2015.03.25-6: [Tomek], [Pending] : Pozamykać Jurasic Ticket 
+* 2015.03.25-7: [Tomek, Rafał Malujda], [Pending] : Dokonczą temat prawny ws AGPL i kodu systemu dla openPKW
+* 2015.03.04-8: [Sebastian -> Programiści] [On Hold], Zaimplementować zapis formularza do formatu XML.
   * Nikt nie wziął zadania.
-* 2015.03.04-4: [Sebastian -> Programiści] Zaimplementować generowanie sumy MD5 (zależy od 2015.03.04-3).
+* 2015.03.04-9 [Sebastian -> Programiści] [On Hold] Zaimplementować generowanie sumy MD5 
   * Nikt nie wziął zadania.
-* 2015.03.04-5: [Marcin lub inni Programiści] Dokończyć wariant 3 generowania PDFa z wypełnionym formularzem.
+* 2015.03.04-10: [Marcin lub inni Programiści] [On Hold] Dokończyć wariant 3 generowania PDFa z wypełnionym formularzem.
   * Nikt nie wziął zadania.
-* 2015.03.18-1: [Programiści] Zaimplementować podpisywanie protokołu w postaci pliku XML certyfikatem.
+* 2015.03.18-11: [Programiści] [On Hold] Zaimplementować podpisywanie protokołu w postaci pliku XML certyfikatem.
   * Nikt nie wziął zadania.
-* 2015.03.18-2: [Programiści] Zaimplementować obsługę tzw. raportu błędów.
+* 2015.03.18-12: [Programiści] [On Hold]  Zaimplementować obsługę tzw. raportu błędów.
   * Nikt nie wziął zadania.
-* 2015.03.18-3: [Programiści] Zaimplementować obsługę uwag i adnotacji (punkty 15-21 formularza).
+* 2015.03.18-13: [Programiści] [On Hold], Zaimplementować obsługę uwag i adnotacji (punkty 15-21 formularza).
   * Nikt nie wziął zadania.
-* 2015.03.18-4: [Programiści] Zaimplementować walidację pól formularza do końca.
+* 2015.03.18-14: [Programiści] [On Hold] Zaimplementować walidację pól formularza do końca.
   * Nikt nie wziął zadania.
 
 
-##2015.03.25 20:00 [WiP]
+##2015.03.25 20:00 
 Format: Telekonferencja / Skype  
 Czas: 120 min  
-Obecni: Adam Kowalewski, Sebastian Celejewski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Marcin Tokarski, Robert Postek  
+Obecni: Adam Kowalewski, Sebastian Celejewski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Marcin Tokarski, Robert Postek, Rafał Malujda  
 Odpowiedzialny za protokół: Rafał 
 
 **Dyskusja**
 * Adam: Aktualna sytuacja na wiki - musimy tam posprzątać. 
-  * Patrz ToDo Tomek i Przemek???
+  * Patrz ToDo Tomek i Przemek
 * Adam: Aktualna sytuacja w issues - same jurrasic tickets.
-  * Patrz ToDo Tomek???
-* Rafał Reguła: Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW. Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról.
-  * Sebastian: Odbył się szereg dyskusji mailowo-skypowych na ten temat.
+  * Patrz ToDo Tomek - Wykasowanie ticketów jurasic
+* Rafał Reguła: Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW. Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról. Issue do zamknecia. Problem rozwiazany. 
+*  Adam - Potrzeba zaangazowania wiekszej ilosci programistów Java Script [pending]
+ *  Patrz ToDo Tomek 
+* Rafał - Zaproponuje dokumenty odnosnie Project Office i dokumenatcji [pending]
+* Rafal Malujda. Dołaczył do telekonferencji, nakresił w czym moze i jak pomóc. Zaproponował zeby tematy prawnicze wysłac do niego. Opisał zasady licencjonowania AGPL dla openPKW. Zobligował sie ze w ramach mozliwosci bedzie starał sie byc cyklicznie na telekonferencjach od 21 godziny.  
 
-**ToDo zrobione**
-* 2015.03.18-1: [Sebastian i Adam] Wykonanie protokołu. [DONE]
-* 2015.03.18-2: [Tomek, Sebastian, Adam] Tematyka CI w Azure, cel to budujący i testujący Jenkins.
-  * Adam & Sebastian: jesteśmy zgodni, jedna solidna VM w Azure wystarczy na początek. Zmieniamy pakiet z A0 na D3 [Pakiety Azure](http://azure.microsoft.com/pl-pl/pricing/details/virtual-machines/#Linux)
-  * Jenkins został skonfigurowany i buduje POC_KW jak i OPW. Infrastrukture udostępnia Adam. 
-* 2015.03.18-4: [Adam] Reverse fork do głównego repozytorium wraz z wszelkimi konfliktami. 
-  * [DONE] docs/adam oznaczone jako @Deprecated 
-* 2015.03.18-5: [Adam] Sprawdzi możliwość integracji technologi SMS z OPW. 
-  * Sprawdzone i udokumentowane w OPW.
-* 2015.03.11-4: [Adam, Przemek] Konsolidacja dokumentacji do głównego repozytorium. 
-  * [DONE] Adam wykonał merge repozytorium Przemka. 
-* 2015.03.18-6: [Rafał] Przejmuje długoterminową koordynację komunikacji z PKW / KBW. 
-  * Kontakt nawiązany, Rafał koordynuje kommunikacje z PKW. 
+**ToDo zrobione** [data],[autor],[status], [opis]
+*  [Adam, Sebastian] [Done] Czy tutaj omówimy jakie mamy maszyny wirtualne i co na nich już stoi? Np. Jenkins na GlassFishu, prototyp kalkulatora na JBossie. [Omówione]
+*  2015.03.25 [Przemek] [Analiza Wstepna] [Done] najnowsze zasady poprawności protokołów dla wyborów prezydenckich:  [walidacja](https://github.com/Tirramisu/openpkw/blob/master/walidacja_2015_prezydent.md) 
+*  2015.03.25 [Adam] [Done] Aktualna infrastruktura OpenPKW (kontynuacja z ubiegłego tygodnia)
+*  2015.03.25[Adam], [Done], Odnowi kontakt z NIWA. Tematyka infrastruktury i CI. Postara się zaprosić kogoś z NIWA do udziału w jednej z nadchodzących telekonferencji [Nie ma potrzeby, mamy obecnie infrastrukture serwerowa] 
+*  2015.03.25  [Tomasz Woźniak], [Done], Zdobyć w PKW informację gdzie i kiedy generowany jest barcode dla formularzy? Czy w kalkulatorze czy na serwerze. SC: Ja bym to uznał za zamknięte, bo wiemy, że dotychczas barcode był generowany w kliencie.
+*  2015.03.25  [Tomasz Woźniak], [Done] Aktualizacja kontaktów na openpkw.pl
+ 
 
 
 ## 2015.03.18 20:00
