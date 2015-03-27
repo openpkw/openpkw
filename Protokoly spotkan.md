@@ -16,6 +16,7 @@ Zbieramy tematy na najbliższą telekonferencje tj. 1.04.2015 {Prima Aprilis}. B
 * 2015.03.26 [Sebastian][Pending] Czy możemy już się zastanowić nad wyborem docelowej technologii?
   * Programiści Javowi dążą w stronę aplikacji webowej w Java EE. Prototyp jest właśnie w tej technologii.
   * Programiści front-endowi proponują postawienie prototypu HTML na serwerze HTML (Apache, Node.js).
+    * Adam: zainstalowałem node i npm na moim serwerze, Jenkins może budować aplikacje w JavaScript
 
 ## Aktualna lista ToDo: 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
