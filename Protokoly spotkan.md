@@ -6,12 +6,10 @@ Zbieramy tematy na najbliższą telekonferencje tj. 1.04.2015 {Prima Aprilis}. B
 
 *  2015.03.26 [Przemek], [Pending]: Nowa filozofia działania państwowych systemów wyborczych (PW 2.0) na podstawie Wytycznych PKW dla Obwodowych KW z 9 marca 2015 r.   
  * (https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
- * 2015.03.26 [Sebastian] [Pending]: Od strony prototypu HTML bardzo interesuje mnie sprawa loginów, haseł, certyfikatów i kodów jednorazowych.  
-  
+ * 2015.03.26 [Sebastian] [Pending]: Od strony prototypu HTML bardzo interesuje mnie sprawa loginów, haseł, certyfikatów i kodów jednorazowych.
 * 2015.03.26 [Adam] [Pending] : Status implementacji 
   * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
   * [OPW wybory prezydenckie 2015] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
-
 * 2015.03.26 [Adam] [Pending] : Czas zdefiniować developer guidelines & workspace configuration 
   * Sebastian: Zalążek jest tutaj: https://github.com/openpkw/PocKalkulatorWyborczyHtml/blob/master/README.md
 * 2015.03.26 [Sebastian] [Pending] Aktualna sytuacja z włączaniem programistów do prac nad OpenPKW.
@@ -54,11 +52,11 @@ Odpowiedzialny za protokół: Rafał
 
 **Dyskusja**
 * Adam: Aktualna sytuacja na wiki - musimy tam posprzątać. 
-  * Patrz ToDo Tomek i Przemek
+  * Patrz ToDo [2015.03.25-5]
 * Adam: Aktualna sytuacja w issues - same jurrasic tickets.
-  * Patrz ToDo Tomek - Wykasowanie ticketów jurasic
+  * Patrz ToDo [2015.03.25-6]
 * Rafał Reguła: Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW. Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról. Issue do zamknecia. Problem rozwiazany. 
-*  Adam - Potrzeba zaangazowania wiekszej ilosci programistów Java Script [pending]
+*  Adam - Potrzeba zaangazowania wiekszej ilosci programistów JavaScript [pending]
  *  Patrz ToDo Tomek 
 * Rafał - Zaproponuje dokumenty odnosnie Project Office i dokumenatcji [pending]
 * Rafal Malujda. Dołaczył do telekonferencji, nakresił w czym moze i jak pomóc. Zaproponował zeby tematy prawnicze wysłac do niego. Opisał zasady licencjonowania AGPL dla openPKW. Zobligował sie ze w ramach mozliwosci bedzie starał sie byc cyklicznie na telekonferencjach od 21 godziny.  
