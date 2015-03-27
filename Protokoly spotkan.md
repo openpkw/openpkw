@@ -10,7 +10,7 @@ Zbieramy tematy na najbliższą telekonferencje tj. 1.04.2015 {Prima Aprilis}. B
 * 2015.03.26 [Adam] [Pending] : Status implementacji 
   * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
   * [OPW wybory prezydenckie 2015] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
-* 2015.03.26 [Adam] [Pending] : Czas zdefiniować developer guidelines & workspace configuration 
+* 2015.03.26 [Adam, Sebastian] [Pending] : Czas zdefiniować developer guidelines & workspace configuration 
   * Sebastian: Zalążek jest tutaj: https://github.com/openpkw/PocKalkulatorWyborczyHtml/blob/master/README.md
 * 2015.03.26 [Sebastian] [Pending] Aktualna sytuacja z włączaniem programistów do prac nad OpenPKW.
 * 2015.03.26 [Sebastian][Pending] Czy możemy już się zastanowić nad wyborem docelowej technologii?
@@ -20,6 +20,7 @@ Zbieramy tematy na najbliższą telekonferencje tj. 1.04.2015 {Prima Aprilis}. B
 ## Aktualna lista ToDo: 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
 * 2015.03.25-0 [Tomek] [Pending], przekazac namiary na Mobile  i Java Developers. 
+  * tzn. 2 nowe projekty w OpenProject Java i PlatformyMobilne
 * 2015.03.25-1 [Rafał] [Pending], Zaproponować dokumenty Project Office ( dokumentacja projektowa ) + wewnetrzna komunikacja ( kontakty do nas wszytkich )
 * 2015.03.25-2: [Marcin, Sebastian, Adam] [Pending]:  Definicja zadań (user story) dla kontrybutorów POC.
   * Sebastian: Utworzyłem zadania w OpenProject, ale nie jestem zadowolony z funkcjonalności.
@@ -56,7 +57,7 @@ Odpowiedzialny za protokół: Rafał
 * Adam: Aktualna sytuacja w issues - same jurrasic tickets.
   * Patrz ToDo [2015.03.25-6]
 * Rafał Reguła: Brak koordynacji w projekcie oraz hierarchicznej struktury organizacyjnej projektu z podziałem na role członków OpenPKW. Potrzeba ustematyzowanie tasków i obowiazków w odniesieniu do ról. Issue do zamknecia. Problem rozwiazany. 
-*  Adam - Potrzeba zaangazowania wiekszej ilosci programistów JavaScript [pending]
+*  Sebastian: Potrzeba zaangazowania wiekszej ilosci programistów JavaScript [pending]
  *  Patrz ToDo Tomek 
 * Rafał - Zaproponuje dokumenty odnosnie Project Office i dokumenatcji [pending]
 * Rafal Malujda. Dołaczył do telekonferencji, nakresił w czym moze i jak pomóc. Zaproponował zeby tematy prawnicze wysłac do niego. Opisał zasady licencjonowania AGPL dla openPKW. Zobligował sie ze w ramach mozliwosci bedzie starał sie byc cyklicznie na telekonferencjach od 21 godziny.  
