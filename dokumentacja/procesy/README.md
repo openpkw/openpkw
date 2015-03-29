@@ -13,5 +13,5 @@ Kilka podstawowych informacji
 * klikam ESC 
 * popup znika
 * w menu wybieram Plik->Open from->URL 
-* wklejam link do wersji pliku RAW z github np. https://raw.githubusercontent.com/adamkowalewski/openpkw/docs/adam/dokumentacja/procesy/Obwodowa%20komisja%20wyborcza.xml
+* wklejam link do wersji pliku RAW z github np. https://raw.githubusercontent.com/openpkw/openpkw/master/dokumentacja/procesy/Obwodowa%20komisja%20wyborcza.xml
 * OK 
