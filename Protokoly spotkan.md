@@ -4,7 +4,10 @@
 ## Agenda na najbliższe spotkanie
 Zbieramy tematy na najbliższą telekonferencje tj. 1.04.2015 {Prima Aprilis}. Będę wdzięczny za akceptację schematu ** data, [autor],[status],[treść]** 
 
-* 2015.03.29 [Sebastian]: Chciałbym wrócić do tematu maszyn wirtualnych. Po przekroczeniu planu darmowego w Amazon Web Services muszę płacić za utrzymanie maszyn OpenPKW.
+* 2015.03.31 [Rafal] [NEW] : Raport NIK ws Majowych wyborów i rekomendacja liczenia głosów ręcznie. Problemy po stronie PKW. Czy starać się zmobilizować polityków zeby nagłosnili mocniej temat ? 
+*
+
+* 2015.03.29 [Sebastian] [NEW]: Chciałbym wrócić do tematu maszyn wirtualnych. Po przekroczeniu planu darmowego w Amazon Web Services muszę płacić za utrzymanie maszyn OpenPKW.
 *  2015.03.26 [Przemek], [Pending]: Nowa filozofia działania państwowych systemów wyborczych (PW 2.0) na podstawie Wytycznych PKW dla Obwodowych KW z 9 marca 2015 r.   
  * (https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
  * 2015.03.26 [Sebastian] [Pending]: Od strony prototypu HTML bardzo interesuje mnie sprawa loginów, haseł, certyfikatów i kodów jednorazowych.
