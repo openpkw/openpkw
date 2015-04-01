@@ -1,6 +1,5 @@
 # Protokoły spotkań
 
-
 ## Agenda na najbliższe spotkanie
 Zbieramy tematy na najbliższą telekonferencje tj. 1.04.2015 {Prima Aprilis}. Będę wdzięczny za akceptację schematu ** data, [autor],[status],[treść]** 
 
@@ -32,7 +31,6 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 * 2015.03.25-3: [Robert, Rafał]  [Pending], Gromadzenie informacji na temat reguł walidacji i plików  KLK. 
 * 2015.03.04-4: [Rafał], [Pending], Zdobyć w PKW wszystkie pliki KLK na najbliższe wybory prezydenckie. Zarówno pliki KLK zawierające dane komisji i listy kandydatów, jak i pliki KLK z regułami walidacji.
 * 2015.03.25-5: [Marek, Przemek], [Pending] : Sprawdzić i posprzatac WIKI
-* 2015.03.25-6: [Tomek], [Pending] : Pozamykać Jurasic Ticket 
 * 2015.03.25-7: [Tomek, Rafał Malujda], [Pending] : Dokonczą temat prawny ws AGPL i kodu systemu dla openPKW
 * 2015.03.04-8: [Sebastian -> Programiści] [On Hold], Zaimplementować zapis formularza do formatu XML.
   * Nikt nie wziął zadania.
@@ -48,6 +46,20 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
   * Nikt nie wziął zadania.
 * 2015.03.18-14: [Programiści] [On Hold] Zaimplementować walidację pól formularza do końca.
   * Nikt nie wziął zadania.
+
+
+
+##2015.04.01 20:00 
+Format: Telekonferencja / Skype  
+Czas: 90 min  
+Obecni: Adam Kowalewski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Marcin Fabrykowski   
+Odpowiedzialny za protokół: Rafał 
+
+**Dyskusja**
+* 2015.03.25-6: [Tomek], [Pending] : Pozamykać Jurasic Ticket 
+  * Przejmuje Adam, Status [DONE]
+
+**ToDo zrobione** [data],[autor],[status], [opis]
 
 
 ##2015.03.25 20:00 
