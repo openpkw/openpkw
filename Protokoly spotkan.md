@@ -3,12 +3,10 @@
 ## Agenda na najbliższe spotkanie
 Zbieramy tematy na najbliższą telekonferencje tj. 8.04.2015. Będę wdzięczny za akceptację schematu ** data, [autor],[status],[treść]** 
 
-* 2015.03.29 [Sebastian] [PENDING]: Przegląd posiadanych i stosowanych przez nas maszyn wirtualnych. O ile wiem, mamy: dobromira, maszynę Adama, trzy maszyny moje, maszynę Rafała. Potencjalnie: maszyny z NIWA. Czy chcemy mieć OpenPKW na maszynach z różnych parafii czy jednak będziemy się starać przenieść wszystko w jedno miejsce (to jest moja propozycja).
 * 2015.03.26 [Przemek], [Pending]: Nowa filozofia działania państwowych systemów wyborczych (PW 2.0) na podstawie Wytycznych PKW dla Obwodowych KW z 9 marca 2015 r.
 - * (https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
 - * 2015.03.26 [Sebastian] [Pending]: Od strony prototypu HTML bardzo interesuje mnie sprawa loginów, haseł, certyfikatów i kodów jednorazowych.
 * 2015.04.01 [Rafal] [PENDING] :  Narzędzie Apache OpenMeetings albo AnyMeeting - Przejrzenie online i sharing dokumentacji czy wam odpowiada przed wrzuceniem do repo OpenPKW. https://www.anymeeting.com/adw/Free-Webinar-Service.aspx albo http://openmeetings.apache.org
-* 2015.03.26 [Sebastian] [Pending]: Od strony prototypu HTML bardzo interesuje mnie sprawa loginów, haseł, certyfikatów i kodów jednorazowych.
 * 2015.03.26 [Adam] [Pending] : Status implementacji 
   * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
   * [OPW wybory prezydenckie 2015](https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
@@ -19,6 +17,7 @@ Zbieramy tematy na najbliższą telekonferencje tj. 8.04.2015. Będę wdzięczny
   * Programiści Javowi dążą w stronę aplikacji webowej w Java EE. Prototyp jest właśnie w tej technologii.
   * Programiści front-endowi proponują postawienie prototypu HTML na serwerze HTML (Apache, Node.js).
     * Adam: zainstalowałem node i npm na moim serwerze, Jenkins może budować aplikacje w JavaScript
+* 2015.03.29 [Sebastian] [PENDING]: Przegląd posiadanych i stosowanych przez nas maszyn wirtualnych. O ile wiem, mamy: dobromira, maszynę Adama, trzy maszyny moje, maszynę Rafała. Potencjalnie: maszyny z NIWA. Czy chcemy mieć OpenPKW na maszynach z różnych parafii czy jednak będziemy się starać przenieść wszystko w jedno miejsce (to jest moja propozycja).
 
 ## Aktualna lista ToDo: 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
