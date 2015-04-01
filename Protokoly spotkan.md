@@ -29,6 +29,8 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 * 2015.04.01-4 [Marzena] [New] Działanie PR na Fun Page - Pokazanie w komunikacie linka do POC Kalkulator i naszej dokumentacji na GitHub
 * 2015.03.25-0 [Tomek] [Pending], przekazac namiary na Mobile  i Java Developers. 
   * tzn. 2 nowe projekty w OpenProject Java i PlatformyMobilne
+* 2015.03.25-2: [Marcin, Sebastian, Adam] [Pending]: Definicja zadań (user story) dla kontrybutorów POC.
+  * Temat omówiony na skype. Nowe User story są definiowane zgodnie ze standardami. 
 * 2015.03.25-6 [Rafał] [Pending], Zaproponować dokumenty Project Office ( dokumentacja projektowa ) + wewnetrzna komunikacja ( kontakty do nas wszytkich )
 * 2015.03.25-7: [Marcin, Sebastian, Adam] [Pending]:  Definicja zadań (user story) dla kontrybutorów POC.
   * Sebastian: Utworzyłem zadania w OpenProject, ale nie jestem zadowolony z funkcjonalności.
