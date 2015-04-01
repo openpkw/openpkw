@@ -68,7 +68,6 @@ Odpowiedzialny za protokół: Rafał
 **ToDo zrobione** [data],[autor],[status], [opis]
 * 2015.03.25-6: [ADAM], [DONE] : Pozamykać Jurasic Ticket 
 * 2015.04.01 [Sebastian] [CLOSED]: Czy OPW powstaje w ramach OpenPKW czy obok OpenPKW z wykorzystaniem ludzi związanych z OpenPKW? Pytam, bo to może być sprawa konfliktogenna. Chciałbym, aby sytuacja była klarowna  [OPW powstaje równolegle z OpenPKW]
-*  2015.03.26 [Przemek], [CLOSED]: Nowa filozofia działania państwowych systemów wyborczych (PW 2.0) na podstawie Wytycznych PKW dla Obwodowych KW z 9 marca 2015 r.  [Temat powróci jak PKW ogłosci zmiany 
 *  2015.03.31 [Rafal] [CLOSED] : Raport NIK ws Majowych wyborów i rekomendacja liczenia głosów ręcznie. Problemy po stronie PKW. Czy starać się zmobilizować polityków zeby nagłosnili mocniej temat. [Co my mozemy zrobić - nic] 
 * 2015.03.25-3: [Robert, Rafał]  [CLOSED], Gromadzenie informacji na temat reguł walidacji i plików  KLK. [Jak sie pojawi info od PKW ze KLK będą wykorzystywana to temat powróci]
 
