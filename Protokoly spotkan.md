@@ -7,7 +7,7 @@ Zbieramy tematy na najbliższą telekonferencje tj. 1.04.2015 {Prima Aprilis}. B
 * 2015.03.31 [Rafal] [NEW] : Raport NIK ws Majowych wyborów i rekomendacja liczenia głosów ręcznie. Problemy po stronie PKW. Czy starać się zmobilizować polityków zeby nagłosnili mocniej temat ? 
 * 2015.03.29 [Sebastian] [NEW]: Przegląd posiadanych i stosowanych przez nas maszyn wirtualnych. O ile wiem, mamy: dobromira, maszynę Adama, trzy maszyny moje, maszynę Rafała. Potencjalnie: maszyny z NIWA. Czy chcemy mieć OpenPKW na maszynach z różnych parafii czy jednak będziemy się starać przenieść wszystko w jedno miejsce (to jest moja propozycja).
 * 2015.03.31 [Sebastian] [NEW]: Czy OPW powstaje w ramach OpenPKW czy obok OpenPKW z wykorzystaniem ludzi związanych z OpenPKW? Pytam, bo to może być sprawa konfliktogenna. Chciałbym, aby sytuacja była klarowna
-* 2015.04.01 [Rafal] [NEW] :  Narzędzie Apache OpenMeetings - Przejrzenie online i sharing dokumentacji czy wam odpowiada przed wrzuceniem do repo OpenPKW
+* 2015.04.01 [Rafal] [NEW] :  Narzędzie Apache OpenMeetings albo AnyMeeting - Przejrzenie online i sharing dokumentacji czy wam odpowiada przed wrzuceniem do repo OpenPKW. https://www.anymeeting.com/adw/Free-Webinar-Service.aspx albo http://openmeetings.apache.org
 *  2015.03.26 [Przemek], [Pending]: Nowa filozofia działania państwowych systemów wyborczych (PW 2.0) na podstawie Wytycznych PKW dla Obwodowych KW z 9 marca 2015 r.   
  * (https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
  * 2015.03.26 [Sebastian] [Pending]: Od strony prototypu HTML bardzo interesuje mnie sprawa loginów, haseł, certyfikatów i kodów jednorazowych.
