@@ -4,17 +4,18 @@
 Zbieramy tematy na najbliższą telekonferencje tj. 8.04.2015. Będę wdzięczny za akceptację schematu ** data, [autor],[status],[treść]** 
 
 * 2015.03.29 [Sebastian] [PENDING]: Przegląd posiadanych i stosowanych przez nas maszyn wirtualnych. O ile wiem, mamy: dobromira, maszynę Adama, trzy maszyny moje, maszynę Rafała. Potencjalnie: maszyny z NIWA. Czy chcemy mieć OpenPKW na maszynach z różnych parafii czy jednak będziemy się starać przenieść wszystko w jedno miejsce (to jest moja propozycja).
-
+* 2015.03.26 [Przemek], [Pending]: Nowa filozofia działania państwowych systemów wyborczych (PW 2.0) na podstawie Wytycznych PKW dla Obwodowych KW z 9 marca 2015 r.
+- * (https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
+- * 2015.03.26 [Sebastian] [Pending]: Od strony prototypu HTML bardzo interesuje mnie sprawa loginów, haseł, certyfikatów i kodów jednorazowych.
 * 2015.04.01 [Rafal] [PENDING] :  Narzędzie Apache OpenMeetings albo AnyMeeting - Przejrzenie online i sharing dokumentacji czy wam odpowiada przed wrzuceniem do repo OpenPKW. https://www.anymeeting.com/adw/Free-Webinar-Service.aspx albo http://openmeetings.apache.org
-* 
-2015.03.26 [Sebastian] [Pending]: Od strony prototypu HTML bardzo interesuje mnie sprawa loginów, haseł, certyfikatów i kodów jednorazowych.
+* 2015.03.26 [Sebastian] [Pending]: Od strony prototypu HTML bardzo interesuje mnie sprawa loginów, haseł, certyfikatów i kodów jednorazowych.
 * 2015.03.26 [Adam] [Pending] : Status implementacji 
   * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
-  * [OPW wybory prezydenckie 2015] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
+  * [OPW wybory prezydenckie 2015](https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
 * 2015.03.26 [Adam, Sebastian] [Pending] : Czas zdefiniować developer guidelines & workspace configuration 
   * Sebastian: Zalążek jest tutaj: https://github.com/openpkw/PocKalkulatorWyborczyHtml/blob/master/README.md
 * 2015.03.26 [Sebastian] [Pending] Aktualna sytuacja z włączaniem programistów do prac nad OpenPKW.
-* 2015.03.26 [Sebastian][Pending] Czy możemy już się zastanowić nad wyborem docelowej technologii?
+* 2015.03.26 [Sebastian] [Pending] Czy możemy już się zastanowić nad wyborem docelowej technologii?
   * Programiści Javowi dążą w stronę aplikacji webowej w Java EE. Prototyp jest właśnie w tej technologii.
   * Programiści front-endowi proponują postawienie prototypu HTML na serwerze HTML (Apache, Node.js).
     * Adam: zainstalowałem node i npm na moim serwerze, Jenkins może budować aplikacje w JavaScript
@@ -56,27 +57,17 @@ Obecni: Adam Kowalewski, Tomasz Woźniak, Przemek Jodkowski, Rafał Reguła, Mar
 Odpowiedzialny za protokół: Rafał 
 
 **Dyskusja**
-
-Rozmowa dotycząca starej platformy wyborczej wykorzystywanej w wyborach samorządowych 2014
-
-Rozmowa dotyczaca przyszłosci OP - patrz ToDo ----> 2015.04.01-1
-
-Rozmowa dotycząca Konfiguracji Azure - patrz ToDo ---->2015.04.01-2
-
-Przekazanie ssh/sudo admin dla marcina, adama , sebastiana - Patrz ToDo --->2015.04.01-3
-
-Rozmowa ws potrzeby działania PR od naszej Pani rzecznik i komunikacji na zewnatrz w projekcie - Patrz ToDo --- > 2015.04.01-4
-
-Rafał Zobligował sie ze po wystawieniu komunikatu przez Pania rzecznik na Fun Page ze mamy działajay kalkulator i szukamy ludzi do pomocy - bedzie koordynował nabór programistów i przekazywał info Tomkowi o statusie z tym procesem zwiazanym.
-
-Na poswietach pomysl Tomka dotyczacy Vloga do zrealizowania w przyszłosci. 
+* Rozmowa dotycząca starej platformy wyborczej wykorzystywanej w wyborach samorządowych 2014
+* Rozmowa dotyczaca przyszłosci OP - patrz ToDo [2015.04.01-1]
+* Rozmowa dotycząca Konfiguracji Azure - patrz ToDo [2015.04.01-2]
+* Przekazanie ssh/sudo admin dla marcina, adama , sebastiana - Patrz ToDo [2015.04.01-3]
+* Rozmowa ws potrzeby działania PR od naszej Pani rzecznik i komunikacji na zewnatrz w projekcie - Patrz ToDo [ 2015.04.01-4]
+* Rafał Zobligował sie ze po wystawieniu komunikatu przez Pania rzecznik na Fun Page ze mamy działajay kalkulator i szukamy ludzi do pomocy - bedzie koordynował nabór programistów i przekazywał info Tomkowi o statusie z tym procesem zwiazanym.
+* Na poswietach pomysl Tomka dotyczacy Vloga do zrealizowania w przyszłosci. 
 
 **ToDo zrobione** [data],[autor],[status], [opis]
 * 2015.03.25-6: [ADAM], [DONE] : Pozamykać Jurasic Ticket 
-  
-
 * 2015.04.01 [Sebastian] [CLOSED]: Czy OPW powstaje w ramach OpenPKW czy obok OpenPKW z wykorzystaniem ludzi związanych z OpenPKW? Pytam, bo to może być sprawa konfliktogenna. Chciałbym, aby sytuacja była klarowna  [OPW powstaje równolegle z OpenPKW]
-
 *  2015.03.26 [Przemek], [CLOSED]: Nowa filozofia działania państwowych systemów wyborczych (PW 2.0) na podstawie Wytycznych PKW dla Obwodowych KW z 9 marca 2015 r.  [Temat powróci jak PKW ogłosci zmiany 
 *  2015.03.31 [Rafal] [CLOSED] : Raport NIK ws Majowych wyborów i rekomendacja liczenia głosów ręcznie. Problemy po stronie PKW. Czy starać się zmobilizować polityków zeby nagłosnili mocniej temat. [Co my mozemy zrobić - nic] 
 * 2015.03.25-3: [Robert, Rafał]  [CLOSED], Gromadzenie informacji na temat reguł walidacji i plików  KLK. [Jak sie pojawi info od PKW ze KLK będą wykorzystywana to temat powróci]
