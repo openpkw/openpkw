@@ -3,6 +3,8 @@
 ## Agenda na najbliższe spotkanie
 Zbieramy tematy na najbliższą telekonferencje tj. 8.04.2015. Będę wdzięczny za akceptację schematu ** data, [autor],[status],[treść]** 
 
+* 2015.04.08 [Przemek] Proponuje rozpoczęcie dyskusji i ustalenie głównych założeń dla naszego systemu openPKW. Moja propozycja do dyskusji [TUTAJ] (https://github.com/Tirramisu/openpkw/blob/master/OpenPKW_jak_go_widz%C4%99.md). Po przedyskutowanie mojej propozycji przeniesiemy plik do głównego repo i będziemy uzupełniać coraz bardziej szczegółowo poszczególne punkty/moduły/zadania całego systemu tak aby połączyć całą analizę/dokumentację w jeden spójny ciąg.  
+Bardzo proszę o wcześniejsze zapoznanie się z tekstem propozycji i zgłoszenie na środowym spotkaniu konkretnych propozycji zmian i uzupełnień do dyskusji.  
 * 2015.03.26 [Przemek], [Pending]: Nowa filozofia działania państwowych systemów wyborczych (PW 2.0) na podstawie Wytycznych PKW dla Obwodowych KW z 9 marca 2015 r.
 - * (https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
 - * 2015.03.26 [Sebastian] [Pending]: Od strony prototypu HTML bardzo interesuje mnie sprawa loginów, haseł, certyfikatów i kodów jednorazowych.
