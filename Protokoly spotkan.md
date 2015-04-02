@@ -30,7 +30,6 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
   * Temat omówiony na skype. Nowe User story są definiowane zgodnie ze standardami. 
 * 2015.03.25-5: [Marek, Przemek], [Pending] : Sprawdzić i posprzatac WIKI
 * 2015.03.25-6 [Rafał] [Pending], Zaproponować dokumenty Project Office ( dokumentacja projektowa ) + wewnetrzna komunikacja ( kontakty do nas wszytkich )
-* 2015.03.25-8: [Marek, Przemek], [Pending] : Sprawdzić i posprzatac WIKI
 * 2015.03.25-9: [Tomek, Rafał Malujda], [Pending] : Dokonczą temat prawny ws AGPL i kodu systemu dla openPKW
 * 2015.03.04-10: [Programiści front-end] [On Hold] Zaimplementować zapis formularza do formatu XML.
 * 2015.03.04-11: [Programiści front-end] [On Hold] Zaimplementować generowanie sumy MD5 
