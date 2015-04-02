@@ -1,3 +1,11 @@
+
+# SPRAWA JUŻ NIEAKTUALNA.  
+Dostęp do trony testowej został zablokowany.
+
+Przemek
+----------------------------------------------------
+
+
 Witam
 
  
