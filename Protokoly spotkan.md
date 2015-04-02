@@ -7,7 +7,6 @@ Zbieramy tematy na najbliższą telekonferencje tj. 8.04.2015. Będę wdzięczny
 Bardzo proszę o wcześniejsze zapoznanie się z tekstem propozycji i zgłoszenie na środowym spotkaniu konkretnych propozycji zmian i uzupełnień do dyskusji.  
 * 2015.03.26 [Przemek], [Pending]: Nowa filozofia działania państwowych systemów wyborczych (PW 2.0) na podstawie Wytycznych PKW dla Obwodowych KW z 9 marca 2015 r.
 - * (https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
-- * 2015.03.26 [Sebastian] [Pending]: Od strony prototypu HTML bardzo interesuje mnie sprawa loginów, haseł, certyfikatów i kodów jednorazowych.
 * 2015.04.01 [Rafal] [PENDING] :  Narzędzie Apache OpenMeetings albo AnyMeeting - Przejrzenie online i sharing dokumentacji czy wam odpowiada przed wrzuceniem do repo OpenPKW. https://www.anymeeting.com/adw/Free-Webinar-Service.aspx albo http://openmeetings.apache.org
 * 2015.03.26 [Adam] [Pending] : Status implementacji 
   * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
@@ -15,10 +14,7 @@ Bardzo proszę o wcześniejsze zapoznanie się z tekstem propozycji i zgłoszeni
 * 2015.03.26 [Adam, Sebastian] [Pending] : Czas zdefiniować developer guidelines & workspace configuration 
   * Sebastian: Zalążek jest tutaj: https://github.com/openpkw/PocKalkulatorWyborczyHtml/blob/master/README.md
 * 2015.03.26 [Sebastian] [Pending] Aktualna sytuacja z włączaniem programistów do prac nad OpenPKW.
-* 2015.03.26 [Sebastian] [Pending] Czy możemy już się zastanowić nad wyborem docelowej technologii?
-  * Programiści Javowi dążą w stronę aplikacji webowej w Java EE. Prototyp jest właśnie w tej technologii.
-  * Programiści front-endowi proponują postawienie prototypu HTML na serwerze HTML (Apache, Node.js).
-    * Adam: zainstalowałem node i npm na moim serwerze, Jenkins może budować aplikacje w JavaScript
+  * Sebastian: Aktualnie zupełna cisza, brak widocznej aktywności.
 * 2015.03.29 [Sebastian] [PENDING]: Przegląd posiadanych i stosowanych przez nas maszyn wirtualnych. O ile wiem, mamy: dobromira, maszynę Adama, trzy maszyny moje, maszynę Rafała. Potencjalnie: maszyny z NIWA. Czy chcemy mieć OpenPKW na maszynach z różnych parafii czy jednak będziemy się starać przenieść wszystko w jedno miejsce (to jest moja propozycja).
 
 ## Aktualna lista ToDo: 
@@ -34,25 +30,14 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
   * Temat omówiony na skype. Nowe User story są definiowane zgodnie ze standardami. 
 * 2015.03.25-5: [Marek, Przemek], [Pending] : Sprawdzić i posprzatac WIKI
 * 2015.03.25-6 [Rafał] [Pending], Zaproponować dokumenty Project Office ( dokumentacja projektowa ) + wewnetrzna komunikacja ( kontakty do nas wszytkich )
-* 2015.03.25-7: [Marcin, Sebastian, Adam] [Pending]:  Definicja zadań (user story) dla kontrybutorów POC.
-  * Sebastian: Utworzyłem zadania w OpenProject, ale nie jestem zadowolony z funkcjonalności.
 * 2015.03.25-8: [Marek, Przemek], [Pending] : Sprawdzić i posprzatac WIKI
 * 2015.03.25-9: [Tomek, Rafał Malujda], [Pending] : Dokonczą temat prawny ws AGPL i kodu systemu dla openPKW
-* 2015.03.04-10: [Sebastian -> Programiści] [On Hold], Zaimplementować zapis formularza do formatu XML.
-  * Nikt nie wziął zadania.
-* 2015.03.04-11 [Sebastian -> Programiści] [On Hold] Zaimplementować generowanie sumy MD5 
-  * Nikt nie wziął zadania.
-* 2015.03.04-12: [Marcin lub inni Programiści] [On Hold] Dokończyć wariant 3 generowania PDFa z wypełnionym formularzem.
-  * Nikt nie wziął zadania.
-* 2015.03.18-13: [Programiści] [On Hold] Zaimplementować podpisywanie protokołu w postaci pliku XML certyfikatem.
-  * Nikt nie wziął zadania.
-* 2015.03.18-14: [Programiści] [On Hold]  Zaimplementować obsługę tzw. raportu błędów.
-  * Nikt nie wziął zadania.
-* 2015.03.18-15: [Programiści] [On Hold], Zaimplementować obsługę uwag i adnotacji (punkty 15-21 formularza).
-  * Nikt nie wziął zadania.
-* 2015.03.18-16: [Programiści] [On Hold] Zaimplementować walidację pól formularza do końca.
-  * Nikt nie wziął zadania.
-  
+* 2015.03.04-10: [Programiści front-end] [On Hold] Zaimplementować zapis formularza do formatu XML.
+* 2015.03.04-11: [Programiści front-end] [On Hold] Zaimplementować generowanie sumy MD5 
+* 2015.03.18-13: [Programiści front-end] [On Hold] Zaimplementować podpisywanie protokołu w postaci pliku XML certyfikatem.
+* 2015.03.18-14: [Programiści front-end] [On Hold] Zaimplementować obsługę tzw. raportu błędów.
+* 2015.03.18-15: [Programiści front-end] [On Hold] Zaimplementować obsługę uwag i adnotacji (punkty 15-21 formularza).
+* 2015.03.18-16: [Programiści front-end] [On Hold] Zaimplementować walidację pól formularza do końca.
 
 ##2015.04.01 20:00 
 Format: Telekonferencja / Skype  
