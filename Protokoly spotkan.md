@@ -24,7 +24,7 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 * 2015.04.01-1 [Tomek] [Pending], Konfiguracja OP i maila- zeby działały prawidłowo 
 * 2015.04.01-2 [Tomek] [Pending], Konfiguracja Jenkins/ AZURE w lepszej specyfikacji  do A3 z A0
 * 2015.04.01-3 [Tomek] [Pending], Przekazania sudo/ssh Admin dla Marcina, Sebastiana, Adama
-* 2015.04.01-4 [Marzena] [New] Działanie PR na Fun Page - Pokazanie w komunikacie linka do POC Kalkulator i naszej dokumentacji na GitHub
+* 2015.04.01-4 [Marzena] [New] Działanie PR na Fan Page - Pokazanie w komunikacie linka do POC Kalkulator i naszej dokumentacji na GitHub
 * 2015.03.25-0 [Tomek] [Pending], przekazac namiary na Mobile  i Java Developers. 
   * tzn. 2 nowe projekty w OpenProject Java i PlatformyMobilne
 * 2015.03.25-2: [Marcin, Sebastian, Adam] [Pending]: Definicja zadań (user story) dla kontrybutorów POC.
