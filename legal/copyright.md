@@ -1,0 +1,1 @@
+OpenPKW is an open source project released under the Affero General Public License version 3, OpenPKW and files herein are licensed under the text of which can be found in GNU-AGPL-3.0, or any later version of the AGPL, unless otherwise noted. Attribution information for OpenPKW is contained in the AUTHORS file.
