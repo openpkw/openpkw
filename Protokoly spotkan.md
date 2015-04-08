@@ -7,37 +7,38 @@ Zbieramy tematy na najbliższą telekonferencje tj. 8.04.2015. Będę wdzięczny
 * 2015.04.08 [Przemek] Proponuje rozpoczęcie dyskusji i ustalenie głównych założeń dla naszego systemu openPKW. Moja propozycja do dyskusji [TUTAJ] (https://github.com/Tirramisu/openpkw/blob/master/OpenPKW_jak_go_widz%C4%99.md). Po przedyskutowanie mojej propozycji przeniesiemy plik do głównego repo i będziemy uzupełniać coraz bardziej szczegółowo poszczególne punkty/moduły/zadania całego systemu tak aby połączyć całą analizę/dokumentację w jeden spójny ciąg.  
 Bardzo proszę o wcześniejsze zapoznanie się z tekstem propozycji i zgłoszenie na środowym spotkaniu konkretnych propozycji zmian i uzupełnień do dyskusji.  
 * 2015.03.26 [Przemek], [Pending]: Nowa filozofia działania państwowych systemów wyborczych (PW 2.0) na podstawie Wytycznych PKW dla Obwodowych KW z 9 marca 2015 r.
-- * (https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
-* 2015.04.01 [Rafal] [PENDING] :  Narzędzie Apache OpenMeetings albo AnyMeeting - Przejrzenie online i sharing dokumentacji czy wam odpowiada przed wrzuceniem do repo OpenPKW. https://www.anymeeting.com/adw/Free-Webinar-Service.aspx albo http://openmeetings.apache.org
+  * (https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
+* 2015.04.01 [Rafal] [Pending] :  Narzędzie Apache OpenMeetings albo AnyMeeting - Przejrzenie online i sharing dokumentacji czy wam odpowiada przed wrzuceniem do repo OpenPKW. https://www.anymeeting.com/adw/Free-Webinar-Service.aspx albo http://openmeetings.apache.org
 * 2015.03.26 [Adam] [Pending] : Status implementacji 
   * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
   * [OPW wybory prezydenckie 2015](https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
 * 2015.03.26 [Adam, Sebastian] [Pending] : Czas zdefiniować developer guidelines & workspace configuration 
   * Sebastian: Zalążek jest tutaj: https://github.com/openpkw/PocKalkulatorWyborczyHtml/blob/master/README.md
 * 2015.03.26 [Sebastian] [Pending] Aktualna sytuacja z włączaniem programistów do prac nad OpenPKW.
-  * Sebastian: Aktualnie zupełna cisza, brak widocznej aktywności.
-* 2015.03.29 [Sebastian] [PENDING]: Przegląd posiadanych i stosowanych przez nas maszyn wirtualnych. O ile wiem, mamy: dobromira, maszynę Adama, trzy maszyny moje, maszynę Rafała. Potencjalnie: maszyny z NIWA. Czy chcemy mieć OpenPKW na maszynach z różnych parafii czy jednak będziemy się starać przenieść wszystko w jedno miejsce (to jest moja propozycja).
+  * Sebastian: Aktualnie trzy osoby są aktywne w OPW. Przez to aktywność w Kalkulatorze OpenPKW jest bardzo mała. Brakuje frontendowców zaangażowanych we frontent kalkulatora. Może spotkanie w piątek zmieni sytuację na korzyść.
+* 2015.03.29 [Sebastian] [Pending]: Maszyny wirtualne.
+  * Sebastian: Proponuję przenieść Continuous Delivery, Apacha i JBossa/WebLogica na Dobromira.
 
 ## Aktualna lista ToDo: 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
 
-* 2015.04.01-1 [Tomek] [Pending], Konfiguracja OP i maila- zeby działały prawidłowo 
-* 2015.04.01-2 [Tomek] [Pending], Konfiguracja Jenkins/ AZURE w lepszej specyfikacji  do A3 z A0
-* 2015.04.01-3 [Tomek] [Pending], Przekazania sudo/ssh Admin dla Marcina, Sebastiana, Adama
-* 2015.04.01-4 [Marzena] [New] Działanie PR na Fan Page - Pokazanie w komunikacie linka do POC Kalkulator i naszej dokumentacji na GitHub
+* 2015.04.01-1 [Tomek] [Done], Konfiguracja OP i maila- zeby działały prawidłowo 
+* 2015.04.01-2 [Tomek] [Done], Konfiguracja Jenkins/ AZURE w lepszej specyfikacji  do A3 z A0
+* 2015.04.01-3 [Tomek] [Done], Przekazania sudo/ssh Admin dla Marcina, Sebastiana, Adama
+* 2015.04.01-4 [Marzena] [Done] Działanie PR na Fan Page - Pokazanie w komunikacie linka do POC Kalkulator i naszej dokumentacji na GitHub
 * 2015.03.25-0 [Tomek] [Pending], przekazac namiary na Mobile  i Java Developers. 
   * tzn. 2 nowe projekty w OpenProject Java i PlatformyMobilne
-* 2015.03.25-2: [Marcin, Sebastian, Adam] [Pending]: Definicja zadań (user story) dla kontrybutorów POC.
-  * Temat omówiony na skype. Nowe User story są definiowane zgodnie ze standardami. 
+* 2015.03.25-2: [Marcin, Sebastian, Adam] [Done]: Definicja zadań (user story) dla kontrybutorów POC.
 * 2015.03.25-5: [Marek, Przemek], [Pending] : Sprawdzić i posprzatac WIKI
 * 2015.03.25-6 [Rafał] [Pending], Zaproponować dokumenty Project Office ( dokumentacja projektowa ) + wewnetrzna komunikacja ( kontakty do nas wszytkich )
 * 2015.03.25-9: [Tomek, Rafał Malujda], [Pending] : Dokonczą temat prawny ws AGPL i kodu systemu dla openPKW
-* 2015.03.04-10: [Programiści front-end] [On Hold] Zaimplementować zapis formularza do formatu XML.
+* KW-R-1: [Programiści front-end] [Pending] Uporządkowanie kodu front-endu, przerobienie całości na Angular.
+* 2015.03.18-16/[KW-U-1](https://trello.com/c/wHH5FeuB): [Programiści front-end] [On Hold] Zaimplementować walidację pól formularza do końca.* [KW-U-2](https://trello.com/c/3nQc4SMi): [Programiści front-end] [Pending] Generowanie pliku PDF.
+* 2015.03.04-10/[KW-U-3](https://trello.com/c/LzikRQvG): [Programiści front-end] [On Hold] Zaimplementować zapis formularza do formatu XML.
+* 2015.03.18-14/[KW-U-4](https://trello.com/c/xXDZeLrq): [Programiści front-end] [On Hold] Zaimplementować obsługę tzw. raportu błędów.
+* 2015.03.18-15/[KW-U-5](https://trello.com/c/cOlQ97Vi): [Programiści front-end] [On Hold] Zaimplementować obsługę uwag i adnotacji (punkty 15-21 formularza).
 * 2015.03.04-11: [Programiści front-end] [On Hold] Zaimplementować generowanie sumy MD5 
 * 2015.03.18-13: [Programiści front-end] [On Hold] Zaimplementować podpisywanie protokołu w postaci pliku XML certyfikatem.
-* 2015.03.18-14: [Programiści front-end] [On Hold] Zaimplementować obsługę tzw. raportu błędów.
-* 2015.03.18-15: [Programiści front-end] [On Hold] Zaimplementować obsługę uwag i adnotacji (punkty 15-21 formularza).
-* 2015.03.18-16: [Programiści front-end] [On Hold] Zaimplementować walidację pól formularza do końca.
 
 ##2015.04.01 20:00 
 Format: Telekonferencja / Skype  
