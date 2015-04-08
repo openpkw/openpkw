@@ -1,59 +1,56 @@
 # Protokoły spotkań
 
 ## Agenda na najbliższe spotkanie
-Zbieramy tematy na najbliższą telekonferencje tj. 8.04.2015. Będę wdzięczny za akceptację schematu ** data, [autor],[status],[treść]** 
+Zbieramy tematy na najbliższą telekonferencje tj. 15.04.2015. Będę wdzięczny za akceptację schematu ** data, [autor],[status],[treść]** 
 
-
-* 2015.04.08 [Brygada RR + Przemek]  Sytuacja w KBW/PKW. Przeprowadzenie wyborów z wykorzystaniem systemu informatycznego versus instrukcje KBW / szkolenia Koordynatorów  
+* 2015.04.08 [Brygada RR + Przemek] Co dalej w temacie nowego systemu informatycznego w PKW/KBW? Jakie nowe wieści?
 * 2015.04.05 [Adam] Proces integracji kontrybutorów. OpenProject pozwala na zakładanie konta ale co dzieje się z tymi ludźmi? Czy nowi użytkownicy mogą sami dopisać się do zespołów? 
-* 2015.04.08 [Przemek] Proponuje rozpoczęcie dyskusji i ustalenie głównych założeń dla naszego systemu openPKW. Moja propozycja do dyskusji [TUTAJ] (https://github.com/Tirramisu/openpkw/blob/master/OpenPKW_jak_go_widz%C4%99.md). Po przedyskutowanie mojej propozycji przeniesiemy plik do głównego repo i będziemy uzupełniać coraz bardziej szczegółowo poszczególne punkty/moduły/zadania całego systemu tak aby połączyć całą analizę/dokumentację w jeden spójny ciąg.  
-Bardzo proszę o wcześniejsze zapoznanie się z tekstem propozycji i zgłoszenie na środowym spotkaniu konkretnych propozycji zmian i uzupełnień do dyskusji.  
-* 2015.03.26 [Przemek], [Pending]: Nowa filozofia działania państwowych systemów wyborczych (PW 2.0) na podstawie Wytycznych PKW dla Obwodowych KW z 9 marca 2015 r.
-  * (https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
-* 2015.04.01 [Rafal] [Pending] :  Narzędzie Apache OpenMeetings albo AnyMeeting - Przejrzenie online i sharing dokumentacji czy wam odpowiada przed wrzuceniem do repo OpenPKW. https://www.anymeeting.com/adw/Free-Webinar-Service.aspx albo http://openmeetings.apache.org
+* 2015.04.08 [Przemek] Kontynuacja analizy OpenPKW oraz analiza nowej filozofii działania państwowych systemów wyborczych. Linki: [tutaj] (https://github.com/Tirramisu/openpkw/blob/master/OpenPKW_jak_go_widz%C4%99.md) i [tutaj](https://github.com/Tirramisu/openpkw/blob/master/zmiany%20filozofii.md)
 * 2015.03.26 [Adam] [Pending] : Status implementacji 
   * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
   * [OPW wybory prezydenckie 2015](https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
-* 2015.03.26 [Adam, Sebastian] [Pending] : Czas zdefiniować developer guidelines & workspace configuration 
-  * Sebastian: Zalążek jest tutaj: https://github.com/openpkw/PocKalkulatorWyborczyHtml/blob/master/README.md
-* 2015.03.26 [Sebastian] [Pending] Aktualna sytuacja z włączaniem programistów do prac nad OpenPKW.
-  * Sebastian: Aktualnie trzy osoby są aktywne w OPW. Przez to aktywność w Kalkulatorze OpenPKW jest bardzo mała. Brakuje frontendowców zaangażowanych we frontent kalkulatora. Może spotkanie w piątek zmieni sytuację na korzyść.
-* 2015.03.29 [Sebastian] [Pending]: Maszyny wirtualne.
-  * Sebastian: Proponuję przenieść Continuous Delivery, Apacha i JBossa/WebLogica na Dobromira.
 
 ## Aktualna lista ToDo: 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
-
-* 2015.04.01-1 [Tomek] [Done], Konfiguracja OP i maila- zeby działały prawidłowo 
-* 2015.04.01-2 [Tomek] [Done], Konfiguracja Jenkins/ AZURE w lepszej specyfikacji  do A3 z A0
-* 2015.04.01-3 [Tomek] [Done], Przekazania sudo/ssh Admin dla Marcina, Sebastiana, Adama
-* 2015.04.01-4 [Marzena] [Done] Działanie PR na Fan Page - Pokazanie w komunikacie linka do POC Kalkulator i naszej dokumentacji na GitHub
+* 2015.04.08-1 [Adam, Sebastian, Maciek] [Done] Zorganizować spotkanie na temat infrastruktury.
 * 2015.03.25-0 [Tomek] [Pending], przekazac namiary na Mobile  i Java Developers. 
-  * tzn. 2 nowe projekty w OpenProject Java i PlatformyMobilne
-* 2015.03.25-2: [Marcin, Sebastian, Adam] [Done]: Definicja zadań (user story) dla kontrybutorów POC.
-* 2015.03.25-5: [Marek, Przemek], [Pending] : Sprawdzić i posprzatac WIKI
-* 2015.03.25-6 [Rafał] [Pending], Zaproponować dokumenty Project Office ( dokumentacja projektowa ) + wewnetrzna komunikacja ( kontakty do nas wszytkich )
+* 2015.03.25-5: [Adam], [Pending] : Sprawdzić i posprzatac WIKI
 * 2015.03.25-9: [Tomek, Rafał Malujda], [Pending] : Dokonczą temat prawny ws AGPL i kodu systemu dla openPKW
-* KW-R-1: [Programiści front-end] [Pending] Uporządkowanie kodu front-endu, przerobienie całości na Angular.
-* 2015.03.18-16/[KW-U-1](https://trello.com/c/wHH5FeuB): [Programiści front-end] [On Hold] Zaimplementować walidację pól formularza do końca.
-* [KW-U-2](https://trello.com/c/3nQc4SMi): [Programiści front-end + Sebastian] [Pending] Generowanie pliku PDF.
-* 2015.03.04-10/[KW-U-3](https://trello.com/c/LzikRQvG): [Programiści front-end] [On Hold] Zaimplementować zapis formularza do formatu XML.
-* 2015.03.18-14/[KW-U-4](https://trello.com/c/xXDZeLrq): [Programiści front-end] [On Hold] Zaimplementować obsługę tzw. raportu błędów.
-* 2015.03.18-15/[KW-U-5](https://trello.com/c/cOlQ97Vi): [Programiści front-end] [On Hold] Zaimplementować obsługę uwag i adnotacji (punkty 15-21 formularza).
-* 2015.03.04-11: [Programiści front-end] [On Hold] Zaimplementować generowanie sumy MD5 
-* 2015.03.18-13: [Programiści front-end] [On Hold] Zaimplementować podpisywanie protokołu w postaci pliku XML certyfikatem.
 
 ##2015.04.08 20:00
 Format: Telekonferencja / Skype
 Czas: 110 min
-Obecni: Adam Kowalewski, Przemek Jodkowski, Rafał Reguła, Sebastian Celejewski, Bartłomiej Kokoszka, Marzena Zasińska-Igła, Maciek Strzelecki
+Obecni: Adam Kowalewski, Przemek Jodkowski, Rafał Reguła, Sebastian Celejewski, Bartłomiej Kokoszka, Marzena Zasińska-Igła, Maciek Strzelecki, Marcin Tokarski
 Odpowiedzialny za protokół: Sebastian 
 
 **Dyskusja**
-
+* Przywitanie nowych osób.
+* Co się będzie działo kiedy ukończymy OpenPKW? Czy PKW wdroży OpenPKW? Czy ktoś inny wykorzysta OpenPKW?
+* Czy ma sens tworzyć OpenPKW, skoro PKW najprawdopodobniej PKW nie będzie zainteresowana wdrożeniem OpenPKW?
+* Rozpoczęcie prac nad trzecim projektem w ramach OpenPKW - aplikacja mobilna do weryfikacji zdjęć protokołów.
+* Perturbacje po wypuszczeniu wiadomości o postępach prac i komentowaniu kodu źródłowego. Ogólnie: efekt był bardzo pozytywny, parę osób zainteresowało się projektem, Adam i Sebastian posprzątali kod Kalkulatora OpenPKW w GitHubie.
+* Rozdział siły roboczej programistów pomiędzy Kalkulator OpenPKW i Otwartą Platformę Wyborczą. OPW jest bardziej atrakcyjną aplikacją, więc nastąpiło wyssanie programistów z Kalkulatora. Ustalamy, że realizujemy dalej oba systemy. W piątek będzie spotkanie zespołu programistycznego, na którym mają się pojawić nowe osoby. Może wystarczy obsady na oba systemy.
+* Sytuacja w KBW/PKW. Przeprowadzenie wyborów z wykorzystaniem systemu informatycznego versus instrukcje KBW. Podobno dzisiaj odbyły się szkolenia koordynatorów, ale brak szczegółów.
+* Kwestia otwartości projektu OpenPKW czy też jej braku. Jak ludzie z zewnąrz mają się udzielać w OpenPKW? Projektowi brakuje otwartości. Jedyne narzędzie to lista mailingowa. Niektóre osoby nie chcą korzystać z listy mailingowej i chciałyby, aby powstało forum.
+* Brak adminów. Adam nawiązał kontakt z jakimś adminem z dagnet.pl, który pomoże nam zabezpieczyć serwisy na serwerze Continuous Integration. Maszyny wirtualne - czy możemy zrobić porządek na Dobromirze? Zrobimy spotkanie administratorów.
+* Propozycja Przemka dotycząca spisywania głównych założeń dla OpenPKW - przyjęta przez wszystkich. Dyskusja o tym czy kontynuować analizę bez prac programistycznych, wraz z pracami programistycznymi czy jakoś inaczej. Chcemy dojść do tego, że prototypowanie dogoni prace analityczne.
+* Wzorce dokumentacji. Rafał i Przemek przejrzą propozycje, przykłady, wzory.
+* Status implementacji
+  * Kalkulator OpenPKW - porządne uporządkowanie kodu, powolne odtwarzanie zespołu deweloperskiego
+  * OPW - trzy wątki (backend, frontend dla zbierania wyników, frontend dla prezentowania wynikó)
+* Czy chcemy grafika do OpenPKW? Tak!
+* Przywitanie nowej rzeczniczki OpenPKW - Marzeny. Jakie mamy konta w serwisach społecznościowych. Co będziemy na ten konta wrzucać? Jaka będzie procedura przygotowywania newsów do wrzucenia w kanały mediów społecznościowych? W jaki sposób Marzena będzie zbierać informacje o tym, co się dzieje w projekcie?
+* Sprzątanie na wiki - zostało jeszcze trochę rzeczy do wyrzucenia.
+* Pomoc z NIWY w sprawie organizowania zespołu.
+* Czy skorzystamy z domeny e-wybory.pl? Dla OPW - tak. Dla Kalkulatora OpenPKW chcemy skorzystać z domeny openpkw.pl, niezależnie od tego jak długo będzie trwało ustawianie tego.
 
 **ToDo zrobione** 
-
+* 2015.04.01-1 [Tomek] [Done], Konfiguracja OP i maila- zeby działały prawidłowo 
+* 2015.04.01-2 [Tomek] [Done], Konfiguracja Jenkins/ AZURE w lepszej specyfikacji  do A3 z A0
+* 2015.04.01-3 [Tomek] [Done], Przekazania sudo/ssh Admin dla Marcina, Sebastiana, Adama
+* 2015.04.01-4 [Marzena] [Done] Działanie PR na Fan Page - Pokazanie w komunikacie linka do POC Kalkulator i naszej dokumentacji na GitHub
+* 2015.03.25-2: [Marcin, Sebastian, Adam] [Done]: Definicja zadań (user story) dla kontrybutorów POC.
+* 2015.03.25-6 [Rafał] [Pending], Zaproponować dokumenty Project Office ( dokumentacja projektowa ) + wewnetrzna komunikacja ( kontakty do nas wszytkich )
 
 ##2015.04.01 20:00 
 Format: Telekonferencja / Skype  
