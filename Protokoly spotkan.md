@@ -3,6 +3,8 @@
 ## Agenda na najbliższe spotkanie
 Zbieramy tematy na najbliższą telekonferencje tj. 8.04.2015. Będę wdzięczny za akceptację schematu ** data, [autor],[status],[treść]** 
 
+
+* 2015.04.08 [Brygada RR + Przemek]  Sytuacja w KBW/PKW. Przeprowadzenie wyborów z wykorzystaniem systemu informatycznego versus instrukcje KBW / szkolenia Koordynatorów  
 * 2015.04.05 [Adam] Proces integracji kontrybutorów. OpenProject pozwala na zakładanie konta ale co dzieje się z tymi ludźmi? Czy nowi użytkownicy mogą sami dopisać się do zespołów? 
 * 2015.04.08 [Przemek] Proponuje rozpoczęcie dyskusji i ustalenie głównych założeń dla naszego systemu openPKW. Moja propozycja do dyskusji [TUTAJ] (https://github.com/Tirramisu/openpkw/blob/master/OpenPKW_jak_go_widz%C4%99.md). Po przedyskutowanie mojej propozycji przeniesiemy plik do głównego repo i będziemy uzupełniać coraz bardziej szczegółowo poszczególne punkty/moduły/zadania całego systemu tak aby połączyć całą analizę/dokumentację w jeden spójny ciąg.  
 Bardzo proszę o wcześniejsze zapoznanie się z tekstem propozycji i zgłoszenie na środowym spotkaniu konkretnych propozycji zmian i uzupełnień do dyskusji.  
