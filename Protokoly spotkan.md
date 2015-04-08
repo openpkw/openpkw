@@ -43,6 +43,18 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 * 2015.03.04-11: [Programiści front-end] [On Hold] Zaimplementować generowanie sumy MD5 
 * 2015.03.18-13: [Programiści front-end] [On Hold] Zaimplementować podpisywanie protokołu w postaci pliku XML certyfikatem.
 
+##2015.04.08 20:00
+Format: Telekonferencja / Skype
+Czas: 110 min
+Obecni: Adam Kowalewski, Przemek Jodkowski, Rafał Reguła, Sebastian Celejewski, Bartłomiej Kokoszka, Marzena Zasińska-Igła, Maciek Strzelecki
+Odpowiedzialny za protokół: Sebastian 
+
+**Dyskusja**
+
+
+**ToDo zrobione** 
+
+
 ##2015.04.01 20:00 
 Format: Telekonferencja / Skype  
 Czas: 110 min  
