@@ -33,7 +33,8 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 * 2015.03.25-6 [Rafał] [Pending], Zaproponować dokumenty Project Office ( dokumentacja projektowa ) + wewnetrzna komunikacja ( kontakty do nas wszytkich )
 * 2015.03.25-9: [Tomek, Rafał Malujda], [Pending] : Dokonczą temat prawny ws AGPL i kodu systemu dla openPKW
 * KW-R-1: [Programiści front-end] [Pending] Uporządkowanie kodu front-endu, przerobienie całości na Angular.
-* 2015.03.18-16/[KW-U-1](https://trello.com/c/wHH5FeuB): [Programiści front-end] [On Hold] Zaimplementować walidację pól formularza do końca.* [KW-U-2](https://trello.com/c/3nQc4SMi): [Programiści front-end] [Pending] Generowanie pliku PDF.
+* 2015.03.18-16/[KW-U-1](https://trello.com/c/wHH5FeuB): [Programiści front-end] [On Hold] Zaimplementować walidację pól formularza do końca.
+* [KW-U-2](https://trello.com/c/3nQc4SMi): [Programiści front-end + Sebastian] [Pending] Generowanie pliku PDF.
 * 2015.03.04-10/[KW-U-3](https://trello.com/c/LzikRQvG): [Programiści front-end] [On Hold] Zaimplementować zapis formularza do formatu XML.
 * 2015.03.18-14/[KW-U-4](https://trello.com/c/xXDZeLrq): [Programiści front-end] [On Hold] Zaimplementować obsługę tzw. raportu błędów.
 * 2015.03.18-15/[KW-U-5](https://trello.com/c/cOlQ97Vi): [Programiści front-end] [On Hold] Zaimplementować obsługę uwag i adnotacji (punkty 15-21 formularza).
