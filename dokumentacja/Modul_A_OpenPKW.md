@@ -1,4 +1,4 @@
-Opracowano na podstawie analizy dokumentów przetargowych ([**SIWZ**] (https://github.com/Tirramisu/openpkw/blob/master/SIWZ_przetargi_2013_2014.md)) ogłoszonych przez PKW/KBW w roku 2013/2014
+Opracowano na podstawie analizy dokumentów przetargowych ([**SIWZ**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md)) ogłoszonych przez PKW/KBW w roku 2013/2014
 
 **Bardzo proszę o krytyczne spojrzenie. Czy taki podział na moduły jest odpowiedni pod względem programistycznym. Czy nie trzeba wydzielic jakiś innych modułów. Czy bazy danych będą współpracować (wymiana danych) w ramach modułów i pomiędzy nimi itp itd.**
 
@@ -25,7 +25,7 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
 
 **Moduł A.9.** Moduł zarządczy (??) dla administratorów całości systemu.
 
-# Bazy danych  
+# Wymagane bazy danych (uzyskanie dostępu lub stworzenie od podstaw)  
 
  1. Rejestr partii politycznych w Polsce  
 
