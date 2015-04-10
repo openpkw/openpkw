@@ -24,7 +24,7 @@ Dokładniejsze informacje o rodzajach komisji wyborczych [TUTAJ](https://github.
 | Obwodowa Komisja Wyborcza (statki)                     | 5                   |
 | *Razem*                                                | 25.773              |
 
-
+[**Wizualizacja wyników wyborów**] (http://prezydent2010.pkw.gov.pl/PZT1/PL/WYN/W/180801.htm)
 
 # Wybory prezydenckie - 2015
 
