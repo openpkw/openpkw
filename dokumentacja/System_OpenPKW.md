@@ -61,6 +61,8 @@ Podział zadania A na [**moduły programistyczne**] (https://github.com/openpkw/
 
 oba punkty zgodne z przedstawionym graficznie (draw.io) [**procesem**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FObwodowa%2520komisja%2520wyborcza.xml)  
 
+Podział zadania B na [**moduły programistyczne**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Modul_B_OpenPKW.md).
+
 # Ad. B.1. 
 
 * B.1.1. oprogramowanie dla local host zgodne z [**propozycją funkcjonalności**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/oper_kalkulator.md)
@@ -84,14 +86,17 @@ oba punkty zgodne z przedstawionym graficznie (draw.io) [**procesem**] (https://
 # Ad. B.2.
    * B.2.1. generowanie, certyfikatów, loginów, haseł, haseł jednorazowych
    * B.2.2. odbiór danych w noc wyborczą z Komisji Wyborczych. (symultanicznie z B.1.2.1.)
- 
+
+
 # Ad.C.
-Oprogramowanie to **NIE** będzie w całości zgodne z wytycznymi PKW.  
+Oprogramowanie to **NIE** będzie w całości zgodne z wytycznymi PKW.
+
+Podział zadania C na [**moduły programistyczne**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Modul_C_OpenPKW.md).
 
 * C.1. aplikacja mobilna (co najmniej Android i IOS) umożliwiający szybkie przekazanie cześci danych liczbowych z protokołu. (draw.io) [**przykład**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadamkowalewski%2FOtwartaPlatformaWyborcza%2Fmaster%2Fpaper%2520browser%2FOPW_client.xml)  
     * B.1.1. implementacja możliwości przesłania danych SMS ze starszych modeli telefonów.
-* B.2. aplikacja mobilna do dodatkowej weryfikacji danych liczbowych przekazanych z protokołów w postaci zdjęć samych protokołów (Rafał Reguła).  
-* B.3. oprogramowanie serwerowe 
+* C.2. aplikacja mobilna do dodatkowej weryfikacji danych liczbowych przekazanych z protokołów w postaci zdjęć samych protokołów (Rafał Reguła).  
+* C.3. oprogramowanie serwerowe 
     * przetworzenie danych, ich agregacja i udostępnienie danych zbiorczych/wizualizacja.
     * archiwizacja danych przeszłych akcji wyborczych.
 
