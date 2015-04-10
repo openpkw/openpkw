@@ -38,31 +38,44 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
   - Rodzaje obwodów (słownik)
     - stałe
       - w kraju
-        - dla niepełnosprawnych  
-        - do głosowania korespondencyjnego  
-      - za granicą
+        - dla niepełnosprawnych / do głosowania korespondencyjnego  
+      - za granicą (NIE w wyborach samorządowych) (wchodzą w skład: okręgu wyborczego właściwego dla dzielnicy Śródmieście m.st. Warszawy)  
     - odrębne
       - zakład opieki zdrowotnej,  
       - domu pomocy społecznej,  
-      - zakład karnym  
-      - areszt śledczy  
-      - oddział zewnętrznym zakładu karnego i aresztu  
-      - dom studenta lub zespół domów studenta   
-      - polskie statki morskie  
+      - zakład karnym, areszt śledczy oraz oddział zewnętrznym zakładu karnego i aresztu,  
+      - dom studenta lub zespół domów studenta (NIE w wyborach samorządowych)   
+      - polskie statki morskie (NIE w wyborach samorządowych) (wchodzą w skład: okręgu wyborczego właściwego dla siedziby armatora) 
 
  5. Okręgi wyborcze (gminy - tylko wybory samorządowe)  
 
  6. Komitety wyborcze (składy osobowe, pełnione funkcje, decyzje o zgłoszeniu, zarejestrowaniu, losowaniu nr)  
   - rodzaje komitetów wyborczych (słownik)
-    - komitet wyborczy partii politycznej (patrz 1.)
-    - komitet wyborczy koalicji partii politycznych (patrz 1.)
-    - komitet wyborczy wyborców
+    - komitet wyborczy partii politycznej (patrz 1.) (oprócz wyborów prezydenckich)
+    - komitet wyborczy koalicji partii politycznych (patrz 1.) (oprócz wyborów prezydenckich)
+    - komitet wyborczy stowarzyszenia lub organizacji społecznej (wyłącznie w wyborach samorządowych)
+    - komitet wyborczy wyborców (we wszystkich typach wyborów)
   - funkcje w komitecie wyborczym (słownik)
-    - pełnomocnik finansowy  
+    - pełnomocnik wyborczy 
+    - pełnomocnik finansowy 
+  - dane pozostałe
+    - nazwa komitetu wyborczego (art.94 KW reguluje nazewnictwo komitetów)
+    - skrót nazwy komitetu wyborczego (art. 92-95 KW reguluje zasady skrótów i znaków graficznych)
+    - znak graficzny komitetu wyborczego (j.w)
+    - adres siedziby komitetu (organu stowarzyszenia lub organizacji)
+    - numer ewidencyjny partii politycznej (w przypadku komitetu wyborczego partii politycznej lub numery )
+    - numery ewidencyjne partii politycznych (w przypadku komitetu wyborczego koalicji partii politycznych)
+    - numer ewidencyjny stowarzyszenia lub organizacji społecznej (pod którym są wpisane do rejestru)
+    - imię, nazwisko, adres zamieszkania, PESEL - pełnomocnika wyborczego (nie kandydat w wyborach prezydenckich)(Można być pełnomocnikiem wyborczym tylko jednego komitetu wyborczego)
+    - imię, nazwisko, adres zamieszkania, PESEL - pełnomocnika finansowego (nie kandydat w wyborach prezydenckich)(Można być pełnomocnikiem finansowym tylko jednego komitetu wyborczego.)  
+    - adres strony internetowej na której komitet wyborczy umieszcza informacje określone w kodeksie.
 
  7. Komisje wyborcze (składy osobowe, pełnione funkcje)  
-  - funkcje (słownik)  
-  - delegowany przez komitet wyborczy (słownik patrz 5.)
+  - funkcje (słownik)
+    - członek
+    - Przewodniczący
+    - Zastępca Przewodniczącego
+  - nazwa komitetu wyborczego delegującego do komisji (słownik patrz 6.)
 
  8. Listy kandydatów i kandydaci (wszystkie akcje wyborcze ? )  
   -  Stanowiska wybieralne (słownik)  
@@ -74,4 +87,10 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
 
  10. Wyniki głosowania (dane z kalkulatora)  
 
- 11.   
+ 11. Wzory dokumentów wyborczych  
+  - Postanowienie o przyjęciu zawiadomienia o utworzeniu komitetu wyborczego  
+  - Wezwanie pełnomocnika wyborczego do usunięcia wad w zawiadomieniu o utworzeniu komitetu wyborczego  
+  - Postanowienie o odmowie przyjęcia zawiadomienia o utworzeniu komitetu wyborczego  
+  - .  
+
+12. 
