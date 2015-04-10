@@ -33,4 +33,5 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
     * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FObwodowa%2520komisja%2520wyborcza.xml) - przedstawiający w postaci graficznej przebieg procesów w Obwodowej komisji wyborczej w dniu głosowania.
     * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2Fprzed_wyborami.xml) przedstawiający w postaci graficznej wzajemne powiązania systemów, organizacji i organów wyborczych przed dniam głosowania.
     * 
-18. 
+18. [**Słownik pojec**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Slownik%20pojec.md) - plik z wyjaśnieniami terminologii używanej w "języku wyborczym".  
+19.   
