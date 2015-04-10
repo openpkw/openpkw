@@ -75,6 +75,7 @@ Dokładniejsze informacje o rodzajach komisji wyborczych [TUTAJ](https://github.
 | Obwodowa Komisja Wyborcza (statki)             | 5                   |
 | *Razem*                                        | 27.664              |
 
+[**Wizualizacja wyników wyborów**] (http://pe2014.pkw.gov.pl/pl/)
 
 ## Wybory samorządowe - 2014
 
