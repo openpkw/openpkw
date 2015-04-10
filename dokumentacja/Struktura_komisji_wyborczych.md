@@ -44,5 +44,5 @@ Nie później niż w 5. dniu po powołaniu Obwodowa komisja wyborcza odbywa pier
 Komisja podaje do publicznej wiadomości, w sposób zwyczajowo przyjęty, informację o swoim składzie z uwzględnieniem pełnionych funkcji. W dniu głosowania informację o składzie komisji wywiesza się w lokalu wyborczym.
 
 WARSZAWA wymaga osobnego omówienia - inna ustawa reguluje wybory w mieście
-* 18 Dzielnicowych Komisji Wyborczych
-* ponad 1000 OKW (?)
+* 18 Dzielnicowych Komisji Wyborczych (równorzędne jednocześnie do Gminnej i Powiatowej Komisji Wyborczej)
+* ok 1000 OKW 
