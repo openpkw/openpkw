@@ -26,20 +26,20 @@
 
 # III. Rozporządzenia
 
-1) rozporządzenie Rady Ministrów z dnia 12 kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań dla systemów teleinformatycznych (Dz.U. Nr 526),  
+1) rozporządzenie Rady Ministrów z dnia 12 kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań dla systemów teleinformatycznych ([**Dz.U. Nr 526**] (http://dziennikustaw.gov.pl/du/2012/526/1)),  
 
-2) rozporządzenie Prezesa Rady Ministrów z dnia 14 września 2011 r. w sprawie sporządzania pism w formie dokumentów elektronicznych, doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych (Dz.U. Nr 206, poz. 1216 i z 2014 r., poz. 590),  
+2) rozporządzenie Prezesa Rady Ministrów z dnia 14 września 2011 r. w sprawie sporządzania pism w formie dokumentów elektronicznych, doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych ([Dz.U. Nr 206, poz. 1216] (http://dziennikustaw.gov.pl/DU/2011/s/206/1216) i [z 2014 r., poz. 590] (http://dziennikustaw.gov.pl/du/2014/590/1)),  
 
-3) rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 kwietnia 2011 r. w sprawie szczegółowych warunków organizacyjnych i technicznych, które powinien spełniać system teleinformatyczny służący do identyfikacji użytkowników (Dz.U. Nr 93, poz. 545),  
+3) rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 kwietnia 2011 r. w sprawie szczegółowych warunków organizacyjnych i technicznych, które powinien spełniać system teleinformatyczny służący do identyfikacji użytkowników ([Dz.U. Nr 93, poz. 545] (http://dziennikustaw.gov.pl/DU/2011/s/94/555)),  
 
 4) rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 29 kwietnia 2004 r. w sprawie dokumentacji przetwarzania danych osobowych oraz warunków technicznych i organizacyjnych, jakim powinny odpowiadać urządzenia i systemy informatyczne
-służące do przetwarzania danych osobowych (Dz.U. Nr 100, poz. 1024),  
+służące do przetwarzania danych osobowych ([Dz.U. Nr 100, poz. 1024] (http://dziennikustaw.gov.pl/DU/2004/s/100/1024)),  
 
 6) rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 lipca 2011 r. w sprawie zapewnienia Państwowej Komisji Wyborczej wykonywania zadań związanych z nadzorem nad prowadzeniem rejestru wyborców i sporządzaniem spisów wyborców
-(Dz.U. Nr 158, poz. 943),  
+([Dz.U. Nr 158, poz. 943] (http://dziennikustaw.gov.pl/DU/2011/s/158/943)),  
 
-7) rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 kwietnia 2003 r. w sprawie sposobu zgłaszania kandydatów do obwodowych komisji do spraw referendum w referendum ogólnokrajowym oraz powoływania komisji (Dz. U. Nr 74,
-poz. 671 i Nr 80, poz. 730 oraz z 2011 r. Nr 17, poz. 86).  
+7) rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 kwietnia 2003 r. w sprawie sposobu zgłaszania kandydatów do obwodowych komisji do spraw referendum w referendum ogólnokrajowym oraz powoływania komisji ([Dz. U. Nr 74,
+poz. 671] (http://dziennikustaw.gov.pl/DU/2003/s/74/671) i [Nr 80, poz. 730] (http://dziennikustaw.gov.pl/DU/2003/s/80/730) oraz z [2011 r. Nr 17, poz. 86] (http://dziennikustaw.gov.pl/DU/2011/s/17/86)).  
 
 # IV. W zakresie wyborów samorządowych
 
@@ -115,24 +115,31 @@ do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M.P. N
 
 # VI. W zakresie wyborów prezydenckich
 
-1) UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 26 stycznia 2015 r. w sprawie określenia właściwości miejscowej, numerów oraz siedzib okręgowych komisji wyborczych w wyborach Prezydenta Rzeczypospolitej Polskiej w 2015 r. (M.P. z 2015 r., poz. 152)  
+* UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 11 kwietnia 2011 r. w sprawie powoływania obwodowych komisji wyborczych w obwodach głosowania utworzonych w kraju, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej oraz do Parlamentu Europejskiego w Rzeczypospolitej Polskiej (M.P. z 2011 r., nr 30, poz. 345 wraz z późn. zm.)  
 
-2) UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 23 marca 2015 r. w sprawie wytycznych dla okręgowych komisji wyborczych dotyczących przygotowania i przeprowadzenia wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. (M.P. z 2015 r., poz.301)  
+* Uchwała Państwowej Komisji Wyborczej z dnia 26 stycznia 2015 r. w sprawie wytycznych dotyczących druku kart do głosowania oraz wytycznych dla okręgowych komisji wyborczych dotyczących dostarczenia kart do głosowania wraz z nakładkami na karty do głosowania sporządzonymi w alfabecie Braille’a obwodowym komisjom wyborczym utworzonym w kraju w wyborach Prezydenta Rzeczypospolitej Polskiej w 2015 r. ([M.P. z 2015 r., poz. 151] (http://www.monitorpolski.gov.pl/mp/2015/151/1)) 
 
-3) Uchwała Państwowej Komisji Wyborczej z dnia 9 marca 2015 r. w sprawie wzoru zaświadczenia dla mężów zaufania do obwodowych komisji wyborczych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, w wyborach Prezydenta Rzeczypospolitej Polskiej oraz w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej (M.P. z 2015 r., poz. 278)  
+* UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 26 stycznia 2015 r. w sprawie określenia właściwości miejscowej, numerów oraz siedzib okręgowych komisji wyborczych w wyborach Prezydenta Rzeczypospolitej Polskiej w 2015 r. ([M.P. z 2015 r., poz. 152] (http://www.monitorpolski.gov.pl/mp/2015/152/1))  
 
-4) UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 9 lutego 2015 r. w sprawie regulaminów okręgowych i obwodowych komisji wyborczych powołanych do przeprowadzenia wyborów Prezydenta Rzeczypospolitej Polskiej (M.P. z 2015 r., poz. 227)  
+* Uchwała Państwowej Komisji Wyborczej z dnia 26 stycznia 2015 r. w sprawie wzorów kart do głosowania dla obwodów głosowania utworzonych za granicą i na polskich statkach morskich w wyborach Prezydenta Rzeczypospolitej Polskiej w 2015 r. ([M.P. z 2015 r., poz 153](http://www.monitorpolski.gov.pl/mp/2015/153/1)) 
 
-5) UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 11 kwietnia 2011 r. w sprawie powoływania obwodowych komisji wyborczych w obwodach głosowania utworzonych w kraju, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej oraz do Parlamentu Europejskiego w Rzeczypospolitej Polskiej (M.P. z 2011 r., nr 30, poz. 345 wraz z późn. zm.)  
+* UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 26 stycznia 2015 r. w sprawie wzorów protokołów głosowania i protokołu o wynikach głosowania stosowanych w wyborach Prezydenta Rzeczypospolitej Polskiej w 2015 r. ([M.P. z 2015 r., poz. 159] (http://www.monitorpolski.gov.pl/mp/2015/159/1))  
 
-6) UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 26 stycznia 2015 r. w sprawie wzorów protokołów głosowania i protokołu o wynikach głosowania stosowanych w wyborach Prezydenta Rzeczypospolitej Polskiej w 2015 r. (M.P. z 2015 r., poz. 159)  
+* UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 26 stycznia 2015 r. w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille a, w wyborach Prezydenta Rzeczypospolitej Polskiej w 2015 r. ([M.P. z 2015 r., poz. 154] (http://www.monitorpolski.gov.pl/mp/2015/154/1))  
 
-7) UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 26 stycznia 2015 r. w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille a, w wyborach Prezydenta Rzeczypospolitej Polskiej w 2015 r. (M.P. z 2015 r., poz. 154)  
+* Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 lutego 2015 r. o zarządzeniu wyborów Prezydenta Rzeczypospolitej Polskiej ([Dz.U. z 2015 r., poz.188] (http://dziennikustaw.gov.pl/du/2015/188/1))
 
-8) UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 9 marca 2015 r. w sprawie wytycznych dla obwodowych komisji wyborczych dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w obwodach głosowania utworzonych w kraju w wyborach Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. (M.P. z 2015 r., poz.300)  
+* UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 9 lutego 2015 r. w sprawie regulaminów okręgowych i obwodowych komisji wyborczych powołanych do przeprowadzenia wyborów Prezydenta Rzeczypospolitej Polskiej ([M.P. z 2015 r., poz. 227] (http://www.monitorpolski.gov.pl/mp/2015/227/1)) 
 
-9) Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 lutego 2015 r. o zarządzeniu wyborów Prezydenta Rzeczypospolitej Polskiej (Dz.U. z 2015 r., poz.188)
+* Uchwała Państwowej Komisji Wyborczej z dnia 9 marca 2015 r. w sprawie wzoru zaświadczenia dla mężów zaufania do obwodowych komisji wyborczych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, w wyborach Prezydenta Rzeczypospolitej Polskiej oraz w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej ([M.P. z 2015 r., poz. 278] (http://www.monitorpolski.gov.pl/mp/2015/278/1)) 
 
+* UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 9 marca 2015 r. w sprawie wytycznych dla obwodowych komisji wyborczych dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w obwodach głosowania utworzonych w kraju w wyborach Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. ([M.P. z 2015 r., poz.300] (http://www.monitorpolski.gov.pl/mp/2015/300/1))   
+
+* Uchwała Państwowej Komisji Wyborczej z dnia 9 marca 2015 r. w sprawie powołania okręgowych komisji wyborczych w celu przeprowadzenia wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. [M.P. z 2015, poz. 332] (http://www.monitorpolski.gov.pl/MP/2015/332)  
+
+* UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 23 marca 2015 r. w sprawie wytycznych dla okręgowych komisji wyborczych dotyczących przygotowania i przeprowadzenia wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. ([M.P. z 2015 r., poz.301] (http://www.monitorpolski.gov.pl/mp/2015/301/1)) 
+
+* Uchwała Państwowej Komisji Wyborczej z dnia 27 marca 2015 r. zmieniająca uchwałę w sprawie powołania okręgowych komisji wyborczych w celu przeprowadzenia wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. [M.P. z 2015, poz. 333] (http://www.monitorpolski.gov.pl/MP/2015/333)  
 
 # VII. W zakresie wyborów do Europarlamentu
 
