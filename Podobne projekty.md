@@ -1,5 +1,8 @@
 ##Nowy System wyborczy PKW
 
+**2015.04.11** Oświadczenie po spotkaniu przedstawicieli MSW i PKW w sprawie Żródła:  
+http://pkw.gov.pl/wydruk/type,artykul,id,55103.html?pdf
+
 **2015.03.26** PKW przygotowuje testy swojego oprogramowania na połowę kwietnia:   http://prezydent2015.pkw.gov.pl/aktualnosci/0/20_Komunikat_Szefa_Krajowego_Biura_Wyborczego_z_dnia_26_marca_2015_r
 
 **2015.03.18** PKW na liście systemów infrastruktury krytycznej
