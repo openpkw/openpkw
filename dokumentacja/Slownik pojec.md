@@ -8,7 +8,7 @@ Jest to plik nadrzędny w którym gromadzone są definicje pojęć. Sortujemy al
 **Brudnopis protokołu (Komisja Obwodowa)**
 Jest to wydruk oficjalnego szablonu protokołu wyborczego wypełnionego danymi Obwodowej Komisji Wyborczej, lista kandydatów i listą członków obwodowej Komisji Wyborczej - brakuje jedynie liczb z wynikami. Po zamknięciu urn, komisja sprawdza czy brudnopis dostarczony wraz z innymi materiałami wyborczymi nadal jest aktualny. Jeżeli w ciągu dnia wyborczego doszło do zmiany w protokole (np. komitet wyborczy ABC lub konkretny kandydat zrezygnował z kandydowania) to aktualizowany jest szablon i można wydrukować nowy brudnopis. Natępnie członkowie komisji najpierw wypełniają ręcznie brudnopis po czym dane z brudnopisu wpisywane są do Kalkulatora Wyborczego.
 
-**Dane uwierzytelniające* – login i hasło umożliwiające zalogowanie się użytkownikom do programu.
+**Dane uwierzytelniające** – login i hasło umożliwiające zalogowanie się użytkownikom do programu.
 
 **Koordynator gminny** – osoba upoważniona do wsparcia informatycznego obwodów głosowania na terenie gminy.
 
