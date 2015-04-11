@@ -68,8 +68,6 @@ zgłoszenia do rejestracji kandydata na wójta, burmistrza i prezydenta miasta i
 * uchwała Państwowej Komisji Wyborczej z dnia 8 września 2014 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w wyborach do rad gmin, rad powiatów, sejmików województw, rad dzielnic m.st. Warszawy oraz w
 wyborach wójtów, burmistrzów i prezydentów miast, w głosowaniu korespondencyjnym ([M.P. poz. 809] (http://www.monitorpolski.gov.pl/mp/2014/809/1)).  
 
-* Uchwała Państwowej Komisji Wyborczej z dnia 8 września 2014 r. w sprawie wytycznych dla terytorialnych komisji wyborczych w sprawie sposobu zapisu nazwisk i imion kandydatów oraz skrótów nazw komitetów wyborczych na obwieszczeniach i kartach do głosowania ([M.P. poz. 807] (http://www.monitorpolski.gov.pl/mp/2014/807/1))
-
 * Uchwała Państwowej Komisji Wyborczej z dnia 8 września 2014 r. zmieniająca uchwałę w sprawie określenia wzoru i rozmiaru koperty na pakiet wyborczy, koperty zwrotnej, koperty na kartę do głosowania, oświadczenia o osobistym i tajnym oddaniu głosu oraz instrukcji głosowania, stosowanych w głosowaniu korespondencyjnym w obwodach głosowania utworzonych w kraju ([M.P. poz. 808] (http://www.monitorpolski.gov.pl/mp/2014/808/1))
 
 * Komunikat Państwowej Komisji Wyborczej z dnia 15 września 2014 r. o komitetach wyborczych utworzonych w związku z wyborami do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz z wyborami wójtów, burmistrzów i prezydentów miast, zarządzonymi na dzień 16 listopada 2014 r. ([M.P. poz. 889]  (http://www.monitorpolski.gov.pl/mp/2014/889/1))
