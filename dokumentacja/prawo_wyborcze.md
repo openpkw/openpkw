@@ -196,11 +196,11 @@ do Parlamentu Europejskiego w 2014 r.,
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 11 sierpnia 2014 r. w sprawie rozwiązania okręgowych, rejonowych i obwodowych komisji wyborczych powołanych w celu przeprowadzenia wyborów do Parlamentu Europejskiego, zarządzonych na dzień 25 maja 2014 r. ([M.P. poz. 738] (http://www.monitorpolski.gov.pl/mp/2014/738/1))
 
-# VII. W zakresie referendów ogólnokrajowych
+# VIII. W zakresie referendów ogólnokrajowych
 
 * rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 kwietnia 2003 r. w sprawie sposobu zgłaszania kandydatów do obwodowych komisji do spraw referendum w referendum ogólnokrajowym oraz powoływania komisji ([Dz. U. Nr 74,
 poz. 671] (http://dziennikustaw.gov.pl/DU/2003/s/74/671) i [Nr 80, poz. 730] (http://dziennikustaw.gov.pl/DU/2003/s/80/730) oraz z [2011 r. Nr 17, poz. 86] (http://dziennikustaw.gov.pl/DU/2011/s/17/86)).  
 
-# VII. W zakresie referendów lokalnych
+# IX. W zakresie referendów lokalnych
 
 http://isap.sejm.gov.pl/DetailsServlet?id=WDU20130000706&min=1
