@@ -22,12 +22,12 @@ Jest to wydruk oficjalnego szablonu protokołu wyborczego wypełnionego danymi O
 
 **Pełnomocnik ds. informatyki okręgowej komisji wyborczej** – osoba upoważniona do nadzorowania pracy w systemie przez okręgową komisję wyborczą.
 
-**Pliki .klk** - pliki definicyjne dla Kalkulatora wyborczego przygotowywane przez KBW dla obwodowej komisji wyborczej w jednym pliku). Do tej pory był to skompresowany plik .xml, obecnie PKW wprowadza format **JSON**.
+**Pliki .klk** - pliki definicyjne dla Kalkulatora wyborczego przygotowywane przez KBW dla obwodowej komisji wyborczej w jednym pliku). Do tej pory był to skompresowany plik .xml, obecnie PKW wprowadza format **JSON**.  
 Pliki zawierają aktualne informacje z:
-    •	z meldunku wyborczego,
-    •	o kandydatach,
-    •	oraz inne dane potrzebne do działania systemu.
-Zmiany którychkolwiek z tych informacji jest natychmiast automatycznie wprowadzane do plików KLK i wymaga pobrania i wczytania do programu nowej wersji tych plików.  
+  * z meldunku wyborczego,  
+  * o kandydatach,  
+  * oraz inne dane potrzebne do działania systemu.  
+Zmiana którejkolwiek z tych informacji jest natychmiast automatycznie wprowadzana do plików KLK i wymaga pobrania i wczytania do programu nowej wersji tych plików. W wersji HTML pliki zmieniane są na serwerze - nie ma potrzeby wczytywania przez -> **operatorów obwodowych**.
 
 **Protokół obwodowy** – dokument tworzony przez obwodową komisję wyborczą, zawierający wyniki głosowania w obwodzie, wywieszany do publicznej wiadomości oraz przekazywany do okręgowej komisji wyborczej w celu weryfikacji i obliczenia wyników wyborów w okręgu.
 
@@ -42,7 +42,7 @@ Zmiany którychkolwiek z tych informacji jest natychmiast automatycznie wprowadz
   * zatwierdzony – dokument zatwierdzony przez pełnomocnika ds. informatyki okręgowej komisji wyborczej;
   * odrzucony	-	dokument, który został wysłany niepoprawnie lub z niepoprawnych plików klk lub zawiera błędy uniemożliwiające przyjęcie protokołu. 
       * wariant 1: Protokół wraca do stanu **wprowadzony** w obwodowej komisji wyborczej, można w nim nanieść poprawki.
-      * wariant 2: W obwodowej Komisji Wyborczej stan "czysty" tak jak przed rozpoczęciem pracy/wprowadzania danych. Wymagane wprowadzenie wszystkich danych od początku. Odrzucony protokół jest zablokowany i nie można wprowadzić w nim poprawek.
+      * wariant 2: W obwodowej Komisji Wyborczej stan "czysty" tak jak przed rozpoczęciem pracy/wprowadzania danych. Wymagane wprowadzenie wszystkich danych od początku. Odrzucony protokół jest zablokowany i nie można wprowadzić w nim poprawek. Na nowym protokole w prawym górnym rogu pierwszej strony pojawia sie adnotacja **KOREKTA**.
 
 **Użytkownik gminny lub okręgowy** – osoba upoważniona do pracy w systemie w gminie, dzielnicy, konsulacie, Okręgowej Komisji Wyborczej lub Krajowym Biurze Wyborczym. 
 
