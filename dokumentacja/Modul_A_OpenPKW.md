@@ -34,17 +34,31 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
  3. Okręgi wyborcze (Polska) (wszystkie akcje wyborcze ? )  
   - Akcje wyborcze (słownik)
 
- 4. Obwody wyborcze (gminy)  
-  - Rodzaje obwodów (słownik)
-    - stałe
-      - w kraju
-        - dla niepełnosprawnych / do głosowania korespondencyjnego  
-      - za granicą (NIE w wyborach samorządowych) (wchodzą w skład: okręgu wyborczego właściwego dla dzielnicy Śródmieście m.st. Warszawy)  
+ 4. Obwody wyborcze (gminy)
+  - Rodzaje gmin (typ obszaru głosowania) (słownik)
+    - gmina wiejska
+    - gmina miejsko-wiejska
+    - miasto w gminie miejsko-wiejskiej
+    - obszar wiejski w gminie miejsko-wiejskiej
+    - dzielnica w gminie Warszawa
+    - delegatury i dzielnice innych gmin miejskich
+    - zagranica
+    - statek
+  - Rodzaje obwodów (typ obwodu gosowania) (słownik)
+    - stałe (powszechne),
+      - w kraju,
+        - dla niepełnosprawnych / do głosowania korespondencyjnego,  
+      - za granicą (NIE w wyborach samorządowych) (wchodzą w skład: okręgu wyborczego właściwego dla dzielnicy Śródmieście m.st. Warszawy),
+      - tajny - bazy wojskowe za granicą kraju (NIE w wyborach samorządowych) (wchodzą w skałd: okręgu wyborczego właściwego dla ...... ????),
     - odrębne
-      - zakład opieki zdrowotnej,  
+      - zakład opieki zdrowotnej (szpital),  
       - domu pomocy społecznej,  
-      - zakład karnym, areszt śledczy oraz oddział zewnętrznym zakładu karnego i aresztu,  
-      - dom studenta lub zespół domów studenta (NIE w wyborach samorządowych)   
+      - zakład karny,
+      - areszt śledczy,
+      - oddział zewnętrzny zakładu karnego,
+      - oddział zewnętrznym aresztu śledczego,  
+      - dom studencki (NIE w wyborach samorządowych)
+      - zespół domów studenckich (NIE w wyborach samorządowych)   
       - polskie statki morskie (NIE w wyborach samorządowych) (wchodzą w skład: okręgu wyborczego właściwego dla siedziby armatora) 
 
  5. Okręgi wyborcze (gminy - tylko wybory samorządowe)  
