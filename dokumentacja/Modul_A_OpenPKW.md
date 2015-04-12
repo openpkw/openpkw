@@ -138,10 +138,10 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
 
  9. Frekwencja (tylko dla stałych obwodów wyborczych)
   - godziny sprawozdawcze - frekwencja (słownik)
-    - wg stanu z godz. 12
+    - wg stanu z godz. 12:00
      - Liczba osób uprawnionych do głosowania (łącznie z osobami dopisanymi w dniu wyborów)
      - Liczba wyborców, którym wydano karty do głosowania
-    - wg stanu z godz. 17:30
+    - wg stanu z godz. 17:00
      - Liczba osób uprawnionych do głosowania (łącznie z osobami dopisanymi w dniu wyborów)
      - Liczba wyborców, którym wydano karty do głosowania
   - ....  
