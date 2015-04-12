@@ -41,7 +41,7 @@ Zmiana którejkolwiek z tych informacji jest natychmiast automatycznie wprowadza
 
 **Protokół obwodowy** – dokument tworzony przez obwodową komisję wyborczą, zawierający wyniki głosowania w obwodzie, wywieszany do publicznej wiadomości oraz przekazywany do okręgowej komisji wyborczej w celu weryfikacji i obliczenia wyników wyborów w okręgu.
 
-**Raport frekwencji** - 
+**Raport frekwencji** - -> **Godziny sprawozdawcze**
 
 **Raport ostrzeżeń** – dokument zawierający informacje o ostrzeżeniach powstałych w trakcie wprowadzania wyników głosowania do programu. Musi być przekazany wraz z protokołami do okręgowej komisji wyborczej.
 
