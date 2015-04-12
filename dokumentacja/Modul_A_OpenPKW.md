@@ -150,6 +150,4 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
   - Postanowienie o odmowie przyjęcia zawiadomienia o utworzeniu komitetu wyborczego  
   - Zgłoszenie kandydatów na członków obwodowych komisji wyborczych w wyborach (samorządowych).
   - Zgłoszenie kandydata na członka (nazwa właściwej terytorialnej komisji) komisji wyborczej w (miejscowość) w wyborach (samorządowych)
-  - 
-
-12. 
+  - ..  
