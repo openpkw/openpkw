@@ -31,8 +31,20 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
 
  2. Stały rejestr wyborców (prowadzony przez gminy - wymiana danych między gminami poprzez moduł centralny)  
 
- 3. Okręgi wyborcze (Polska) (wszystkie akcje wyborcze ? )  
+ 3. Okręgi wyborcze (Polska)   
   - Akcje wyborcze (słownik)
+    - Wybory prezydenckie
+    - Wybory do Sejmu RP
+    - Wybory do Senatu RP
+    - Wybory do PUE
+    - Wybory do Sejmiku województwa
+    - Wybory do Rady Powiatu
+    - Wybory do Rady miasta na prawach powiatu
+    - Wybory do Rady dzielnicy m.st. Warszawa
+    - Wybory rady Gminy
+    - Wybory do Rady Miasta
+    - Referendum Ogólnokrajowe
+    - Referendum lokalne
 
  4. Obwody wyborcze (gminy)
   - Rodzaje gmin (typ obszaru głosowania) (słownik)
@@ -84,19 +96,50 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
     - imię, nazwisko, adres zamieszkania, PESEL - pełnomocnika finansowego (nie kandydat w wyborach prezydenckich)(Można być pełnomocnikiem finansowym tylko jednego komitetu wyborczego.)  
     - adres strony internetowej na której komitet wyborczy umieszcza informacje określone w kodeksie.
 
- 7. Komisje wyborcze (składy osobowe, pełnione funkcje)  
+ 7. Komisje wyborcze (rodzaj, składy osobowe, pełnione funkcje)  
+  - rodzaj komisji wyborczej (słownik)
+    - PKW
+    - Komisarz Wyborczy
+    - Okręgowa Komisja Wyborcza
+    - Rejonowa Komisja Wyborcza
+    - Terenowa Komisja Wyborcza
+      - Gminna
+      - Miejska
+      - Powiatowa
+      - Dzielnicowa
+      - Wojewódzka
+    - Obwodowa Komisja Wyborcza
   - funkcje (słownik)
     - członek
     - Przewodniczący
     - Zastępca Przewodniczącego
-  - nazwa komitetu wyborczego delegującego do komisji (słownik patrz 6.)
+  - nazwa organu/organizacji/komitetu wyborczego delegującego do komisji (słownik patrz 6.)
+  - Nazwisko, Imiona, adres zamieszkania, PESEL, nr. telefonu, data zgłoszenia
+  - Kto zgłosił
+    - pełnomocnik wyborczy
+    - osoba upoważniona przez pełnomocnika wyborczego
 
  8. Listy kandydatów i kandydaci (wszystkie akcje wyborcze ? )  
-  -  Stanowiska wybieralne (słownik)  
+  -  Stanowiska wybieralne (słownik)
+    - Prezydent RP
+    - Poseł na Sejm RP
+    - Senator RP
+    - Poseł do PUE
+    - wójt
+    - burmistrz
+    - prezydent miasta
+    - radny Sejmiku wojewódzkiego
+    - radny Rady powiatowej
+    - radny Rady miasta na prawach powiatu
+    - radny Rady Dzielnicy m.st. Warszawy
+    - radny Rady gminy
+    - radny Rady miasta
   -  Akcje wyborcze (słownik patrz 3.)
 
  9. Frekwencja
-  - godz. frekwencji (słownik)  
+  - godz. frekwencji (słownik)
+    - godz. 11
+    - godz. 17
   - ....  
 
  10. Wyniki głosowania (dane z kalkulatora)  
@@ -105,6 +148,8 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
   - Postanowienie o przyjęciu zawiadomienia o utworzeniu komitetu wyborczego  
   - Wezwanie pełnomocnika wyborczego do usunięcia wad w zawiadomieniu o utworzeniu komitetu wyborczego  
   - Postanowienie o odmowie przyjęcia zawiadomienia o utworzeniu komitetu wyborczego  
-  - .  
+  - Zgłoszenie kandydatów na członków obwodowych komisji wyborczych w wyborach (samorządowych).
+  - Zgłoszenie kandydata na członka (nazwa właściwej terytorialnej komisji) komisji wyborczej w (miejscowość) w wyborach (samorządowych)
+  - 
 
 12. 
