@@ -41,6 +41,8 @@ służące do przetwarzania danych osobowych ([Dz.U. Nr 100, poz. 1024] (http://
 
 * Rozporządzenie Ministra Spraw Wewnętrznych z dnia 29 grudnia 2014 r. w sprawie spisu wyborców ([D. U. 2015 r., poz. 5] (http://dokumenty.rcl.gov.pl/DU/rok/2015/pozycja/5))
 
+* Rozporządzenie Ministra Spraw Zagranicznych z dnia 27 marca 2015 r. w sprawie utworzenia obwodów głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej dla obywateli polskich przebywających za granicą ([Dz.U. 2015 r., poz. 471] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150000471))
+
 # IV. W zakresie wyborów samorządowych
 
 * uchwała Państwowej Komisji Wyborczej z dnia 4 sierpnia 2014 r. w sprawie wytycznych dla komisarzy wyborczych dotyczących przyjmowania zawiadomień o utworzeniu komitetu wyborczego w wyborach do rad gmin, rad powiatów i sejmików województw ([M.P. 2014, poz. 678] (http://www.monitorpolski.gov.pl/mp/2014/678/1)),  
