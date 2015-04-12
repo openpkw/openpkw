@@ -136,10 +136,14 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
     - radny Rady miasta
   -  Akcje wyborcze (słownik patrz 3.)
 
- 9. Frekwencja
-  - godz. frekwencji (słownik)
-    - godz. 11
-    - godz. 17
+ 9. Frekwencja (tylko dla stałych obwodów wyborczych)
+  - godziny sprawozdawcze - frekwencja (słownik)
+    - wg stanu z godz. 12
+     - Liczba osób uprawnionych do głosowania (łącznie z osobami dopisanymi w dniu wyborów)
+     - Liczba wyborców, którym wydano karty do głosowania
+    - wg stanu z godz. 17:30
+     - Liczba osób uprawnionych do głosowania (łącznie z osobami dopisanymi w dniu wyborów)
+     - Liczba wyborców, którym wydano karty do głosowania
   - ....  
 
  10. Wyniki głosowania (dane z kalkulatora)  
