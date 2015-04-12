@@ -48,6 +48,7 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
     * A.2.1.3. waliduje i zatwierdza poprawność protokołów lub odrzuca protokół i kieruje do poprawek
     * A.2.1.4. oblicza i generuje własny protokół na podstawie danych z Obwodowych Komisji.
     * A.2.1.5. ogłasza wyniki wyborów w gminie, powiecie, województwie, Okręgu
+    * A.2.1.6. Komisarz Wyborczy wydaje Obwieszczenie o zbiorczych wynikach wyborów.
   * A.2.2. Państwowa Komisja Wyborcza
     * A.2.2.1. Obserwuje spływ protokołów z Obwodów
     * A.2.2.2. kontroluje spływ protokołów z Terenowych, Rejonowych, Okręgowych Komisji Wyborczych
