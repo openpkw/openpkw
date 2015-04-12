@@ -10,6 +10,9 @@ Jest to wydruk oficjalnego szablonu protokołu wyborczego wypełnionego danymi O
 
 **Dane uwierzytelniające** – login i hasło umożliwiające zalogowanie się użytkownikom do programu.
 
+**Godziny sprawozdawcze** - Obwodowe komisje wyborcze przekazują PKW, w trakcie głosowania, dane o liczbie osób uprawnionych
+do głosowania oraz o liczbie wyborców, którym wydano karty do głosowania w stałych obwodach głosowania (atan na godz. 12:00 oraz 17:30).
+
 **Koordynator gminny** – osoba upoważniona do wsparcia informatycznego obwodów głosowania na terenie gminy.
 
 **Lista kodów jednorazowych** – lista kodów umożliwiających osobom funkcyjnym zatwierdzenie protokołów obwodowych w systemie.
