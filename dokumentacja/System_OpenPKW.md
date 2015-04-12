@@ -22,8 +22,8 @@ Na podstawie materiałów z ogłoszonych przez PKW [**przetargów**] (https://gi
 # B. Kalkulator wyborczy.
 (system lokalny)
 
-
- C. Programy mobilne.  (Ten moduł tworzony jest nie do końca w zgodzie z przepisami prawa wyborczego)
+oraz:  
+**C. Programy mobilne.**  (Ten moduł tworzony jest nie do końca w zgodzie z przepisami prawa wyborczego)
 (systemy wykorzystywane przez różnorodne organizacje do sprawdzania poprawności wyborów, zdjęcia protokołów,  
 szybkie przekazanie części danych do obliczenia wyników)
 
@@ -42,8 +42,19 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
   * A.1.8. baza danych (wzorów) dokumentów wyborczych
 
 * A.2. odebranie danych w noc wyborczą z komisji obwodowych, przetworzenie i przygotowanie do pobrania przez komisje wyborcze wyższego rzędu, przyjęcie danych w komisji wyższego rzędu, przetworzenie i przygotowanie danych dla PKW.
-   * A.2.1. Komisje wyższego rzędu generują protokół na podstawie danych z Obwodowych Komisji.  
-   * A.2.2. PKW generuje protokół zbiorczy na podstawie protokołów Okręgowych Komisji.  
+  * A.2.1. Komisja Terenowa, Rejonowa, Okręgowa: 
+    * A.2.1.1. kontroluje spływ protokołów z Obwodów,
+    * A.2.1.2. wczytuje z zewnętrznych nośników protokół Obwodowy do systemu (o ile zachodzi taka potrzeba)
+    * A.2.1.3. waliduje i zatwierdza poprawność protokołów lub odrzuca protokół i kieruje do poprawek
+    * A.2.1.4. oblicza i generuje własny protokół na podstawie danych z Obwodowych Komisji.
+    * A.2.1.5. ogłasza wyniki wyborów w gminie, powiecie, województwie, Okręgu
+  * A.2.2. Państwowa Komisja Wyborcza
+    * A.2.2.1. Obserwuje spływ protokołów z Obwodów
+    * A.2.2.2. kontroluje spływ protokołów z Terenowych, Rejonowych, Okręgowych Komisji Wyborczych
+    * A.2.2.3. wczytuje z zewnętrznych nośników protokół Okręgowy do systemu (o ile zachodzi taka potrzeba)
+    * A.2.2.4. waliduje i zatwierdza poprawność protokołów lub odrzuca protokół i kieruje do poprawek
+    * A.2.2.5. oblicza i generuje protokół zbiorczy na podstawie protokołów Okręgowych Komisji.
+    * A.2.2.6  ogłasza wyniki zbiorcze na terenie całego kraju.   
 
 * A.3. stała/aktualna wizualizacja bieżącej akcji wyborczej
    * A.3.1.  
