@@ -73,8 +73,6 @@ wyborach wójtów, burmistrzów i prezydentów miast, w głosowaniu korespondenc
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 8 września 2014 r. zmieniająca uchwałę w sprawie określenia wzoru i rozmiaru koperty na pakiet wyborczy, koperty zwrotnej, koperty na kartę do głosowania, oświadczenia o osobistym i tajnym oddaniu głosu oraz instrukcji głosowania, stosowanych w głosowaniu korespondencyjnym w obwodach głosowania utworzonych w kraju ([M.P. 2014, poz. 808] (http://www.monitorpolski.gov.pl/mp/2014/808/1))
 
-* Komunikat Państwowej Komisji Wyborczej z dnia 15 września 2014 r. o komitetach wyborczych utworzonych w związku z wyborami do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz z wyborami wójtów, burmistrzów i prezydentów miast, zarządzonymi na dzień 16 listopada 2014 r. ([M.P. 2014, poz. 889]  (http://www.monitorpolski.gov.pl/mp/2014/889/1))
-
 * **uchwała Państwowej Komisji Wyborczej z dnia 22 września 2014 r. w sprawie określenia warunków i sposobu wykorzystania techniki elektronicznej w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m. st. Warszawy oraz w
 wyborach wójtów, burmistrzów i prezydentów miast** ([M.P. 2014, poz. 903] (http://www.monitorpolski.gov.pl/mp/2014/903/1)),  
 
@@ -104,8 +102,6 @@ wyborach wójtów, burmistrzów i prezydentów miast** ([M.P. 2014, poz. 903] (h
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 20 listopada 2014 r. w sprawie formy obwieszczenia komisarzy wyborczych o wynikach wyborów do rad na obszarze województwa ([M.P. 2014, poz. 1096] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20140001096))
 
-* Uchwała Państwowej Komisji Wyborczej z dnia 12 listopada 2014 r. w sprawie rozwiązania okręgowych i obwodowych komisji wyborczych powołanych w celu przeprowadzenia wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 7 września 2014 r. ([M.P. 2014, poz. 1116] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20140001116))
-
 * Uchwała Państwowej Komisji Wyborczej z dnia 22 grudnia 2014 r. w sprawie ustalenia wzorów urzędowych formularzy oraz druków wyborczych stosowanych w wyborach ponownych, uzupełniających, przedterminowych, wyborach do nowych rad oraz w wyborach przedterminowych i wyborach ponownych wójtów, burmistrzów i prezydentów miast, przeprowadzanych w toku kadencji w latach 2014–2018 ([M.P. 2015, poz. 65] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000065))
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 22 grudnia 2014 r. w sprawie wytycznych dla komisarzy wyborczych oraz terytorialnych i obwodowych komisji wyborczych, dotyczących przygotowania i przeprowadzania wyborów do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz wyborów wójtów, burmistrzów i prezydentów miast w toku kadencji w latach 2014–2018 ([M.P. 2015, poz. 66] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000066))
@@ -114,6 +110,8 @@ wyborach wójtów, burmistrzów i prezydentów miast** ([M.P. 2014, poz. 903] (h
 
 # V. W zakresie wyborów do Sejmu i Senatu
 **(poniższe akty dotyczą wyborów z poprzedniej kadencji - będą sukcesywnie zmieniane z chwilą ogłoszenia wyborów do nowej kadencji 2015)**
+
+* Uchwała Państwowej Komisji Wyborczej z dnia 12 listopada 2014 r. w sprawie rozwiązania okręgowych i obwodowych komisji wyborczych powołanych w celu przeprowadzenia wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 7 września 2014 r. ([M.P. 2014, poz. 1116] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20140001116))
 
 1) uchwała Państwowej Komisji Wyborczej z dnia 27 czerwca 2011 r. w sprawie warunków i sposobu wykorzystania techniki elektronicznej oraz trybu przekazywania danych za pośrednictwem sieci elektronicznego przekazywania danych w wyborach
 do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M.P. Nr 63, poz. 601)),  
