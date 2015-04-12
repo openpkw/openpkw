@@ -58,7 +58,7 @@ Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szcz
     * A.2.2.6  ogłasza wyniki zbiorcze na terenie całego kraju.   
 
 * A.3. stała/aktualna wizualizacja bieżącej akcji wyborczej
-   * A.3.1.  
+   * A.3.1.  aktualizacja frekwencji z "godzin sprawozdawczych"  
 
 * A.4. stały dostęp do danych archiwalnych (zakończone akcje wyborcze i ich wizualizacje). Struktura bazy [**archiwalnej PKW**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/bazaKBW.md)
    * A.4.1.  
@@ -88,6 +88,7 @@ Podział zadania B na [**moduły programistyczne**] (https://github.com/openpkw/
       * B.1.1.7.1. barkod drukowany na dole każdej  strony - taki sam w całym wydruku [**przykład**] (https://op.openpkw.pl/attachments/6/barkod_przyklad.jpg)
       * B.1.1.7.2. QRkod - przyszłościowa [**propozycja**] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza/blob/master/brainstorming.md) na razie niezgodna z PKW.
       * B.1.1.7.3. kody jednorazowe ??????? pierwsza informacja pojawia się w Uchwale PKW z 9 marca 2015 patrz [**PKW 09.03.2015 pkt.4.**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/zmiana_filozofii_PKW.md)
+    * B.1.1.8. wysyłka danych frewkwencji wybporczej w godzinach sprawozdawczych
 
 * B.1.2. oprogramowanie serwerowe
      * B.1.2.1. odbiór danych w noc wyborczą z Komisji Wyborczych
