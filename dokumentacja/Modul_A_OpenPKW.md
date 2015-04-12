@@ -48,6 +48,7 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
 
  4. Obwody wyborcze (gminy)
   - Rodzaje gmin (typ obszaru głosowania) (słownik)
+    - gmina miejska
     - gmina wiejska
     - gmina miejsko-wiejska
     - miasto w gminie miejsko-wiejskiej
