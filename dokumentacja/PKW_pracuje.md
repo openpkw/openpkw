@@ -1,5 +1,5 @@
 # 13.04.2015 Nowe informacja o planach PKW
-dane oficjanie uzyskane z mojej Delegatury KBW [Przemek]
+dane oficjanie uzyskane z mojej Delegatury KBW [Przemek] ale informacje potwierdzone również przez Roberta z Ursynowa.
 
 - jest nowe oprogramowanie wyborcze i jest traktowane jako wspomaganie obsługi wyborów ( w związku z małą ilością czasu oraz koniecznością dokładnego sprawdzenia tego, co jest tworzone, system do wyborów prezydenckich będzie dość znacznie okrojony), 
 
