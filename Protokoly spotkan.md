@@ -4,8 +4,9 @@
 Zbieramy tematy na najbliższą telekonferencje tj. 15.04.2015. Będę wdzięczny za akceptację schematu ** data, [autor],[status],[treść]** 
 
 * 2015.04.08 [Brygada RR + Przemek] Co dalej w temacie nowego systemu informatycznego w PKW/KBW? Jakie nowe wieści?
+* 2015.04.08. [Przemek] **Omówienie Systemu WOW (Wsparcie Organów Wyborczych) tworzonego przez PKW.** [**Plan działania PKW do 10.05.2015.**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/PKW_pracuje.md)
 * 2015.04.05 [Adam] Proces integracji kontrybutorów. OpenProject pozwala na zakładanie konta ale co dzieje się z tymi ludźmi? Czy nowi użytkownicy mogą sami dopisać się do zespołów? 
-* 2015.04.08 [Przemek] Kontynuacja analizy OpenPKW oraz analiza nowej filozofii działania państwowych systemów wyborczych. Linki: [tutaj] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) i [tutaj](https://github.com/openpkw/openpkw/blob/master/dokumentacja/zmiana_filozofii_PKW.md).
+* 2015.04.08 [Przemek] Kontynuacja analizy OpenPKW oraz analiza nowej filozofii działania państwowych systemów wyborczych. Linki: [**tutaj**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) i [tutaj](https://github.com/openpkw/openpkw/blob/master/dokumentacja/zmiana_filozofii_PKW.md).
 * 2015.03.26 [Adam] [Pending] : Status implementacji 
   * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
   * [OPW wybory prezydenckie 2015](https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
