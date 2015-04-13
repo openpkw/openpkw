@@ -1,4 +1,33 @@
+# 13.04.2015 Nowe informacja o planach PKW
+dane oficjanie uzyskane z mojej Delegatury KBW [Przemek]
 
+- jest nowe oprogramowanie wyborcze i jest traktowane jako wspomaganie obsługi wyborów ( w związku z małą ilością czasu oraz koniecznością dokładnego sprawdzenia tego, co jest tworzone, system do wyborów prezydenckich będzie dość znacznie okrojony), 
+
+- pierwszy test z udziałem wybranych gmin odbędzie się 21.04.2015,
+
+- do 27.04.2015 r. wprowadzenie do systemu operatorów oraz osób funkcyjnych (Przewodniczący, Z-ca) w obwodowych komisjach wyborczych,
+
+- 28.04.2015 r.  test z udziałem wszystkich gmin oraz wszystkich obwodów głosowania,
+
+- 5.05.2015 r. – ewentualny test w sytuacji kryzysowej lub wymagającej bezwzględnego sprawdzenia wdrożonych rozwiązań,
+
+- do 8.05.2015 r zakończenie meldunku przedwyborczego przez gminy w zakresie danych liczbowych,
+
+- 10.05.2015 r. – wprowadzanie frekwencji  na godz. 12:00 i 17:00. 
+
+Do poprawnej pracy systemu WOW ( Wsparcie Organów Wyborczych ) zalecany jest komputer z:
+
+·         aktualnym i wspieranym przez producenta systemem operacyjnym;  
+·         aktualną przeglądarką internetowa Mozilla Firefox;  
+·         odblokowaną obsługę skryptów Javascript;  
+·         aktualnymi dodatkami (Java, Flash itd.) - nie są potrzebne do pracy systemu WOW;  
+·         aktualnym oprogramowaniem antywirusowym;  
+·         możliwością zapisu danych na zewnętrzny nośnik (pendrive, dysk zewnętrzny, stacja dyskietek itd.);  
+·         drukarką (w przypadku wykonywania wydruków) ustawioną na wydruki A4;  
+·         dostępem do sieci Internet (w obwodowej komisji wyborczej jest to zalecane, natomiast w pozostałych miejscach pracy z systemem jest to wymagane).  
+
+  ***********************************************
+  
 # SPRAWA JUŻ NIEAKTUALNA.  
 Dostęp do trony testowej został zablokowany.
 
