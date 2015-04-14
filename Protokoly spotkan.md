@@ -3,6 +3,9 @@
 ## Agenda na najbliższe spotkanie
 Zbieramy tematy na najbliższą telekonferencje tj. 15.04.2015. Będę wdzięczny za akceptację schematu ** data, [autor],[status],[treść]** 
 
+
+* 2015.04.14 [RafalR] Spotkanie inauguracyjne Developerów Mobilnych i start OpenPKW_Mobile, Status, Plany i zamierzenia podprojektu na przyszlosc versus realia 
+* 2015.04.14[Rafal Malujda] Przygotowanie oficialnego pisma i prosby do PKW w sprawie spisu Obwodowych Komisji Wyborczych w trybie dostępu do informacji publicznej (plik csv)
 * 2015.04.08 [Brygada RR + Przemek] Co dalej w temacie nowego systemu informatycznego w PKW/KBW? Jakie nowe wieści?
 * 2015.04.08. [Przemek] **Omówienie Systemu WOW (Wsparcie Organów Wyborczych) tworzonego przez PKW.** [**Plan działania PKW do 10.05.2015.**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/PKW_pracuje.md)
 * 2015.04.05 [Adam] Proces integracji kontrybutorów. OpenProject pozwala na zakładanie konta ale co dzieje się z tymi ludźmi? Czy nowi użytkownicy mogą sami dopisać się do zespołów? 
@@ -43,7 +46,7 @@ Odpowiedzialny za protokół: Sebastian.
 * Przywitanie nowej rzeczniczki OpenPKW - Marzeny. Jakie mamy konta w serwisach społecznościowych? Co będziemy na ten konta wrzucać? Jaka będzie procedura przygotowywania newsów do wrzucenia w kanały mediów społecznościowych? W jaki sposób Marzena będzie zbierać informacje o tym, co się dzieje w projekcie?
 * Sprzątanie na wiki - zostało jeszcze trochę rzeczy do wyrzucenia.
 * Pomoc z NIWY w sprawie organizowania zespołu.
-* Czy skorzystamy z domeny e-wybory.pl? Dla OPW - tak. Dla Kalkulatora OpenPKW chcemy skorzystać z domeny openpkw.pl, niezależnie od tego jak długo będzie trwało ustawianie tego.
+* Czy skorzystamy z domeny e-wybory.org? Dla OPW - tak. Dla Kalkulatora OpenPKW chcemy skorzystać z domeny openpkw.pl, niezależnie od tego jak długo będzie trwało ustawianie tego.
 
 **ToDo zrobione** 
 * 2015.04.01-1 [Tomek] [Done] Konfiguracja OP i maila, żeby działały prawidłowo.
