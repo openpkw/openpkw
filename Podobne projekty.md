@@ -1,3 +1,6 @@
+żeby nie uciekło w niepamięć:
+http://www.fakt.pl/polityka/urna-ktora-sama-liczy-wyborcze-glosy-jej-wynalazca-ucieka-z-polski,artykuly,509675.html
+
 ##Nowy System wyborczy PKW
 
 **2015.04.11** Oświadczenie po spotkaniu przedstawicieli MSW i PKW w sprawie Żródła:  
