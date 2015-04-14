@@ -1,3 +1,6 @@
+Rozdział V. W zakresie wyborów do Sejmu i Senatu - nie aktualizuje przepisów prawa bowiem czekam na ogłoszenie wyborów i pojawienie się nowych uchwał PKW. Pozostałe rozdziay zostały lub sa na bieżąco zaktualizowane.
+
+
 # I. Ustawy związane bezpośrednio z wyborami i referendami
 (linki prowadzą do aktualnego tekstu źródłowego wraz z późn. zmianami)
 
