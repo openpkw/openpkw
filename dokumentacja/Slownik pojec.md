@@ -10,6 +10,8 @@ Jest to wydruk oficjalnego szablonu protokołu wyborczego wypełnionego danymi O
 
 **Dane uwierzytelniające** – login i hasło umożliwiające zalogowanie się użytkownikom do programu.
 
+**Frekwencja wyborcza** - jest to stosunek stosunek liczby osób uprawnionych do głosowania do tych które wzięły udział w danym głosowaniu (np. wyborach czy referendum).
+
 **Godziny sprawozdawcze** - Obwodowe komisje wyborcze przekazują PKW, w trakcie głosowania, dane o liczbie osób uprawnionych
 do głosowania oraz o liczbie wyborców, którym wydano karty do głosowania w stałych obwodach głosowania (stan na godz. 12:00 oraz 17:00).
 
