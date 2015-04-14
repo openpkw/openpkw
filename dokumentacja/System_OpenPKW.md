@@ -67,6 +67,11 @@ Podział zadania A na [**moduły programistyczne**] (https://github.com/openpkw/
 
 # Ad. B.
 
+Komisja Obwodowa po zamknieciu lokalu o godz. 21:00 ręcznie wypełnia brudnopis protokołu zgodnie z przedstawionym graficznie (draw.io) [**procesem A - przed otwarciem urny**] 
+(https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FObwodowa_komisja_A.xml) 
+oraz [**procesem B po otwarciu urny**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FObwodowa_komisja_B.xml)
+
+
 * B.1. program do instalacji lokalnej (np. maszyny bez dostępu do internetu itp.)
 
 * B.2. strona HTML (rozbudowany obecny prototyp kalkulatora w html) frontend?  
