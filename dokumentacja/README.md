@@ -21,33 +21,37 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
    *   
 
 
-# Zawartość katalogu: "pliki klk".
+# Zawartość katalogu:
 
 Katalog [**master\pliki klk**] (https://github.com/openpkw/openpkw/tree/master/pliki%20klk) - zawiera przykładowe pliki definicyjne w formacie (dotychczas używanym) .klk  
-    *  plik [README.md] (https://github.com/openpkw/openpkw/tree/master/pliki%20klk) ogólna informacja o plikach klk oraz rozszyfrowanie kodów rodzajów akcji wyborczej.
-    *  [klk-obd-lodz-2014.xml] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/klk-obd-lodz-2014.xml) - plik z wyborów do Parlamentu Unii Europejskiej 2014;  
-    *  [klk-obd-wawa-2011.xml] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/klk-obd-wawa-2011.xml) - plik z wyborów parlamentarnych Sejm + Senat 2011;  
-    *  [klk-obd-lodz-2010.xml] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/klk-obd-lodz-2010.xml) - plik z wyborów prezydenckich 2010;
-    *  
 
-# Zawartość katalogu: "analiza-adam".
+  *  plik [README.md] (https://github.com/openpkw/openpkw/tree/master/pliki%20klk) ogólna informacja o plikach klk oraz rozszyfrowanie kodów rodzajów akcji wyborczej.  
+  *  plik [klk-obd-lodz-2014.xml] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/klk-obd-lodz-2014.xml) - plik z wyborów do Parlamentu Unii Europejskiej 2014;  
+  *  plik [klk-obd-wawa-2011.xml] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/klk-obd-wawa-2011.xml) - plik z wyborów parlamentarnych Sejm + Senat 2011;  
+  *  plik [klk-obd-lodz-2010.xml] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/klk-obd-lodz-2010.xml) - plik z wyborów prezydenckich 2010;
+
+# Zawartość katalogu:
 
    * Katalog [**dokumentacja\analiza-adam**] (https://github.com/openpkw/openpkw/tree/master/dokumentacja/analiza-adam) - katalog zawiera:
+
     * [Analizę] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/analiza-adam/Moduly%20PW2.md) wstępną modułów PW 2.0 na podstawie przetargu PKW z 18.11.2014 r.  
 
-# Zawartośc katalogu: "informacja publiczna".
+# Zawartośc katalogu:
 
    * Katalog [**dokumentacja\informacja publiczna**] (https://github.com/openpkw/openpkw/tree/master/dokumentacja/informacja%20publiczna) - zawiera:
 
-# Zawartośc katalogu: "informacja publiczna o PW2".
+    * [Kalkulator_wyborczy-v2_2014.10.30.pdf] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/informacja%20publiczna/Kalkulator_wyborczy-v2_2014.10.30.pdf) - instrukcja do kalkulatora wyborczego firmy NABINO z wyborów samorządowych 2014 r.
 
-   * Katalog [**\informacja publiczna o PW2**] (https://github.com/openpkw/openpkw/tree/master/dokumentacja/informacja%20publiczna/informacja%20publiczna%20o%20PW2) - zawiera:
+# Zawartość katalogu:
+
+   * Katalog [**dokumentacja\informacja publiczna\informacja publiczna o PW2**] (https://github.com/openpkw/openpkw/tree/master/dokumentacja/informacja%20publiczna/informacja%20publiczna%20o%20PW2) - zawiera:
+
     * dokumenty z przetargu z dnia 18.11.2014 r. [SIWZ] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/informacja%20publiczna/informacja%20publiczna%20o%20PW2/SIWZ-PW_2.0_wesja_5_GR_RD_AK-opracowanie.pdf); [Załącznik Nr 1] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/informacja%20publiczna/informacja%20publiczna%20o%20PW2/Za%C5%82%C4%85cznik_Nr_1_-_Podstawy_prawne.pdf); [Załącznik Nr 2] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/informacja%20publiczna/informacja%20publiczna%20o%20PW2/Za%C5%82%C4%85cznik_Nr_2___Za%C5%82o%C5%BCenia_do_PW2_i_opis_modu%C5%82%C3%B3w_PW2.pdf); [Załącznik Nr 4] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/informacja%20publiczna/informacja%20publiczna%20o%20PW2/Za%C5%82%C4%85cznik_Nr_4___Wdro%C5%BCenie_PW2.pdf).
     * plik [Instrukcja] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/informacja%20publiczna/Kalkulator_wyborczy-v2_2014.10.30.pdf) obsługi kalkulatora wyborczego 2.0  
 
-# Zawartośc katalogu: "Procesy".
+# Zawartość katalogu:
 
-   * Katalog [**dokumentacja\Procesy**] (https://github.com/openpkw/openpkw/tree/master/dokumentacja/procesy) - katalog zawiera diagramy procesów wyborczych:
+* Katalog [**dokumentacja\Procesy**] (https://github.com/openpkw/openpkw/tree/master/dokumentacja/procesy) - katalog zawiera diagramy procesów wyborczych:
     * plik [README.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/procesy/README.md) - opisujący sposób uruchomienia programu [**draw.io**] (https://www.draw.io/) i wczytania wersji RAW diagramów w formacie *.xlm
     * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FObwodowa%2520komisja%2520wyborcza.xml) - przedstawiający w postaci graficznej przebieg procesów w Obwodowej komisji wyborczej w dniu głosowania.
     * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2Fprzed_wyborami.xml) przedstawiający w postaci graficznej wzajemne powiązania systemów, organizacji i organów wyborczych przed dniam głosowania.
