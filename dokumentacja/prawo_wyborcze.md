@@ -27,6 +27,18 @@ Rozdział V. W zakresie wyborów do Sejmu i Senatu - nie aktualizuje przepisów 
 * DYREKTYWA RADY 94/80/WE z dnia 19 grudnia 1994 r. ustanawiająca szczegółowe zasady korzystania z prawa głosowania i kandydowania w wyborach lokalnych przez obywateli Unii zamieszkałych w Państwie Członkowskim, którego nie są obywatelami. ([**31994L0080**] (http://eur-lex.europa.eu/legal-content/PL/ALL/?uri=CELEX:31994L0080))
 
 * DYREKTYWA RADY 93/109/WE z dnia 6 grudnia 1993 r. ustanawiająca szczegółowe warunki wykonywania prawa głosowania i kandydowania w wyborach do Parlamentu Europejskiego przez obywateli Unii mających miejsce zamieszkania w Państwie Członkowskim, którego nie są obywatelami ([**31993L0109**] (http://eur-lex.europa.eu/legal-content/PL/ALL/?uri=CELEX:31993L0109))
+ 
+# Zalecenia Rady Europy
+
+* [**Zalecenia Komitetu Ministrów Rady Europy dla państw członkowskich dotyczące prawnych, praktycznych standardów głosowania elektronicznego**] (https://wcd.coe.int/ViewDoc.jsp?id=778189)  
+Tytuł oryginału: „Recommendation Rec (2004)11 of the Committee of Ministers to member states on legal, operational and technical standards for e-voting, adopted by the Committee of Ministers on 30 September 2004 at the 898th
+meeting of the Ministers’Deputies”.
+
+* [**Kodeks Dobrej Praktyki w Sprawach Wyborczych**] (http://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-AD%282002%29023rev-e) Wytyczne i Raport wyjaśniający  
+Tytuł oryginału: "CODE OF GOOD PRACTICE IN ELECTORAL MATTERS. GUIDELINES AND EXPLANATORY  REPORT"
+
+* [**Warunki dobrej praktyki referendalnej**] (http://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-AD(2007)008-e) przyjęte przez Radę Demokratycznych Wyborów na 19. posiedzeniu (Wenecja, 16 grudnia 2006) oraz przez Komisję Wenecką na 70. sesji plenarnej (Wenecja, 16 – 17 marca 2007) 
+Tytuł oryginału: "CODE OF GOOD PRACTICE ON REFERENDUMS"
 
 # III. Rozporządzenia
 
