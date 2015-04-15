@@ -1,7 +1,8 @@
 # Słownik pojęć 
 Jest to plik nadrzędny w którym gromadzone są definicje pojęć. Sortujemy alfabetycznie. W podrzędnych plikach MD takich jak np. analizy bądź protokoły linkujemy bezpośrednio do definicji w słowniku.
 
-**Błędy twarde** – informacje przekazywane przez system lub program Kalkulator wyborczy, członkom obwodowej komisji wyborczej o ewidentnych błędach obliczeniowych powstałych w trakcie tworzenia protokołu obwodowego. W systemie komunikaty o błędach twardych są sygnalizowane na czerwono. Protokołu z błedami twardymi nie można zatwierdzić (podpisać), wysłać na serwer centralny ani wydrukować. Drukowane jest jedynie - patrz **Zestawienie błędów**.
+**Błędy twarde** – informacje przekazywane przez system lub program Kalkulator wyborczy, członkom obwodowej komisji wyborczej o ewidentnych błędach obliczeniowych powstałych w trakcie tworzenia protokołu obwodowego. W systemie komunikaty o błędach twardych są sygnalizowane na czerwono. Protokołu z błedami twardymi nie można zatwierdzić (podpisać), wysłać na serwer centralny ani wydrukować. Drukowane jest jedynie - patrz **Zestawienie błędów**.  
+Może się zdarzyć, że to co program bierze za **błąd twardy** wystąpiło w rzeczywistości i należy z takim błędem wysłać protokół – w takim przypadku należy skontaktować się gminnym pełnomocnikiem (informatykiem). Trzeba będzie podać kod błędu oraz wyjaśnienie dlaczego taki błąd wystąpił. Te informacje przekazywane są do Okręgowej Komisji Wyborczej i po analizie otrzymujemy kod odblokowujący. Kod przekazany operatorowi, umożliwia wysyłkę protokołu pomimo błędu.   
 
 **Błędy miękkie** - patrz **Ostrzeżenia.**
 
@@ -60,6 +61,8 @@ Zmiana którejkolwiek z tych informacji jest natychmiast automatycznie wprowadza
 
 **Użytkownik gminny lub okręgowy** – osoba upoważniona do pracy w systemie w gminie, dzielnicy, konsulacie, Okręgowej Komisji Wyborczej lub Krajowym Biurze Wyborczym. 
 
-**Weryfikacja protokołu**  - polega na dokładnym porównaniu protokołu obwodowego z wartościami i tekstem wprowadzonym przez komisję obwodową do systemu. 
+**Walidacja** - sprawdzenie wprowadzonych wartości liczbowych (oraz sum tych wartości) do protokołu z zasadami poprawności ustalonymi wcześniej i wprwadzonymi na stałę w systemie komputerowym.
+
+**Weryfikacja protokołu**  - polega na dokładnym (organoleptycznym) porównaniu wydruku protokołu obwodowego z wartościami i tekstem wprowadzonym przez komisję obwodową do systemu. 
 
 **Zestawienie błędów** – dokument pomocniczy obwodowej komisji wyborczej zawierający informacje o błędach i ostrzeżeniach (błędach miękkich) powstających w trakcie wprowadzania protokołu obwodowego. Nie jest przekazywany do okręgowej komisji wyborczej.
