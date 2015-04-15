@@ -1,3 +1,7 @@
+[**Zalecenia Komitetu Ministrów Rady Europy dla państw członkowskich dotyczące prawnych, praktycznych standardów głosowania elektronicznego**] (https://wcd.coe.int/ViewDoc.jsp?id=778189)  
+Tytuł oryginału: „Recommendation Rec (2004)11 of the Committee of Ministers to member states on legal, operational and technical standards for e-voting, adopted by the Committee of Ministers on 30 September 2004 at the 898th
+meeting of the Ministers’Deputies”.
+
 # e-Wybory
 
 Moduł całkowcie niezgodny z prawem wyborczym  RP.  
