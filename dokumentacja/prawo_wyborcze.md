@@ -184,7 +184,7 @@ do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M.P. N
 
 * Uchwała Państwowej Komisji Wyborczej w sprawie zasad i trybu przekazywania Okręgowej Komisji Wyborczej Nr 21 w Warszawie wyników głosowania i protokołów głosowania z obwodów utworzonych za granicą w wyborach Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. ([M.P. 2015, poz. skierowany do publikacji] ())
 
-* Uchwała Państwowej Komisji Wyborczej z dnia 14 kwietnia 2015 r. w sprawie listy kandydatów na Prezydenta Rzeczypospolitej Polskiej w wyborach zarządzonych na dzień 10 maja 2015 r. ([M.P. 2015, poz. skierowany do publikacji] ())  
+* Uchwała Państwowej Komisji Wyborczej z dnia 14 kwietnia 2015 r. w sprawie listy kandydatów na Prezydenta Rzeczypospolitej Polskiej w wyborach zarządzonych na dzień 10 maja 2015 r. ([M.P. 2015, poz. skierowany do publikacji] (http://pkw.gov.pl/g2/oryginal/2015_04/41834e8f56b5070699327d6421ce74f3.pdf))  
 
 # VII. W zakresie wyborów do Europarlamentu
 
