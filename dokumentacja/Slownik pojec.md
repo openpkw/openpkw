@@ -7,7 +7,7 @@ Może się zdarzyć, że to co program bierze za **błąd twardy** wystąpiło w
 **Błędy miękkie** - patrz **Ostrzeżenia.**
 
 **Brudnopis protokołu (Komisja Obwodowa)**
-Jest to wydruk oficjalnego szablonu protokołu wyborczego wypełnionego danymi Obwodowej Komisji Wyborczej, listą kandydatów i listą członków obwodowej Komisji Wyborczej - brakuje jedynie liczb z wynikami. Po zamknięciu urn, komisja sprawdza czy brudnopis dostarczony wraz z innymi materiałami wyborczymi nadal jest aktualny. Jeżeli w ciągu dnia wyborczego doszło do zmiany w protokole (np. komitet wyborczy ABC lub konkretny kandydat zrezygnował z kandydowania) to aktualizowany jest szablon i można wydrukować nowy brudnopis. Natępnie członkowie komisji najpierw wypełniają ręcznie brudnopis po czym dane z brudnopisu wpisywane są do Kalkulatora Wyborczego.
+Jest to wydruk oficjalnego szablonu protokołu wyborczego wypełnionego danymi Obwodowej Komisji Wyborczej, listą kandydatów i listą członków obwodowej Komisji Wyborczej - brakuje jedynie liczb z wynikami. Po zamknięciu urn, komisja sprawdza czy brudnopis dostarczony wraz z innymi materiałami wyborczymi nadal jest aktualny. Jeżeli w ciągu dnia wyborczego doszło do zmiany w protokole (np. komitet wyborczy ABC lub konkretny kandydat zrezygnował z kandydowania) to centralnie aktualizowany jest szablon (lub należy pobrać nowy -> **Plik KLK** i wgrać go do systemu lokalnego) i można wydrukować nowy już aktualny szablon/brudnopis. Natępnie członkowie komisji najpierw wypełniają ręcznie brudnopis i przekazują go do -> **Operatora obwodowego**, po czym dane z brudnopisu wpisywane są do Kalkulatora Wyborczego.
 
 **Dane uwierzytelniające** – login i hasło umożliwiające zalogowanie się użytkownikom do programu.
 
