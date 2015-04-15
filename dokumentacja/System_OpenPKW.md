@@ -27,9 +27,10 @@ oraz:
 (systemy wykorzystywane przez różnorodne organizacje do sprawdzania poprawności wyborów, zdjęcia protokołów,  
 szybkie przekazanie części danych do obliczenia wyników)
 
-**D. e-Wybory.** - Moduł na razie wyłącznie do rozważań analitycznych oraz luźnych rozważań. Może ostatecznie coś z tego wyrośnie a PKW pójdzie po rozum do głowy.
+**D. e-Wybory.** - Moduł na razie wyłącznie do rozważań analitycznych oraz luźnych dyskusji. Może ostatecznie coś z tego wyrośnie a PKW pójdzie po rozum do głowy.
 
-Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szczebli i rodzajów oraz z funkcjonalności oprogramowania i baz danych wykorzystywanych w procesie przygotowania i przeprowadzenia wyborów oraz agregacji i ogłoszenia wyników wyborów.
+
+Dalszy podział wynika z potrzeb organów wyborczych wszystkich szczebli i rodzajów oraz z funkcjonalności oprogramowania i baz danych wykorzystywanych w procesie przygotowania i przeprowadzenia wyborów oraz agregacji i ogłoszenia wyników wyborów.
 
 # Ad. A.  
 * A.1. zbieranie i przetwarzanie danych przed wyborczych zgodnie z przedstawionym graficznie (draw.io) [**procesem**] 
@@ -120,3 +121,9 @@ Podział zadania C na [**moduły programistyczne**] (https://github.com/openpkw/
     * przetworzenie danych, ich agregacja i udostępnienie danych zbiorczych/wizualizacja.
     * archiwizacja danych przeszłych akcji wyborczych.
 
+# Ad. D.
+Moduł wymaga wstępne analizy strukturalnej, prawnej, organizacyjnej i każdej innej. Trzeba się zastanowić nad prawdopodobnymi beneficjentami takich systemów. Problemy PR i spsoby przekonania PKW.
+
+D.1. - elektroniczne systemy automatycznego zliczania głosów z kart wyborczych.
+
+D.2. - internetowe systemy głosowania.
