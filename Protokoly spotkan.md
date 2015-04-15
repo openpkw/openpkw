@@ -20,12 +20,39 @@ Zbieramy tematy na najbliższą telekonferencje tj. 15.04.2015. Będę wdzięczn
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
 * 2015.04.08-1 [Adam, Sebastian, Maciek] [Done] Zorganizować spotkanie na temat infrastruktury.
 * 2015.03.25-0 [Tomek] [Pending] Przekazac namiary na Mobile  i Java Developers. 
-* 2015.03.25-5 [Adam] [Pending] Posprzątać do końca wiki.
 * 2015.03.25-9 [Tomek, Rafał Malujda] [Pending] Dokończyć  temat prawny ws AGPL i kodu systemu dla openPKW.
 
+##2015.04.16 20:00 [WiP]
+Format: Telekonferencja / Skype  
+Czas: 120 min.  
+Obecni: Adam Kowalewski, Przemek Jodkowski, Rafał Reguła, Sebastian Celejewski, Kacper Jasiński, Marcin Marzec.  
+Odpowiedzialny za protokół: Adam   
+
+**Dyskusja**  
+* SOA [Adam]  
+  * Przedyskutowaliśmy temat proponowanej architektury SOA ([Service-Oriented Architecture](http://pl.wikipedia.org/wiki/Architektura_zorientowana_na_us%C5%82ugi)) dla OpenPKW, czyli podziału systemu na wpełni niezależne moduły. Jesteśmy również zgodni co do pierwszych kroków które podejmiemy w tym właśnie kierunku. Pierwszym z nich będzie rozbicie repozytorium prototypu kalkulatora na:
+    * Moduł 1: Serwer drukowania formularzy
+    * Moduł 2: Kalkulator Wyborczy Web-AngularJS
+      * Prototyp kalkulatora staje się tymsamym pełnowartościową częścią - modułem - platformy OpenPKW.
+  * Kolejnym niezależnym krokiem będzie natomiast realizacja:
+    * Moduł 3: Serwer archiwizacja plików binarnych
+* Kalkulator [Sebastian]
+* Mobile [Rafał]
+  * WiP
+  * temat OCR, pełny kalkulator
+* Dostęp do informacji publicznej [Przemek & Adam]
+  * WiP
+* Aktualna sytuacja w PKW [Przemek]
+  * Nowy system PKW jest odbierany przez gminy jak i koordynatorów bardzo pozytywnie. Aktualnie odbywają się szkolenia. Architektura jak i system muszą się jednak sprawdzić. Podczas nadchodzących wyborów Prezydenta RP nowy system nie będzie aktywnie wspomagał pracy komisji obwodowych. W dniu wyborów nowy system będzie jedynie testowany. 
+* Rekrutacja i integracja nowych kontrybutorów 
+  * WiP
+
+**ToDo zrobione** 
+* 2015.03.25-5 [Adam] [Pending] Posprzątać do końca wiki.  
+
 ##2015.04.08 20:00
-Format: Telekonferencja / Skype.  
-Czas: 110 min.  
+Format: Telekonferencja / Skype  
+Czas: 110 min  
 Obecni: Adam Kowalewski, Przemek Jodkowski, Rafał Reguła, Sebastian Celejewski, Bartłomiej Kokoszka, Marzena Zasińska-Igła, Maciek Strzelecki, Marcin Tokarski.  
 Odpowiedzialny za protokół: Sebastian.
 
