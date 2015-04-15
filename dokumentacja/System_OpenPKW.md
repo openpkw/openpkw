@@ -27,6 +27,8 @@ oraz:
 (systemy wykorzystywane przez różnorodne organizacje do sprawdzania poprawności wyborów, zdjęcia protokołów,  
 szybkie przekazanie części danych do obliczenia wyników)
 
+**D. e-Wybory.** - Moduł na razie wyłącznie do rozważań analitycznych oraz luźnych rozważań. Może ostatecznie coś z tego wyrośnie a PKW pójdzie po rozum do głowy.
+
 Kolejne podziały powinny wynikać z potrzeb organów wyborczych wszystkich szczebli i rodzajów oraz z funkcjonalności oprogramowania i baz danych wykorzystywanych w procesie przygotowania i przeprowadzenia wyborów oraz agregacji i ogłoszenia wyników wyborów.
 
 # Ad. A.  
