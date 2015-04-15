@@ -1,5 +1,13 @@
-openpkw
+OpenPKW
 =======
+
+# Kontakt
+
+# Aktualny status
+
+
+
+
 
 O projekcie
 -----------
