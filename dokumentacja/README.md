@@ -52,7 +52,7 @@ Katalog [**master\pliki klk**] (https://github.com/openpkw/openpkw/tree/master/p
 # Zawartość katalogu:
 
 * Katalog [**dokumentacja\Procesy**] (https://github.com/openpkw/openpkw/tree/master/dokumentacja/procesy) - katalog zawiera diagramy procesów wyborczych:
-    * plik [README.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/procesy/README.md) - opisujący sposób uruchomienia programu [**draw.io**] (https://www.draw.io/) i wczytania wersji RAW diagramów w formacie *.xlm
+    * plik [README.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/procesy/README.md) - opisujący sposób uruchomienia programu [**draw.io**] (https://www.draw.io/) i wczytania wersji RAW diagramów w formacie *.xml
     * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FObwodowa%2520komisja%2520wyborcza.xml) - przedstawiający w postaci graficznej przebieg procesów w Obwodowej komisji wyborczej w dniu głosowania.
     * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2Fprzed_wyborami.xml) przedstawiający w postaci graficznej wzajemne powiązania systemów, organizacji i organów wyborczych przed dniam głosowania.
     * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FObwodowa_komisja_A.xml) przedstawiający w postaci graficznej działanie Obwodowej Komisji Wyborczej po zamknięciu lokalu o godz. 21:00 i przystapieniu do wypełniania brudnopisu protokołu - cześć A dotyczy prac **przed** otwarciem urny wyborczej. 
