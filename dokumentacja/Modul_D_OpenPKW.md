@@ -1,4 +1,4 @@
-[**Zalecenia Komitetu Ministrów Rady Europy dla państw członkowskich dotyczące prawnych, praktycznych standardów głosowania elektronicznego**] (https://wcd.coe.int/ViewDoc.jsp?id=778189)  
+[**Zalecenia Komitetu Ministrów Rady Europy dla państw członkowskich dotyczące prawnych, praktycznych standardów głosowania elektronicznego**] (http://www.eods.eu/library/CoE_Recommentaion%20on%20Legal,%20Operational%20and%20Technical%20Standards%20for%20E-voting_2004_EN.pdf)  
 Tytuł oryginału: „Recommendation Rec (2004)11 of the Committee of Ministers to member states on legal, operational and technical standards for e-voting, adopted by the Committee of Ministers on 30 September 2004 at the 898th
 meeting of the Ministers’Deputies”.
 
