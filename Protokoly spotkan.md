@@ -1,7 +1,11 @@
 # Protokoły spotkań
 
 ## Agenda na najbliższe spotkanie
-Zbieramy tematy na najbliższą telekonferencje tj. 15.04.2015. Będę wdzięczny za akceptację schematu ** data, [autor],[status],[treść]** 
+Zbieramy tematy na najbliższą telekonferencje tj. 22.04.2015. Będę wdzięczny za akceptację schematu ** data, [autor],[status],[treść]** 
+
+* 2015.04.16 [Przemek] Zapoznanie się, dyskusja (poprawki) i oficjalne przyjęcie dokumentu [**System OpenPKW**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) jako podstawowego, ramowego opisu tworzonego systemu. Przyjęcie zasady, że dalsza modyfikacja tego dokumentu (dodawania nowych funkcjonalności, modułów itp)  musi wiązać się z koniecznością ponownego przedyskutowania i przyjęcia w pełnym gronie zainteresowanych osób. Dokument ten będzie wiążący w dalszej pracy nad stworzeniem systemu OpenPKW. (a może by tak szybko stworzyć mały moduł głosowania wewnętrznego ??? ;) )
+
+
 
 * 2015.04.14 [RafalR] Spotkanie inauguracyjne Developerów Mobilnych i start OpenPKW_Mobile, Status, Plany i zamierzenia podprojektu na przyszlosc versus realia
   * Czy jest potrzeba zrobienia regulaminu korzystania i polityki prywatnosci  dla użytkowników Aplikacji OpenPKW Mobile i osadzenia jej w postaci linka w samej Apce ? Temat dla Rafała M ? 
@@ -33,7 +37,7 @@ Odpowiedzialny za protokół: Adam
   * Przedyskutowaliśmy temat proponowanej architektury SOA ([Service-Oriented Architecture](http://pl.wikipedia.org/wiki/Architektura_zorientowana_na_us%C5%82ugi)) dla OpenPKW, czyli podziału systemu na wpełni niezależne moduły. Jesteśmy również zgodni co do pierwszych kroków które podejmiemy w tym właśnie kierunku. Pierwszym z nich będzie rozbicie repozytorium prototypu kalkulatora na:
     * Moduł 1: Serwer drukowania formularzy
     * Moduł 2: Kalkulator Wyborczy Web-AngularJS
-      * Prototyp kalkulatora staje się tymsamym pełnowartościową częścią - modułem - platformy OpenPKW.
+      * Prototyp kalkulatora staje się tym samym pełnowartościową częścią - modułem - platformy OpenPKW.
   * Kolejnym niezależnym krokiem będzie natomiast realizacja:
     * Moduł 3: Serwer archiwizacja plików binarnych
 * Kalkulator [Sebastian]
