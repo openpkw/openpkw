@@ -2,10 +2,24 @@ OpenPKW
 =======
 
 # Kontakt
-[WiP 2014.04.16]
-# Aktualny status
-[WiP 2014.04.16]
 
+| Temat  | Bezpośredni kontakt  |
+| ------------- | ------------- |
+| AngularJS | Marcin  |
+| jQuery | Kacper |
+| Java / Java EE  | Adam, Sebastian |
+| Analiza i Organizacja | RafałR | 
+| RobertP | Analiza |
+
+
+# OpenPKW w liczbach 
+
+| Liczba  | Temat  |
+| ------------- | ------------- |
+| 10 | Liczba aktywnych kontrybutorów |
+| 3 | Analityków  |
+| 2 | Programiści AngularJS  |
+| 2 | Programiści Java / JavaEE |
 
 
 
