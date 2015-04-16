@@ -37,8 +37,15 @@ Odpowiedzialny za protokół: Adam
     * Moduł 3: Serwer archiwizacja plików binarnych
 * Kalkulator [Sebastian]
 * Mobile [Rafał]
-  * WiP
-  * temat OCR, pełny kalkulator
+  * W poniedziałek odbyła się pierwsza telekonferencja z potencjalnymi programistami aplikacji mobilnych. Zgłosiło się kilka doświadczonych osób. Rafał widzi duże szanse na wydanie pierwszej stabilnej wersji jeszcze przed nadchodzącymi wyborami Prezydenta RP. 
+Przedyskutowaliśmy również aktualne szkice (paper browser) interfejsu aplikacji mobilnej i zidentyfikowaliśmy następujące punkty: 
+    * OpenPKW dąży do pełnej zgodności z polskim prawem wyborczym. 
+    * Jako że aplikacja mobilna, w proponowanej wersji, przesyła tylko część protokołu komisji, nie spełnia ona powyższego wymagania. 
+    * Jesteśmy za dokładniejszym opracowaniem paper browser w którym uwzględniony będzie pełen protokół komisji obwodowej. 
+  * Aktualnie widzimy tutaj 2 możliwości / aplikacje
+    * Aplikacja mobilna robiąca zdjęcie pojedynczych stron protokołu komisji obwodowej i wgrywania ich do modułu archiwizacji plików binarnych. Zdjęcia wgrane do tego modułu mogą być udostępnione innym aplikacjom / modułom. 
+    * Aplikacja mobilna walidująca protokół komisji obwodowej z funkcjonalnością OCR. Wykonuje zdjęcie protokołu, OCR odczytuje liczby z pól po czym wykonuje pełną walidację protokołu. Całość odbywa się bezpośrednio na telefonie, komunikacja z serwerem jako opcja dodatkowa.     
+  * Temat będzie omawiany w tygodniu. 
 * Dostęp do informacji publicznej [Przemek & Adam]
   * WiP
 * Aktualna sytuacja w PKW [Przemek]
