@@ -50,8 +50,13 @@ Przedyskutowaliśmy również aktualne szkice (paper browser) interfejsu aplikac
   * WiP
 * Aktualna sytuacja w PKW [Przemek]
   * Nowy system PKW jest odbierany przez gminy jak i koordynatorów bardzo pozytywnie. Aktualnie odbywają się szkolenia. Architektura jak i system muszą się jednak sprawdzić. Podczas nadchodzących wyborów Prezydenta RP nowy system nie będzie aktywnie wspomagał pracy komisji obwodowych. W dniu wyborów nowy system będzie jedynie testowany. 
-* Rekrutacja i integracja nowych kontrybutorów 
-  * WiP
+* Integracja / rekrutacja nowych kontrybutorów
+  * Aktualna rekrutacja poprzez skrzynkę E-Mail działa kiepsko, głownie ze względu na konieczność ręcznego przesyłania danych a co za tym idzie opóźnienia. 
+Kacper zaproponował lepsze wykorzystania mediów społecznościowych takich jak Facebook. Sprecyzowane wpisy adresowane bezpośrednio do odpowiednich grup np. grupa użytkowników AngularJS. Jesteśmy pozytywnie nastawieni do tej propozycji. 
+  * Integracja - Brakuje dokumentacji typu quickstart dla nowych kontrybutorów. 
+
+
+
 
 **ToDo zrobione** 
 * 2015.03.25-5 [Adam] [Pending] Posprzątać do końca wiki.  
