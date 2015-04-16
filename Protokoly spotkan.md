@@ -14,21 +14,23 @@ Zbieramy tematy na najbliższą telekonferencje tj. 22.04.2015. Będę wdzięczn
 * 2015.04.14 [RafalR] Spotkanie inauguracyjne Developerów Mobilnych i start OpenPKW_Mobile, Status, Plany i zamierzenia podprojektu na przyszlosc versus realia
   * Czy jest potrzeba zrobienia regulaminu korzystania i polityki prywatnosci  dla użytkowników Aplikacji OpenPKW Mobile i osadzenia jej w postaci linka w samej Apce ? Temat dla Rafała M ? 
 * 2015.04.15 [Sebastian] [New] Kierunek rozwoju Kalkulatora OpenPKW do dnia najbliższych wyborów prezydenckich. Czy staramy się zrobić chociaż wersję najprostszą (wprowadzanie, walidacja, wydruk)? Czy próbujemy zrobić pełną wersję nie zważając na to, że miną wybory, a my niczego nie dostarczymy?
-* 2015.04.14[Rafal Malujda] Przygotowanie oficialnego pisma i prosby do PKW w sprawie spisu Obwodowych Komisji Wyborczych w trybie dostępu do informacji publicznej (plik csv)
-* 2015.04.08 [Brygada RR + Przemek] [Done] Co dalej w temacie nowego systemu informatycznego w PKW/KBW? Jakie nowe wieści?
-* 2015.04.08. [Przemek] [Done] **Omówienie Systemu WOW (Wsparcie Organów Wyborczych) tworzonego przez PKW.** [**Plan działania PKW do 10.05.2015.**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/PKW_pracuje.md)
 * 2015.04.05 [Adam] Proces integracji kontrybutorów. OpenProject pozwala na zakładanie konta ale co dzieje się z tymi ludźmi? Czy nowi użytkownicy mogą sami dopisać się do zespołów? 
-* 2015.04.08 [Przemek] Kontynuacja analizy OpenPKW oraz analiza działania państwowych systemów wyborczych. Linki: [**tutaj**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) i [katalog DOKUMENTACJA] (https://github.com/openpkw/openpkw/blob/master/dokumentacja).
+* 2015.04.08 [Przemek] [Permanent] Kontynuacja analizy OpenPKW oraz analiza działania państwowych systemów wyborczych. Linki: [**tutaj**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) i tutaj: [**katalog DOKUMENTACJA**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja).
 * 2015.03.26 [Adam] [Pending]: Status implementacji 
   * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
   * [OPW wybory prezydenckie 2015](https://github.com/adamkowalewski/OtwartaPlatformaWyborcza) 
 
-
 ## Aktualna lista ToDo: 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
-* 2015.04.08-1 [Adam, Sebastian, Maciek] [Done] Zorganizować spotkanie na temat infrastruktury.
+#ToDo PENDING !!!
+* **2015.04.14[Rafal Malujda] Przygotowanie oficialnego pisma i prośby do PKW w sprawie spisu Obwodowych Komisji Wyborczych w trybie dostępu do informacji publicznej (plik csv)**
 * 2015.03.25-0 [Tomek] [Pending] Przekazac namiary na Mobile  i Java Developers. 
 * 2015.03.25-9 [Tomek, Rafał Malujda] [Pending] Dokończyć  temat prawny ws AGPL i kodu systemu dla openPKW.
+
+**ToDo Done**
+* 2015.04.08-1 [Adam, Sebastian, Maciek] [Done] Zorganizować spotkanie na temat infrastruktury.
+* 2015.04.08 [Brygada RR + Przemek] [Done] Co dalej w temacie nowego systemu informatycznego w PKW/KBW? Jakie nowe wieści?
+* 2015.04.08. [Przemek] [Done] **Omówienie Systemu WOW (Wsparcie Organów Wyborczych) tworzonego przez PKW.** [**Plan działania PKW do 10.05.2015.**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/PKW_pracuje.md)
 
 ##2015.04.16 20:00 [WiP]
 Format: Telekonferencja / Skype  
