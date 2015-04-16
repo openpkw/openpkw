@@ -16,12 +16,15 @@ Zbieramy tematy na najbliższą telekonferencje tj. 22.04.2015. Będę wdzięczn
 
 ## Aktualna lista ToDo: 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
-* **2015.04.14[Rafal Malujda] Przygotowanie oficialnego pisma i prośby do PKW w sprawie spisu Obwodowych Komisji Wyborczych w trybie dostępu do informacji publicznej (plik csv)**
+* **2015.04.15-3 [Rafal Malujda] Przygotowanie oficialnego pisma i prośby do PKW w sprawie spisu Obwodowych Komisji Wyborczych w trybie dostępu do informacji publicznej (plik csv)**
 * 2015.03.25-0 [Tomek] [Pending] Przekazac namiary na Java Developers. 
 * 2015.03.25-9 [Tomek, Rafał Malujda] [Pending] Dokończyć  temat prawny ws AGPL i kodu systemu dla openPKW.
-* 2015.04.14-1 [Sebastian] [New] Wydzielić backend z projektu PocKalkulatorWyborczyHTML do nowego projektu - serwisu generujcego rozmaite protokoly na podstawie szablonów
+* 2015.04.15-1 [Sebastian] [New] Wydzielić backend z projektu PocKalkulatorWyborczyHTML do nowego projektu - serwisu generujcego rozmaite protokoly na podstawie szablonów
+* 2015.04.15-2 [Adam] Edycja pliku README.md w głównym repozytorium. Dodane zostaną rozdziały *Kontakt* i *OpenPKW w liczbach*
+* 2015.04.15-4 [Adam & Sebastian] Omówić i pozakładać odpowiednie repozytoria dla modułów w github. 
+* 2015.04.15-5 [Adam & Sebastian] Omówić temat konfiguracji serwara CI. 
 
-##2015.04.16 20:00 [WiP]
+##2015.04.16 20:00
 Format: Telekonferencja / Skype  
 Czas: 120 min.  
 Obecni: Adam Kowalewski, Przemek Jodkowski, Rafał Reguła, Sebastian Celejewski, Kacper Jasiński, Marcin Marzec.  
@@ -36,6 +39,9 @@ Odpowiedzialny za protokół: Adam
   * Kolejnym niezależnym krokiem będzie natomiast realizacja:
     * Moduł 3: Serwer archiwizacja plików binarnych
 * Kalkulator [Sebastian]
+  * Aktualnie mamy 2 aktywnych programistów AngularJS. 
+  * Sprzątanie kodu powoli dobiega końca. 
+  * Separacja frontend od backend nastąpi na dniach. ToDo 2015.04.15-1 i 2015.04.15-4
 * Mobile [Rafał]
   * W poniedziałek odbyła się pierwsza telekonferencja z potencjalnymi programistami aplikacji mobilnych. Zgłosiło się kilka doświadczonych osób. Rafał widzi duże szanse na wydanie pierwszej stabilnej wersji jeszcze przed nadchodzącymi wyborami Prezydenta RP. 
 Przedyskutowaliśmy również aktualne szkice (paper browser) interfejsu aplikacji mobilnej i zidentyfikowaliśmy następujące punkty: 
@@ -47,16 +53,13 @@ Przedyskutowaliśmy również aktualne szkice (paper browser) interfejsu aplikac
     * Aplikacja mobilna walidująca protokół komisji obwodowej z funkcjonalnością OCR. Wykonuje zdjęcie protokołu, OCR odczytuje liczby z pól po czym wykonuje pełną walidację protokołu. Całość odbywa się bezpośrednio na telefonie, komunikacja z serwerem jako opcja dodatkowa.     
   * Temat będzie omawiany w tygodniu. 
 * Dostęp do informacji publicznej [Przemek & Adam]
-  * WiP
+  * PKW powołała już obwody na nadchodzące wybory Prezydenta RP. Jest to lista ostateczna. Dlatego też powinniśmy jak najszybciej wystosować odpowiednie pismo do PKW. ToDo [2015.04.15-3]
 * Aktualna sytuacja w PKW [Przemek]
   * Nowy system PKW jest odbierany przez gminy jak i koordynatorów bardzo pozytywnie. Aktualnie odbywają się szkolenia. Architektura jak i system muszą się jednak sprawdzić. Podczas nadchodzących wyborów Prezydenta RP nowy system nie będzie aktywnie wspomagał pracy komisji obwodowych. W dniu wyborów nowy system będzie jedynie testowany. 
 * Integracja / rekrutacja nowych kontrybutorów
   * Aktualna rekrutacja poprzez skrzynkę E-Mail działa kiepsko, głownie ze względu na konieczność ręcznego przesyłania danych a co za tym idzie opóźnienia. 
 Kacper zaproponował lepsze wykorzystania mediów społecznościowych takich jak Facebook. Sprecyzowane wpisy adresowane bezpośrednio do odpowiednich grup np. grupa użytkowników AngularJS. Jesteśmy pozytywnie nastawieni do tej propozycji. 
-  * Integracja - Brakuje dokumentacji typu quickstart dla nowych kontrybutorów. 
-
-
-
+  * Integracja - Brakuje dokumentacji typu quickstart dla nowych kontrybutorów. Patrz ToDo [2015.04.15-2]
 
 **ToDo zrobione** 
 * 2015.03.25-5 [Adam] [Pending] Posprzątać do końca wiki.  
