@@ -76,7 +76,7 @@ Do głównych zadań przedstawionych wyżej modułów należy:
    * A.3.1.  przyjęcie, agregacja i aktualizacja frekwencji z "godzin sprawozdawczych"  
 
 * A.4. Zapewnienie stałego dostępu do danych archiwalnych (gromadzących dane z zakończonych akcji wyborczych i ich wizualizacje). Struktura bazy [**archiwalnej PKW**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/bazaKBW.md)
-   * A.4.1.  
+   * A.4.1. Stwworzenie serwera archiwizacji plików binarnych (obrazy oryginałów (podpisanych i wywieszonych) protokołów oraz obrazów ich korekt, skany dokumentów, itp. itd.)
 
 Podział zadania A na [**moduły programistyczne**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Modul_A_OpenPKW.md).
 
