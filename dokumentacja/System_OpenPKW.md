@@ -52,7 +52,7 @@ Do głównych zadań przedstawionych wyżej modułów należy:
   * A.1.4. wspomaganie tworzenia i ułatwienie rejestracji komitetów wyborczych (komitet wyborczy wyborców; komitet wyborczy partii politycznej; komitet wyborczy koalicji partii politycznych)
   * A.1.5. wspomaganie zgłaszania oraz rejestracji kandydatów
   * A.1.6. wykorzystanie Systemu Rejestrów Państwowych w pracach przygotowawczych przed dniem wyboró w tym pomoc w tworzeniu [**spis wyborców**] (http://info.pkw.gov.pl/spis-wyborcow-pe/spis-wyborcow.html) uprawnionych do głosowania ([**rejestr wyborców**] (http://info.pkw.gov.pl/rejestr-wyborcow-pe/rejestr-wyborcow.html) / [**stałe zamieszkiwanie**] (http://info.pkw.gov.pl/stale-zamieszkiwanie-pe/stale-zamieszkanie.html) / PESEL / TERYT itp.)
-  * A.1.7. generowanie i aktualizacja plików definicyjnych ([**pliki KLK**] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/README.md) oraz JASON) na podstawie [**meldunków wyborczych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Slownik%20pojec.md) (przadwyborczych) z gmin
+  * A.1.7. generowanie i aktualizacja plików definicyjnych ([**pliki KLK**] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/README.md) oraz JSON) na podstawie [**meldunków wyborczych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Slownik%20pojec.md) (przadwyborczych) z gmin
   * A.1.8. stworzenie wzoru karty wyborczej na podstawie uchwały PKW oraz danych o zarejestrowanych kandydatach (listach kandydatów) i komitetach wyborczych
   * A.1.9. stworzenie bazy danych (wzorów) dokumentów wyborczych.
 
@@ -98,7 +98,7 @@ Podział zadania B na [**moduły programistyczne**] (https://github.com/openpkw/
 
 # Ad. B.1. 
 
-* B.1.1. oprogramowanie dla local host zgodne z [**propozycją funkcjonalności**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/oper_kalkulator.md)
+* B.1.1. oprogramowanie dla localhost zgodne z [**propozycją funkcjonalności**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/oper_kalkulator.md)
     * B.1.1.1. pobieranie plików *.klk [**przykład plików**] (https://github.com/openpkw/openpkw/tree/master/pliki%20klk)
     * B.1.1.2. generowanie/pobieranie certyfikatów, loginów, haseł, kodów jednorazowych.
     * B.1.1.3. wpisanie danych do formularza / walidacja poprawności - walidacja [**prezydent2015**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_prezydent_2015.md) ; walidacje [**dotychczasowe**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_podstawy.md)
