@@ -6,4 +6,4 @@
 
 4.  jak stworzyc nowy katalog ? (potrzebny katalog "dokumentacje\instrukcje")
 
-5.  
+5.  diagram nakładki HTML na moduły PW (Moduł A)
