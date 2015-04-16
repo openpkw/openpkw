@@ -2,18 +2,17 @@ OpenPKW
 =======
 
 # Kontakt
+Kontrybutorów zapraszamy do bezpośrednie współpracy na github'ie. Aby nawiązać bezpośredni kontakt po prostu zgłoś nowy issue w głównym repozytorium. 
 
 | Temat  | Bezpośredni kontakt  |
 | ------------- | ------------- |
-| AngularJS | Marcin  |
-| jQuery | Kacper |
-| Java / Java EE  | Adam, Sebastian |
-| Analiza i Organizacja | RafałR | 
-| RobertP | Analiza |
-
+| AngularJS | [Marcin](https://github.com/marcintokarski)  |
+| jQuery | [Kacper](https://github.com/Krzyku) |
+| Java / Java EE  | [Adam](https://github.com/adamkowalewski), [Sebastian](https://github.com/SebastianCelejewski) |
+| Analiza / PKW | [Przemek](https://github.com/Tirramisu) |
+| Analiza i Organizacja | [Rafał](https://github.com/RafalRegula) | 
 
 # OpenPKW w liczbach 
-
 | Liczba  | Temat  |
 | ------------- | ------------- |
 | 10 | Liczba aktywnych kontrybutorów |
