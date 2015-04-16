@@ -2,7 +2,7 @@ OpenPKW
 =======
 
 # Kontakt
-Kontrybutorów zapraszamy do bezpośrednie współpracy na github'ie. Aby nawiązać bezpośredni kontakt po prostu zgłoś nowy issue w głównym repozytorium. 
+Serdecznie zapraszamy do bezpośredniej współpracy na github'ie. Aby nawiązać kontakt po prostu zgłoś nowy issue w głównym repozytorium. 
 
 | Temat  | Bezpośredni kontakt  |
 | ------------- | ------------- |
