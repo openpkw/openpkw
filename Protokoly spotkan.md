@@ -6,15 +6,14 @@ Zbieramy tematy na najbliższą telekonferencje tj. 22.04.2015. Będę wdzięczn
 
 * 2015.04.16 [Przemek] Zapoznanie się, dyskusja (poprawki) i oficjalne przyjęcie dokumentu [**System OpenPKW**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) jako podstawowego, ramowego opisu tworzonego systemu. Przyjęcie zasady, że dalsza modyfikacja tego dokumentu (dodawania nowych funkcjonalności, modułów itp)  musi wiązać się z koniecznością ponownego przedyskutowania i przyjęcia w pełnym gronie zainteresowanych osób. Dokument ten będzie wiążący w dalszej pracy nad stworzeniem systemu OpenPKW. (a może by tak szybko stworzyć mały moduł głosowania wewnętrznego ??? ;) )
 * 2015.04.08 [Przemek] [Permanent] Kontynuacja analizy OpenPKW oraz analiza działania państwowych systemów wyborczych. Linki: [**tutaj**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) i tutaj: [**katalog DOKUMENTACJA**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja).
-
 * 2015.04.05 [Adam] Proces integracji kontrybutorów. OpenProject pozwala na zakładanie konta ale co dzieje się z tymi ludźmi? Czy nowi użytkownicy mogą sami dopisać się do zespołów? 
   * Czy jest potrzeba zrobienia regulaminu korzystania i polityki prywatnosci  dla użytkowników Aplikacji OpenPKW Mobile i osadzenia jej w postaci linka w samej Apce ? Temat dla Rafała M ? 
 
 ### Stałe tematy 
-* 2015.03.26 Status implementacji 
+* Status implementacji [Sebastian] 
   * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
-* Nowości PKW 
-* Nowości w mediach na temat wyborów 
+* Architektura OpenPKW [Adam] 
+* Analiza jak i nowości z PKW [Przemek, Robert] 
 
 ## Aktualna lista ToDo: 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje.   
