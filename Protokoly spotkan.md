@@ -64,7 +64,7 @@ Kacper zaproponował lepsze wykorzystania mediów społecznościowych takich jak
   * Integracja - Brakuje dokumentacji typu quickstart dla nowych kontrybutorów. Patrz ToDo [2015.04.15-2]
 
 **ToDo zrobione** 
-* 2015.03.25-5 [Adam] [Pending] Posprzątać do końca wiki.  
+* 2015.03.25-5 [Adam] [DONE] Posprzątać do końca wiki.  
 * 2015.04.08-1 [Adam, Sebastian, Maciek] [Done] Zorganizować spotkanie na temat infrastruktury.
 * 2015.04.08 [Brygada RR + Przemek] [Done] Co dalej w temacie nowego systemu informatycznego w PKW/KBW? Jakie nowe wieści?
 * 2015.04.08. [Przemek] [Done] **Omówienie Systemu WOW (Wsparcie Organów Wyborczych) tworzonego przez PKW.** [**Plan działania PKW do 10.05.2015.**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/PKW_pracuje.md)
