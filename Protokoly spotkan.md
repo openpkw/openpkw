@@ -101,23 +101,21 @@ Odpowiedzialny za protokół: Sebastian.
 **Dyskusja**
 * Przywitanie nowych osób.
 * Co się będzie działo kiedy ukończymy OpenPKW? Czy PKW wdroży OpenPKW? Czy ktoś inny wykorzysta OpenPKW?
-* Czy ma sens tworzyć OpenPKW, skoro PKW najprawdopodobniej PKW nie będzie zainteresowana wdrożeniem OpenPKW?
 * Rozpoczęcie prac nad trzecim projektem w ramach OpenPKW - aplikacja mobilna do weryfikacji zdjęć protokołów.
 * Perturbacje po wypuszczeniu wiadomości o postępach prac i komentowaniu kodu źródłowego. Ogólnie: efekt był bardzo pozytywny, parę osób zainteresowało się projektem, Adam i Sebastian posprzątali kod Kalkulatora OpenPKW w GitHubie.
 * Rozdział siły roboczej programistów pomiędzy Kalkulator OpenPKW i Otwartą Platformę Wyborczą. OPW jest bardziej atrakcyjną aplikacją, więc nastąpiło wyssanie programistów z Kalkulatora. Ustalamy, że realizujemy dalej oba systemy. W piątek będzie spotkanie zespołu programistycznego, na którym mają się pojawić nowe osoby. Może wystarczy obsady na oba systemy.
 * Sytuacja w KBW/PKW. Przeprowadzenie wyborów z wykorzystaniem systemu informatycznego versus instrukcje KBW. Podobno dzisiaj odbyły się szkolenia koordynatorów, ale brak szczegółów.
 * Kwestia otwartości projektu OpenPKW czy też jej braku. Jak ludzie z zewnąrz mają się udzielać w OpenPKW? Projektowi brakuje otwartości. Jedyne narzędzie to lista mailingowa. Niektóre osoby nie chcą korzystać z listy mailingowej i chciałyby, aby powstało forum.
-* Brak adminów. Adam nawiązał kontakt z jakimś adminem z dagnet.pl, który pomoże nam zabezpieczyć serwisy na serwerze Continuous Integration. Maszyny wirtualne - czy możemy zrobić porządek na Dobromirze? Dołączył do nas Maciek Strzelecki i ma parę konkretnych propozycji. Zrobimy spotkanie administratorów.
+* Brak adminów. Maszyny wirtualne - czy możemy zrobić porządek na Dobromirze? Dołączył do nas Maciek Strzelecki i ma parę konkretnych propozycji. Zrobimy spotkanie administratorów.
 * Propozycja Przemka dotycząca spisywania głównych założeń dla OpenPKW - przyjęta przez wszystkich. Dyskusja o tym czy kontynuować analizę bez prac programistycznych, wraz z pracami programistycznymi, czy jakoś inaczej. Chcemy dojść do tego, że prototypowanie dogoni prace analityczne.
 * Wzorce dokumentacji. Rafał i Przemek przejrzą propozycje, przykłady, wzory.
 * Status implementacji
   * Kalkulator OpenPKW - porządne uporządkowanie kodu, powolne odtwarzanie zespołu deweloperskiego.
-  * OPW - trzy wątki: backend, frontend dla zbierania wyników, frontend dla prezentowania wyników.
 * Czy chcemy grafika do OpenPKW? Tak!
 * Przywitanie nowej rzeczniczki OpenPKW - Marzeny. Jakie mamy konta w serwisach społecznościowych? Co będziemy na ten konta wrzucać? Jaka będzie procedura przygotowywania newsów do wrzucenia w kanały mediów społecznościowych? W jaki sposób Marzena będzie zbierać informacje o tym, co się dzieje w projekcie?
 * Sprzątanie na wiki - zostało jeszcze trochę rzeczy do wyrzucenia.
 * Pomoc z NIWY w sprawie organizowania zespołu.
-* Czy skorzystamy z domeny e-wybory.org? Dla OPW - tak. Dla Kalkulatora OpenPKW chcemy skorzystać z domeny openpkw.pl, niezależnie od tego jak długo będzie trwało ustawianie tego.
+* Dla Kalkulatora OpenPKW chcemy skorzystać z domeny openpkw.pl, niezależnie od tego jak długo będzie trwało ustawianie tego.
 
 **ToDo zrobione** 
 * 2015.04.01-1 [Tomek] [Done] Konfiguracja OP i maila, żeby działały prawidłowo.
