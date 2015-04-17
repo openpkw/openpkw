@@ -39,13 +39,14 @@ Konkretne przykłady dla Kalkulatora Obwodowego
 `openpkw-kalkulator-obwodowy-web`  
 `openpkw-kalkulator-obwodowy-desktop`  
 `openpkw-kalkulator-obwodowy-mobile`  
-
+  
 Konkretne przykłady dla serwisu dokumentów  
 `openpkw-dokument-service`  
 `openpkw-dokument-generator`   
 `openpkw-dokument-repository`  
 `openpkw-dokument-archive`  
-Jako że migracja prototypu Kalkulatora Wyborczego odbywać się będzie stopniowo, tak też będą dodawane kolejne repozytoria w organizacji. 
+
+Kolejne repozytoria będą zakładane stopniowo, w ramach postępów  implementacji. Pierwszy krok jest udokumentowany w ToDo [2015.04.17-1]
 
 
 ##2015.04.15 20:00
