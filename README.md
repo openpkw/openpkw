@@ -49,4 +49,4 @@ Projekt jest w pełni obywatelski, wspierają go specjaliści w każdej dziedzin
  * Listy dyskusyjne: http://openpkw.pl/mailman/listinfo
  * Grupa na FB https://www.facebook.com/groups/1507165176234887/
  * Fanpage na FB: https://www.facebook.com/openpkw
- * Twitter: @OpenPKW
+ * Twitter: @OpenPKW https://twitter.com/OpenPKW
