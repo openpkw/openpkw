@@ -26,7 +26,28 @@ Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**.
 * 2015.04.15-4 [Adam & Sebastian] Omówić i pozakładać odpowiednie repozytoria dla modułów w github. 
 * 2015.04.15-5 [Adam & Sebastian] Omówić temat konfiguracji serwara CI. 
 
-##2015.04.16 20:00
+##2015.04.17 20:00 (Architektura OpenPKW)
+Format: Telekonferencja / Skype  
+Czas: 60 min.  
+Obecni: Adam Kowalewski, Sebastian Celejewski, Wojtek Szostak 
+
+**SOA**  
+Przedyskutowaliśmy tematykę architektury SOA z perspektywy migracji prototypu Kalkulatora Wyborczego do nowych repozytoriów. Zdefiniowaliśmy następujący schemat nazewnictwa `vendor-product-variant`. Przy czym jako `product` preferujemy obiekty domeny jak np. dokument.
+
+Konkretne przykłady dla Kalkulatora Obwodowego  
+`openpkw-kalkulator-obwodowy-web`  
+`openpkw-kalkulator-obwodowy-desktop`  
+`openpkw-kalkulator-obwodowy-mobile`  
+
+Konkretne przykłady dla serwisu dokumentów  
+`openpkw-dokument-service`  
+`openpkw-dokument-generator`   
+`openpkw-dokument-repository`  
+`openpkw-dokument-archive`  
+Jako że migracja prototypu Kalkulatora Wyborczego odbywać się będzie stopniowo, tak też będą dodawane kolejne repozytoria w organizacji. 
+
+
+##2015.04.15 20:00
 Format: Telekonferencja / Skype  
 Czas: 120 min.  
 Obecni: Adam Kowalewski, Przemek Jodkowski, Rafał Reguła, Sebastian Celejewski, Kacper Jasiński, Marcin Marzec.  
