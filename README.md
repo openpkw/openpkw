@@ -34,7 +34,7 @@ Projekt jest w pełni obywatelski, wspierają go specjaliści w każdej dziedzin
 ## Jak pomóc?
   * Wypełnij formularz na: https://openpkw.pl/dolacz/
   * Zapisz się na wybraną listę dyskusyjną tutaj: http://openpkw.pl/mailman/listinfo
-  * Czytaj na regularnie: https://openpkw.pl/aktualnosci/
+  * Czytaj regularnie: https://openpkw.pl/aktualnosci/
 
 ## Aktualny status
   * Nastąpiła zmiana organizacji projektu. Jest ona skutkiem zarówno zrezygnowania z udziału w projekcie dotychczasowych liderów zespołów Public Relations, Analizy, Architektury i Technicznego, jak i specyfiki pracy rozproszonego zespołu wolontariuszy. Wyłonił się zespół zajmujący się analizą, a także organizowane są zespoły programistów. Prawdopodobnie w najbliższym czasie nastąpią dalsze zmiany kadrowe. TODO: Zaktualizować stronę https://openpkw.pl/kontakt/ .
