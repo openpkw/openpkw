@@ -1,16 +1,13 @@
 #OpenPKW
 
 ## Kontakt
-Serdecznie zapraszamy do bezpośredniej współpracy na github'ie. Aby nawiązać kontakt po prostu:
-  * zgłoś nowy issue w głównym repozytorium 
-  * wypełnij formularz na: https://openpkw.pl/dolacz/ 
-  * zapisz się na wybraną listę dyskusyjną tutaj: http://openpkw.pl/mailman/listinfo
+Serdecznie zapraszamy do bezpośredniej współpracy na github'ie. 
 
 | Temat  | Bezpośredni kontakt  |
 | ------------- | ------------- |
 | AngularJS | [Marcin](https://github.com/marcintokarski)  |
 | jQuery | [Kacper](https://github.com/Krzyku) |
-| Java / Java EE  | [Adam](https://github.com/adamkowalewski), [Sebastian](https://github.com/SebastianCelejewski) |
+| Java / Java EE  | [Sebastian](https://github.com/SebastianCelejewski) |
 | Analiza / PKW | [Przemek](https://github.com/Tirramisu) |
 | Analiza i Organizacja | [Rafał](https://github.com/RafalRegula) | 
 
