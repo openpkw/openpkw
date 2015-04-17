@@ -25,6 +25,7 @@ Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**.
 * 2015.04.15-2 [Adam] Edycja pliku README.md w głównym repozytorium. Dodane zostaną rozdziały *Kontakt* i *OpenPKW w liczbach*
 * 2015.04.15-4 [Adam & Sebastian] Omówić i pozakładać odpowiednie repozytoria dla modułów w github. 
 * 2015.04.15-5 [Adam & Sebastian] Omówić temat konfiguracji serwara CI. 
+* 2015.04.17-1 [Wojtek] Definicja nowych repozytoriów dla Kalkulatora Wyborczego. 
 
 ##2015.04.17 20:00 (Architektura OpenPKW)
 Format: Telekonferencja / Skype  
