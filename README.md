@@ -1,5 +1,13 @@
 #OpenPKW
 
+## OpenPKW w liczbach 
+| Liczba  | Temat  |
+| ------------- | ------------- |
+| 10 | Liczba aktywnych kontrybutorów |
+| 3 | Analityków  |
+| 2 | Frontend - Programiści JavaScript  |
+| 1 | Backend - Programiści Java / JavaEE |
+
 ## Kontakt
 Serdecznie zapraszamy do bezpośredniej współpracy na github'ie. 
 
@@ -11,13 +19,7 @@ Serdecznie zapraszamy do bezpośredniej współpracy na github'ie.
 | Analiza / PKW | [Przemek](https://github.com/Tirramisu) |
 | Analiza i Organizacja | [Rafał](https://github.com/RafalRegula) | 
 
-## OpenPKW w liczbach 
-| Liczba  | Temat  |
-| ------------- | ------------- |
-| 10 | Liczba aktywnych kontrybutorów |
-| 3 | Analityków  |
-| 2 | Frontend - Programiści JavaScript  |
-| 1 | Backend - Programiści Java / JavaEE |
+
 
 ## O projekcie
 
