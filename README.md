@@ -17,7 +17,7 @@ Serdecznie zapraszamy do bezpośredniej współpracy na github'ie.
 | 10 | Liczba aktywnych kontrybutorów |
 | 3 | Analityków  |
 | 2 | Programiści AngularJS  |
-| 2 | Programiści Java / JavaEE |
+| 1 | Programiści Java / JavaEE |
 
 ## O projekcie
 
