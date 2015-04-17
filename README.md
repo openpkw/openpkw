@@ -1,7 +1,10 @@
 #OpenPKW
 
 ## Kontakt
-Serdecznie zapraszamy do bezpośredniej współpracy na github'ie. Aby nawiązać kontakt po prostu zgłoś nowy issue w głównym repozytorium. 
+Serdecznie zapraszamy do bezpośredniej współpracy na github'ie. Aby nawiązać kontakt po prostu:
+  * zgłoś nowy issue w głównym repozytorium 
+  * wypełnij formularz na: https://openpkw.pl/dolacz/ 
+  * zapisz się na wybraną listę dyskusyjną tutaj: http://openpkw.pl/mailman/listinfo
 
 | Temat  | Bezpośredni kontakt  |
 | ------------- | ------------- |
