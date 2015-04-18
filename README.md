@@ -5,7 +5,7 @@
 | ------------- | ------------- |
 | 10 | Liczba aktywnych kontrybutorów |
 | 3 | Analityków  |
-| 2 | Frontend - Programiści JavaScript  |
+| 3 | Frontend - Programiści JavaScript  |
 | 1 | Backend - Programiści Java / JavaEE |
 
 ## Kontakt
