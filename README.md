@@ -13,16 +13,15 @@ Serdecznie zapraszamy do bezpośredniej współpracy na github'ie. Proces: fork 
 
 | Temat  | Bezpośredni kontakt  |
 | ------------- | ------------- |
-| AngularJS | [Marcin](https://github.com/marcintokarski)  |
-| jQuery | [Kacper](https://github.com/Krzyku) |
-| Java / Java EE  | [Sebastian](https://github.com/SebastianCelejewski) |
 | Analiza / PKW | [Przemek](https://github.com/Tirramisu) |
 | Analiza i Organizacja | [Rafał](https://github.com/RafalRegula) | 
-
+| Architektura | [Adam](https://github.com/adamkowalewski) | 
+| Java / Java EE  | [Sebastian](https://github.com/SebastianCelejewski) |
+| JavaScript - AngularJS | [Marcin](https://github.com/marcintokarski)  |
+| JavaScript - jQuery | [Kacper](https://github.com/Krzyku) |
 
 
 ## O projekcie
-
 Państwo uważa, że bez niego obywatele nie są w stanie egzystować. Jest inaczej. Skoro instytucje państwowe nie są w stanie przeprowadzić przetargu na stworzenie działającego systemu do głosowania, to jest to moment na zadziałanie społeczności.
 
 ## O co chodzi?
