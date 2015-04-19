@@ -14,11 +14,11 @@ Serdecznie zapraszamy do bezpośredniej współpracy na github'ie. Proces: fork 
 | Temat  | Bezpośredni kontakt  |
 | ------------- | ------------- |
 | Analiza / PKW | [Przemek](https://github.com/Tirramisu) |
-| Analiza i Organizacja | [Rafał](https://github.com/RafalRegula) | 
 | Architektura | [Adam](https://github.com/adamkowalewski) | 
 | Java / Java EE  | [Sebastian](https://github.com/SebastianCelejewski) |
 | JavaScript - AngularJS | [Marcin](https://github.com/marcintokarski)  |
 | JavaScript - jQuery | [Kacper](https://github.com/Krzyku) |
+| Organizacja | [Rafał](https://github.com/RafalRegula) | 
 
 
 ## O projekcie
