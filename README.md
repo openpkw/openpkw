@@ -9,7 +9,7 @@
 | 1 | Backend - Programiści Java / JavaEE |
 
 ## Kontakt
-Serdecznie zapraszamy do bezpośredniej współpracy na github'ie. 
+Serdecznie zapraszamy do bezpośredniej współpracy na github'ie. Proces: fork -> patch -> pull request 
 
 | Temat  | Bezpośredni kontakt  |
 | ------------- | ------------- |
