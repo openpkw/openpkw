@@ -44,17 +44,19 @@ Tytuł oryginału: "CODE OF GOOD PRACTICE ON REFERENDUMS"
 
 * rozporządzenie Rady Ministrów z dnia 12 kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań dla systemów teleinformatycznych ([**Dz.U. Nr 526**] (http://dziennikustaw.gov.pl/du/2012/526/1)),  
 
-* rozporządzenie Prezesa Rady Ministrów z dnia 14 września 2011 r. w sprawie sporządzania pism w formie dokumentów elektronicznych, doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych ([Dz.U. Nr 206, poz. 1216] (http://dziennikustaw.gov.pl/DU/2011/s/206/1216) i [z 2014 r., poz. 590] (http://dziennikustaw.gov.pl/du/2014/590/1)),  
+* rozporządzenia Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego ([**Dz.U. z 1998 nr 157 poz. 1031**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU19981571031)),
 
-* rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 kwietnia 2011 r. w sprawie szczegółowych warunków organizacyjnych i technicznych, które powinien spełniać system teleinformatyczny służący do identyfikacji użytkowników ([Dz.U. Nr 93, poz. 545] (http://dziennikustaw.gov.pl/DU/2011/s/94/555)),  
+* rozporządzenie Prezesa Rady Ministrów z dnia 14 września 2011 r. w sprawie sporządzania pism w formie dokumentów elektronicznych, doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych ([**Dz.U. Nr 206, poz. 1216**] (http://dziennikustaw.gov.pl/DU/2011/s/206/1216) i [**z 2014 r., poz. 590**] (http://dziennikustaw.gov.pl/du/2014/590/1)),  
+
+* rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 kwietnia 2011 r. w sprawie szczegółowych warunków organizacyjnych i technicznych, które powinien spełniać system teleinformatyczny służący do identyfikacji użytkowników ([**Dz.U. Nr 93, poz. 545**] (http://dziennikustaw.gov.pl/DU/2011/s/94/555)),  
 
 * rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 29 kwietnia 2004 r. w sprawie dokumentacji przetwarzania danych osobowych oraz warunków technicznych i organizacyjnych, jakim powinny odpowiadać urządzenia i systemy informatyczne
-służące do przetwarzania danych osobowych ([Dz.U. Nr 100, poz. 1024] (http://dziennikustaw.gov.pl/DU/2004/s/100/1024)),  
+służące do przetwarzania danych osobowych ([**Dz.U. Nr 100, poz. 1024**] (http://dziennikustaw.gov.pl/DU/2004/s/100/1024)),  
 
 * rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 lipca 2011 r. w sprawie zapewnienia Państwowej Komisji Wyborczej wykonywania zadań związanych z nadzorem nad prowadzeniem rejestru wyborców i sporządzaniem spisów wyborców
-([Dz.U. Nr 158, poz. 943] (http://dziennikustaw.gov.pl/DU/2011/s/158/943)),
+([**Dz.U. Nr 158, poz. 943**] (http://dziennikustaw.gov.pl/DU/2011/s/158/943)),
 
-* Rozporządzenie Ministra Spraw Wewnętrznych z dnia 29 grudnia 2014 r. w sprawie spisu wyborców ([D. U. 2015 r., poz. 5] (http://dokumenty.rcl.gov.pl/DU/rok/2015/pozycja/5))
+* Rozporządzenie Ministra Spraw Wewnętrznych z dnia 29 grudnia 2014 r. w sprawie spisu wyborców ([**D. U. 2015 r., poz. 5**] (http://dokumenty.rcl.gov.pl/DU/rok/2015/pozycja/5))
 
 # IV. W zakresie wyborów samorządowych
 
