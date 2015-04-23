@@ -42,7 +42,7 @@ Przebieg
   * Zakończone jest przerabianie kodu na AngularJS.
   * Rozpoczęte są prace nad walidacją oraz dodawaniem i usuwaniem członków komisji.
 * Architektura OpenPKW
-  * Adam przedstawił propozycję docelowej architektury OpenPKW, opracowanej na spotkaniu architektonicznym 17 kwietnia 2015 r.
+  * Adam przedstawił propozycję docelowej [architektury OpenPKW](#20150417-2000-architektura-openpkw)
   * Projekt PocKalkulatorWyborczyHtml został rozbity na dwa projekty: `openpkw-kalkulator-obwodowy-web` oraz `openpkw-dokument-generator`.
   * Projekty dla następnych modułów będziemy tworzyć w momencie, kiedy rozpoczną się prace nad tymi modułami.
 * Wizja prac nad OpenPKW
@@ -57,7 +57,7 @@ Przebieg
   * Ustalenia: Tomek zaprosi PMO do projektu, będziemy się z nimi spotykać w środy, wspólnie ustalimy jakie komponenty wezmą na warsztat w pierwszej kolejności i jak zbudują swoje zespoły.
 * Pismo do PKW
   * Wyślemy do PKW pismo z prośbą o udostępnienie spisu Obwodowych Komisji wyborczych.
-* Relacje pomiędzy OpenPKW a OPW a OpenPKW Mobile
+* Relacje pomiędzy OpenPKW a OpenPKW Mobile
   * Do tej pory OpenPKW oznaczało zarówno organizację, jak i produkt (OpenPKW jako system do wspomagania wyborów przeznaczony dla konkretnego klienta: PKW).
   * Pod parasolem organizacji OpenPKW mogą powstawać różne projekty, m. in. system OpenPKW.
 
