@@ -4,17 +4,19 @@
 Zbieramy tematy na najbliższą telekonferencje tj. 22.04.2015. Będę wdzięczny za akceptację schematu:   
 **data [autor] [status] [treść]**  
 
+### Stałe tematy 
+* Status implementacji
+  * [openpkw-kalkulator-obwodowy-web](https://github.com/openpkw/openpkw-kalkulator-obwodowy-web) - Marcin T.
+  * [openpkw-dokument-generator](https://github.com/openpkw/openpkw-dokument-generator) - Sebastian C.
+* Analiza jak i nowości z PKW [Przemek, Robert] 
+  * [Przemek] [Permanent] Kontynuacja analizy OpenPKW oraz analiza działania państwowych systemów wyborczych. Linki: [**tutaj**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) i tutaj: [**katalog DOKUMENTACJA**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja).
+
+### Dodatkowe tematy
 * 2015.04.16 [Przemek] Zapoznanie się, dyskusja (poprawki) i oficjalne przyjęcie dokumentu [**System OpenPKW**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) jako podstawowego, ramowego opisu tworzonego systemu. Przyjęcie zasady, że dalsza modyfikacja tego dokumentu (dodawania nowych funkcjonalności, modułów itp)  musi wiązać się z koniecznością ponownego przedyskutowania i przyjęcia w pełnym gronie zainteresowanych osób. Dokument ten będzie wiążący w dalszej pracy nad stworzeniem systemu OpenPKW. (a może by tak szybko stworzyć mały moduł głosowania wewnętrznego ??? ;) )
 * 2015.04.21 [Przemek] Omówienie uchwaly PKW z 20 kwietnia w sprawie dopuszczenia oblsugi informatycznej. Nowa perspektywa dla dzialalnoci OpenPKW. ([**uchwala PKW**] (http://prezydent2015.pkw.gov.pl/akty_prawne/0/65_UCHWALA_PANSTWOWEJ_KOMISJI_WYBORCZEJ_z_dnia_20_kwietnia_2015_r_w_sprawie_dopuszczenia_mozliwosci_wykorzystania_techniki_elektronicznej_w_wyborach_Prezydenta_Rzeczypospolitej_Polskiej_zarzadzonych_na_dzien_10_maja_2015_r_oraz_okreslenia_warunkow_i_sposobu_jej_wykorzystania)  
 * 2015.04.05 [Adam] Proces integracji kontrybutorów. OpenProject pozwala na zakładanie konta ale co dzieje się z tymi ludźmi? Czy nowi użytkownicy mogą sami dopisać się do zespołów? 
 * Czy jest potrzeba zrobienia regulaminu korzystania i polityki prywatnosci dla użytkowników Aplikacji OpenPKW Mobile i osadzenia jej w postaci linka w samej Apce ? Temat dla Rafała M ? 
 
-### Stałe tematy 
-* Status implementacji [Sebastian] 
-  * [POC kalkulatora](https://github.com/openpkw/PocKalkulatorWyborczyHtml)
-* Architektura OpenPKW [Adam] 
-* Analiza jak i nowości z PKW [Przemek, Robert] 
-  * [Przemek] [Permanent] Kontynuacja analizy OpenPKW oraz analiza działania państwowych systemów wyborczych. Linki: [**tutaj**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) i tutaj: [**katalog DOKUMENTACJA**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja).
 
 ## Aktualna lista ToDo: 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje.   
@@ -22,10 +24,47 @@ Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**.
 * **2015.04.15-3 [Rafal Malujda] Przygotowanie oficialnego pisma i prośby do PKW w sprawie spisu Obwodowych Komisji Wyborczych w trybie dostępu do informacji publicznej (plik csv)**
 * 2015.03.25-0 [Tomek] [Pending] Przekazac namiary na Java Developers. 
 * 2015.03.25-9 [Tomek, Rafał Malujda] [Pending] Dokończyć  temat prawny ws AGPL i kodu systemu dla openPKW.
+* 2015.04.15-5 [Adam & Sebastian] [Pending] Omówić temat konfiguracji serwara CI. 
+* 2015.04.22-1 [Sebastian] [New] Dostować serwis do dokumentów do nowego JSONa
+* 2015.04.22-2 [Marcin] [New] Wysłać Przemkowi co już zrobił w zipie lub wystawić na Dobromirze ręcznie
+* 2015.04.22-3 [Sebastian] [New] Wywalić credentials JBossa z pom.xml
+* 2015.04.22-4 [Sebastian] [New] Posprzątać stary projekt PocKalkulatorWyborczyHtml
+
+##2015.04.22 20:00
+Format: Telekonferencja / Skype  
+Czas: 90 min.  
+Obecni: Adam Kowalewski, Sebastian Celejewski, Tomasz Woźniak, Przemek Jodkowski, Sławek Pietrasiewicz, Rafał Reguła, Marcin Tokarski
+
+Odpowiedzialny za protokół: Sebastian
+
+Przebieg
+* Status kalkulatora
+  * Zakończone jest przerabianie kodu na AngularJS.
+  * Rozpoczęte są prace nad walidacją oraz dodawaniem i usuwaniem członków komisji.
+* Architektura OpenPKW
+  * Adam przedstawił propozycję docelowej architektury OpenPKW, opracowanej na spotkaniu architektonicznym 17 kwietnia 2015 r.
+  * Projekt PocKalkulatorWyborczyHtml został rozbity na dwa projekty: openpkw-kalkulator-obwodowy-web oraz openpkw-dokument-generator.
+  * Projekty dla następnych modułów będziemy tworzyć w momencie, kiedy rozpoczną się prace nad tymi modułami.
+* Wizja prac nad OpenPKW
+  * Pytanie Przemka: Czy skupiamy się na jednym komponencie (Kalkulatorze Obwodowym), czy też realizujemy pełny zestaw komponentów OpenPKW ([diagram](https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FPlatforma_Wyborcza_OpenPKW.xml)).
+  * Omówiliśmy sprawę pod kątem zasobów OpenPKW, sensowności budowania jednego lub wielu komponentów, organizacji pracy itd.
+  * Zdecydowaliśmy, że spróbujemy rozszerzyć prace na następne komponenty. Nie na wszystkie, tylko może jeden lub dwa nowe komponenty oprócz Kalkulatora Wyborczego.
+* Nowości z PKW
+  * PKW może przyjąć oprogramowanie z zewnątrz. Do tej pory PKW raczej nie była zainteresowana jakimkolwiek oprogramowaniem z zewnątrz, teraz to się zmieniło. Być może jest sens zbudować jakiś komponent inny od tego, co już ma PKW, który PKW mogłaby wykorzystać.
+* Wprowadzenie project managerów do OpenPKW
+  * Problem zasadniczy w OpenPKW: brak czasu osób najbardziej zaangażowanych. W konsekwencji kuleje organizacja pracy, koordynacja zadań, komunikacja itd.
+  * Pomysł Tomka: wprowadzić do OpenPKW osób odpowiedzialnych tylko za organizację pracy.
+  * Ustalenia: Tomek zaprosi PMO do projektu, będziemy się z nimi spotykać w środy, wspólnie ustalimy jakie komponenty wezmą na warsztat w pierwszej kolejności i jak zbudują swoje zespoły.
+* Pismo do PKW
+  * Wyślemy do PKW pismo z prośbą o udostępnienie spisu Obwodowych Komisji wyborczych.
+* Relacje pomiędzy OpenPKW a OPW a OpenPKW Mobile
+  * Do tej pory OpenPKW oznaczało zarówno organizację, jak i produkt (OpenPKW jako system do wspomagania wyborów przeznaczony dla konkretnego klienta: PKW).
+  * Pod parasolem organizacji OpenPKW mogą powstawać różne projekty, m. in. system OpenPKW.
+
+### Todo zrealizowane
 * 2015.04.15-1 [Sebastian] [New] Wydzielić backend z projektu PocKalkulatorWyborczyHTML do nowego projektu - serwisu generujcego rozmaite protokoly na podstawie szablonów
 * 2015.04.15-2 [Adam] Edycja pliku README.md w głównym repozytorium. Dodane zostaną rozdziały *Kontakt* i *OpenPKW w liczbach*
 * 2015.04.15-4 [Adam & Sebastian] Omówić i pozakładać odpowiednie repozytoria dla modułów w github. 
-* 2015.04.15-5 [Adam & Sebastian] Omówić temat konfiguracji serwara CI. 
 * 2015.04.17-1 [Wojtek] Definicja nowych repozytoriów dla Kalkulatora Wyborczego. 
 
 ##2015.04.17 20:00 (Architektura OpenPKW)
