@@ -43,7 +43,7 @@ Przebieg
   * Rozpoczęte są prace nad walidacją oraz dodawaniem i usuwaniem członków komisji.
 * Architektura OpenPKW
   * Adam przedstawił propozycję docelowej architektury OpenPKW, opracowanej na spotkaniu architektonicznym 17 kwietnia 2015 r.
-  * Projekt PocKalkulatorWyborczyHtml został rozbity na dwa projekty: openpkw-kalkulator-obwodowy-web oraz openpkw-dokument-generator.
+  * Projekt PocKalkulatorWyborczyHtml został rozbity na dwa projekty: `openpkw-kalkulator-obwodowy-web` oraz `openpkw-dokument-generator`.
   * Projekty dla następnych modułów będziemy tworzyć w momencie, kiedy rozpoczną się prace nad tymi modułami.
 * Wizja prac nad OpenPKW
   * Pytanie Przemka: Czy skupiamy się na jednym komponencie (Kalkulatorze Obwodowym), czy też realizujemy pełny zestaw komponentów OpenPKW ([diagram](https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FPlatforma_Wyborcza_OpenPKW.xml)).
