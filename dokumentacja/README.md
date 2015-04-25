@@ -60,4 +60,7 @@ Katalog [**master\pliki klk**] (https://github.com/openpkw/openpkw/tree/master/p
   * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSystem_Wyborczy_OpenPKW.xml) przedstawiający w sposób graficzny projekt budowy **Systemu Wyborczego OpenPKW** - dostęp przez dedykowaną stronę html.  
   * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_G.xml) przedstawiający w sposób graficzny projekt budowy **Modułu G** Systemu Wyborczego OpenPKW - dostęp przez dedykowaną stronę html. Moduł G - kalkulator wyborczy.  
   *  [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_C5.xml) przedstawiający w sposób graficzny projekt budowy **Modułu C5** Systemu Wyborczego OpenPKW - dostęp przez dedykowaną stronę html. Moduł C5 - system nadawania numerów zgoszonym listom kandydatów.  
+  *  Diagram przedstawiający w sposób graficzny projekt budowy **Modułu F1** Systemu Wyborczego OpenPKW - dostęp przez dedykowaną stronę html. Moduł F1 - dane frekwencyjne w dniu głosowania.
+  
+
 
