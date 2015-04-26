@@ -18,7 +18,7 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
    * [**Walidacja dotychczasowa**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_podstawy.md) - zasady walidacji protokołów wyborczych w akcjach dotychczasowych.
    * [**Zmiany**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/zmiana_filozofii_PKW.md) - w obsłudze informatycznej wprowadzone uchwałami PKW z 9 marca 2015 oraz
    * [**Słownik pojec**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Slownik%20pojec.md) - plik z wyjaśnieniami terminologii używanej w "języku wyborczym".  
-   *   
+   * [**Walidacja meldunek wyborczy**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_meldunek_wyborczy.md) - plik z zasadami walidacji poprawności meldunku wyborczego (część meldunek kwartalny - zwykły)  
 
 
 # Zawartość katalogu:
@@ -61,7 +61,7 @@ Katalog [**master\pliki klk**] (https://github.com/openpkw/openpkw/tree/master/p
 * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_G.xml) przedstawiający w sposób graficzny projekt budowy **Modułu G** Systemu Wyborczego OpenPKW - dostęp przez dedykowaną stronę html. Moduł G - kalkulator wyborczy.  
 *  [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_C5.xml) przedstawiający w sposób graficzny projekt budowy **Modułu C.5** Systemu Wyborczego OpenPKW - dostęp przez dedykowaną stronę html. Moduł C5 - system nadawania numerów zgoszonym listom kandydatów.  
 *  [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_F1.xml) przedstawiający w sposób graficzny projekt budowy **Modułu F.1** Systemu Wyborczego OpenPKW - dostęp przez dedykowaną stronę html. Moduł F1 - przekazywanie i zarządzanie danymi frekwencyjnymi w dniu wyborów (raporty z godz. 12:00 i 15:00).
-*  Diagram przedstawiający w sposób graficzny projekt budowy **Modułu D.1** Systemu Wyborczego OpenPKW - dostęp przez dedykowaną stronę html. Moduł D.1 - Meldunek kwartalny, meldunek przedwyborczy.
+*  [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_D1.xml) przedstawiający w sposób graficzny projekt budowy **Modułu D.1** Systemu Wyborczego OpenPKW - dostęp przez dedykowaną stronę html. Moduł D.1 - Meldunek kwartalny (meldunek przedwyborczy).
   
 
 
