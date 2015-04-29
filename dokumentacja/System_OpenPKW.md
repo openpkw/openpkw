@@ -80,7 +80,7 @@ Do głównych zadań przedstawionych wyżej modułów należy:
 
 Podział zadania A na [**moduły programistyczne**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Modul_A_OpenPKW.md).
 
-[**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FPlatforma_Wyborcza_OpenPKW.xml) przedstawiający pożądaną strukturę całej "Platformy Wyborczej OpenPKW".
+[**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW.xml) przedstawiający pożądaną strukturę całej "Platformy Wyborczej OpenPKW".
 
 # Ad. B.
 
