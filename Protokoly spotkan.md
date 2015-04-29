@@ -9,7 +9,9 @@ Zbieramy tematy na najbliższą telekonferencje tj. 22.04.2015. Będę wdzięczn
   * [openpkw-kalkulator-obwodowy-web](https://github.com/openpkw/openpkw-kalkulator-obwodowy-web) - Marcin T.
   * [openpkw-dokument-generator](https://github.com/openpkw/openpkw-dokument-generator) - Sebastian C.
 * Analiza jak i nowości z PKW [Przemek, Robert] 
-  * [Przemek] [Permanent] Kontynuacja analizy OpenPKW oraz analiza działania państwowych systemów wyborczych. Linki: [**tutaj**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) i tutaj: [**katalog DOKUMENTACJA**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja).
+  * [Przemek] [Permanent] Kontynuacja analizy OpenPKW oraz analiza działania państwowych systemów wyborczych. Budowa Systemu Wyborczego OpenPKW.  
+Linki: [**tutaj**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) i tutaj: [**katalog DOKUMENTACJA**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja) oraz aktualizowany spis plików i ich zawartość
+w [**README.md**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/README.md)  
 
 ### Dodatkowe tematy
 * 2015.04.16 [Przemek] Zapoznanie się, dyskusja (poprawki) i oficjalne przyjęcie dokumentu [**System OpenPKW**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) jako podstawowego, ramowego opisu tworzonego systemu. Przyjęcie zasady, że dalsza modyfikacja tego dokumentu (dodawania nowych funkcjonalności, modułów itp)  musi wiązać się z koniecznością ponownego przedyskutowania i przyjęcia w pełnym gronie zainteresowanych osób. Dokument ten będzie wiążący w dalszej pracy nad stworzeniem systemu OpenPKW. (a może by tak szybko stworzyć mały moduł głosowania wewnętrznego ??? ;) )
