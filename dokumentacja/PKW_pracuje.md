@@ -1,5 +1,7 @@
 #Dostęp do strony szkoleniowej systemu WOW:
-na razie dziala: 29.04.2015  
+Niestety dostep już jest nieaktualny. 29.04.2015
+
+na razie dziala: 28.04.2015  
 Dostęp do wersji szkoleniowej systemu: [https://szkolwow.kbw.gov.pl] (https://szkolwow.kbw.gov.pl)
 
 login: OP014868  
