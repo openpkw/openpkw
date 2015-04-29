@@ -1,7 +1,7 @@
 # Protokoły spotkań
 
 ## Agenda na najbliższe spotkanie
-Zbieramy tematy na najbliższą telekonferencje tj. 22.04.2015. Będę wdzięczny za akceptację schematu:   
+Zbieramy tematy na najbliższą telekonferencje tj. 6 maja 2015. Będę wdzięczny za akceptację schematu:   
 **data [autor] [status] [treść]**  
 
 ### Stałe tematy 
@@ -9,37 +9,56 @@ Zbieramy tematy na najbliższą telekonferencje tj. 22.04.2015. Będę wdzięczn
   * [openpkw-kalkulator-obwodowy-web](https://github.com/openpkw/openpkw-kalkulator-obwodowy-web) - Marcin T.
   * [openpkw-dokument-generator](https://github.com/openpkw/openpkw-dokument-generator) - Sebastian C.
 * Analiza jak i nowości z PKW [Przemek, Robert] 
-  * [Przemek] [Permanent] Kontynuacja analizy OpenPKW oraz analiza działania państwowych systemów wyborczych. Budowa Systemu Wyborczego OpenPKW.  
+* [Przemek] [Permanent] Kontynuacja analizy OpenPKW oraz analiza działania państwowych systemów wyborczych. Budowa Systemu Wyborczego OpenPKW.  
 Linki: [**tutaj**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) i tutaj: [**katalog DOKUMENTACJA**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja) oraz aktualizowany spis plików i ich zawartość
 w [**README.md**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/README.md)  
 
 ### Dodatkowe tematy
-* 2015.04.16 [Przemek] Zapoznanie się, dyskusja (poprawki) i oficjalne przyjęcie dokumentu [**System OpenPKW**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) jako podstawowego, ramowego opisu tworzonego systemu. Przyjęcie zasady, że dalsza modyfikacja tego dokumentu (dodawania nowych funkcjonalności, modułów itp)  musi wiązać się z koniecznością ponownego przedyskutowania i przyjęcia w pełnym gronie zainteresowanych osób. Dokument ten będzie wiążący w dalszej pracy nad stworzeniem systemu OpenPKW. (a może by tak szybko stworzyć mały moduł głosowania wewnętrznego ??? ;) )
-* 2015.04.21 [Przemek] Omówienie uchwaly PKW z 20 kwietnia w sprawie dopuszczenia oblsugi informatycznej. Nowa perspektywa dla dzialalnoci OpenPKW. ([**uchwala PKW**] (http://prezydent2015.pkw.gov.pl/akty_prawne/0/65_UCHWALA_PANSTWOWEJ_KOMISJI_WYBORCZEJ_z_dnia_20_kwietnia_2015_r_w_sprawie_dopuszczenia_mozliwosci_wykorzystania_techniki_elektronicznej_w_wyborach_Prezydenta_Rzeczypospolitej_Polskiej_zarzadzonych_na_dzien_10_maja_2015_r_oraz_okreslenia_warunkow_i_sposobu_jej_wykorzystania)  
 * 2015.04.05 [Adam] Proces integracji kontrybutorów. OpenProject pozwala na zakładanie konta ale co dzieje się z tymi ludźmi? Czy nowi użytkownicy mogą sami dopisać się do zespołów? 
-* Czy jest potrzeba zrobienia regulaminu korzystania i polityki prywatnosci dla użytkowników Aplikacji OpenPKW Mobile i osadzenia jej w postaci linka w samej Apce ? Temat dla Rafała M ? 
-
 
 ## Aktualna lista ToDo: 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje.   
 Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
-* **2015.04.15-3 [Rafal Malujda] Przygotowanie oficialnego pisma i prośby do PKW w sprawie spisu Obwodowych Komisji Wyborczych w trybie dostępu do informacji publicznej (plik csv)**
+* 2015.04.15-3 [Rafal Malujda] Wysłanie pisma do PKW w sprawie spisu Obwodowych Komisji Wyborczych w trybie dostępu do informacji publicznej (plik csv)
 * 2015.03.25-0 [Tomek] [Pending] Przekazac namiary na Java Developers. 
 * 2015.03.25-9 [Tomek, Rafał Malujda] [Pending] Dokończyć  temat prawny ws AGPL i kodu systemu dla openPKW.
 * 2015.04.15-5 [Adam & Sebastian] [Pending] Omówić temat konfiguracji serwara CI. 
+* 2015.04.22-2 [Marcin] [Pending] Wysłać Przemkowi co już zrobił w zipie lub wystawić na Dobromirze ręcznie
+* 2015.04.22-3 [Sebastian] [Pending] Wywalić credentials JBossa z pom.xml
+
+## 2015.04.29 20:00
+Format: Telekonferencja / Skype  
+Czas: 70 min.  
+Obecni: Marcin Fabrykowski, Kacper Jasiński, Adam Kowalewski, Sebastian Celejewski, Przemek Jodkowski, Paweł (pwl), Marcin Tokarski, Rafał Reguła
+
+Odpowiedzialny za protokół: Sebastian
+
+### Przebieg
+* Rozliczenie zadań z poprzedniego spotkania.
+* Stan implementacji
+  * infrastruktura - przygotowane skrypty tworzące serwer Continuous Delivery oraz serwer dla kalkulatora obwodowego
+  * openpkw-kalkulator-obwodowy-web - rozpoczęte prace nad walidacją formularza
+  * openpkw-dokument-generator - brak postępów
+* Połączenie repozytoriów OpenPKW i OpenPKW Mobile
+  * Problem: W rzeczywistości mamy strukturę trzypiętrową: organizacja OpenPKW, pod nią dwa systemy (OpenPKW i OpenPKW Mobile), poniżej poszczególne moduły tych systemów. W GitHubie natomiast są tylko dwa poziomy: organizacje i projekty.
+* Plany dotyczące OpenPKW Mobile
+  * Najprawdopodobniej nie uda się ukończyć aplikacji na pierwszą turę wyborów prezydenckich 2015, ale jest szansa zdążyć na drugą turę.
+* Plany dotyczące złożenia propozycji uchwały/ustawy - Rafał
+* Plany dotyczące zebrania użytkowników OpenPKW Mobile - Rafał.
+
+### Todo zrealizowane
+* [Przemek] Napisanie pisma do PKW w sprawie spisu Obwodowych Komisji Wyborczych
 * 2015.04.22-1 [Sebastian] [New] Dostować serwis do dokumentów do nowego JSONa
-* 2015.04.22-2 [Marcin] [New] Wysłać Przemkowi co już zrobił w zipie lub wystawić na Dobromirze ręcznie
-* 2015.04.22-3 [Sebastian] [New] Wywalić credentials JBossa z pom.xml
 * 2015.04.22-4 [Sebastian] [New] Posprzątać stary projekt PocKalkulatorWyborczyHtml
 
-##2015.04.22 20:00
+## 2015.04.22 20:00
 Format: Telekonferencja / Skype  
 Czas: 90 min.  
 Obecni: Adam Kowalewski, Sebastian Celejewski, Tomasz Woźniak, Przemek Jodkowski, Sławek Pietrasiewicz, Rafał Reguła, Marcin Tokarski
 
 Odpowiedzialny za protokół: Sebastian
 
-Przebieg
+### Przebieg
 * Status kalkulatora
   * Zakończone jest przerabianie kodu na AngularJS.
   * Rozpoczęte są prace nad walidacją oraz dodawaniem i usuwaniem członków komisji.
