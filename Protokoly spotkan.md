@@ -63,7 +63,7 @@ Przebieg
   * Wyślemy do PKW pismo z prośbą o udostępnienie spisu Obwodowych Komisji wyborczych.
 * Relacje pomiędzy OpenPKW a OpenPKW Mobile
   * Do tej pory OpenPKW oznaczało zarówno organizację, jak i produkt (OpenPKW jako system do wspomagania wyborów przeznaczony dla konkretnego klienta: PKW).
-  * Pod parasolem organizacji OpenPKW mogą powstawać różne projekty, m. in. system OpenPKW.
+  * Pod egidą organizacji OpenPKW mogą powstawać różne projekty, m. in. system OpenPKW.
 
 ### Todo zrealizowane
 * 2015.04.15-1 [Sebastian] [New] Wydzielić backend z projektu PocKalkulatorWyborczyHTML do nowego projektu - serwisu generujcego rozmaite protokoly na podstawie szablonów
