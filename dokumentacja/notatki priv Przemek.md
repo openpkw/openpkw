@@ -11,3 +11,8 @@
 6.  jak dodać pliki binarne ? (np. pdf)
 
 7. analiza plików Bartosza(?) Kokoszki
+
+
+C.1
+
+Lp. | Kod sprawy | Nazwa komitetu | Skrót nazwy komitetu | Data zgloszenia | Typ komitetu | Obszar zglaszania | Pelnomocnik wyborczy | Pelnomocnik finansowy | Siedziba komitetu | Stan sprawy | Strona internetowa komitetu |
