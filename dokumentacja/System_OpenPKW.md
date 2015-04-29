@@ -51,8 +51,8 @@ Do głównych zadań przedstawionych wyżej modułów należy:
   * A.1.3. wspomaganie powołania komisji wyborczych ([**obwodowych / terenowych / okręgowych (rejonowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Struktura_komisji_wyborczych.md))  
   * A.1.4. wspomaganie tworzenia i ułatwienie rejestracji komitetów wyborczych (komitet wyborczy wyborców; komitet wyborczy partii politycznej; komitet wyborczy koalicji partii politycznych)
   * A.1.5. wspomaganie zgłaszania oraz rejestracji kandydatów
-  * A.1.6. wykorzystanie Systemu Rejestrów Państwowych w pracach przygotowawczych przed dniem wyboró w tym pomoc w tworzeniu [**spis wyborców**] (http://info.pkw.gov.pl/spis-wyborcow-pe/spis-wyborcow.html) uprawnionych do głosowania ([**rejestr wyborców**] (http://info.pkw.gov.pl/rejestr-wyborcow-pe/rejestr-wyborcow.html) / [**stałe zamieszkiwanie**] (http://info.pkw.gov.pl/stale-zamieszkiwanie-pe/stale-zamieszkanie.html) / PESEL / TERYT itp.)
-  * A.1.7. generowanie i aktualizacja plików definicyjnych ([**pliki KLK**] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/README.md) oraz JSON) na podstawie [**meldunków wyborczych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Slownik%20pojec.md) (przadwyborczych) z gmin
+  * A.1.6. wykorzystanie Systemu Rejestrów Państwowych w pracach przygotowawczych przed dniem wyborów w tym pomoc w tworzeniu [**spis wyborców**] (http://info.pkw.gov.pl/spis-wyborcow-pe/spis-wyborcow.html) uprawnionych do głosowania ([**rejestr wyborców**] (http://info.pkw.gov.pl/rejestr-wyborcow-pe/rejestr-wyborcow.html) / [**stałe zamieszkiwanie**] (http://info.pkw.gov.pl/stale-zamieszkiwanie-pe/stale-zamieszkanie.html) / PESEL / TERYT itp.)
+  * A.1.7. generowanie i aktualizacja plików definicyjnych ([**pliki KLK**] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/README.md) oraz JSON) na podstawie [**meldunków wyborczych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Slownik%20pojec.md) (przedwyborczych) z gmin
   * A.1.8. stworzenie wzoru karty wyborczej na podstawie uchwały PKW oraz danych o zarejestrowanych kandydatach (listach kandydatów) i komitetach wyborczych
   * A.1.9. stworzenie bazy danych (wzorów) dokumentów wyborczych.
 
@@ -80,7 +80,8 @@ Do głównych zadań przedstawionych wyżej modułów należy:
 
 Podział zadania A na [**moduły programistyczne**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Modul_A_OpenPKW.md).
 
-[**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW.xml) przedstawiający pożądaną strukturę całej "Platformy Wyborczej OpenPKW".
+[**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW.xml) przedstawiający pożądaną strukturę całego "Systemu Wyborczego OpenPKW".  
+W pliku [**README.md**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/README.md) w katalogu Dokumentacja jest dokłdny i aktualizowany na bieżąco spis wszystkich plików dotyczących dokumentacji oraz wszystkich gotowych diagramów dla poszczególnych moduów SW OpenPKW.
 
 # Ad. B.
 
