@@ -1,3 +1,18 @@
+#Dostęp do strony szkoleniowej systemu WOW:
+na razie dziala: 29.04.2015  
+Dostęp do wersji szkoleniowej systemu: [https://szkolwow.kbw.gov.pl] (https://szkolwow.kbw.gov.pl)
+
+login: OP014868  
+hasło: Szkolenie_01  
+
+* [lista jednorazowych kodów testowych/szkoleniowych przewodniczacych okw (002-257) (ZIP, 908.8KB)] (http://www.poznan.pl/mim/public/main/attachments.html?co=show&instance=1017&parent=69938&lang=pl&id=179815) ale powino też dziaać: 12345  
+* [testowe protokoly z głosowania (002-120) (ZIP, 5286.59KB)] (http://www.poznan.pl/mim/public/main/attachments.html?co=show&instance=1017&parent=69938&lang=pl&id=179816)  
+* [testowe protokoly z głosowania (121-257) (ZIP, 6052.36KB)] (http://www.poznan.pl/mim/public/main/attachments.html?co=show&instance=1017&parent=69938&lang=pl&id=179817)  
+* [instrukcja systemu WOW (wersja poprawiona z 27.04.2015r.) (PDF, 5508.23KB)] (http://www.poznan.pl/mim/public/main/attachments.html?co=show&instance=1017&parent=69938&lang=pl&id=179818)  
+
+na podstawie:  
+(http://www.poznan.pl/mim/main/pomoc-techniczna,p,29739,29932,29940.html)
+
 # 13.04.2015 Nowe informacja o planach PKW
 dane oficjanie uzyskane z mojej Delegatury KBW [Przemek] ale informacje potwierdzone również przez Roberta z Ursynowa.
 
