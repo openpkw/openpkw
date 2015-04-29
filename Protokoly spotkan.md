@@ -43,8 +43,8 @@ Odpowiedzialny za protokół: Sebastian
   * Problem: W rzeczywistości mamy strukturę trzypiętrową: organizacja OpenPKW, pod nią dwa systemy (OpenPKW i OpenPKW Mobile), poniżej poszczególne moduły tych systemów. W GitHubie natomiast są tylko dwa poziomy: organizacje i projekty.
 * Plany dotyczące OpenPKW Mobile
   * Najprawdopodobniej nie uda się ukończyć aplikacji na pierwszą turę wyborów prezydenckich 2015, ale jest szansa zdążyć na drugą turę.
-* Plany dotyczące złożenia propozycji uchwały/ustawy - Rafał
-* Plany dotyczące zebrania użytkowników OpenPKW Mobile - Rafał.
+* Plany dotyczące złożenia obywatelskiego projektu ustawy "e-wyborów" i technicznych aspektów niezbędnych do ich przeprowadzenia za pomocą systemu Open Source  - Rafał
+* Plany dotyczące zebrania i weryfikacji namiarów na męzów zaufania OpenPKW Mobile - Rafał
 
 ### Todo zrealizowane
 * [Przemek] Napisanie pisma do PKW w sprawie spisu Obwodowych Komisji Wyborczych
