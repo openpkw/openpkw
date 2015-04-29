@@ -25,13 +25,13 @@ Cytaty z "Deklaracji założycielskiej OpenPKW".
 
 Na podstawie analizy prawa wyborczego oraz materiałów źródłowych z ogłoszonych przez PKW [**przetargów**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) na "informatyzację wyborów" cały system OpenPKW powinien składać się z 2 głównych modułów/działów/zadań:
 
-# A. Platforma Wyborcza.
+# A. System Wyborczy OpenPKW.
 (system centralny)  
 # B. Kalkulator wyborczy.
 (system lokalny)
 
 oraz:  
-dodadkowych projektów systemów, programów i aplikacji powstających obok idei OpenPKW a mianowicie:
+dodatkowych projektów systemów, programów i aplikacji powstających (na razie - być może w przyszłości po odpowiednich zmianach w prawie wejdą w skład SW) obok Systemu Wyborczego OpenPKW a mianowicie:
 
 **C. Programy mobilne.**  
 Ten moduł tworzony jest nie do końca w zgodzie z przepisami prawa wyborczego a wykorzystywany może być przez różnorodne organizacje do sprawdzania poprawności (kontroli) wyborów w tym z możliwością archiwizacji zdjęć protokołów. Również instystucje i organizacje (np. lokalne Komitety Wyborcze, partie polityczne, organizacje PR, media itp.) mogą wykorzystać to oprogramowanie do szybkiego przekazania części danych z protokołów koisji wyborczych, potrzebnych do nieoficjalnego obliczenia wyników wyborów.
@@ -110,7 +110,7 @@ Podział zadania B na [**moduły programistyczne**] (https://github.com/openpkw/
       * B.1.1.7.1. barkod drukowany na dole każdej  strony - taki sam w całym wydruku [**przykład**] (https://op.openpkw.pl/attachments/6/barkod_przyklad.jpg)
       * B.1.1.7.2. QRkod - przyszłościowa [**propozycja**] (https://github.com/adamkowalewski/OtwartaPlatformaWyborcza/blob/master/brainstorming.md) na razie niezgodna z PKW.
       * B.1.1.7.3. opracowanie i wdrożenie modułu generowania kodów jednorazowych - pierwsza informacja pojawia się w Uchwale PKW z 9 marca 2015 patrz [**PKW 09.03.2015 pkt.4.**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/zmiana_filozofii_PKW.md)
-    * B.1.1.8. wysyłka danych frewkwencji wyborczej w godzinach sprawozdawczych
+    * B.1.1.8. wysyłka danych frekwencji wyborczej w godzinach sprawozdawczych [**Moduł F.1**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_F1.xml)
 
 # Ad. B.2.
 Wszystkie funkcjonalności zgodne z podpunktami z A.1. ale wykonypane "poprzez" dostęp do dedykowanej strony internetowej.
