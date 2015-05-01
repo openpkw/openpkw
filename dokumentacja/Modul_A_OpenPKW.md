@@ -5,44 +5,75 @@ Opracowano na podstawie analizy dokumentów przetargowych ([**SIWZ**] (https://g
 
 Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia do obsługi modułów nadawane oddzielnie do każdego modułu (**Moduł A.2.**).
 
-#Moduł A. Platforma Wyborcza
+#System Wyborczy OpenPKW  
+[**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW.xml)  
 
-**Moduł A.1.** Systemu pobierania danych o komitetach wyborczych, listach kandydatów i kandydatach oraz obwodach, okręgach i składach komisji (z serwisów udostępnionych przez Zamawiającego ?),
+**Moduł A.** Geografia wyborcza. Podział kraju na okręgi w zależności od rodzaju akcji wyborczej. Podział okręgów na obwody wyborcze. Podział gmin na okręgi wyborcze w wyborach do rad gmin. Obwody wyborcze zagranicą i na polskich statkach morskich. [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_A.xml)  
 
-**Moduł A.2.** Oprogramowanie do zarządzania uprawnieniami do obsługi informatycznej wyborów (w oparciu o bazę LDAP udostępnioną przez Zamawiającego ?), oprogramowanie obsługi infrastruktury klucza publicznego w zakresie wystawiania i udostępniania certyfikatów (infrastruktura PKI udostępniona przez Zamawiającego?),
+**Moduł B.** Organy wyborcze.  
+Państwowa Komisja Wyborcza - skład, organ powołujący, kadencje. Okregowe Komisje Wyborcze (jak PKW), Komisarze Wyborczy, Krajowe Biuro Wyborcze, osoby funkcyjne na poszczególnych szczeblach, operatorzy komisji wyborczych. Składy Obwodowych i Terytorialnych komisji wyborczych, komitety zgłaszające kandydatów do komisji, wyniki losowania itp.
 
-**Moduł A.3.** Moduł frekwencji - wprowadzenia, przyjmowania danych o liczbie wyborców, którzy wzięli udział w głosowaniu w trakcie głosowania, nadzoru nad przekazywaniem, kontroli poprawności,
+**Moduł C.** Kandydaci.  
+Rejestracja Komitetów wyborczych, obszar dziaalnia, zgłaszanie list kandydatów, nadawanie numerów listom kandydatów ([**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_C5.xml)), historia obsadzania mandatów.
 
-**Moduł A.4.** Moduł przyjmowania danych elektronicznych z protokołów wyników głosowania w obwodzie przesłanych przez moduł kalkulator wyborczego (Moduł B.1.; B.2.; B.3.), kontrola spływu protokołów wyników głosowania w obwodzie,
+**Moduł D.** Dane wyborcze.
+Meldunek wyborczy - kwartalny ([**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_D1.xml)), przedwyborczy. Generowanie plików KLK i JSON zasilających kalkulatory wyborcze (html i localhost).
 
-**Moduł A.5.** Moduł obsługi organu wyborczego (terytorialnej komisji wyborczej, komisarza wyborczego i Państwowej Komisji Wyborczej) na obszarze właściwości organu.   
+**Moduł E.** Moduł obsługi organu wyborczego (terytorialnej komisji wyborczej, komisarza wyborczego i Państwowej Komisji Wyborczej) na obszarze właściwości organu.  
 
-**Moduł A.6.** Moduł ustalania wyników głosowania i wyników wyborów. Protokoły zbiorcze komisji wyższego rzędu.  
+**Moduł F.** Moduł frekwencji - wprowadzenia, przyjmowania danych o liczbie wyborców, którzy wzięli udział w głosowaniu w trakcie głosowania, nadzoru nad przekazywaniem, kontroli poprawności,  
 
-**Moduł A.7.** Moduł Wizualizacji na bieżąco wyników głosowania.  
+**Moduł G.** Moduł ustalania wyników głosowania i wyników wyborów. Protokoły zbiorcze komisji wyższego rzędu. 
 
-**Moduł A.8.** Archiwizacja - wykonanie eksportu danych, zapewniający przeniesienie danych dotyczących komitetów wyborczych, list kandydatów i kandydatów, obwodów głosowania, okręgach wyborczych i wyników głosowania, wyników podziału mandatów do archiwum (zaimplementowanego jako relacyjna baza danych),
+**Moduł H.** Wzorce dokumentów wyborczych na podstawie ustaw, uchwa PKW, zarzdzeń ministrów wykorzystywane przez pozostae moduy Systemu Wyborczego OpenPKW.  
 
-**Moduł A.9.** Moduł zarządczy (??) dla administratorów całości systemu.
+**Moduł I.** Oprogramowanie do zarządzania uprawnieniami do obsługi informatycznej wyborów (w oparciu o bazę LDAP udostępnioną przez Zamawiającego ?), oprogramowanie obsługi infrastruktury klucza publicznego w zakresie wystawiania i udostępniania certyfikatów (infrastruktura PKI udostępniona przez Zamawiającego?), Moduł zarządczy (??) dla administratorów całości systemu.  
+
+**Moduł J.** Rejestr partii politycznych w Polsce.  
+
+**Moduł K.** Kalkulator dla localhost.  
+
+**Moduł L.** Moduł Wizualizacji na bieżąco wyników głosowania.  
+
+**Moduł M.** Serwer binarny. Obrazy dokumentów, protokolów, skany, zdjecia, wzory podpisów (?).  
+
+**Moduł N.**  
+**Moduł O.**  
+**Moduł P.**  
+**Moduł R.** Archiwizacja - wykonanie eksportu danych, zapewniający przeniesienie danych dotyczących komitetów wyborczych, list kandydatów i kandydatów, obwodów głosowania, okręgach wyborczych i wyników głosowania, wyników podziału mandatów do archiwum (zaimplementowanego jako relacyjna baza danych),  
+
+**Moduł S.** Moduł przyjmowania danych elektronicznych z protokołów wyników głosowania w obwodzie przesłanych przez moduł kalkulator wyborczego (Moduł B.1.; B.2.; B.3.), kontrola spływu protokołów wyników głosowania w obwodzie,  
+
+**Moduł T.**  
+**Moduł U.**  
+**Moduł W.**  
+
+**Moduł X.** Program mobilny  
+
+**Moduł Y.** Program mobilny  
+
+**Moduł Z.** Program mobilny 
+
 
 # Wymagane bazy danych (uzyskanie dostępu lub stworzenie od podstaw)  
 
  1. Rejestr partii politycznych w Polsce  
 
- 2. Stały rejestr wyborców (prowadzony przez gminy - wymiana danych między gminami poprzez moduł centralny)  
+ 2. Stały rejestr wyborców (prowadzony przez gminy - wymiana danych między gminami poprzez moduł raportu wybroczego)  
 
  3. Okręgi wyborcze (Polska)   
   - Akcje wyborcze (słownik)
     - Wybory prezydenckie
     - Wybory do Sejmu RP
-    - Wybory do Senatu RP
+    - Wybory do Senatu RP / Wybory uzupeniajace do Senatu RP  
     - Wybory do PUE
     - Wybory do Sejmiku województwa
     - Wybory do Rady Powiatu
     - Wybory do Rady miasta na prawach powiatu
     - Wybory do Rady dzielnicy m.st. Warszawa
-    - Wybory rady Gminy
-    - Wybory do Rady Miasta
+    - Wybory Rady Gminy / wybory uzupeniajace do Rady Gminy  
+    - Wybory do Rady Miasta / wybory uzupeniajace do Rady Miasta  
+    - Wybory wójt/burmistrz/prezydent / wybory w trakcie kanecji
     - Referendum Ogólnokrajowe
     - Referendum lokalne
 
