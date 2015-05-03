@@ -18,23 +18,29 @@ D.1. - elektroniczne systemy automatycznego zliczania głosów z kart wyborczych
 D.2. - internetowe/intranetowe systemy głosowania.
 
 Wykorzystanie powyższego np do **Głosowania obywatelskie** (np. wybór budżetu obywatelskiego):   
-
-    * założenia:
-        - głosują tylko mieszkańcy danej gminy,  
-        - podstawą jest spis głosujących jak do zwykłych wyborów (papierowy) z rejestru wyborców,  
-        - obwody jak w zwykłych wyborach (lub mniej), nie jest wymagana tajemnica głosowania.  
-    * sposób głosowania:  
-        - głosowanie "ręczne" lub/oraz głosowanie elektroniczne (tablet w lokalu),  
-        - głosowanie mobilne/zdalne (aplet na telefonie, tablecie, lub przez internet dedykowana strona html),  
-        - wybór co najmniej jednego zadania (mozliwy wybór wielu zadań);    
-    * weryfikacja uprawnionych:  
-        - przy głosowaniu tradycyjnym tak jak w zwykłych wyborach (spis i podpis w spisie);  
-        - przy głosowaniu elektronicznym: pobranie aplikacji lub dostęp do dedykowanej strony po podaniu PESEL/Nr dowodu  
-            * zastrzeżenie1: pobranie apki wyłącza dostęp przez stronę oraz powoduje skreślenie z tradycyjnego spisu wyborców;  
-            * zastrzeżenie2: głosowanie przez apke wyłącznie jednorazowe  
-    * strona techniczna zadania:  
-        - urny "samoliczace";  
-        - samodzielne skanery kart do glosowania;  
-        - aplikacja mobilna  
-        - dedykowana strona html  
-        - backend + wizualizacja  
+* założenia:
+    - głosują tylko mieszkańcy danej gminy,  
+    - podstawą jest spis głosujących jak do zwykłych wyborów samorządowych (papierowy) z rejestru wyborców,  
+    - obwody jak w zwykłych wyborach (lub mniej), nie jest wymagana tajemnica głosowania,
+    - elektroniczny spis wyborców (????? - trzeba przemyleć problem)
+    - ....  
+* sposób głosowania:  
+    - głosowanie "ręczne" lub/oraz głosowanie elektroniczne (tablet w lokalu), 
+    - głosowanie mobilne/zdalne (aplet na telefonie, tablecie, lub przez internet dedykowana strona html),  
+    - wybór co najmniej jednego zadania / mozliwy wybór wielu zadań;
+    - brak możliwości oddania głosu nieważnego;
+    - ...  
+* weryfikacja uprawnionych:  
+    - przy głosowaniu tradycyjnym tak jak w zwykłych wyborach (spis i podpis w spisie);  
+    - przy głosowaniu elektronicznym: pobranie aplikacji lub dostęp do dedykowanej strony po podaniu PESEL oraz Nr dowodu  
+        * zastrzeżenie1: pobranie apki wyłącza dostęp przez stronę oraz powoduje skreślenie z tradycyjnego spisu wyborców (elektronicznego spisu);  
+        * zastrzeżenie2: głosowanie przez apke wyłącznie jednorazowe
+        * zastrzeżenie3: głosowanie przez stronę wyłącza dostęp przez apkę oraz powoduje skreślenie z tradycyjnego spisu wyborców (elektronicznego spisu);
+        * 
+* strona techniczna zadania:  
+    - urny "samoliczące";  
+    - skanery kart do głosowania + aplikacja OCR + wifi;  
+    - aplikacja mobilna (apka);  
+    - dedykowana strona html;  
+    - backend + wizualizacja;  
+    - ....  
