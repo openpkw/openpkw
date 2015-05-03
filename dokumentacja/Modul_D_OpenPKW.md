@@ -16,3 +16,25 @@ D.1. - elektroniczne systemy automatycznego zliczania głosów z kart wyborczych
     D.1.5. - archiwizacja danych  
 
 D.2. - internetowe/intranetowe systemy głosowania.
+
+Wykorzystanie powyższego np do **Głosowania obywatelskie** (np. wybór budżetu obywatelskiego):   
+
+    * założenia:
+        - głosują tylko mieszkańcy danej gminy,  
+        - podstawą jest spis głosujących jak do zwykłych wyborów (papierowy) z rejestru wyborców,  
+        - obwody jak w zwykłych wyborach (lub mniej), nie jest wymagana tajemnica głosowania.  
+    * sposób głosowania:  
+        - głosowanie "ręczne" lub/oraz głosowanie elektroniczne (tablet w lokalu),  
+        - głosowanie mobilne/zdalne (aplet na telefonie, tablecie, lub przez internet dedykowana strona html),  
+        - wybór co najmniej jednego zadania (mozliwy wybór wielu zadań);    
+    * weryfikacja uprawnionych:  
+        - przy głosowaniu tradycyjnym tak jak w zwykłych wyborach (spis i podpis w spisie);  
+        - przy głosowaniu elektronicznym: pobranie aplikacji lub dostęp do dedykowanej strony po podaniu PESEL/Nr dowodu  
+            * zastrzeżenie1: pobranie apki wyłącza dostęp przez stronę oraz powoduje skreślenie z tradycyjnego spisu wyborców;  
+            * zastrzeżenie2: głosowanie przez apke wyłącznie jednorazowe  
+    * strona techniczna zadania:  
+        - urny "samoliczace";  
+        - samodzielne skanery kart do glosowania;  
+        - aplikacja mobilna  
+        - dedykowana strona html  
+        - backend + wizualizacja  
