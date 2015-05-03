@@ -36,7 +36,8 @@ dodatkowych projektów systemów, programów i aplikacji powstających (na razie
 **C. Programy mobilne.**  
 Ten moduł tworzony jest nie do końca w zgodzie z przepisami prawa wyborczego a wykorzystywany może być przez różnorodne organizacje do sprawdzania poprawności (kontroli) wyborów w tym z możliwością archiwizacji zdjęć protokołów. Również instystucje i organizacje (np. lokalne Komitety Wyborcze, partie polityczne, organizacje PR, media itp.) mogą wykorzystać to oprogramowanie do szybkiego przekazania części danych z protokołów koisji wyborczych, potrzebnych do nieoficjalnego obliczenia wyników wyborów.
 
-**D. e-Wybory.** - Moduł na razie wyłącznie do rozważań analitycznych oraz luźnych dyskusji. Może ostatecznie coś z tego wyrośnie a PKW pójdzie po rozum do głowy.
+**D. e-Wybory.** - Moduł na razie wyłącznie do rozważań analitycznych oraz luźnych dyskusji. Może ostatecznie coś z tego wyrośnie a PKW pójdzie po rozum do głowy.  
+ * Gosowanie nad budżetami obywatelskimi - nowe zadanie dla OpenPKW. [**Gosowania obywatelskie**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Modul_D_OpenPKW.md)  
 
 
 **Dalszy, szczegółowy podział wynika wyłącznie z potrzeb państwowych organów wyborczych wszystkich szczebli i rodzajów oraz z funkcjonalności oprogramowania i baz danych wykorzystywanych w procesie przygotowania i przeprowadzenia wyborów oraz agregacji i ogłoszenia wyników wyborów.**
