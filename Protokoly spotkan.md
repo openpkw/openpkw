@@ -49,7 +49,7 @@ Odpowiedzialny za protokół: Sebastian
 * Plany dotyczące zebrania i weryfikacji namiarów na męzów zaufania OpenPKW Mobile - Rafał
 
 ### Todo zrealizowane
-* [Przemek] Napisanie pisma do PKW w sprawie spisu Obwodowych Komisji Wyborczych
+* [Tomek, Przemek] Napisanie pisma do PKW w sprawie spisu Obwodowych Komisji Wyborczych
 * 2015.04.22-1 [Sebastian] [New] Dostować serwis do dokumentów do nowego JSONa
 * 2015.04.22-4 [Sebastian] [New] Posprzątać stary projekt PocKalkulatorWyborczyHtml
 
