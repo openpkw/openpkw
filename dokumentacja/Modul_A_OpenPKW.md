@@ -19,11 +19,11 @@ Rejestracja Komitetów wyborczych, obszar dziaalnia, zgłaszanie list kandydató
 **Moduł D.** Dane wyborcze.
 Meldunek wyborczy - kwartalny ([**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_D1.xml)), przedwyborczy. Generowanie plików KLK i JSON zasilających kalkulatory wyborcze (html i localhost).
 
-**Moduł E.** Moduł obsługi organu wyborczego (terytorialnej komisji wyborczej, komisarza wyborczego i Państwowej Komisji Wyborczej) na obszarze właściwości organu.  
+**Moduł E.** Moduł obsługi organu wyborczego (terytorialnej komisji wyborczej, komisarza wyborczego i Państwowej Komisji Wyborczej) na obszarze właściwości organu, nadzoru nad przekazywaniem, kontrola poprawności.  
 
-**Moduł F.** Moduł frekwencji - wprowadzenia, przyjmowania danych o liczbie wyborców, którzy wzięli udział w głosowaniu w trakcie głosowania, nadzoru nad przekazywaniem, kontroli poprawności,  
+**Moduł F.** Moduł frekwencji - wprowadzenia, przyjmowania danych o liczbie wyborców, którzy wzięli udział w głosowaniu w trakcie głosowania. [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_F1.xml),  
 
-**Moduł G.** Moduł ustalania wyników głosowania i wyników wyborów. Protokoły zbiorcze komisji wyższego rzędu. 
+**Moduł G.** Moduł ustalania wyników głosowania i wyników wyborów [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_G.xml). Protokoły zbiorcze komisji wyższego rzędu. 
 
 **Moduł H.** Wzorce dokumentów wyborczych na podstawie ustaw, uchwa PKW, zarzdzeń ministrów wykorzystywane przez pozostae moduy Systemu Wyborczego OpenPKW.  
 
