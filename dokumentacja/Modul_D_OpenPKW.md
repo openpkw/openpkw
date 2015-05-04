@@ -17,7 +17,7 @@ D.1. - elektroniczne systemy automatycznego zliczania głosów z kart wyborczych
 
 D.2. - internetowe/intranetowe systemy głosowania.
 
-Wykorzystanie powyższego np do **Głosowania obywatelskie** (np. wybór budżetu obywatelskiego):   
+Możliwe jest wykorzystanie powyższego do **Głosowania obywatelskie** (np. wybór budżetu obywatelskiego):   
 * założenia:
     - głosują tylko mieszkańcy danej gminy,  
     - podstawą jest spis głosujących jak do zwykłych wyborów samorządowych (papierowy) z rejestru wyborców,  
@@ -44,3 +44,5 @@ Wykorzystanie powyższego np do **Głosowania obywatelskie** (np. wybór budżet
     - dedykowana strona html;  
     - backend + wizualizacja;  
     - ....  
+
+Również w przypadku wyborów do Izb Rolniczych możliwe będzie wykorzystanie powyższych możliwości e-wyborów/e-votingu.
