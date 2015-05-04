@@ -4,6 +4,8 @@
 Zbieramy tematy na najbliższą telekonferencje tj. 6 maja 2015. Będę wdzięczny za akceptację schematu:   
 **data [autor] [status] [treść]**  
 
+2015.05.03 [Rafał Malujda] [new] System do przeprowadzenia głosowania: wybór budżetu obywatelskiego m.Szczecin.  
+
 ### Stałe tematy 
 * Status implementacji
   * [openpkw-kalkulator-obwodowy-web](https://github.com/openpkw/openpkw-kalkulator-obwodowy-web) - Marcin T.
