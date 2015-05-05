@@ -22,13 +22,13 @@ Rozdział V. W zakresie wyborów do Sejmu i Senatu - nie aktualizuje przepisów 
 
 * ustawa z dnia 29 sierpnia 1997 r. o ochronie danych osobowych ([**t.j. Dz. U. z 2014 r. poz. 1182**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20140001182))  
 
-# Dyrektywy europejskie
+# II.a. Dyrektywy europejskie
 
 * DYREKTYWA RADY 94/80/WE z dnia 19 grudnia 1994 r. ustanawiająca szczegółowe zasady korzystania z prawa głosowania i kandydowania w wyborach lokalnych przez obywateli Unii zamieszkałych w Państwie Członkowskim, którego nie są obywatelami. ([**31994L0080**] (http://eur-lex.europa.eu/legal-content/PL/ALL/?uri=CELEX:31994L0080))
 
 * DYREKTYWA RADY 93/109/WE z dnia 6 grudnia 1993 r. ustanawiająca szczegółowe warunki wykonywania prawa głosowania i kandydowania w wyborach do Parlamentu Europejskiego przez obywateli Unii mających miejsce zamieszkania w Państwie Członkowskim, którego nie są obywatelami ([**31993L0109**] (http://eur-lex.europa.eu/legal-content/PL/ALL/?uri=CELEX:31993L0109))
  
-# Zalecenia Rady Europy
+# II.b. Zalecenia Rady Europy
 
 * [**Zalecenia Komitetu Ministrów Rady Europy dla państw członkowskich dotyczące prawnych, praktycznych standardów głosowania elektronicznego**] (https://wcd.coe.int/ViewDoc.jsp?id=778189)  
 Tytuł oryginału: „Recommendation Rec (2004)11 of the Committee of Ministers to member states on legal, operational and technical standards for e-voting, adopted by the Committee of Ministers on 30 September 2004 at the 898th
@@ -58,11 +58,15 @@ służące do przetwarzania danych osobowych ([**Dz.U. Nr 100, poz. 1024**] (htt
 
 * Rozporządzenie Ministra Spraw Wewnętrznych z dnia 29 grudnia 2014 r. w sprawie spisu wyborców ([**D. U. 2015 r., poz. 5**] (http://dokumenty.rcl.gov.pl/DU/rok/2015/pozycja/5))
 
-# III.a. Rozporządzenia i uchwały dotyczące głosowania korespondencyjnego
+# III.a. Rozporządzenia i uchwały - głosowanie korespondencyjne
 
 * Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 21 stycznia 2015 r. w sprawie przesyłek w głosowaniu korespondencyjnym w kraju ([**D. U. z 2015 r., poz. 131**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150000131))  
 
-* uchwała Państwowej Komisji Wyborczej z dnia 8 września 2014 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w wyborach do rad gmin, rad powiatów, sejmików województw, rad dzielnic m.st. Warszawy oraz w
+* Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 20 stycznia 2015 r. w sprawie sposobu prowadzenia oraz aktualizacji wykazu pakietów wyborczych [**Dz.U. z 2015 r., poz.120**]  (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150000120))
+
+* Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 20 stycznia 2015 r. w sprawie trybu odbierania oraz przechowywania kopert zwrotnych dostarczonych przez wyborcę do urzędu gminy przed dniem głosowania [**Dz.U. z 2015 r., poz.119**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150000119))
+
+* Uchwała Państwowej Komisji Wyborczej z dnia 8 września 2014 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w wyborach do rad gmin, rad powiatów, sejmików województw, rad dzielnic m.st. Warszawy oraz w
 wyborach wójtów, burmistrzów i prezydentów miast, w głosowaniu korespondencyjnym ([M.P. 2014, poz. 809] (http://www.monitorpolski.gov.pl/mp/2014/809/1)).  
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 8 września 2014 r. zmieniająca uchwałę w sprawie określenia wzoru i rozmiaru koperty na pakiet wyborczy, koperty zwrotnej, koperty na kartę do głosowania, oświadczenia o osobistym i tajnym oddaniu głosu oraz instrukcji głosowania, stosowanych w głosowaniu korespondencyjnym w obwodach głosowania utworzonych w kraju ([M.P. 2014, poz. 808] (http://www.monitorpolski.gov.pl/mp/2014/808/1)) 
