@@ -25,7 +25,19 @@ Meldunek wyborczy - kwartalny ([**Diagram**] (https://www.draw.io/?url=https%3A%
 
 **Moduł G.** Moduł ustalania wyników głosowania i wyników wyborów [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_G.xml). Protokoły zbiorcze komisji wyższego rzędu. 
 
-**Moduł H.** Wzorce dokumentów wyborczych na podstawie ustaw, uchwa PKW, zarzdzeń ministrów wykorzystywane przez pozostae moduy Systemu Wyborczego OpenPKW.  
+**Moduł H.** Wzorce dokumentów wyborczych na podstawie ustaw, uchwal PKW, zarzadzeń ministrów wykorzystywane przez pozostale moduly Systemu Wyborczego OpenPKW.  
+np. dla wyborow prezydenckich:  
+Zawiadomienie o utworzeniu komitetu wyborczego kandydata na Prezydenta RP  
+Oswiadczenie o utworzeniu komitetu wyborczego kandydata na Prezydenta RP  
+Oswiadczenie pelnomocnika wyborczego  
+Oswiadczenie pelnomocnika finansowego  
+Oświadczenie zgoda na kandydowanie  
+Oświadczenie zgoda na utworzenie komitetu  
+Oświadczenie o posiadaniu prawa wybieralności  
+Oświadczenie lustracyjne  
+Informacja o zlozeniu oświadczenia lustracyjnego  
+zgłoszenie członków OKW  
+zaswiadczenie mezowie zaufania  
 
 **Moduł I.** Oprogramowanie do zarządzania uprawnieniami do obsługi informatycznej wyborów (w oparciu o bazę LDAP udostępnioną przez Zamawiającego ?), oprogramowanie obsługi infrastruktury klucza publicznego w zakresie wystawiania i udostępniania certyfikatów (infrastruktura PKI udostępniona przez Zamawiającego?), Moduł zarządczy (??) dla administratorów całości systemu.  
 
