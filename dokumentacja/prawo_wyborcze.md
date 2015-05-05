@@ -58,6 +58,23 @@ służące do przetwarzania danych osobowych ([**Dz.U. Nr 100, poz. 1024**] (htt
 
 * Rozporządzenie Ministra Spraw Wewnętrznych z dnia 29 grudnia 2014 r. w sprawie spisu wyborców ([**D. U. 2015 r., poz. 5**] (http://dokumenty.rcl.gov.pl/DU/rok/2015/pozycja/5))
 
+# III.a. Rozporządzenia i uchwały dotyczące głosowania korespondencyjnego
+
+* Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 21 stycznia 2015 r. w sprawie przesyłek w głosowaniu korespondencyjnym w kraju ([**D. U. z 2015 r., poz. 131**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150000131))  
+
+* uchwała Państwowej Komisji Wyborczej z dnia 8 września 2014 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w wyborach do rad gmin, rad powiatów, sejmików województw, rad dzielnic m.st. Warszawy oraz w
+wyborach wójtów, burmistrzów i prezydentów miast, w głosowaniu korespondencyjnym ([M.P. 2014, poz. 809] (http://www.monitorpolski.gov.pl/mp/2014/809/1)).  
+
+* Uchwała Państwowej Komisji Wyborczej z dnia 8 września 2014 r. zmieniająca uchwałę w sprawie określenia wzoru i rozmiaru koperty na pakiet wyborczy, koperty zwrotnej, koperty na kartę do głosowania, oświadczenia o osobistym i tajnym oddaniu głosu oraz instrukcji głosowania, stosowanych w głosowaniu korespondencyjnym w obwodach głosowania utworzonych w kraju ([M.P. 2014, poz. 808] (http://www.monitorpolski.gov.pl/mp/2014/808/1)) 
+
+* Uchwała Państwowej Komisji Wyborczej z dnia 22 grudnia 2014 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w głosowaniu korespondencyjnym w kraju ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000037))  
+
+* Uchwała Państwowej Komisji Wyborczej z dnia 9 lutego 2015 r. w sprawie określenia wzoru i rozmiaru koperty na pakiet wyborczy, koperty zwrotnej, koperty na kartę do głosowania, oświadczenia o osobistym i tajnym oddaniu głosu oraz instrukcji głosowania korespondencyjnego ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000211))  
+
+* Uchwała Państwowej Komisji Wyborczej z dnia 27 marca 2015 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w głosowaniu korespondencyjnym za granicą ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000328))  
+
+* 
+
 # IV. W zakresie wyborów samorządowych
 
 * uchwała Państwowej Komisji Wyborczej z dnia 4 sierpnia 2014 r. w sprawie wytycznych dla komisarzy wyborczych dotyczących przyjmowania zawiadomień o utworzeniu komitetu wyborczego w wyborach do rad gmin, rad powiatów i sejmików województw ([M.P. 2014, poz. 678] (http://www.monitorpolski.gov.pl/mp/2014/678/1)),  
@@ -84,11 +101,6 @@ zgłoszenia do rejestracji kandydata na wójta, burmistrza i prezydenta miasta i
 * uchwała Państwowej Komisji Wyborczej z dnia 1 września 2014 r. w sprawie ustalenia wzorów protokołów sporządzanych przez obwodowe komisje wyborcze, w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz wyborach wójtów, burmistrzów i prezydentów miast ([M.P. 2014, poz. 882] (http://www.monitorpolski.gov.pl/mp/2014/882/1)),  
 
 * uchwała Państwowej Komisji Wyborczej z dnia 8 września 2014 r. w sprawie wytycznych dla terytorialnych komisji wyborczych w sprawie sposobu zapisu nazwisk i imion kandydatów oraz skrótów nazw komitetów wyborczych na obwieszczeniach i kartach do głosowania ([M.P. 2014, poz. 807] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20140000807));  
-
-* uchwała Państwowej Komisji Wyborczej z dnia 8 września 2014 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w wyborach do rad gmin, rad powiatów, sejmików województw, rad dzielnic m.st. Warszawy oraz w
-wyborach wójtów, burmistrzów i prezydentów miast, w głosowaniu korespondencyjnym ([M.P. 2014, poz. 809] (http://www.monitorpolski.gov.pl/mp/2014/809/1)).  
-
-* Uchwała Państwowej Komisji Wyborczej z dnia 8 września 2014 r. zmieniająca uchwałę w sprawie określenia wzoru i rozmiaru koperty na pakiet wyborczy, koperty zwrotnej, koperty na kartę do głosowania, oświadczenia o osobistym i tajnym oddaniu głosu oraz instrukcji głosowania, stosowanych w głosowaniu korespondencyjnym w obwodach głosowania utworzonych w kraju ([M.P. 2014, poz. 808] (http://www.monitorpolski.gov.pl/mp/2014/808/1))
 
 * **uchwała Państwowej Komisji Wyborczej z dnia 22 września 2014 r. w sprawie określenia warunków i sposobu wykorzystania techniki elektronicznej w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m. st. Warszawy oraz w
 wyborach wójtów, burmistrzów i prezydentów miast** ([M.P. 2014, poz. 903] (http://www.monitorpolski.gov.pl/mp/2014/903/1)),  
@@ -142,6 +154,7 @@ do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M.P. N
 5) uchwała Państwowej Komisji Wyborczej z dnia 12 września 2011 r. w sprawie wytycznych dla okręgowych komisji wyborczych, dotyczących wykonywania zadań związanych z ustalaniem wyników głosowania i wyników wyborów oraz trybu i zasad powoływania pełnomocników okręgowych komisji wyborczych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 9 października 2011 r. (M.P. Nr 87, poz. 911)),  
 
 6) uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wytycznych dotyczących stosowania uchwał Państwowej Komisji Wyborczej w wyborach uzupełniających do senatu Rzeczypospolitej Polskiej VIII kadencji (M.P. poz. 124);  
+
 7) uchwała Państwowej Komisji Wyborczej z dnia 17 sierpnia 2011 r. w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille'a, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych w kraju (M.P. Nr 80, poz. 805));  
 
 8) uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wzoru kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille'a, w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej (M.P. poz. 125)).  
@@ -149,8 +162,6 @@ do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M.P. N
 # VI. W zakresie wyborów prezydenckich
 
 * Postanowienie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 lutego 2015 r. o zarządzeniu wyborów Prezydenta Rzeczypospolitej Polskiej ([Dz.U. z 2015 r., poz.188] (http://dziennikustaw.gov.pl/du/2015/188/1))
-
-* Uchwała Państwowej Komisji Wyborczej z dnia 22 grudnia 2014 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w głosowaniu korespondencyjnym w kraju ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000037))
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 26 stycznia 2015 r. w sprawie wytycznych dotyczących druku kart do głosowania oraz wytycznych dla okręgowych komisji wyborczych dotyczących dostarczenia kart do głosowania wraz z nakładkami na karty do głosowania sporządzonymi w alfabecie Braille’a obwodowym komisjom wyborczym utworzonym w kraju w wyborach Prezydenta Rzeczypospolitej Polskiej w 2015 r. ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000151))
 
@@ -162,9 +173,7 @@ do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M.P. N
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 26 stycznia 2015 r. w sprawie wzorów protokołów głosowania i protokołu o wynikach głosowania stosowanych w wyborach Prezydenta Rzeczypospolitej Polskiej w 2015 r. ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000159))
 
-* Uchwała Państwowej Komisji Wyborczej z dnia 9 lutego 2015 r. w sprawie określenia wzoru i rozmiaru koperty na pakiet wyborczy, koperty zwrotnej, koperty na kartę do głosowania, oświadczenia o osobistym i tajnym oddaniu głosu oraz instrukcji głosowania korespondencyjnego ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000211))
-
-* UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 11 kwietnia 2011 r. w sprawie powoływania obwodowych komisji wyborczych w obwodach głosowania utworzonych w kraju, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej oraz do Parlamentu Europejskiego w Rzeczypospolitej Polskiej (M.P. z 2011 r., nr 30, poz. 345 wraz z późn. zm.) 
+* Uchwała Państwowej Komisji Wyborczej z dnia 11 kwietnia 2011 r. w sprawie powoływania obwodowych komisji wyborczych w obwodach głosowania utworzonych w kraju, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej oraz do Parlamentu Europejskiego w Rzeczypospolitej Polskiej (M.P. z 2011 r., nr 30, poz. 345 wraz z późn. zm.) 
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 9 lutego 2015 r. zmieniająca uchwałę w sprawie powoływania obwodowych komisji wyborczych w obwodach głosowania utworzonych w kraju, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej oraz do Parlamentu Europejskiego w Rzeczypospolitej Polskiej ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000223))
 
@@ -183,8 +192,6 @@ do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M.P. N
 * Uchwała Państwowej Komisji Wyborczej z dnia 9 marca 2015 r. w sprawie wytycznych dla obwodowych komisji wyborczych dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w obwodach głosowania utworzonych w kraju w wyborach Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000300))
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 23 marca 2015 r. w sprawie wytycznych dla okręgowych komisji wyborczych dotyczących przygotowania i przeprowadzenia wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000301))
-
-* Uchwała Państwowej Komisji Wyborczej z dnia 27 marca 2015 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w głosowaniu korespondencyjnym za granicą ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000328))
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 9 marca 2015 r. w sprawie powołania okręgowych komisji wyborczych w celu przeprowadzenia wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000332))
 
