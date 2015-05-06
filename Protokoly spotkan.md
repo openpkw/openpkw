@@ -1,7 +1,7 @@
 # Protokoły spotkań
 
 ## Agenda na najbliższe spotkanie
-Zbieramy tematy na najbliższą telekonferencje tj. 6 maja 2015. Będę wdzięczny za akceptację schematu:   
+Zbieramy tematy na najbliższą telekonferencje tj. 13 maja 2015. Będę wdzięczny za akceptację schematu:   
 **data [autor] [status] [treść]**  
 
 2015.05.03 [Rafał Malujda] [new] System do przeprowadzenia głosowania: wybór budżetu obywatelskiego m.Szczecin.  
@@ -21,12 +21,35 @@ w [**README.md**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/R
 ## Aktualna lista ToDo: 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje.   
 Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
-* 2015.04.15-3 [Rafal Malujda] Wysłanie pisma do PKW w sprawie spisu Obwodowych Komisji Wyborczych w trybie dostępu do informacji publicznej (plik csv)
+
 * 2015.03.25-0 [Tomek] [Pending] Przekazac namiary na Java Developers. 
-* 2015.03.25-9 [Tomek, Rafał Malujda] [Pending] Dokończyć  temat prawny ws AGPL i kodu systemu dla openPKW.
+* 2015.03.25-9 [Tomek, Rafał Malujda] [Pending] Dokończyć temat prawny ws AGPL i kodu systemu dla openPKW.
 * 2015.04.15-5 [Adam & Sebastian] [Pending] Omówić temat konfiguracji serwara CI. 
 * 2015.04.22-2 [Marcin] [Pending] Wysłać Przemkowi co już zrobił w zipie lub wystawić na Dobromirze ręcznie
 * 2015.04.22-3 [Sebastian] [Pending] Wywalić credentials JBossa z pom.xml
+
+## 2015.05.06 20:00
+Format: Telekonferencja / Skype  
+Czas: 15 min.  
+Obecni: Kacper Jasiński, Przemek Jodkowski, Rafał Reguła
+
+Odpowiedzialny za protokół: Rafał 
+
+
+### Przebieg dyskusji
+* Nie udało sie rozliczyć wiekszosci tasków z poprzedniego tygodnia, gdyż było za mało osób na Telco
+* Zostały przekazane informacje odnosnie aplikacji mobilnych i ich statusu gotowości wraz z podanymi wtępnymi terminami i funkcjonalnościami
+* Nad Aplikacjami mobilnymi pracuje obecnie 15 do 18 developerów mobilnych
+* Rafał stwierdził, iż pomimo prawdopodobnej gotowości aplikacji na zblizające sie tury wyborów nie ma jeszcze całego BackEnd co stanowi realny problem odebrania danych z aplikacji mobilnych
+* Rafał stwierdził, iż nikną drastycznie szanse na zbudowanie BackEnd po stronie OpenPKW
+z powodu m.in Todos ---> 2015.03.25-0. Innym problemem jest pojedyncza maszyna Dobromir, która najprawdopodobniej nawet jak by powstał na niej serwer odbierania danych mogła by nie podołałać wydajnościowo 
+* Została podniesiona ponownie kwestia maila z dnia 24.04.15 wyslanego na liste dyskusyjną srodowcy odnosnie integracji z organizacją OPW wraz z podaniem konkretnych rozwiązań umożliwiających osiągniecie sukcesu dla obu organizacji
+* Kwestia ta została podniesiona z powodu braku odpowiedzi na mail przez wiekszość adresatów i zainteresowanych do których mail był skierowany 
+*  Mamy stały i dynamiczny progres w rozwoju oprogramowania w OpenPKW. Przejawia się on np w nawiązaniu kontaktu z PKW w celu upowrzechnienia idei przejrzystosci wyborów i pokazaniu gotowego rozwiazania będącego w posiadaniu OpenPKW-Mobile (aplikacji mobilnych). Rozwiązanie te zostanie przedstawione na robocznym spotkaniu z PKW zaplanowanym na nastepny tydzień 
+* Wszyscy obecni wyrazili ubolewanie z powodu absensji wiekszosci kontrybutorów OpenPKW na konferencji
+
+### Todo zrealizowane
+2015.04.15-3 [Rafal Malujda] Wysłanie pisma do PKW w sprawie spisu Obwodowych Komisji Wyborczych w trybie dostępu do informacji publicznej (plik csv)
 
 ## 2015.04.29 20:00
 Format: Telekonferencja / Skype  
