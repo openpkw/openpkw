@@ -55,8 +55,7 @@ Dokładniejsze informacje o rodzajach komisji wyborczych [TUTAJ](https://github.
 
 | Komisja                                        |              Liczba |
 |------------------------------------------------|--------------------:|
-| Okręgowa Komisja Wyborcza (po kilka okręgów    |                     |
-| senackich łącznie 100 okręgów jednomandatowych)|                  41 |
+| Okręgowa Komisja Wyborcza (po kilka okręgów senackich łącznie 100 okręgów jednomandatowych)|                  41 |
 | Obwodowa Komisja Wyborcza (Polska) - powszechne|              24.217 |
 | Obwodowa Komisja Wyborcza (Polska) - odrębne   |               1.505 |
 | Obwodowa Komisja Wyborcza (zagranica stałe)    | 268                 |
