@@ -26,6 +26,7 @@ Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**.
 * 2015.03.25-9 [Tomek, Rafał Malujda] [Pending] Dokończyć temat prawny ws AGPL i kodu systemu dla openPKW.
 * 2015.04.15-5 [Adam & Sebastian] [Pending] Omówić temat konfiguracji serwara CI. 
 * 2015.04.22-2 [Marcin] [Pending] Wysłać Przemkowi co już zrobił w zipie lub wystawić na Dobromirze ręcznie
+  * SC: Wystawione tutaj: (http://dobromir.openpkw.pl/)
 * 2015.04.22-3 [Sebastian] [Pending] Wywalić credentials JBossa z pom.xml
 
 ## 2015.05.06 20:00
