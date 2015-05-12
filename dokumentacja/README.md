@@ -15,7 +15,7 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
    * [**Archiwum KBW**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/bazaKBW.md) - struktura bazy archiwalnej KBW (przeszłe akcje wyborcze).
    * [**Propozycja funkcjonalności**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/oper_kalkulator.md) - kalkulatora wyborczego na localhost.
    * [**Walidacja prezydent 2015**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_prezydent_2015.md) - zasady walidacji poprawności wypełnienia protokołu w wyborach prezydenckich 2015.
-   * [**Walidacja dotychczasowa**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_podstawy.md) - zasady walidacji protokołów wyborczych w akcjach dotychczasowych.
+   * [**Walidacja podstawy**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_podstawy.md) - zasady walidacji protokołów wyborczych w akcjach dotychczasowych.
    * [**Zmiany**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/zmiana_filozofii_PKW.md) - w obsłudze informatycznej wprowadzone uchwałami PKW z 9 marca 2015 oraz
    * [**Słownik pojec**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Slownik%20pojec.md) - plik z wyjaśnieniami terminologii używanej w "języku wyborczym".  
    * [**Walidacja meldunek wyborczy**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_meldunek_wyborczy.md) - plik z zasadami walidacji poprawności meldunku wyborczego (część meldunek kwartalny - zwykły)  
