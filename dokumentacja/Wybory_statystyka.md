@@ -1,6 +1,6 @@
 Wszystkie dane na podstawie oficjalnych danych PKW ([pkw.gov.pl](http://www.pkw.gov.pl))
 
-Dokładniejsze informacje o rodzajach komisji wyborczych [TUTAJ](https://github.com/Tirramisu/openpkw/blob/master/Struktura_komisji.md)
+Dokładniejsze informacje o [rodzajach komisji wyborczych]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Struktura_komisji_wyborczych.md)
 
 ## Referendum ogólnopolskie - 2003
 
@@ -37,7 +37,7 @@ Dokładniejsze informacje o rodzajach komisji wyborczych [TUTAJ](https://github.
 | Obwodowa Komisja Wyborcza (statki)                     | 2                   |
 | *Razem*                                                | 27.817              |
 
-
+[**Wizualizacja wyników wyborów I tura**] (http://prezydent2015.pkw.gov.pl/319_Pierwsze_glosowanie)  
 
 ## Wybory do Sejmu - 2011
 
