@@ -27,17 +27,20 @@ Meldunek wyborczy - kwartalny ([**Diagram**] (https://www.draw.io/?url=https%3A%
 
 **Moduł H.** Wzorce dokumentów wyborczych na podstawie ustaw, uchwal PKW, zarzadzeń ministrów wykorzystywane przez pozostale moduly Systemu Wyborczego OpenPKW.  
 np. dla wyborow prezydenckich:  
-Zawiadomienie o utworzeniu komitetu wyborczego kandydata na Prezydenta RP  
-Oswiadczenie o utworzeniu komitetu wyborczego kandydata na Prezydenta RP  
-Oswiadczenie pelnomocnika wyborczego  
-Oswiadczenie pelnomocnika finansowego  
-Oświadczenie zgoda na kandydowanie  
-Oświadczenie zgoda na utworzenie komitetu  
-Oświadczenie o posiadaniu prawa wybieralności  
-Oświadczenie lustracyjne  
-Informacja o zlozeniu oświadczenia lustracyjnego  
-zgłoszenie członków OKW  
-zaswiadczenie mezowie zaufania  
+[Zawiadomienie] (http://prezydent2015.pkw.gov.pl/pliki/1426675041_Zawiadomienie_o_utworzeniu_komitetu_wyborczego_kandydata_na_Prezydenta_RP.doc) o utworzeniu komitetu wyborczego kandydata na Prezydenta RP  
+[Oświadczenie] (http://prezydent2015.pkw.gov.pl/pliki/1426675121_Oswiadczenie_o_utworzeniu_komitetu_wyborczego_kandydata_na_Prezydenta_RP.doc) o utworzeniu komitetu wyborczego kandydata na Prezydenta RP  
+[Oświadczenie] (http://prezydent2015.pkw.gov.pl/pliki/1426675180_Oswiadczenie_pelnomocnika_wyborczego.doc) pełnomocnika wyborczego  
+[Oświadczenie] (http://prezydent2015.pkw.gov.pl/pliki/1426675214_Oswiadczenie_pelnomocnika_finansowego.doc) pełnomocnika finansowego  
+[Oświadczenie] (http://prezydent2015.pkw.gov.pl/pliki/1427101056_O%C5%9Bwiadczenie_zgoda_na_kandydowanie.doc) zgoda na kandydowanie  
+[Oświadczenie] (http://prezydent2015.pkw.gov.pl/pliki/1427101115_O%C5%9Bwiadczenie_zgoda_na_utworzenie_komitetu.doc) zgoda na utworzenie komitetu  
+[Oświadczenie] (http://prezydent2015.pkw.gov.pl/pliki/1427101185_O%C5%9Bwiadczenie_o_posiadaniu_prawa_wybieralno%C5%9Bci.doc) o posiadaniu prawa wybieralności  
+[Oświadczenie] (http://prezydent2015.pkw.gov.pl/pliki/1427101223_O%C5%9Bwiadczenie_lustracyjne.doc) lustracyjne  
+[Informacja] (http://prezydent2015.pkw.gov.pl/pliki/1427101277_Informacja_o_zlozeniu_o%C5%9Bwiadczenia_lustracyjnego.doc) o złożeniu oświadczenia lustracyjnego  
+[Zgłoszenie] (http://prezydent2015.pkw.gov.pl/pliki/1427196695_zg%C5%82oszenie_cz%C5%82onk%C3%B3w_OKW.doc) członków OKW  
+[Zaswiadczenie] (http://prezydent2015.pkw.gov.pl/pliki/1426683312_zaswiadczenie_mezowie_zaufania.docx) mężowie zaufania  
+Obwieszczenie PKW o wynikach głosowania. [10.05.2015] (http://prezydent2015.pkw.gov.pl/pliki/1_Obwieszczenie.pdf)  
+ * Załącznik 1 do Obwieszczenia PKW [10.05.2015] (http://prezydent2015.pkw.gov.pl/pliki/2_Obwieszczenie_zal1.pdf)  
+ * Załącznik 2 do Obwieszczenia PKW [10.05.2015] (http://prezydent2015.pkw.gov.pl/pliki/2_Obwieszczenie_zal2.pdf) 
 
 **Moduł I.** Oprogramowanie do zarządzania uprawnieniami do obsługi informatycznej wyborów (w oparciu o bazę LDAP udostępnioną przez Zamawiającego ?), oprogramowanie obsługi infrastruktury klucza publicznego w zakresie wystawiania i udostępniania certyfikatów (infrastruktura PKI udostępniona przez Zamawiającego?), Moduł zarządczy (??) dla administratorów całości systemu.  
 
