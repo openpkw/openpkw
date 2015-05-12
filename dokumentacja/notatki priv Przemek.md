@@ -18,6 +18,6 @@ C.1
 Lp. | Kod sprawy | Nazwa komitetu | Skrót nazwy komitetu | Data zgloszenia | Typ komitetu | Obszar zglaszania | Pelnomocnik wyborczy | Pelnomocnik finansowy | Siedziba komitetu | Stan sprawy | Strona internetowa komitetu |
 
 Obwieszczenie o wynikach I tury gosowania  
-[Obwieszczenie] (http://prezydent2015.pkw.gov.pl/pliki/1_Obwieszczenie.pdf)
+[Obwieszczenie] (http://prezydent2015.pkw.gov.pl/pliki/1_Obwieszczenie.pdf)  
 [Zal.1] (http://prezydent2015.pkw.gov.pl/pliki/2_Obwieszczenie_zal1.pdf)  
 [Zal.2] (http://prezydent2015.pkw.gov.pl/pliki/2_Obwieszczenie_zal2.pdf)  
