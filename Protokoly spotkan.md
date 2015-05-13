@@ -25,8 +25,8 @@ Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**.
 * 2015.03.25-9 [Tomek, Rafał Malujda] [Pending] Dokończyć temat prawny ws AGPL i kodu systemu dla openPKW.
 
 ## 2015.05.13 20:00
-Format: Telekonferencja / Skype
-Czas: 120 min.
+Format: Telekonferencja / Skype  
+Czas: 120 min.  
 Obecni: Piotr Tobolski, Sebastian Celejewski, Adam Kowalewski, Przemek Jodkowski, Rafał Reguła, Kacper Jasiński
 
 ### Przebieg dyskusji
