@@ -6,7 +6,11 @@ Rozdział V. W zakresie wyborów do Sejmu i Senatu - nie aktualizuje przepisów 
 
 * ustawa z dnia 5 stycznia 2011 r. – Kodeks wyborczy ([**Dz. U. Nr 21, poz. 112 z 2011 r.**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20110210112))  
 
+* Ustawa z dnia 14 marca 2003 r. o referendum ogólnokrajowym ([Dz.U. 2003 nr 57 poz. 507 z późn. zm.] [**t.j. Dz.U. 2015 poz. 318**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030570507)) 
+
 * ustawa z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy ([**Dz. U. Nr 41, poz. 361 z 2002 r.**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20020410361))  
+
+* Ustawa z dnia 15 września 2000 r. o referendum lokalnym. ([Dz.U. 2000 nr 88 poz. 985 z późn. zm.] [**t.j. Dz.U. 2013 poz. 706**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20000880985))  
 
 * ustawa z dnia 8 marca 1990 r. o samorządzie gminnym ([**t.j. Dz. U. z 2013 r. poz. 594**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20130000594&min=1)).
 
