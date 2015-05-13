@@ -4,8 +4,6 @@
 Zbieramy tematy na najbliższą telekonferencje tj. 13 maja 2015. Będę wdzięczny za akceptację schematu:   
 **data [autor] [status] [treść]**  
 
-2015.05.03 [Rafał Malujda] [new] System do przeprowadzenia głosowania: wybór budżetu obywatelskiego m.Szczecin.  
-
 ### Stałe tematy 
 * Status implementacji
   * [openpkw-kalkulator-obwodowy-web](https://github.com/openpkw/openpkw-kalkulator-obwodowy-web) - Marcin T.
@@ -16,6 +14,7 @@ Linki: [**tutaj**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja
 w [**README.md**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/README.md)  
 
 ### Dodatkowe tematy
+* 2015.05.03 [Rafał Malujda] [new] System do przeprowadzenia głosowania: wybór budżetu obywatelskiego m.Szczecin.  
 * 2015.04.05 [Adam] Proces integracji kontrybutorów. OpenProject pozwala na zakładanie konta ale co dzieje się z tymi ludźmi? Czy nowi użytkownicy mogą sami dopisać się do zespołów? 
 
 ## Aktualna lista ToDo: 
@@ -24,10 +23,36 @@ Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**.
 
 * 2015.03.25-0 [Tomek] [Pending] Przekazac namiary na Java Developers. 
 * 2015.03.25-9 [Tomek, Rafał Malujda] [Pending] Dokończyć temat prawny ws AGPL i kodu systemu dla openPKW.
-* 2015.04.15-5 [Adam & Sebastian] [Pending] Omówić temat konfiguracji serwara CI. 
-* 2015.04.22-2 [Marcin] [Pending] Wysłać Przemkowi co już zrobił w zipie lub wystawić na Dobromirze ręcznie
-  * SC: Wystawione tutaj: (http://dobromir.openpkw.pl/)
-* 2015.04.22-3 [Sebastian] [Pending] Wywalić credentials JBossa z pom.xml
+
+## 2015.05.13 20:00
+Format: Telekonferencja / Skype
+Czas: 120 min.
+Obecni: Piotr Tobolski, Sebastian Celejewski, Adam Kowalewski, Przemek Jodkowski, Rafał Reguła, Kacper Jasiński
+
+### Przebieg dyskusji
+* Rozliczenie zadań z ostatnich dwóch tygodni.
+* Stan implementacji:
+  * openpkw-kalkulator-obwodowy-web - widoczne postępy w walidacji, poprawione błędy
+  * openpkw-dokument-generator - dodane generowanie kodów QR dla OpenPKW Mobile
+* Nowości z PKW
+  * Nowy system wyborczy działa dobrze, użytkownicy go zaakceptowali.
+* Analiza Przemka
+  * Kończy analizę referendum.
+* Proces integracji kontrybutorów
+  * Nie było Tomka.
+  * Nie bardzo wiadomo jak się sprawy mają.
+* Merge OpenPKW Mobile do OpenPKW
+  * Wrócimy do tematu po drugiej turze.
+* Jak najlepiej zarządzać projektami OpenPKW?
+  * Model 'silnego lidera' działa doskonale.
+  * Model 'samoorganizacji' nie działa wcale.
+* Czy kontynuujemy prace nad OpenPKW, skoro nowy system PKW działa dobrze?
+  * Tak, nawet jeśli prace będą posuwać się do przodu bardzo powoli.
+
+Zrealizowane TODO:
+* 2015.04.15-5 [Adam & Sebastian] [Obsolete] Omówić temat konfiguracji serwara CI. 
+* 2015.04.22-2 [Marcin] [Done] Wysłać Przemkowi co już zrobił w zipie lub wystawić na Dobromirze ręcznie
+* 2015.04.22-3 [Sebastian] [Done] Wywalić credentials JBossa z pom.xml
 
 ## 2015.05.06 20:00
 Format: Telekonferencja / Skype  
