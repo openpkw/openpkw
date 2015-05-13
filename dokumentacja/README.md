@@ -19,6 +19,7 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
    * [**Zmiany**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/zmiana_filozofii_PKW.md) - w obsłudze informatycznej wprowadzone uchwałami PKW z 9 marca 2015 oraz
    * [**Słownik pojec**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Slownik%20pojec.md) - plik z wyjaśnieniami terminologii używanej w "języku wyborczym".  
    * [**Walidacja meldunek wyborczy**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_meldunek_wyborczy.md) - plik z zasadami walidacji poprawności meldunku wyborczego (część meldunek kwartalny - zwykły)  
+   * [**Referendum**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Referendum.md) - omówienie zasad dotyczących referendów
 
 
 # Zawartość katalogu:
