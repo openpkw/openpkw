@@ -48,6 +48,7 @@ Obecni: Piotr Tobolski, Sebastian Celejewski, Adam Kowalewski, Przemek Jodkowski
   * Model 'samoorganizacji' nie działa wcale.
 * Czy kontynuujemy prace nad OpenPKW, skoro nowy system PKW działa dobrze?
   * Tak, nawet jeśli prace będą posuwać się do przodu bardzo powoli.
+* Nastąpi integracja aplikacji mobilnej OpenPKW Mobile z BackEnd OPW w celu osiągniecia wspólnie sukcesu. Dane liczbowe przekazane przez userów via Mobile wpadną na serwer OPW, zdjęcia na serwer Open-PKW
 
 Zrealizowane TODO:
 * 2015.04.15-5 [Adam & Sebastian] [Obsolete] Omówić temat konfiguracji serwara CI. 
