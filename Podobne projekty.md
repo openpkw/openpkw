@@ -3,6 +3,8 @@ http://www.fakt.pl/polityka/urna-ktora-sama-liczy-wyborcze-glosy-jej-wynalazca-u
 
 ##Nowy System wyborczy PKW
 
+**2015.05.14** PKW chce wdrożyć 2 (!!) odzielne systemy liczce wyniki wyborów - szczególnie w wyborach parlamentarnych. [TREŚĆ] (http://samorzad.pap.pl/depesze/wiadomosci_centralne/151399/Niech-dwa-systemy--licza-glosy-wyborcow)
+
 **2015.04.11** Oświadczenie po spotkaniu przedstawicieli MSW i PKW w sprawie Żródła:  
 http://pkw.gov.pl/wydruk/type,artykul,id,55103.html?pdf
 
