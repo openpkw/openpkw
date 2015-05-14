@@ -20,6 +20,7 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
    * [**Słownik pojec**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Slownik%20pojec.md) - plik z wyjaśnieniami terminologii używanej w "języku wyborczym".  
    * [**Walidacja meldunek wyborczy**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_meldunek_wyborczy.md) - plik z zasadami walidacji poprawności meldunku wyborczego (część meldunek kwartalny - zwykły)  
    * [**Referendum**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Referendum.md) - omówienie zasad dotyczących referendów
+   * [**Walidacja parlament**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_parlament.md) - zasady walidacji protokołów wyborczych w wyborach parlamentarnych (Sejm i Senat).  
 
 
 # Zawartość katalogu:
