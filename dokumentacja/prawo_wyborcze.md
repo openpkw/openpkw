@@ -285,6 +285,8 @@ Parlamentu Europejskiego w 2014 r. ([M.P. 2014 poz. 178] (http://isap.sejm.gov.p
 * rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 kwietnia 2003 r. w sprawie sposobu zgłaszania kandydatów do obwodowych komisji do spraw referendum w referendum ogólnokrajowym oraz powoływania komisji ([Dz. U. Nr 74,
 poz. 671] (http://dziennikustaw.gov.pl/DU/2003/s/74/671) i [Nr 80, poz. 730] (http://dziennikustaw.gov.pl/DU/2003/s/80/730) oraz z [2011 r. Nr 17, poz. 86] (http://dziennikustaw.gov.pl/DU/2011/s/17/86)).  
 
+* Uchwała Państwowej Komisji Wyborczej z dnia 12 maja 2003 r. w sprawie określenia warunków oraz sposobu wykorzystania techniki elektronicznej w referendum ogólnokrajowym w sprawie wyrażenia zgody na ratyfikację Traktatu dotyczącego przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej, zarządzonym na dzień 8 czerwca 2003 r. ([M.P. 2003 nr 25 poz. 366] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20030250366))
+
 # IX. W zakresie referendów lokalnych
 
 * Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 marca 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy o referendum lokalnym ([Dz.U. 2013 poz. 706] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20130000706&min=1))
