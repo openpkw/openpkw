@@ -1,7 +1,7 @@
 # Protokoły spotkań
 
 ## Agenda na najbliższe spotkanie
-Zbieramy tematy na najbliższą telekonferencje tj. 13 maja 2015. Będę wdzięczny za akceptację schematu:   
+Zbieramy tematy na najbliższą telekonferencje tj. 20 maja 2015. Będę wdzięczny za akceptację schematu:   
 **data [autor] [status] [treść]**  
 
 ### Stałe tematy 
