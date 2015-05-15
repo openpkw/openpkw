@@ -1,4 +1,4 @@
-Rozdział V. W zakresie wyborów do Sejmu i Senatu - nie aktualizuje przepisów prawa bowiem czekam na ogłoszenie wyborów i pojawienie się nowych uchwał PKW. Pozostałe rozdziay zostały lub sa na bieżąco zaktualizowane.
+Rozdział V. W zakresie wyborów do Sejmu i Senatu - nie aktualizuje przepisów prawa bowiem czekam na ogłoszenie wyborów i pojawienie się nowych uchwał PKW. Pozostałe rozdziały zostały lub są na bieżąco aktualizowane.
 
 
 # I. Ustawy związane bezpośrednio z wyborami i referendami
@@ -81,7 +81,6 @@ wyborach wójtów, burmistrzów i prezydentów miast, w głosowaniu korespondenc
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 27 marca 2015 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w głosowaniu korespondencyjnym za granicą ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000328))  
 
-* 
 
 # IV. W zakresie wyborów samorządowych
 
@@ -150,8 +149,8 @@ wyborach wójtów, burmistrzów i prezydentów miast** ([M.P. 2014, poz. 903] (h
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 12 listopada 2014 r. w sprawie rozwiązania okręgowych i obwodowych komisji wyborczych powołanych w celu przeprowadzenia wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 7 września 2014 r. ([M.P. 2014, poz. 1116] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20140001116))
 
-1) uchwała Państwowej Komisji Wyborczej z dnia 27 czerwca 2011 r. w sprawie warunków i sposobu wykorzystania techniki elektronicznej oraz trybu przekazywania danych za pośrednictwem sieci elektronicznego przekazywania danych w wyborach
-do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M.P. Nr 63, poz. 601)),  
+1) **uchwała Państwowej Komisji Wyborczej z dnia 27 czerwca 2011 r. w sprawie warunków i sposobu wykorzystania techniki elektronicznej oraz trybu przekazywania danych za pośrednictwem sieci elektronicznego przekazywania danych w wyborach
+do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M.P. Nr 63, poz. 601)),**  
 
 2) uchwała Państwowej Komisji Wyborczej z dnia 23 maja 2011 r. w sprawie regulaminów okręgowych i obwodowych komisji wyborczych powołanych do przeprowadzenia wyborów do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M.P. Nr 44, poz. 478)),  
 
@@ -285,7 +284,7 @@ Parlamentu Europejskiego w 2014 r. ([M.P. 2014 poz. 178] (http://isap.sejm.gov.p
 * rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 kwietnia 2003 r. w sprawie sposobu zgłaszania kandydatów do obwodowych komisji do spraw referendum w referendum ogólnokrajowym oraz powoływania komisji ([Dz. U. Nr 74,
 poz. 671] (http://dziennikustaw.gov.pl/DU/2003/s/74/671) i [Nr 80, poz. 730] (http://dziennikustaw.gov.pl/DU/2003/s/80/730) oraz z [2011 r. Nr 17, poz. 86] (http://dziennikustaw.gov.pl/DU/2011/s/17/86)).  
 
-* Uchwała Państwowej Komisji Wyborczej z dnia 12 maja 2003 r. w sprawie określenia warunków oraz sposobu wykorzystania techniki elektronicznej w referendum ogólnokrajowym w sprawie wyrażenia zgody na ratyfikację Traktatu dotyczącego przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej, zarządzonym na dzień 8 czerwca 2003 r. ([M.P. 2003 nr 25 poz. 366] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20030250366))
+* **Uchwała Państwowej Komisji Wyborczej z dnia 12 maja 2003 r. w sprawie określenia warunków oraz sposobu wykorzystania techniki elektronicznej w referendum ogólnokrajowym w sprawie wyrażenia zgody na ratyfikację Traktatu dotyczącego przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej, zarządzonym na dzień 8 czerwca 2003 r. ([M.P. 2003 nr 25 poz. 366] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20030250366))**
 
 # IX. W zakresie referendów lokalnych
 
