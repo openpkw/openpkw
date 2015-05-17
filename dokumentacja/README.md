@@ -31,6 +31,7 @@ Katalog [**master\pliki klk**] (https://github.com/openpkw/openpkw/tree/master/p
   *  plik [klk-obd-lodz-2014.xml] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/klk-obd-lodz-2014.xml) - plik z wyborów do Parlamentu Unii Europejskiej 2014;  
   *  plik [klk-obd-wawa-2011.xml] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/klk-obd-wawa-2011.xml) - plik z wyborów parlamentarnych Sejm + Senat 2011;  
   *  plik [klk-obd-lodz-2010.xml] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/klk-obd-lodz-2010.xml) - plik z wyborów prezydenckich 2010;
+  *  plik [pollstations.csv] (https://raw.githubusercontent.com/openpkw/openpkw/master/pliki%20klk/pollstations.csv) - plik z danymi obwodów wyborczych - Prezydent 2015  
 
 # Zawartość katalogu:
 
