@@ -1,1 +1,272 @@
-{"kandydaci": [{"nazwisko": "Nazwisko00", "notActive": false, "id": 1, "imiona": "Imi\u011900"}, {"nazwisko": "Nazwisko01", "notActive": false, "id": 2, "imiona": "Imi\u011901"}, {"nazwisko": "Nazwisko02", "notActive": false, "id": 3, "imiona": "Imi\u011902"}, {"nazwisko": "Nazwisko03", "notActive": false, "id": 4, "imiona": "Imi\u011903"}, {"nazwisko": "Nazwisko04", "notActive": true, "id": 5, "imiona": "Imi\u011904"}, {"nazwisko": "Nazwisko05", "notActive": false, "id": 6, "imiona": "Imi\u011905"}, {"nazwisko": "Nazwisko06", "notActive": false, "id": 7, "imiona": "Imi\u011906"}, {"nazwisko": "Nazwisko07", "notActive": false, "id": 8, "imiona": "Imi\u011907"}, {"nazwisko": "Nazwisko08", "notActive": false, "id": 9, "imiona": "Imi\u011908"}, {"nazwisko": "Nazwisko09", "notActive": false, "id": 10, "imiona": "Imi\u011909"}, {"nazwisko": "Nazwisko10", "notActive": false, "id": 11, "imiona": "Imi\u011910"}, {"nazwisko": "Nazwisko11", "notActive": false, "id": 12, "imiona": "Imi\u011911"}, {"nazwisko": "Nazwisko12", "notActive": false, "id": 13, "imiona": "Imi\u011912"}, {"nazwisko": "Nazwisko13", "notActive": false, "id": 14, "imiona": "Imi\u011913"}, {"nazwisko": "Nazwisko14", "notActive": false, "id": 15, "imiona": "Imi\u011914"}, {"nazwisko": "Nazwisko15", "notActive": false, "id": 16, "imiona": "Imi\u011915"}, {"nazwisko": "Nazwisko16", "notActive": false, "id": 17, "imiona": "Imi\u011916"}, {"nazwisko": "Nazwisko17", "notActive": false, "id": 18, "imiona": "Imi\u011917"}, {"nazwisko": "Nazwisko18", "notActive": false, "id": 19, "imiona": "Imi\u011918"}, {"nazwisko": "Nazwisko19", "notActive": false, "id": 20, "imiona": "Imi\u011919"}], "komisje": [{"siedziba": "Szko\u0142a Podstawowa Nr 1 im. Miko\u0142aja Kopernika, ul. Grunwaldzka 1, 37-300 Le\u017cajsk", "nrObwodu": 1, "przewidywanyNakladKart": 1331, "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Miko\u0142aja Kopernika", "wojewodztwo": "podkarpackie", "typObwodu": "COMM", "glosowanieKorespondencyjne": false, "szacowanaLiczbaWyborcow": 1567, "obwodOdrebny": false, "kodGminy": "180801", "powiat": "le\u017cajski", "czlonkowie": [], "gmina": "m. Le\u017cajsk", "obwodStaly": true}, {"siedziba": "Szko\u0142a Podstawowa Nr 1 im. Miko\u0142aja Kopernika, ul. Grunwaldzka 1, 37-300 Le\u017cajsk", "nrObwodu": 2, "przewidywanyNakladKart": 1343, "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Miko\u0142aja Kopernika", "wojewodztwo": "podkarpackie", "typObwodu": "COMM", "glosowanieKorespondencyjne": false, "szacowanaLiczbaWyborcow": 1581, "obwodOdrebny": false, "kodGminy": "180801", "powiat": "le\u017cajski", "czlonkowie": [], "gmina": "m. Le\u017cajsk", "obwodStaly": true}, {"siedziba": "Szko\u0142a Podstawowa Nr 2 im W\u0142adys\u0142awa Broniewskiego, ul. Mickiewicza 51, 37-300 Le\u017cajsk", "nrObwodu": 3, "przewidywanyNakladKart": 1308, "nazwa": "Szko\u0142a Podstawowa Nr 2 im W\u0142adys\u0142awa Broniewskiego", "wojewodztwo": "podkarpackie", "typObwodu": "COMM", "glosowanieKorespondencyjne": false, "szacowanaLiczbaWyborcow": 1539, "obwodOdrebny": false, "kodGminy": "180801", "powiat": "le\u017cajski", "czlonkowie": [], "gmina": "m. Le\u017cajsk", "obwodStaly": true}, {"siedziba": "Miejskie Centrum Kultury, ul. Mickiewicza 61, 37-300 Le\u017cajsk", "nrObwodu": 4, "przewidywanyNakladKart": 1259, "nazwa": "Miejskie Centrum Kultury", "wojewodztwo": "podkarpackie", "typObwodu": "COMM", "glosowanieKorespondencyjne": false, "szacowanaLiczbaWyborcow": 1482, "obwodOdrebny": false, "kodGminy": "180801", "powiat": "le\u017cajski", "czlonkowie": [], "gmina": "m. Le\u017cajsk", "obwodStaly": true}, {"siedziba": "Gimnazjum Miejskie im. W\u0142adys\u0142awa Jagie\u0142\u0142y, ul. Sk\u0142odowskiej 8, 37-300 Le\u017cajsk", "nrObwodu": 5, "przewidywanyNakladKart": 1225, "nazwa": "Gimnazjum Miejskie im. W\u0142adys\u0142awa Jagie\u0142\u0142y", "wojewodztwo": "podkarpackie", "typObwodu": "COMM", "glosowanieKorespondencyjne": false, "szacowanaLiczbaWyborcow": 1442, "obwodOdrebny": false, "kodGminy": "180801", "powiat": "le\u017cajski", "czlonkowie": [], "gmina": "m. Le\u017cajsk", "obwodStaly": true}, {"siedziba": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Technicznych im. Tadeusza Ko\u015bciuszki, ul. Mickiewicza 67, 37-300 Le\u017cajsk", "nrObwodu": 6, "przewidywanyNakladKart": 1417, "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Technicznych im. Tadeusza Ko\u015bciuszki", "wojewodztwo": "podkarpackie", "typObwodu": "COMM", "glosowanieKorespondencyjne": true, "szacowanaLiczbaWyborcow": 1668, "obwodOdrebny": false, "kodGminy": "180801", "powiat": "le\u017cajski", "czlonkowie": [], "gmina": "m. Le\u017cajsk", "obwodStaly": true}, {"siedziba": "Szko\u0142a Podstawowa Nr 3 im. Stefana Wyszy\u0144skiego, ul. 11-Listopada 8, 37-300 Le\u017cajsk", "nrObwodu": 7, "przewidywanyNakladKart": 1398, "nazwa": "Szko\u0142a Podstawowa Nr 3 im. Stefana Wyszy\u0144skiego", "wojewodztwo": "podkarpackie", "typObwodu": "COMM", "glosowanieKorespondencyjne": true, "szacowanaLiczbaWyborcow": 1645, "obwodOdrebny": false, "kodGminy": "180801", "powiat": "le\u017cajski", "czlonkowie": [], "gmina": "m. Le\u017cajsk", "obwodStaly": true}, {"siedziba": "Szko\u0142a Podstawowa Nr 3 im. Stefana Wyszy\u0144skiego, ul. 11-go Listopada 8, 37-300 Le\u017cajsk", "nrObwodu": 8, "przewidywanyNakladKart": 763, "nazwa": "Szko\u0142a Podstawowa Nr 3 im. Stefana Wyszy\u0144skiego", "wojewodztwo": "podkarpackie", "typObwodu": "COMM", "glosowanieKorespondencyjne": true, "szacowanaLiczbaWyborcow": 898, "obwodOdrebny": false, "kodGminy": "180801", "powiat": "le\u017cajski", "czlonkowie": [], "gmina": "m. Le\u017cajsk", "obwodStaly": true}, {"siedziba": "Szpital Powiatowy w Le\u017cajsku, Le\u015bna 22, 37-300 Le\u017cajsk", "nrObwodu": 9, "przewidywanyNakladKart": 300, "nazwa": "Szpital Powiatowy w Le\u017cajsku", "wojewodztwo": "podkarpackie", "typObwodu": "HOSP", "glosowanieKorespondencyjne": false, "szacowanaLiczbaWyborcow": 300, "obwodOdrebny": true, "kodGminy": "180801", "powiat": "le\u017cajski", "czlonkowie": [], "gmina": "m. Le\u017cajsk", "obwodStaly": false}], "tura": 1, "data": "2015-05-10"}
+{
+  "kandydaci": [
+    {
+      "nazwisko": "Nazwisko00",
+      "notActive": false,
+      "id": 1,
+      "imiona": "Imię00"
+    },
+    {
+      "nazwisko": "Nazwisko01",
+      "notActive": false,
+      "id": 2,
+      "imiona": "Imię01"
+    },
+    {
+      "nazwisko": "Nazwisko02",
+      "notActive": false,
+      "id": 3,
+      "imiona": "Imię02"
+    },
+    {
+      "nazwisko": "Nazwisko03",
+      "notActive": false,
+      "id": 4,
+      "imiona": "Imię03"
+    },
+    {
+      "nazwisko": "Nazwisko04",
+      "notActive": true,
+      "id": 5,
+      "imiona": "Imię04"
+    },
+    {
+      "nazwisko": "Nazwisko05",
+      "notActive": false,
+      "id": 6,
+      "imiona": "Imię05"
+    },
+    {
+      "nazwisko": "Nazwisko06",
+      "notActive": false,
+      "id": 7,
+      "imiona": "Imię06"
+    },
+    {
+      "nazwisko": "Nazwisko07",
+      "notActive": false,
+      "id": 8,
+      "imiona": "Imię07"
+    },
+    {
+      "nazwisko": "Nazwisko08",
+      "notActive": false,
+      "id": 9,
+      "imiona": "Imię08"
+    },
+    {
+      "nazwisko": "Nazwisko09",
+      "notActive": false,
+      "id": 10,
+      "imiona": "Imię09"
+    },
+    {
+      "nazwisko": "Nazwisko10",
+      "notActive": false,
+      "id": 11,
+      "imiona": "Imię10"
+    },
+    {
+      "nazwisko": "Nazwisko11",
+      "notActive": false,
+      "id": 12,
+      "imiona": "Imię11"
+    },
+    {
+      "nazwisko": "Nazwisko12",
+      "notActive": false,
+      "id": 13,
+      "imiona": "Imię12"
+    },
+    {
+      "nazwisko": "Nazwisko13",
+      "notActive": false,
+      "id": 14,
+      "imiona": "Imię13"
+    },
+    {
+      "nazwisko": "Nazwisko14",
+      "notActive": false,
+      "id": 15,
+      "imiona": "Imię14"
+    },
+    {
+      "nazwisko": "Nazwisko15",
+      "notActive": false,
+      "id": 16,
+      "imiona": "Imię15"
+    },
+    {
+      "nazwisko": "Nazwisko16",
+      "notActive": false,
+      "id": 17,
+      "imiona": "Imię16"
+    },
+    {
+      "nazwisko": "Nazwisko17",
+      "notActive": false,
+      "id": 18,
+      "imiona": "Imię17"
+    },
+    {
+      "nazwisko": "Nazwisko18",
+      "notActive": false,
+      "id": 19,
+      "imiona": "Imię18"
+    },
+    {
+      "nazwisko": "Nazwisko19",
+      "notActive": false,
+      "id": 20,
+      "imiona": "Imię19"
+    }
+  ],
+  "komisje": [
+    {
+      "siedziba": "Szkoła Podstawowa Nr 1 im. Mikołaja Kopernika, ul. Grunwaldzka 1, 37-300 Leżajsk",
+      "nrObwodu": 1,
+      "przewidywanyNakladKart": 1331,
+      "nazwa": "Szkoła Podstawowa Nr 1 im. Mikołaja Kopernika",
+      "wojewodztwo": "podkarpackie",
+      "typObwodu": "COMM",
+      "glosowanieKorespondencyjne": false,
+      "szacowanaLiczbaWyborcow": 1567,
+      "obwodOdrebny": false,
+      "kodGminy": "180801",
+      "powiat": "leżajski",
+      "czlonkowie": [],
+      "gmina": "m. Leżajsk",
+      "obwodStaly": true
+    },
+    {
+      "siedziba": "Szkoła Podstawowa Nr 1 im. Mikołaja Kopernika, ul. Grunwaldzka 1, 37-300 Leżajsk",
+      "nrObwodu": 2,
+      "przewidywanyNakladKart": 1343,
+      "nazwa": "Szkoła Podstawowa Nr 1 im. Mikołaja Kopernika",
+      "wojewodztwo": "podkarpackie",
+      "typObwodu": "COMM",
+      "glosowanieKorespondencyjne": false,
+      "szacowanaLiczbaWyborcow": 1581,
+      "obwodOdrebny": false,
+      "kodGminy": "180801",
+      "powiat": "leżajski",
+      "czlonkowie": [],
+      "gmina": "m. Leżajsk",
+      "obwodStaly": true
+    },
+    {
+      "siedziba": "Szkoła Podstawowa Nr 2 im Władysława Broniewskiego, ul. Mickiewicza 51, 37-300 Leżajsk",
+      "nrObwodu": 3,
+      "przewidywanyNakladKart": 1308,
+      "nazwa": "Szkoła Podstawowa Nr 2 im Władysława Broniewskiego",
+      "wojewodztwo": "podkarpackie",
+      "typObwodu": "COMM",
+      "glosowanieKorespondencyjne": false,
+      "szacowanaLiczbaWyborcow": 1539,
+      "obwodOdrebny": false,
+      "kodGminy": "180801",
+      "powiat": "leżajski",
+      "czlonkowie": [],
+      "gmina": "m. Leżajsk",
+      "obwodStaly": true
+    },
+    {
+      "siedziba": "Miejskie Centrum Kultury, ul. Mickiewicza 61, 37-300 Leżajsk",
+      "nrObwodu": 4,
+      "przewidywanyNakladKart": 1259,
+      "nazwa": "Miejskie Centrum Kultury",
+      "wojewodztwo": "podkarpackie",
+      "typObwodu": "COMM",
+      "glosowanieKorespondencyjne": false,
+      "szacowanaLiczbaWyborcow": 1482,
+      "obwodOdrebny": false,
+      "kodGminy": "180801",
+      "powiat": "leżajski",
+      "czlonkowie": [],
+      "gmina": "m. Leżajsk",
+      "obwodStaly": true
+    },
+    {
+      "siedziba": "Gimnazjum Miejskie im. Władysława Jagiełły, ul. Skłodowskiej 8, 37-300 Leżajsk",
+      "nrObwodu": 5,
+      "przewidywanyNakladKart": 1225,
+      "nazwa": "Gimnazjum Miejskie im. Władysława Jagiełły",
+      "wojewodztwo": "podkarpackie",
+      "typObwodu": "COMM",
+      "glosowanieKorespondencyjne": false,
+      "szacowanaLiczbaWyborcow": 1442,
+      "obwodOdrebny": false,
+      "kodGminy": "180801",
+      "powiat": "leżajski",
+      "czlonkowie": [],
+      "gmina": "m. Leżajsk",
+      "obwodStaly": true
+    },
+    {
+      "siedziba": "Zespół Szkół Technicznych im. Tadeusza Kościuszki, ul. Mickiewicza 67, 37-300 Leżajsk",
+      "nrObwodu": 6,
+      "przewidywanyNakladKart": 1417,
+      "nazwa": "Zespół Szkół Technicznych im. Tadeusza Kościuszki",
+      "wojewodztwo": "podkarpackie",
+      "typObwodu": "COMM",
+      "glosowanieKorespondencyjne": true,
+      "szacowanaLiczbaWyborcow": 1668,
+      "obwodOdrebny": false,
+      "kodGminy": "180801",
+      "powiat": "leżajski",
+      "czlonkowie": [],
+      "gmina": "m. Leżajsk",
+      "obwodStaly": true
+    },
+    {
+      "siedziba": "Szkoła Podstawowa Nr 3 im. Stefana Wyszyńskiego, ul. 11-Listopada 8, 37-300 Leżajsk",
+      "nrObwodu": 7,
+      "przewidywanyNakladKart": 1398,
+      "nazwa": "Szkoła Podstawowa Nr 3 im. Stefana Wyszyńskiego",
+      "wojewodztwo": "podkarpackie",
+      "typObwodu": "COMM",
+      "glosowanieKorespondencyjne": true,
+      "szacowanaLiczbaWyborcow": 1645,
+      "obwodOdrebny": false,
+      "kodGminy": "180801",
+      "powiat": "leżajski",
+      "czlonkowie": [],
+      "gmina": "m. Leżajsk",
+      "obwodStaly": true
+    },
+    {
+      "siedziba": "Szkoła Podstawowa Nr 3 im. Stefana Wyszyńskiego, ul. 11-go Listopada 8, 37-300 Leżajsk",
+      "nrObwodu": 8,
+      "przewidywanyNakladKart": 763,
+      "nazwa": "Szkoła Podstawowa Nr 3 im. Stefana Wyszyńskiego",
+      "wojewodztwo": "podkarpackie",
+      "typObwodu": "COMM",
+      "glosowanieKorespondencyjne": true,
+      "szacowanaLiczbaWyborcow": 898,
+      "obwodOdrebny": false,
+      "kodGminy": "180801",
+      "powiat": "leżajski",
+      "czlonkowie": [],
+      "gmina": "m. Leżajsk",
+      "obwodStaly": true
+    },
+    {
+      "siedziba": "Szpital Powiatowy w Leżajsku, Leśna 22, 37-300 Leżajsk",
+      "nrObwodu": 9,
+      "przewidywanyNakladKart": 300,
+      "nazwa": "Szpital Powiatowy w Leżajsku",
+      "wojewodztwo": "podkarpackie",
+      "typObwodu": "HOSP",
+      "glosowanieKorespondencyjne": false,
+      "szacowanaLiczbaWyborcow": 300,
+      "obwodOdrebny": true,
+      "kodGminy": "180801",
+      "powiat": "leżajski",
+      "czlonkowie": [],
+      "gmina": "m. Leżajsk",
+      "obwodStaly": false
+    }
+  ],
+  "tura": 1,
+  "data": "2015-05-10"
+}
