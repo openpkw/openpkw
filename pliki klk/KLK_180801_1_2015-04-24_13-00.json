@@ -1,272 +1,353 @@
 {
-  "kandydaci": [
-    {
-      "nazwisko": "Nazwisko00",
-      "notActive": false,
-      "id": 1,
-      "imiona": "Imię00"
-    },
-    {
-      "nazwisko": "Nazwisko01",
-      "notActive": false,
-      "id": 2,
-      "imiona": "Imię01"
-    },
-    {
-      "nazwisko": "Nazwisko02",
-      "notActive": false,
-      "id": 3,
-      "imiona": "Imię02"
-    },
-    {
-      "nazwisko": "Nazwisko03",
-      "notActive": false,
-      "id": 4,
-      "imiona": "Imię03"
-    },
-    {
-      "nazwisko": "Nazwisko04",
-      "notActive": true,
-      "id": 5,
-      "imiona": "Imię04"
-    },
-    {
-      "nazwisko": "Nazwisko05",
-      "notActive": false,
-      "id": 6,
-      "imiona": "Imię05"
-    },
-    {
-      "nazwisko": "Nazwisko06",
-      "notActive": false,
-      "id": 7,
-      "imiona": "Imię06"
-    },
-    {
-      "nazwisko": "Nazwisko07",
-      "notActive": false,
-      "id": 8,
-      "imiona": "Imię07"
-    },
-    {
-      "nazwisko": "Nazwisko08",
-      "notActive": false,
-      "id": 9,
-      "imiona": "Imię08"
-    },
-    {
-      "nazwisko": "Nazwisko09",
-      "notActive": false,
-      "id": 10,
-      "imiona": "Imię09"
-    },
-    {
-      "nazwisko": "Nazwisko10",
-      "notActive": false,
-      "id": 11,
-      "imiona": "Imię10"
-    },
-    {
-      "nazwisko": "Nazwisko11",
-      "notActive": false,
-      "id": 12,
-      "imiona": "Imię11"
-    },
-    {
-      "nazwisko": "Nazwisko12",
-      "notActive": false,
-      "id": 13,
-      "imiona": "Imię12"
-    },
-    {
-      "nazwisko": "Nazwisko13",
-      "notActive": false,
-      "id": 14,
-      "imiona": "Imię13"
-    },
-    {
-      "nazwisko": "Nazwisko14",
-      "notActive": false,
-      "id": 15,
-      "imiona": "Imię14"
-    },
-    {
-      "nazwisko": "Nazwisko15",
-      "notActive": false,
-      "id": 16,
-      "imiona": "Imię15"
-    },
-    {
-      "nazwisko": "Nazwisko16",
-      "notActive": false,
-      "id": 17,
-      "imiona": "Imię16"
-    },
-    {
-      "nazwisko": "Nazwisko17",
-      "notActive": false,
-      "id": 18,
-      "imiona": "Imię17"
-    },
-    {
-      "nazwisko": "Nazwisko18",
-      "notActive": false,
-      "id": 19,
-      "imiona": "Imię18"
-    },
-    {
-      "nazwisko": "Nazwisko19",
-      "notActive": false,
-      "id": 20,
-      "imiona": "Imię19"
-    }
-  ],
   "komisje": [
     {
+      "kodGminy": "180801",
+      "przewidywanyNakladKart": 1295,
+      "obwodOdrebny": false,
       "siedziba": "Szkoła Podstawowa Nr 1 im. Mikołaja Kopernika, ul. Grunwaldzka 1, 37-300 Leżajsk",
+      "typObwodu": "COMM",
+      "obwodStaly": true,
+      "nazwa": "Szkoła Podstawowa Nr 1 im. Mikołaja Kopernika",
+      "powiat": "leżajski",
       "nrObwodu": 1,
-      "przewidywanyNakladKart": 1331,
-      "nazwa": "Szkoła Podstawowa Nr 1 im. Mikołaja Kopernika",
-      "wojewodztwo": "podkarpackie",
-      "typObwodu": "COMM",
-      "glosowanieKorespondencyjne": false,
-      "szacowanaLiczbaWyborcow": 1567,
-      "obwodOdrebny": false,
-      "kodGminy": "180801",
-      "powiat": "leżajski",
-      "czlonkowie": [],
       "gmina": "m. Leżajsk",
-      "obwodStaly": true
+      "szacowanaLiczbaWyborcow": 1524,
+      "wojewodztwo": "podkarpackie",
+      "czlonkowie": [
+        {
+          "imie2": "Władysław",
+          "sign": false,
+          "imie1": "Jan",
+          "funkcja": "Zastępca Przewodniczącego",
+          "nazwisko": "Pluszkiewicz"
+        },
+        {
+          "imie2": "Anna",
+          "sign": false,
+          "imie1": "Alicja ",
+          "funkcja": "Przewodniczący",
+          "nazwisko": "Wnęk"
+        }
+      ],
+      "glosowanieKorespondencyjne": false
     },
     {
-      "siedziba": "Szkoła Podstawowa Nr 1 im. Mikołaja Kopernika, ul. Grunwaldzka 1, 37-300 Leżajsk",
-      "nrObwodu": 2,
-      "przewidywanyNakladKart": 1343,
-      "nazwa": "Szkoła Podstawowa Nr 1 im. Mikołaja Kopernika",
-      "wojewodztwo": "podkarpackie",
-      "typObwodu": "COMM",
-      "glosowanieKorespondencyjne": false,
-      "szacowanaLiczbaWyborcow": 1581,
-      "obwodOdrebny": false,
       "kodGminy": "180801",
-      "powiat": "leżajski",
-      "czlonkowie": [],
-      "gmina": "m. Leżajsk",
-      "obwodStaly": true
-    },
-    {
-      "siedziba": "Szkoła Podstawowa Nr 2 im Władysława Broniewskiego, ul. Mickiewicza 51, 37-300 Leżajsk",
-      "nrObwodu": 3,
       "przewidywanyNakladKart": 1308,
-      "nazwa": "Szkoła Podstawowa Nr 2 im Władysława Broniewskiego",
-      "wojewodztwo": "podkarpackie",
+      "obwodOdrebny": false,
+      "siedziba": "Szkoła Podstawowa Nr 1 im. Mikołaja Kopernika, ul. Grunwaldzka 1, 37-300 Leżajsk",
       "typObwodu": "COMM",
-      "glosowanieKorespondencyjne": false,
+      "obwodStaly": true,
+      "nazwa": "Szkoła Podstawowa Nr 1 im. Mikołaja Kopernika",
+      "powiat": "leżajski",
+      "nrObwodu": 2,
+      "gmina": "m. Leżajsk",
       "szacowanaLiczbaWyborcow": 1539,
-      "obwodOdrebny": false,
-      "kodGminy": "180801",
-      "powiat": "leżajski",
-      "czlonkowie": [],
-      "gmina": "m. Leżajsk",
-      "obwodStaly": true
+      "wojewodztwo": "podkarpackie",
+      "czlonkowie": [
+        {
+          "imie2": "Jan",
+          "sign": false,
+          "imie1": "Krzysztof",
+          "funkcja": "Przewodniczący",
+          "nazwisko": "Dziuba"
+        },
+        {
+          "imie2": "Szczepan",
+          "sign": false,
+          "imie1": "Jan",
+          "funkcja": "Zastępca Przewodniczącego",
+          "nazwisko": "Rębacz"
+        }
+      ],
+      "glosowanieKorespondencyjne": false
     },
     {
+      "kodGminy": "180801",
+      "przewidywanyNakladKart": 1258,
+      "obwodOdrebny": false,
+      "siedziba": "Szkoła Podstawowa Nr 2 im Władysława Broniewskiego, ul. Mickiewicza 51, 37-300 Leżajsk",
+      "typObwodu": "COMM",
+      "obwodStaly": true,
+      "nazwa": "Szkoła Podstawowa Nr 2 im Władysława Broniewskiego",
+      "powiat": "leżajski",
+      "nrObwodu": 3,
+      "gmina": "m. Leżajsk",
+      "szacowanaLiczbaWyborcow": 1480,
+      "wojewodztwo": "podkarpackie",
+      "czlonkowie": [
+        {
+          "imie2": "",
+          "sign": false,
+          "imie1": "Grażyna",
+          "funkcja": "Zastępca Przewodniczącego",
+          "nazwisko": "Buszta"
+        },
+        {
+          "imie2": "Mateusz",
+          "sign": false,
+          "imie1": "Grzegorz",
+          "funkcja": "Przewodniczący",
+          "nazwisko": "Józefko"
+        }
+      ],
+      "glosowanieKorespondencyjne": false
+    },
+    {
+      "kodGminy": "180801",
+      "przewidywanyNakladKart": 1229,
+      "obwodOdrebny": false,
       "siedziba": "Miejskie Centrum Kultury, ul. Mickiewicza 61, 37-300 Leżajsk",
-      "nrObwodu": 4,
-      "przewidywanyNakladKart": 1259,
+      "typObwodu": "COMM",
+      "obwodStaly": true,
       "nazwa": "Miejskie Centrum Kultury",
-      "wojewodztwo": "podkarpackie",
-      "typObwodu": "COMM",
-      "glosowanieKorespondencyjne": false,
-      "szacowanaLiczbaWyborcow": 1482,
-      "obwodOdrebny": false,
-      "kodGminy": "180801",
       "powiat": "leżajski",
-      "czlonkowie": [],
+      "nrObwodu": 4,
       "gmina": "m. Leżajsk",
-      "obwodStaly": true
+      "szacowanaLiczbaWyborcow": 1447,
+      "wojewodztwo": "podkarpackie",
+      "czlonkowie": [
+        {
+          "imie2": "",
+          "sign": false,
+          "imie1": "Dariusz",
+          "funkcja": "Zastępca Przewodniczącego",
+          "nazwisko": "Bauer"
+        },
+        {
+          "imie2": "Anna",
+          "sign": false,
+          "imie1": "Agnieszka",
+          "funkcja": "Przewodniczący",
+          "nazwisko": "Bzdoń"
+        }
+      ],
+      "glosowanieKorespondencyjne": false
     },
     {
+      "kodGminy": "180801",
+      "przewidywanyNakladKart": 1197,
+      "obwodOdrebny": false,
       "siedziba": "Gimnazjum Miejskie im. Władysława Jagiełły, ul. Skłodowskiej 8, 37-300 Leżajsk",
-      "nrObwodu": 5,
-      "przewidywanyNakladKart": 1225,
+      "typObwodu": "COMM",
+      "obwodStaly": true,
       "nazwa": "Gimnazjum Miejskie im. Władysława Jagiełły",
-      "wojewodztwo": "podkarpackie",
-      "typObwodu": "COMM",
-      "glosowanieKorespondencyjne": false,
-      "szacowanaLiczbaWyborcow": 1442,
-      "obwodOdrebny": false,
-      "kodGminy": "180801",
       "powiat": "leżajski",
-      "czlonkowie": [],
+      "nrObwodu": 5,
       "gmina": "m. Leżajsk",
-      "obwodStaly": true
+      "szacowanaLiczbaWyborcow": 1409,
+      "wojewodztwo": "podkarpackie",
+      "czlonkowie": [
+        {
+          "imie2": "",
+          "sign": false,
+          "imie1": "Przemysław",
+          "funkcja": "Przewodniczący",
+          "nazwisko": "Jodkowski"
+        },
+        {
+          "imie2": "",
+          "sign": false,
+          "imie1": "Teresa Sabina",
+          "funkcja": "Zastępca Przewodniczącego",
+          "nazwisko": "Mazur Bojanowska"
+        }
+      ],
+      "glosowanieKorespondencyjne": false
     },
     {
+      "kodGminy": "180801",
+      "przewidywanyNakladKart": 1379,
+      "obwodOdrebny": false,
       "siedziba": "Zespół Szkół Technicznych im. Tadeusza Kościuszki, ul. Mickiewicza 67, 37-300 Leżajsk",
-      "nrObwodu": 6,
-      "przewidywanyNakladKart": 1417,
+      "typObwodu": "COMM",
+      "obwodStaly": true,
       "nazwa": "Zespół Szkół Technicznych im. Tadeusza Kościuszki",
-      "wojewodztwo": "podkarpackie",
-      "typObwodu": "COMM",
-      "glosowanieKorespondencyjne": true,
-      "szacowanaLiczbaWyborcow": 1668,
-      "obwodOdrebny": false,
-      "kodGminy": "180801",
       "powiat": "leżajski",
-      "czlonkowie": [],
+      "nrObwodu": 6,
       "gmina": "m. Leżajsk",
-      "obwodStaly": true
+      "szacowanaLiczbaWyborcow": 1623,
+      "wojewodztwo": "podkarpackie",
+      "czlonkowie": [
+        {
+          "imie2": "",
+          "sign": false,
+          "imie1": "Bogusław",
+          "funkcja": "Przewodniczący",
+          "nazwisko": "Majcher"
+        },
+        {
+          "imie2": "",
+          "sign": false,
+          "imie1": "Katarzyna",
+          "funkcja": "Zastępca Przewodniczącego",
+          "nazwisko": "Prokop-Rogoń"
+        }
+      ],
+      "glosowanieKorespondencyjne": true
     },
     {
+      "kodGminy": "180801",
+      "przewidywanyNakladKart": 1360,
+      "obwodOdrebny": false,
       "siedziba": "Szkoła Podstawowa Nr 3 im. Stefana Wyszyńskiego, ul. 11-Listopada 8, 37-300 Leżajsk",
+      "typObwodu": "COMM",
+      "obwodStaly": true,
+      "nazwa": "Szkoła Podstawowa Nr 3 im. Stefana Wyszyńskiego",
+      "powiat": "leżajski",
       "nrObwodu": 7,
-      "przewidywanyNakladKart": 1398,
-      "nazwa": "Szkoła Podstawowa Nr 3 im. Stefana Wyszyńskiego",
-      "wojewodztwo": "podkarpackie",
-      "typObwodu": "COMM",
-      "glosowanieKorespondencyjne": true,
-      "szacowanaLiczbaWyborcow": 1645,
-      "obwodOdrebny": false,
-      "kodGminy": "180801",
-      "powiat": "leżajski",
-      "czlonkowie": [],
       "gmina": "m. Leżajsk",
-      "obwodStaly": true
+      "szacowanaLiczbaWyborcow": 1600,
+      "wojewodztwo": "podkarpackie",
+      "czlonkowie": [
+        {
+          "imie2": " Wiesław",
+          "sign": false,
+          "imie1": "Stanisław",
+          "funkcja": "Przewodniczący",
+          "nazwisko": "Majcher"
+        },
+        {
+          "imie2": "Magdalena",
+          "sign": false,
+          "imie1": "Agnieszka ",
+          "funkcja": "Zastępca Przewodniczącego",
+          "nazwisko": "Sroka"
+        }
+      ],
+      "glosowanieKorespondencyjne": true
     },
     {
+      "kodGminy": "180801",
+      "przewidywanyNakladKart": 742,
+      "obwodOdrebny": false,
       "siedziba": "Szkoła Podstawowa Nr 3 im. Stefana Wyszyńskiego, ul. 11-go Listopada 8, 37-300 Leżajsk",
-      "nrObwodu": 8,
-      "przewidywanyNakladKart": 763,
-      "nazwa": "Szkoła Podstawowa Nr 3 im. Stefana Wyszyńskiego",
-      "wojewodztwo": "podkarpackie",
       "typObwodu": "COMM",
-      "glosowanieKorespondencyjne": true,
-      "szacowanaLiczbaWyborcow": 898,
-      "obwodOdrebny": false,
-      "kodGminy": "180801",
+      "obwodStaly": true,
+      "nazwa": "Szkoła Podstawowa Nr 3 im. Stefana Wyszyńskiego",
       "powiat": "leżajski",
-      "czlonkowie": [],
+      "nrObwodu": 8,
       "gmina": "m. Leżajsk",
-      "obwodStaly": true
+      "szacowanaLiczbaWyborcow": 874,
+      "wojewodztwo": "podkarpackie",
+      "czlonkowie": [
+        {
+          "imie2": "",
+          "sign": false,
+          "imie1": "Waldemar",
+          "funkcja": "Przewodniczący",
+          "nazwisko": "Golik"
+        },
+        {
+          "imie2": "Elżbieta",
+          "sign": false,
+          "imie1": "Urszula",
+          "funkcja": "Zastępca Przewodniczącego",
+          "nazwisko": "Turczyn"
+        }
+      ],
+      "glosowanieKorespondencyjne": true
     },
     {
-      "siedziba": "Szpital Powiatowy w Leżajsku, Leśna 22, 37-300 Leżajsk",
-      "nrObwodu": 9,
-      "przewidywanyNakladKart": 300,
-      "nazwa": "Szpital Powiatowy w Leżajsku",
-      "wojewodztwo": "podkarpackie",
-      "typObwodu": "HOSP",
-      "glosowanieKorespondencyjne": false,
-      "szacowanaLiczbaWyborcow": 300,
-      "obwodOdrebny": true,
       "kodGminy": "180801",
+      "przewidywanyNakladKart": 176,
+      "obwodOdrebny": true,
+      "siedziba": "Szpital Powiatowy w Leżajsku, Leśna 22, 37-300 Leżajsk",
+      "typObwodu": "HOSP",
+      "obwodStaly": false,
+      "nazwa": "Szpital Powiatowy w Leżajsku",
       "powiat": "leżajski",
-      "czlonkowie": [],
+      "nrObwodu": 9,
       "gmina": "m. Leżajsk",
-      "obwodStaly": false
+      "szacowanaLiczbaWyborcow": 176,
+      "wojewodztwo": "podkarpackie",
+      "czlonkowie": [
+        {
+          "imie2": "",
+          "sign": false,
+          "imie1": "Marian",
+          "funkcja": "Przewodniczący",
+          "nazwisko": "Duda"
+        },
+        {
+          "imie2": "Andrzej",
+          "sign": false,
+          "imie1": "Tomasz",
+          "funkcja": "Zastępca Przewodniczącego",
+          "nazwisko": "Bastrzyk"
+        }
+      ],
+      "glosowanieKorespondencyjne": false
     }
   ],
   "tura": 1,
+  "kandydaci": [
+    {
+      "imiona": "Grzegorz Michał",
+      "notActive": false,
+      "id": 1,
+      "nazwisko": "Braun"
+    },
+    {
+      "imiona": "Andrzej Sebastian",
+      "notActive": false,
+      "id": 2,
+      "nazwisko": "Duda"
+    },
+    {
+      "imiona": "Adam Sebastian",
+      "notActive": false,
+      "id": 3,
+      "nazwisko": "Jarubas"
+    },
+    {
+      "imiona": "Bronisław Maria",
+      "notActive": false,
+      "id": 4,
+      "nazwisko": "Komorowski"
+    },
+    {
+      "imiona": "Janusz Ryszard",
+      "notActive": false,
+      "id": 5,
+      "nazwisko": "Korwin-Mikke"
+    },
+    {
+      "imiona": "Marian Janusz",
+      "notActive": false,
+      "id": 6,
+      "nazwisko": "Kowalski"
+    },
+    {
+      "imiona": "Paweł Piotr",
+      "notActive": false,
+      "id": 7,
+      "nazwisko": "Kukiz"
+    },
+    {
+      "imiona": "Magdalena Agnieszka",
+      "notActive": false,
+      "id": 8,
+      "nazwisko": "Ogórek"
+    },
+    {
+      "imiona": "Janusz Marian",
+      "notActive": false,
+      "id": 9,
+      "nazwisko": "Palikot"
+    },
+    {
+      "imiona": "Paweł Jan",
+      "notActive": false,
+      "id": 10,
+      "nazwisko": "Tanajno"
+    },
+    {
+      "imiona": "Jacek",
+      "notActive": false,
+      "id": 11,
+      "nazwisko": "Wilk"
+    }
+  ],
   "data": "2015-05-10"
 }
