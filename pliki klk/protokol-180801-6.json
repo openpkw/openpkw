@@ -1,0 +1,192 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "imiona": "Grzegorz Michał",
+      "nazwisko": "Braun",
+      "notActive": false,
+      "validVotes": 12
+    },
+    {
+      "id": 2,
+      "imiona": "Andrzej Sebastian",
+      "nazwisko": "Duda",
+      "notActive": false,
+      "validVotes": 390
+    },
+    {
+      "id": 3,
+      "imiona": "Adam Sebastian",
+      "nazwisko": "Jarubas",
+      "notActive": false,
+      "validVotes": 7
+    },
+    {
+      "id": 4,
+      "imiona": "Bronisław Maria",
+      "nazwisko": "Komorowski",
+      "notActive": false,
+      "validVotes": 171
+    },
+    {
+      "id": 5,
+      "imiona": "Janusz Ryszard",
+      "nazwisko": "Korwin-Mikke",
+      "notActive": false,
+      "validVotes": 36
+    },
+    {
+      "id": 6,
+      "imiona": "Marian Janusz",
+      "nazwisko": "Kowalski",
+      "notActive": false,
+      "validVotes": 3
+    },
+    {
+      "id": 7,
+      "imiona": "Paweł Piotr",
+      "nazwisko": "Kukiz",
+      "notActive": false,
+      "validVotes": 165
+    },
+    {
+      "id": 8,
+      "imiona": "Magdalena Agnieszka",
+      "nazwisko": "Ogórek",
+      "notActive": false,
+      "validVotes": 19
+    },
+    {
+      "id": 9,
+      "imiona": "Janusz Marian",
+      "nazwisko": "Palikot",
+      "notActive": false,
+      "validVotes": 7
+    },
+    {
+      "id": 10,
+      "imiona": "Paweł Jan",
+      "nazwisko": "Tanajno",
+      "notActive": false,
+      "validVotes": 1
+    },
+    {
+      "id": 11,
+      "imiona": "Jacek",
+      "nazwisko": "Wilk",
+      "notActive": false,
+      "validVotes": 3
+    }
+  ],
+  "commission": {
+    "czlonkowie": [
+      {
+        "funkcja": "Przewodniczący",
+        "imie1": "Bogusław",
+        "imie2": "",
+        "nazwisko": "Mxxxxxxx",
+        "sign": true
+      },
+      {
+        "funkcja": "Zastępca Przewodniczącego",
+        "imie1": "Katarzyna",
+        "imie2": "",
+        "nazwisko": "Pxxxxx-Rxxxxx",
+        "sign": true
+      },
+      {
+        "funkcja": "Członek",
+        "imie1": "Stefania",
+        "imie2": "",
+        "nazwisko": "Bxxxxx",
+        "sign": true
+      },
+      {
+        "funkcja": "Członek",
+        "imie1": "Łukasz",
+        "imie2": "Piotr",
+        "nazwisko": "Dxx",
+        "sign": true
+      },
+      {
+        "funkcja": "Członek",
+        "imie1": "Dorota",
+        "imie2": "Agata",
+        "nazwisko": "Mxxxxxx",
+        "sign": true
+      },
+      {
+        "funkcja": "Członek",
+        "imie1": "Magdalena",
+        "imie2": "Barbara",
+        "nazwisko": "Mxxxxxxxx",
+        "sign": true
+      },
+      {
+        "funkcja": "Członek",
+        "imie1": "Janusz",
+        "imie2": "Stanisław",
+        "nazwisko": "Pxxxxxxx",
+        "sign": true
+      },
+      {
+        "funkcja": "Członek",
+        "imie1": "Karol",
+        "imie2": "",
+        "nazwisko": "Rxxxxxxx",
+        "sign": true
+      },
+      {
+        "funkcja": "Członek",
+        "imie1": "Magdalena",
+        "imie2": "",
+        "nazwisko": "Wxxxxxx",
+        "sign": true
+      }
+    ],
+    "kodGminy": "180801",
+    "nrObwodu": 6,
+    "siedziba": "Zespół Szkół Technicznych im. Tadeusza Kościuszki, ul. Mickiewicza 67, 37-300 Leżajsk"
+  },
+  "filledData": {
+    "lGlosowNiewaznych": 4,
+    "lGlosowWaznych": 814,
+    "lGlosPrzezPelnomocnikow": 0,
+    "lGlosujacychZZasw": 3,
+    "lKartNiewaznych": 0,
+    "lKartWaznych": 818,
+    "lKartWyjetych": 818,
+    "lKartWyjetychZKopert": 0,
+    "lKopertBezOsw": 0,
+    "lKopertBezPodpisuOsw": 0,
+    "lKopertWrzuconych": 0,
+    "lNiewykorzystanychKart": 587,
+    "lNiezaklejonychKopert": 0,
+    "lOtrzymanychKart": 1395,
+    "lOtrzymanychKopert": 0,
+    "lPustychKopert": 0,
+    "lUprawnionych": 1627,
+    "lWyborcowZPakietami": 0,
+    "lWydanychKart": 817,
+    "sum": 814,
+    "text": {
+      "adn15": "Prawdopodobna przyczyna - źle policzone karty dnia 06.05.2015 w Urzędzie Miasta (policzono 9 kart mniej)",
+      "adn16": "Prawdopodobnie wydano jedną kartę bez podpisu",
+      "adn17": "brak uwag",
+      "adn18": "brak zarządzeń",
+      "adn19": "brak zarzutów",
+      "adn20": "brak zarzutów",
+      "adn21": "brak uwag"
+    },
+    "timeFrom": "07:00",
+    "timeTo": "21:00",
+    "voteDate": "2015-05-10",
+    "warningComments": "S 15 - jak w pkt.16\nS 17- jak w pkt. 16\nS 24 - jak w pkt. 15\nS 26 - jak w pkt. 16"
+  },
+  "warnings": [
+    "S15",
+    "S17",
+    "S24",
+    "S26"
+  ]
+}
