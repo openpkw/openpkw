@@ -156,15 +156,15 @@ do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M.P. N
 
 3) uchwała Państwowej Komisji z dnia 11 lipca 2011 r. w sprawie wzorów protokołów głosowania i protokołów z wyborów stosowanych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M.P. Nr 69, poz. 682 i Nr 84, poz. 878)),  
 
-4) uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wytycznych dla obwodowych komisji wyborczych, dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej (M.P. poz 189)),  
+4) uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wytycznych dla obwodowych komisji wyborczych, dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej ([M.P. poz 189] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20130000189)),  
 
 5) uchwała Państwowej Komisji Wyborczej z dnia 12 września 2011 r. w sprawie wytycznych dla okręgowych komisji wyborczych, dotyczących wykonywania zadań związanych z ustalaniem wyników głosowania i wyników wyborów oraz trybu i zasad powoływania pełnomocników okręgowych komisji wyborczych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 9 października 2011 r. (M.P. Nr 87, poz. 911)),  
 
-6) uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wytycznych dotyczących stosowania uchwał Państwowej Komisji Wyborczej w wyborach uzupełniających do senatu Rzeczypospolitej Polskiej VIII kadencji (M.P. poz. 124);  
+6) uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wytycznych dotyczących stosowania uchwał Państwowej Komisji Wyborczej w wyborach uzupełniających do senatu Rzeczypospolitej Polskiej VIII kadencji ([M.P. poz. 124] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20130000124));  
 
 7) uchwała Państwowej Komisji Wyborczej z dnia 17 sierpnia 2011 r. w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille'a, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych w kraju (M.P. Nr 80, poz. 805));  
 
-8) uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wzoru kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille'a, w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej (M.P. poz. 125)).  
+8) uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wzoru kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille'a, w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej ([M.P. poz. 125] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20130000125)).  
 
 # VI. W zakresie wyborów prezydenckich
 
@@ -180,7 +180,7 @@ do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M.P. N
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 26 stycznia 2015 r. w sprawie wzorów protokołów głosowania i protokołu o wynikach głosowania stosowanych w wyborach Prezydenta Rzeczypospolitej Polskiej w 2015 r. ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000159))
 
-* Uchwała Państwowej Komisji Wyborczej z dnia 11 kwietnia 2011 r. w sprawie powoływania obwodowych komisji wyborczych w obwodach głosowania utworzonych w kraju, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej oraz do Parlamentu Europejskiego w Rzeczypospolitej Polskiej (M.P. z 2011 r., nr 30, poz. 345 wraz z późn. zm.) 
+* Uchwała Państwowej Komisji Wyborczej z dnia 11 kwietnia 2011 r. w sprawie powoływania obwodowych komisji wyborczych w obwodach głosowania utworzonych w kraju, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej oraz do Parlamentu Europejskiego w Rzeczypospolitej Polskiej ([M.P. z 2011 r., nr 30, poz. 345 wraz z późn. zm.] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20110300345)) 
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 9 lutego 2015 r. zmieniająca uchwałę w sprawie powoływania obwodowych komisji wyborczych w obwodach głosowania utworzonych w kraju, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej oraz do Parlamentu Europejskiego w Rzeczypospolitej Polskiej ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000223))
 
@@ -206,7 +206,7 @@ do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M.P. N
 
 * Rozporządzenie Ministra Spraw Zagranicznych z dnia 27 marca 2015 r. w sprawie utworzenia obwodów głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej dla obywateli polskich przebywających za granicą ([Dz.U. 2015 r., poz. 471] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150000471))
 
-* Uchwała Państwowej Komisji Wyborczej w sprawie wytycznych dla obwodowych komisji wyborczych dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w obwodach głosowania utworzonych za granicą w wyborach Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. ([M.P. 2015, poz. skierowany do publikacji] ())
+* Uchwała Państwowej Komisji Wyborczej w sprawie wytycznych dla obwodowych komisji wyborczych dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w obwodach głosowania utworzonych za granicą w wyborach Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. ([M.P. 2015, poz. 383] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000383))
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 8 kwietnia 2015 r. w sprawie trybu i sposobu przekazywania przez okręgowe i obwodowe komisje wyborcze Państwowej Komisji Wyborczej, w trakcie głosowania, danych o liczbie osób uprawnionych do głosowania oraz o liczbie wyborców, którym wydano karty do głosowania w stałych obwodach głosowania utworzonych w kraju w wyborach Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. ([M.P. 2015, poz. 369] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000369))
 
@@ -216,7 +216,7 @@ do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M.P. N
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 14 kwietnia 2015 r. w sprawie listy kandydatów na Prezydenta Rzeczypospolitej Polskiej w wyborach zarządzonych na dzień 10 maja 2015 r. ([M.P. 2015, poz. 368]  (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000368))  
 
-* **Uchwała Państwowej Komisji Wyborczej z dnia 20 kwietnia 2015 r. w sprawie dopuszczenia możliwości wykorzystania techniki elektronicznej w wyborach Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. oraz określenia warunków i sposobu jej wykorzystania** ([M.P. z 2015 skierowany do publikacji] (http://prezydent2015.pkw.gov.pl/akty_prawne/0/65_UCHWALA_PANSTWOWEJ_KOMISJI_WYBORCZEJ_z_dnia_20_kwietnia_2015_r_w_sprawie_dopuszczenia_mozliwosci_wykorzystania_techniki_elektronicznej_w_wyborach_Prezydenta_Rzeczypospolitej_Polskiej_zarzadzonych_na_dzien_10_maja_2015_r_oraz_okreslenia_warunkow_i_sposobu_jej_wykorzystania))
+* **Uchwała Państwowej Komisji Wyborczej z dnia 20 kwietnia 2015 r. w sprawie dopuszczenia możliwości wykorzystania techniki elektronicznej w wyborach Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. oraz określenia warunków i sposobu jej wykorzystania** ([M.P. z 2015, poz 382] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000382))
 
 # VII. W zakresie wyborów do Europarlamentu
 
