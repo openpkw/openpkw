@@ -70,6 +70,5 @@ Katalog [**master\pliki klk**] (https://github.com/openpkw/openpkw/tree/master/p
    * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_F1.xml) przedstawiający w sposób graficzny projekt budowy **Modułu F.1** Systemu Wyborczego OpenPKW - dostęp przez dedykowaną stronę html. Moduł F1 - przekazywanie i zarządzanie danymi o frekwencji w dniu wyborów (raporty z godz. 12:00 i 17:00).
    * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_D1.xml) przedstawiający w sposób graficzny projekt budowy **Modułu D.1** Systemu Wyborczego OpenPKW - dostęp przez dedykowaną stronę html. Moduł D.1 - Meldunek kwartalny (meldunek przedwyborczy).
    * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_A.xml) przedstawiający w sposób graficzny projekt budowy **Modułu A** Systemu Wyborczego OpenPKW - dostęp przez dedykowaną stronę html. Moduł A - geografia wyborcza.  
+   * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_O.xml) przedstawiający w sposób graficzny projekt budowy **Modułu O** Systemu Wyborczego OpenPKW - dostęp przez dedykowaną stronę html. Moduł O - "Kalkulator" wyborczy dla Okręgowej Komisji Wyborczej w wyborach do Sejmu.  
   
-
-
