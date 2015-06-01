@@ -18,7 +18,7 @@ ma prawo zarządzić:
     - na wniosek Rady Ministrów
     - na wniosek grupy co najmniej 500 000 obywateli mających prawo udziału w referendum
 - Prezydent, za zgodą Senatu wyrażoną bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby senatorów. **(Uchwałę Senatu ws. wniosku o przeprowadzenie referendum marszałek Senatu przekazuje marszałkowi Sejmu, a także zawiadamia prezydenta i premiera. Postanowienie prezydenta o zarządzeniu referendum jest publikowane w Dzienniku Ustaw.)**  
-Na przeprowadzenie referendum jest 90 dni od ogłoszenia postanowienia; najpóźniej referendum może być przeprowadzone w 90 dniu. Wynik referendum jest wiążący, jeżeli wzięła w nim udział więcej niż połowa uprawnionych do głosowania.  
+Na przeprowadzenie referendum jest 90 dni od ogłoszenia postanowienia; najpóźniej referendum może być przeprowadzone w 90 dniu.  
 
 Wniosek skierowany do Sejmu przez jego organy i członków oraz Senat, Rząd i 500 000 obywateli nie ma charakteru bezwzględnie wiążącego. Co oznacza, iż Sejm może nie przychylić się do niego i nie podjąć uchwały o zarządzeniu referendum. Musi go jednak rozpatrzyć, jednak ustawa nie wspomina o tym w jakim terminie musi to uczynić.
 
