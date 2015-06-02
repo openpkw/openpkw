@@ -21,7 +21,7 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
    * [**Walidacja meldunek wyborczy**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_meldunek_wyborczy.md) - plik z zasadami walidacji poprawności meldunku wyborczego (część meldunek kwartalny - zwykły)  
    * [**Referendum**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Referendum.md) - omówienie zasad dotyczących referendów
    * [**Walidacja parlament**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_parlament.md) - zasady walidacji protokołów wyborczych w wyborach parlamentarnych (Sejm i Senat).  
-   * [**Systemy wyborcze] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/systemy_wyborcze.md) - Kilka (?) podstawowych informacji o systemach wyborczych (sposobach podziału wyborczego i sposobach liczenia głosów).  
+   * [**Systemy wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/systemy_wyborcze.md) - Kilka (?) podstawowych informacji o systemach wyborczych (sposobach podziału wyborczego i sposobach liczenia głosów).  
 
 
 # Zawartość katalogu:
