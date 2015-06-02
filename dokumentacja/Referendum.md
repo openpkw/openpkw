@@ -72,7 +72,7 @@ Referenda przeprowadzane są:
     - w domach studenckich jeżeli co najmniej 50 ich mieszkańców wyrazi na to chęć.
 
 
-#Terminologia:
+#Terminologia
 
 **Ważny** – oznacza, iż referendum zostało przeprowadzone zgodnie z prawem, co każdorazowo stwierdza Sąd Najwyższy. 
 Ważność nie zależy wobec tego od ilości głosujących oraz od tego, czy oddali swoje głosy poprawnie (zgodnie z instrukcją zamieszczoną
