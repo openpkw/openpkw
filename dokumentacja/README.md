@@ -22,6 +22,7 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
    * [**Referendum**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Referendum.md) - omówienie zasad dotyczących referendów
    * [**Walidacja parlament**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_parlament.md) - zasady walidacji protokołów wyborczych w wyborach parlamentarnych (Sejm i Senat).  
    * [**Systemy wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/systemy_wyborcze.md) - Kilka (?) podstawowych informacji o systemach wyborczych (sposobach podziału wyborczego i sposobach liczenia głosów).  
+   * [**Ciekawostki wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/ciekawostki%20wyborcze.md) - Jak sie liczy i głosuje - i dzieli mandaty - w innych krajach świata.
 
 
 # Zawartość katalogu:
