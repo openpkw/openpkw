@@ -53,7 +53,7 @@ Obwieszczenie PKW o wynikach głosowania. [10.05.2015] (http://prezydent2015.pkw
 **Moduł M.** Serwer binarny. Obrazy dokumentów, protokolów, skany, zdjecia, wzory podpisów (?).  
 
 **Moduł N.**  
-**Moduł O.**  
+**Moduł O.** "Kalkulator" wyborczy dla Okręgowej Komisji Wyborczej w wyborach do Sejmu. [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_O.xml)  
 **Moduł P.**  
 **Moduł R.** Archiwizacja - wykonanie eksportu danych, zapewniający przeniesienie danych dotyczących komitetów wyborczych, list kandydatów i kandydatów, obwodów głosowania, okręgach wyborczych i wyników głosowania, wyników podziału mandatów do archiwum (zaimplementowanego jako relacyjna baza danych),  
 
