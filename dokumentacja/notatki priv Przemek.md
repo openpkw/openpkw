@@ -24,8 +24,8 @@ Obwieszczenie o wynikach I tury gosowania
 
 
 Obwieszczenie o wynikach II tury glosowania
-[Obwieszczenie] (http://prezydent2015.pkw.gov.pl/pliki/1_Obwieszczenie.pdf)  
-[Zal.1] (http://prezydent2015.pkw.gov.pl/pliki/2_Obwieszczenie_zal1.pdf)  
-[Zal.2] (http://prezydent2015.pkw.gov.pl/pliki/2_Obwieszczenie_zal2.pdf)  
+[Obwieszczenie] (http://prezydent2015.pkw.gov.pl/pliki/1432571989_obwieszczenie.pdf)  
+[Zal.1] (http://prezydent2015.pkw.gov.pl/pliki/1432571981_Obwieszczenie%201.pdf)  
+[Zal.2] (http://prezydent2015.pkw.gov.pl/pliki/1432571985_Obwieszczenie%202a.pdf)  
 
 
