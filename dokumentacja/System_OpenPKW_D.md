@@ -4,7 +4,7 @@ meeting of the Ministers’Deputies”.
 
 # e-Wybory
 
-Moduł całkowcie niezgodny z prawem wyborczym  RP.  
+Moduł całkowcie niezgodny z obowizujcym (2015) prawem wyborczym  RP.  
 Istnieje jednak możliwość wykorzystania go  przez korporacje, firmy, spółki oraz inne organizacje pozarządowe do swoich wewnętrznych potrzeb.(np. spółki akcyjne na Walnym Zgromadzeniu wspólników itp.)
 Np. wstępnie wykorzystać go do głosowań w szkołach - wybory samorządu szkolnego. Dzięki temu uzyskujemy przyszłą grupę wspierającą idee e-głosowań. A jednocześnie zbieramy niezbedne doświadczenie.
 
