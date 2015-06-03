@@ -3,11 +3,11 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
 
 # Spis zawartości katalogu: "Dokumentacja".
 
-   * [**System_OpenPKW**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) - główne założenia pełnego systemu (PW, Kalkulator, programy mobilne, e-Wybory).
-   * [Modul_A_OpenPKW.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Modul_A_OpenPKW.md) - opis zawartości Modułu A Systemu OpenPKW - Platforma Wyborcza.
-   * [Modul_B_OpenPKW.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Modul_B_OpenPKW.md) - opis zawartości Modułu B Systemu OpenPKW - Kalkulator wyborczy.
-   * [Modul_C_OpenPKW.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Modul_C_OpenPKW.md) - opis zawartości Modułu C Systemu OpenPKW - programy mobilne.
-   * [Modul_D_OpenPKW.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Modul_D_OpenPKW.md) - opis zawartości Modułu D Systemu OpenPKW - e-Wybory.
+   * [**System_OpenPKW**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) - główne założenia pełnego systemu (PW, Kalkulator, programy mobilne, e-Wybory). Szczegółowe omówienie punktów Systemu OpenPKW poniżej:  
+      * [System_OpenPKW_A.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW_A.md) - opis działu A Systemu OpenPKW - Platforma Wyborcza.
+      * [System_OpenPKW_B.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW_B.md) - opis działu B Systemu OpenPKW - Kalkulator wyborczy.
+      * [System_OpenPKW_C.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW_C.md) - opis działu C Systemu OpenPKW - programy mobilne.
+      * [System_OpenPKW_D.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW_D.md) - opis działu D Systemu OpenPKW - e-Wybory.
    * [**Prawo wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze.md) - spis i linki do ustaw, rozporządzeń i uchwał PKW dotyczących wyborów.
    * [**Liczby wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Wybory_statystyka.md) - zestawienie statystyczne dotyczące ilości komisji wyborczych różnych szczebli oraz innych wyborczych danych liczbowych.
    * [**Przetargi**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) - ogłaszane przez PKW w latach 2013/2014.
@@ -18,11 +18,11 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
    * [**Walidacja podstawy**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_podstawy.md) - zasady walidacji protokołów wyborczych w akcjach dotychczasowych.
    * [**Zmiany**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/zmiana_filozofii_PKW.md) - w obsłudze informatycznej wprowadzone uchwałami PKW z 9 marca 2015 oraz
    * [**Słownik pojec**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Slownik%20pojec.md) - plik z wyjaśnieniami terminologii używanej w "języku wyborczym".  
-   * [**Walidacja meldunek wyborczy**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_meldunek_wyborczy.md) - plik z zasadami walidacji poprawności meldunku wyborczego (część meldunek kwartalny - zwykły)  
-   * [**Referendum**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Referendum.md) - omówienie zasad dotyczących referendów
+   * [**Walidacja meldunek wyborczy**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_meldunek_wyborczy.md) - plik z zasadami walidacji poprawności meldunku wyborczego (część meldunek kwartalny - zwykły).  
+   * [**Referendum**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Referendum.md) - omówienie zasad dotyczących referendów.
    * [**Walidacja parlament**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_parlament.md) - zasady walidacji protokołów wyborczych w wyborach parlamentarnych (Sejm i Senat).  
    * [**Systemy wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/systemy_wyborcze.md) - Kilka (?) podstawowych informacji o systemach wyborczych (sposobach podziału wyborczego i sposobach liczenia głosów).  
-   * [**Ciekawostki wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/ciekawostki%20wyborcze.md) - Jak sie liczy i głosuje - i dzieli mandaty - w innych krajach świata.
+   * [**Ciekawostki wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/ciekawostki%20wyborcze.md) - Jak się liczy i głosuje - i dzieli mandaty - w innych krajach świata.
 
 
 # Zawartość katalogu:
@@ -33,8 +33,9 @@ Katalog [**master\pliki klk**] (https://github.com/openpkw/openpkw/tree/master/p
   *  plik [klk-obd-lodz-2014.xml] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/klk-obd-lodz-2014.xml) - plik z wyborów do Parlamentu Unii Europejskiej 2014;  
   *  plik [klk-obd-wawa-2011.xml] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/klk-obd-wawa-2011.xml) - plik z wyborów parlamentarnych Sejm + Senat 2011;  
   *  plik [klk-obd-lodz-2010.xml] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/klk-obd-lodz-2010.xml) - plik z wyborów prezydenckich 2010;
-  *  plik [pollstations.csv] (https://raw.githubusercontent.com/openpkw/openpkw/master/pliki%20klk/pollstations.csv) - plik z danymi obwodów wyborczych - Prezydent 2015  
+  *  plik [pollstations.csv] (https://raw.githubusercontent.com/openpkw/openpkw/master/pliki%20klk/pollstations.csv) - plik z danymi obwodów wyborczych - Prezydent 2015.  
   *  plik [Prezydent2015_1tura_wyniki.csv]  (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/Prezydent2015_1tura_wyniki.csv) - plik z wynikami gosowania I tura Prezydent 2015  
+  *  plik [Prezydent2015_2tura_wyniki.csv]  (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/Prezydent2015_2tura_wyniki.csv) - plik z wynikami gosowania II tura Prezydent 2015.  
   *  plik [KLK_180801_1_2015-05-10_13-00.json]  (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/KLK_180801_1_2015-05-10_13-00.json) - autentyczny plik KLK z nowej wersji programu WOW z dnia 10 maja 2015 - Wybory Prezydenckie 2015 I tura - gmina miasto Leżajsk.   
   *  plik [protokol-180801-6.json] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/protokol-180801-6.json) - plik protokołu z Komisji Obwodowej Nr 6 w Leżajsku - Prezydent 2015, I tura głosowania
 
@@ -59,7 +60,7 @@ Katalog [**master\pliki klk**] (https://github.com/openpkw/openpkw/tree/master/p
 
 # Zawartość katalogu:
 * Katalog [**dokumentacja\Procesy**] (https://github.com/openpkw/openpkw/tree/master/dokumentacja/procesy) - katalog zawiera diagramy graficzne procesów wyborczych:
-* plik [README.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/procesy/README.md) - opisujący sposób uruchomienia programu [**draw.io**] (https://www.draw.io/) i wczytania wersji RAW diagramów w formacie *.xml
+* [**README.md**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/procesy/README.md) - plik opisujący sposób uruchomienia programu [**draw.io**] (https://www.draw.io/) i wczytania wersji RAW diagramów w formacie *.xml
 * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FObwodowa%2520komisja%2520wyborcza.xml) - przedstawiający w postaci graficznej przebieg procesów w Obwodowej komisji wyborczej w dniu głosowania.
 * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2Fprzed_wyborami.xml) przedstawiający w postaci graficznej wzajemne powiązania systemów, organizacji i organów wyborczych przed dniam głosowania.
 * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FObwodowa_komisja_A.xml) przedstawiający w postaci graficznej działanie Obwodowej Komisji Wyborczej po zamknięciu lokalu o godz. 21:00 i przystapieniu do wypełniania brudnopisu protokołu - cześć A dotyczy prac **przed** otwarciem urny wyborczej. 
