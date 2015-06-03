@@ -68,7 +68,7 @@ Internet na serwery KBW. O powodzeniu tej próby (lub niepowodzeniu) operator je
 .xml.
 
 * Następnie program przechodzi automatycznie do funkcji drukowania protokołu. Operator drukuje 
-1 egzemplarz protokołu głosowania w obwodzie wraz ze stroną zawierającą raport ostrzeżeń (jeśli wystąpiły).
+1 egzemplarz protokołu głosowania w obwodzie wraz ze stroną zawierającą raport ostrzeżeń (jeśli wystąpiły). Sprawdzenie poprawnoci wydrukowanych brakodów, ewentualnie QR kod.  
 
 * Komisja weryfikuje zgodność wydruku z projektem (brudnopisem) protokołu i przystępuje do
 składania podpisów.
