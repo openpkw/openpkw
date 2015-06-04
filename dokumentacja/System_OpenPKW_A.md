@@ -57,7 +57,7 @@ Obwieszczenie PKW o wynikach głosowania. [10.05.2015] (http://prezydent2015.pkw
 **Moduł P.**  
 **Moduł R.** Archiwizacja - wykonanie eksportu danych, zapewniający przeniesienie danych dotyczących komitetów wyborczych, list kandydatów i kandydatów, obwodów głosowania, okręgach wyborczych i wyników głosowania, wyników podziału mandatów do archiwum (zaimplementowanego jako relacyjna baza danych),  
 
-**Moduł S.** Moduł przyjmowania danych elektronicznych z protokołów wyników głosowania w obwodzie przesłanych przez moduł kalkulator wyborczego (Moduł B.1.; B.2.; B.3.), kontrola spływu protokołów wyników głosowania w obwodzie,  
+**Moduł S.** Moduł przyjmowania danych elektronicznych z protokołów wyników głosowania w obwodzie przesłanych przez moduł kalkulator wyborczego (Moduł G; K; O), kontrola spływu protokołów wyników głosowania w obwodzie,  
 
 **Moduł T.**  
 **Moduł U.**  
