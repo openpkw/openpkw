@@ -14,7 +14,7 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
 Państwowa Komisja Wyborcza - skład, organ powołujący, kadencje. Okregowe Komisje Wyborcze (jak PKW), Komisarze Wyborczy, Krajowe Biuro Wyborcze, osoby funkcyjne na poszczególnych szczeblach, operatorzy komisji wyborczych. Składy Obwodowych i Terytorialnych komisji wyborczych, komitety zgłaszające kandydatów do komisji, wyniki losowania itp.
 
 **Moduł C.** Kandydaci.  
-Rejestracja Komitetów wyborczych, obszar dziaalnia, zgłaszanie list kandydatów, nadawanie numerów listom kandydatów ([**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_C5.xml)), historia obsadzania mandatów.
+Rejestracja Komitetów wyborczych, obszar działania, zgłaszanie list kandydatów, nadawanie numerów listom kandydatów ([**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_C5.xml)), historia obsadzania mandatów.
 
 **Moduł D.** Dane wyborcze.
 Meldunek wyborczy - kwartalny ([**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_D1.xml)), przedwyborczy. Generowanie plików KLK i JSON zasilających kalkulatory wyborcze (html i localhost).
@@ -74,7 +74,7 @@ Obwieszczenie PKW o wynikach głosowania. [10.05.2015] (http://prezydent2015.pkw
 
  1. Rejestr partii politycznych w Polsce  
 
- 2. Stały rejestr wyborców (prowadzony przez gminy - wymiana danych między gminami poprzez moduł raportu wybroczego)  
+ 2. Stały rejestr wyborców (prowadzony przez gminy - wymiana danych między gminami poprzez moduł raportu wyborczego)  
 
  3. Okręgi wyborcze (Polska)   
   - Akcje wyborcze (słownik)
