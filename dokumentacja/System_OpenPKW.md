@@ -129,7 +129,7 @@ Podział zadania C na [**moduły programistyczne**] (https://github.com/openpkw/
     * archiwizacja danych przeszłych akcji wyborczych.
 
 # Ad. D.
-Moduł wymaga wstępne analizy strukturalnej, prawnej, organizacyjnej i każdej innej. Trzeba się zastanowić nad prawdopodobnymi beneficjentami takich systemów. Problemy PR i spsoby przekonania PKW.
+Moduł wymaga wstępne analizy strukturalnej, prawnej, organizacyjnej i każdej innej. Trzeba się zastanowić nad prawdopodobnymi beneficjentami takich systemów. Problemy PR i sposoby przekonania PKW.
 
 D.1. - elektroniczne systemy automatycznego zliczania głosów z kart wyborczych.
 
