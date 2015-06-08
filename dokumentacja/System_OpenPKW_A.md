@@ -11,7 +11,7 @@ Dostęp do wszystkich podmodułów poprzez dedykowaną stronę HTML, uprawnienia
 **Moduł A.** Geografia wyborcza. Podział kraju na okręgi w zależności od rodzaju akcji wyborczej. Podział okręgów na obwody wyborcze. Podział gmin na okręgi wyborcze w wyborach do rad gmin. Obwody wyborcze zagranicą i na polskich statkach morskich. [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_A.xml)  
 
 **Moduł B.** Organy wyborcze.  
-Państwowa Komisja Wyborcza - skład, organ powołujący, kadencje. Okregowe Komisje Wyborcze (jak PKW), Komisarze Wyborczy, Krajowe Biuro Wyborcze, osoby funkcyjne na poszczególnych szczeblach, operatorzy komisji wyborczych. Składy Obwodowych i Terytorialnych komisji wyborczych, komitety zgłaszające kandydatów do komisji, wyniki losowania itp.
+Moduł obsługi organu wyborczego (terytorialnej komisji wyborczej, komisarza wyborczego i Państwowej Komisji Wyborczej) na obszarze właściwości organu, Państwowa Komisja Wyborcza - skład, organ powołujący, kadencje. Okregowe Komisje Wyborcze (jak PKW), Komisarze Wyborczy, Krajowe Biuro Wyborcze, osoby funkcyjne na poszczególnych szczeblach, operatorzy komisji wyborczych. Składy Obwodowych i Terytorialnych komisji wyborczych, komitety zgłaszające kandydatów do komisji, wyniki losowania itp.
 
 **Moduł C.** Kandydaci.  
 Rejestracja Komitetów wyborczych, obszar działania, zgłaszanie list kandydatów, nadawanie numerów listom kandydatów ([**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_C5.xml)), historia obsadzania mandatów.
@@ -19,7 +19,7 @@ Rejestracja Komitetów wyborczych, obszar działania, zgłaszanie list kandydat�
 **Moduł D.** Dane wyborcze.
 Meldunek wyborczy - kwartalny ([**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_D1.xml)), przedwyborczy. Generowanie plików KLK i JSON zasilających kalkulatory wyborcze (html i localhost).
 
-**Moduł E.** Moduł obsługi organu wyborczego (terytorialnej komisji wyborczej, komisarza wyborczego i Państwowej Komisji Wyborczej) na obszarze właściwości organu, nadzoru nad przekazywaniem, kontrola poprawności.  
+**Moduł E.** Moduł obsługi organu wyborczego (**Moduł B**) na obszarze właściwości organu. Nadzór nad przekazywaniem protokołów (papier oraz pliki komputerowe), kontrola poprawności (walidacja), zgodność wersji papierowej z wersją elektroniczna.  
 
 **Moduł F.** Moduł frekwencji - wprowadzenia, przyjmowania danych o liczbie wyborców, którzy wzięli udział w głosowaniu w trakcie głosowania. [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FSW_OpenPKW_F1.xml),  
 
