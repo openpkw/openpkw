@@ -21,8 +21,8 @@ w [**README.md**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/R
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje.   
 Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
 
-* 2015.03.25-0 [Tomek] [Pending] Przekazac namiary na Java Developers. 
-* 2015.03.25-9 [Tomek, Rafał Malujda] [Pending] Dokończyć temat prawny ws AGPL i kodu systemu dla openPKW.
+* 2015.03.25-0 [Tomek] [Pending] Przekazać namiary na Java Developers. 
+* 2015.03.25-9 [Tomek, Rafał Malujda] [Pending] Dokończyć temat prawny ws AGPL i kodu systemu dla OpenPKW.
 
 ## 2015.05.13 20:00
 Format: Telekonferencja / Skype  
