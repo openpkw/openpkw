@@ -149,6 +149,8 @@ wyborach wójtów, burmistrzów i prezydentów miast** ([M.P. 2014, poz. 903] (h
 
 * uchwała Państwowej Komisji Wyborczej z dnia 9 czerwca 2015 r. w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille’a, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych w kraju ([M.P. 2015, poz. skierowany do druku] (http://pkw.gov.pl/g2/oryginal/2015_06/dbe6a04a13747248bcae8598c44e4be6.pdf));  
 
+* Uchwała Państwowej Komisji Wyborczej z dnia 9 czerwca 2015 r. w sprawie sposobu drukowania kart do głosowania oraz trybu ich przekazania wraz z nakładkami na karty do głosowania sporządzonymi w alfabecie Braille’a obwodowym komisjom wyborczym w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej w 2015 roku. ([M.P. 2015, poz. skierowany do druku] (http://pkw.gov.pl/g2/oryginal/2015_06/b72e4e8b2484fe9b64be64379113542d.pdf));  
+
 1) **uchwała Państwowej Komisji Wyborczej z dnia 27 czerwca 2011 r. w sprawie warunków i sposobu wykorzystania techniki elektronicznej oraz trybu przekazywania danych za pośrednictwem sieci elektronicznego przekazywania danych w wyborach
 do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (M.P. Nr 63, poz. 601)),**  
 
