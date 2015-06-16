@@ -6,9 +6,9 @@ Dokładniejsze informacje o [rodzajach komisji wyborczych]  (https://github.com/
 
 | Komisja                                     | Liczba |
 |---------------------------------------------|-------:|
-| Obwodowa Komisja Wyborcza (Polska)          | 24.985 |
-| Obwodowa Komisja Wyborcza (zagranica stałe) | 166    |
-| Obwodowa Komisja Wyborcza (statki)          | 14     |
+| Obwodowa Komisja ds. referendum (Polska)    | 24.985 |
+| Obwodowa Komisja  (zagranica stałe)         | 166    |
+| Obwodowa Komisja  (statki)                  | 14     |
 | *Razem OKW*                                 | 25.165 |
 
 
@@ -67,7 +67,7 @@ Dokładniejsze informacje o [rodzajach komisji wyborczych]  (https://github.com/
 
 | Komisja                                        |              Liczba |
 |------------------------------------------------|--------------------:|
-| Okręgowa Komisja Wyborcza (ustala PKW)         |                  13 |
+| Okręgowa Komisja Wyborcza                      |                  13 |
 | Obwodowa Komisja Wyborcza (Polska) - powszechne|              25.909 |
 | Obwodowa Komisja Wyborcza (Polska) - odrębne   |               1.576 |
 | Obwodowa Komisja Wyborcza (zagranica stałe)    | 174                 |
