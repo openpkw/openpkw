@@ -29,7 +29,7 @@ oraz miasta na prawach powiatu: Włocławek.
 
 ##Województwo lubelskie (5)  
 **NR14** – powiaty: lubartowski, łukowski, opolski, puławski, rycki.  
-**NR15** – powiaty: janowski, kraśnicki, lubelski, łęczyński, świdnicki. 
+**NR15** – powiaty: janowski, kraśnicki, lubelski, łęczyński, świdnicki.  
 **NR16** – obejmujący obszar miasta na prawach powiatu: Lublin.  
 **NR17** – powiaty: bialski, parczewski, radzyński   
 oraz miasto na prawach powiatu: Biała Podlaska.  
