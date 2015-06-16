@@ -23,6 +23,7 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
    * [**Walidacja parlament**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_parlament.md) - zasady walidacji protokołów wyborczych w wyborach parlamentarnych (Sejm i Senat).  
    * [**Systemy wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/systemy_wyborcze.md) - Kilka (?) podstawowych informacji o systemach wyborczych (sposobach podziału wyborczego i sposobach liczenia głosów).  
    * [**Ciekawostki wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/ciekawostki%20wyborcze.md) - Jak się liczy i głosuje - i dzieli mandaty - w innych krajach świata.
+   * [**Sejm2015okregi**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Sejm2015okregi.md) - podział Polski na okręgi wyborcze w wyborach do Sejmu RP
 
 
 # Zawartość katalogu:
