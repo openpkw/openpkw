@@ -16,7 +16,7 @@ Bieńkowice, Biskupin – Sępolno – Dąbie – Bartoszowice, Borek, Brochów,
 **NR 8** – obejmujący część obszaru miasta na prawach powiatu Wrocław:  
 Gądów–Popowice Pd, Jerzmanowo – Jarnołtów – Strachowice – Osiniec, Karłowice – Różanka, Kleczków, Kowale, Kużniki, Leśnica, Lipa Piotrowska, Maślice, Muchobór Mały, Muchobór Wielki, Nadodrze, Nowy Dwór, Ołbin, Osobowice – Rędzin, Pawłowice, Pilczyce – Kozanów – Popowice, Polanowice – Poświętne – Ligota, Pracze Odrzańskie, Psie Pole – Zawidawie, Sołtysowice, Swojczyce – Strachocin – Wojnów, Szczepin, Świniary, Widawa, Żerniki.  
 
-##Województwo kujawsko-pomorskie  
+##Województwo kujawsko-pomorskie (5)  
 **NR 9** – powiaty: bydgoski, świecki, tucholski  
 oraz miasto na prawach powiatu: Bydgoszcz.  
 **NR 10** – powiaty: inowrocławski, mogileński, nakielski, sępoleński, żniński.  
@@ -27,7 +27,7 @@ oraz miasto na prawach powiatu: Grudziądz.
 **NR 13** – powiaty: aleksandrowski, lipnowski, radziejowski, włocławski  
 oraz miasta na prawach powiatu: Włocławek.  
 
-##Województwo lubelskie  
+##Województwo lubelskie (5)  
 **NR14** – powiaty: lubartowski, łukowski, opolski, puławski, rycki.  
 **NR15** – powiaty: janowski, kraśnicki, lubelski, łęczyński, świdnicki. 
 **NR16** – obejmujący obszar miasta na prawach powiatu: Lublin.  
@@ -36,14 +36,14 @@ oraz miasto na prawach powiatu: Biała Podlaska.
 **NR18** – powiaty: chełmsk – powiaty: biłgorajski, hrubieszowski, tomaszowski, zamojski  
 oraz miasto na prawach powiatu: Zamość.  
 
-##Województwo lubuskie  
+##Województwo lubuskie (3)  
 **NR20** – powiaty: krośnieński, świebodziński, zielonogórski  
 oraz miasta na prawach powiatu: Zielona Góra.  
 **NR21** – powiaty: gorzowski, międzyrzecki, strzelecko-drezdenecki, słubicki, sulęciński  
 oraz miasta na prawach powiatu: Gorzów Wielkopolski.  
 **NR22** – powiaty: nowosolski, wschowski, żagański, żarski.  
 
-##Województwo łódzkie
+##Województwo łódzkie (7)
 **NR23** – obejmujący część obszaru miasta na prawach powiatu Łódź:                                                                                           
 Osiedle Bałuty Zachodnie, Osiedle Bałuty – Centrum, Osiedle Bałuty – Doły, Osiedle im. Józefa Montwiłła-Mireckiego, Osiedle Julianów – Marysin – Rogi, Osiedle Karolew – Retkinia Wschód, Osiedle Katedralna, Osiedle Koziny, Osiedle Lublinek – Pienista, Osiedle Łagiewniki, Osiedle Nad Nerem, Osiedle Radogoszcz, Osiedle Retkinia Zachód – Smulsko, Osiedle Stare Polesie, Osiedle Śródmieście-Wschód, Osiedle Teofilów – Wielkopolska, Osiedle Zdrowie – Mania, Osiedle Złotno.  
 **NR24** – powiaty: brzeziński, łódzki wschodni  
@@ -57,7 +57,7 @@ oraz miasto na prawach powiatu: Piotrków Trybunalski.
 **NR29** – powiaty: opoczyński, rawski, skierniewicki, tomaszowski  
 oraz miasto na prawach powiatu: Skierniewice.  
 
-##Województwo małopolskie
+##Województwo małopolskie (8)
 **NR30** – powiaty: chrzanowski, myślenicki, oświęcimski, suski, wadowicki.  
 **NR31** – powiaty: krakowski, miechowski, olkuski.  
 **NR32** – obejmujący część obszaru miasta na prawach powiatu Kraków:  
@@ -71,7 +71,7 @@ oraz miasto na prawach powiatu: Tarnów.
 **NR37** – powiaty: gorlicki, nowosądecki  
 oraz miasto na prawach powiatu: Nowy Sącz.  
 
-##Województwo mazowieckie
+##Województwo mazowieckie (13)
 **NR38** – powiaty: gostyniński, płocki, sierpecki, sochaczewski, żyrardowski  
 oraz miasto na prawach powiatu: Płock.  
 **NR39** – powiaty: ciechanowski, mławski, płoński, przasnyski, żuromiński.  
@@ -94,13 +94,13 @@ oraz miasto na prawach powiatu: Siedlce.
 **NR50** – powiaty: lipski, radomski, szydłowiecki, zwoleński  
 oraz miasta na prawach powiatu: Radom.  
 
-##Województwo opolskie
+##Województwo opolskie (3)
 **NR51** – powiaty: brzeski, kluczborski, namysłowski, nyski, prudnicki.  
 **NR52** – obejmujący obszar powiatu: opolski  
 oraz miasto na prawach powiatu: Opole.  
 **NR53** – powiaty: głubczycki, kędzierzyńsko-kozielski, krapkowicki, oleski, strzelecki.  
 
-##Województwo podkarpackie
+##Województwo podkarpackie (5)
 **NR54** – powiaty: leżajski, niżański, stalowowolski, tarnobrzeski  
 oraz miasta na prawach powiatu: Tarnobrzeg.  
 **NR55** – powiaty: dębicki, kolbuszowski, mielecki, ropczycko-sędziszowski, strzyżowski.  
@@ -111,14 +111,14 @@ oraz miasta na prawach powiatu: Krosno.
 **NR58** – powiaty: bieszczadzki, jarosławski, leski, lubaczowski, przemyski, przeworski, sanocki,  
 oraz miasta na prawach powiatu: Przemyśl.  
 
-##Województwo podlaskie
+##Województwo podlaskie (3)
 **NR59** – powiaty: augustowski, grajewski, kolneński, łomżyński, moniecki, sejneński, suwalski, zambrowski 
 oraz miast na prawach powiatu: Łomża i Suwałki.  
 **NR60** – powiaty: białostocki, sokólski  
 oraz miasta na prawach powiatu: Białystok.  
 **NR61** – powiaty: bielski, hajnowski, siemiatycki, wysokomazowiecki.  
 
-##Województwo pomorskie
+##Województwo pomorskie (6)
 **NR62** – powiaty: lęborski, słupski, wejherowski  
 oraz miasta na prawach powiatu: Słupsk.  
 **NR63** – powiaty: bytowski, chojnicki, człuchowski, kartuski, kościerski.  
@@ -128,7 +128,7 @@ oraz miasta na prawach powiatu: Gdynia.
 **NR66** – powiaty: gdański, starogardzki, tczewski.  
 **NR67** – powiaty: kwidzyński, malborski, nowodworski, sztumski.  
 
-##Województwo śląskie
+##Województwo śląskie (13)
 **NR68** – powiaty: częstochowski, kłobucki, lubliniecki, myszkowski.  
 **NR69** – obejmujący obszar miasta na prawach powiatu: Częstochowa.  
 **NR70** – powiaty: gliwicki, tarnogórski  
@@ -149,13 +149,13 @@ oraz miasta na prawach powiatu: Bielsko-Biała.
 **NR79** – powiaty: cieszyński, żywiecki.  
 **NR80** – miasto na prawach powiatu: Katowice.  
 
-##Województwo świętokrzyskie
+##Województwo świętokrzyskie (3)
 **NR81** – powiaty: buski, jędrzejowski, kazimierski, konecki, pińczowski, staszowski, włoszczowski.  
 **NR82** – powiaty: opatowski, ostrowiecki, sandomierski, skarżyski, starachowicki.  
 **NR83** – powiat: kielecki  
 oraz miasto na prawach powiatu: Kielce.  
 
-##Województwo warmińsko-mazurskie
+##Województwo warmińsko-mazurskie (4)
 **NR84** – powiaty: bartoszycki, braniewski, elbląski, lidzbarski  
 oraz miasta na prawach powiatu: Elbląg.  
 **NR85** – powiaty: działdowski, iławski, nowomiejski, ostródzki.  
@@ -163,7 +163,7 @@ oraz miasta na prawach powiatu: Elbląg.
 oraz miasta na prawach powiatu: Olsztyn.  
 **NR87** – powiaty: ełcki, giżycki, gołdapski, kętrzyński, mrągowski, olecki, piski, węgorzewski.  
 
-##Województwo wielkopolskie
+##Województwo wielkopolskie (9)
 **NR88** – powiaty: chodzieski, czarnkowsko-trzcianecki, pilski, wągrowiecki, złotowski.  
 **NR89** – powiaty: grodziski, międzychodzki, nowotomyski, obornicki, szamotulski, wolsztyński.  
 **NR90** – powiat: poznański.  
@@ -177,7 +177,7 @@ oraz miasta na prawach powiatu: Leszno.
 **NR96** – powiaty: jarociński, kaliski, pleszewski.  
 oraz miasta na prawach powiatu: Kalisz.  
 
-##Województwo zachodniopomorskie
+##Województwo zachodniopomorskie (4)
 **NR97** – obejmujący obszar powiatu: policki  
 oraz miasta na prawach powiatu: Szczecin.  
 **NR98** – powiaty: goleniowski, gryficki, gryfiński, kamieński, łobeski, myśliborski, pyrzycki, stargardzki  
