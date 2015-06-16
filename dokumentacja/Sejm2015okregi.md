@@ -145,7 +145,7 @@ powiat: poznański
 oraz miasto na prawach powiatu: Poznań.
 
 ## województwo zachodniopomorskie (20):  
-** NR 40 – KOSZALIN : (8)**  
+**NR 40 – KOSZALIN : (8)**  
 powiaty: białogardzki, choszczeński, drawski, kołobrzeski, koszaliński, sławieński, szczecinecki, świdwiński, wałecki  
 oraz miasta na prawach powiatu: Koszalin.  
 **NR 41 – SZCZECIN : (12)**  
