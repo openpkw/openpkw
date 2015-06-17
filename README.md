@@ -15,7 +15,6 @@ Serdecznie zapraszamy do bezpośredniej współpracy na github'ie. Proces: fork 
 | ------------- | ------------- |
 | Analiza / PKW | [Przemek](https://github.com/Tirramisu) |
 | Architektura | [Adam](https://github.com/adamkowalewski) | 
-| Java / Java EE  | [Sebastian](https://github.com/SebastianCelejewski) |
 | JavaScript - AngularJS | [Marcin](https://github.com/marcintokarski)  |
 | JavaScript - jQuery | [Kacper](https://github.com/Krzyku) |
 | Platformy mobilne | [Rafał](https://github.com/RafalRegula) | 
