@@ -64,13 +64,38 @@ Takie referendum, jeżeli jest ważne, jest wiążące bez względu na frekwencj
 Referendum od 2003 r. może być przeprowadzone w ciągu jednego lub dwóch dni. Jego termin wyznaczany jest na dzień wolny od pracy, a jeżeli trwa dwa dni, wówczas na dzień wolny od pracy i dzień go poprzedzający.
 
 Referenda przeprowadzane są:
-    - w stałych obwodach głosowania utworzonych na podstawie Ordynacji   wyborczej  
+    - w stałych obwodach głosowania utworzonych na podstawie Kodeksu Wyborczego  
     - w obwodach głosowania utworzonych w szpitalach i zakładach pomocy społecznej  
     - w obwodach głosowania utworzonych w zakładach karnych i aresztach śledczych  
     - w obwodach głosowania utworzonych w polskich placówkach dyplomatycznych za granicą  
     - w obwodach głosowania utworzonych na polskich statkach morskich  
-    - w domach studenckich jeżeli co najmniej 50 ich mieszkańców wyrazi na to chęć.
+    - w domach studenckich lub ich zespolach, jeżeli co najmniej 50 ich mieszkańców wyrazi na to chęć.  
+Lokale wyborcze otwarte od 6:00 do 22:00 (jednodniowe referendum) lub od 6:00 do 20:00 każdego dnia (dwudniowe referendum). 
 
+# Organy
+
+Referendum organizuje i przeprowadza:  
+    - Panstwowa Komisja Wyborcza  
+    - Komisarz Wyborczy  
+    - Obwodowa Komisja d/s referendum  
+
+W skład Obwodowej Komisji d/s referendum wchodzi od 4 do 8 osób (jednodniowe referendum) lub od 6 do 10 osób (dwudniowe referendum) wyłonione w drodze losowania z kandydatów zgłoszonych przez podmioty uprawnione oraz 1 osoba wskazana przez wójta/burmistrza/prezydenta.  
+Podmiotami uprawnionymi do zgłoszenia kandydatów na członków Obwodowej Komisji d/s referendum są:  
+- partia polityczna, która w ostatnich wyborach startując samodzielnie uzyskała w skali kraju co najmniej 3% ważnie oddanych głosów lub wchodząc w koalicję wyborczą, która uzyskała co najmniej 6% ważnie oddanych głosów  
+- klub poselski, senatorski lub parlamentarny istniejący na rok przed dniem ogłoszenia zarządzenia o referendum  
+- stowarzyszenia lub inne organizacje społeczne która została zarejestrowana lub zgłoszona nie później niż rok przed dniem ogłoszenia postanowienia o zarządzeniu referendum oraz obszar jej działania obejmuje całe terytorium RP, oraz prowadzi działalność związaną z przedmiotem referendum,  
+- fundacja, która prowadzi działalność związaną z przedmiotem referendum,  
+- w przypadku referendum z inicjatywy obywateli pełnomocnik zgłaszających wniosek.  
+
+# Terminy
+
+40 dni przed dniem referendum - Informacja o mumerach, granicach obwodów oraz siedzibach OK d/s referendum.  
+21 dni przed dniem referendum - Powołanie Obwodowych Komisji d/s referendum przez w/b/p.  
+
+pozostale terminy zgodnie z Kodeksem Wyborczym.
+
+Protesty wnosi się w ciągu 7 dni od ogłoszenia wyników referendum przez PKW.  
+Sąd Najwyższy w składzie całej Izby Pracy, Ubezpieczeń Społecznych i Spraw Publicznych rozstrzyga o ważności referendum w ciągu 60 dni od ogłoszenia wyników referendum przez PKW i uchwałę SN ogłasza w Dzienniku Ustaw.  
 
 #Terminologia
 

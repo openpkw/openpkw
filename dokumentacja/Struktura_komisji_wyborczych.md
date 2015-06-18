@@ -11,8 +11,11 @@ Można być członkiem tylko jednej komisji wyborczej. Nie mogą być członkami
 Członkostwo w komisji wyborczej wygasa z dniem podpisania zgody na kandydowanie w wyborach bądź objęcia funkcji pełnomocnika lub męża zaufania, o których mowa wyżej.
 
 W skład **okręgowej komisji wyborczej** wchodzi od 5 do 11 sędziów, w tym z urzędu, jako jej przewodniczący, komisarz wyborczy. W skład komisji może być także powołany sędzia w stanie spoczynku, który nie ukończył 70 lat.
-Sędziów do składu komisji zgłasza Minister Sprawiedliwości, w liczbie uzgodnionej z Państwową Komisją Wyborczą, najpóźniej w 52 dniu przed dniem wy-borów.
-Państwowa Komisja Wyborcza powołuje okręgowe komisje wyborcze najpóźniej w 48 dniu przed dniem wyborów.
+Sędziów do składu komisji zgłasza Minister Sprawiedliwości, w liczbie uzgodnionej z Państwową Komisją Wyborczą, najpóźniej w 52 dniu przed dniem wyborów.
+Państwowa Komisja Wyborcza powołuje okręgowe komisje wyborcze najpóźniej w 48 dniu przed dniem wyborów.  
+Ilość okręgów wyborczych i ich zasięg terytorialny w wyborach do Sejmu, Senatu i Parlamentu Europejskiego jest ustalona w załącznikach do [Kodeksu Wyborczego] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20110210112).  
+[Okręgi Sejm] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Sejm2015okregi.md)  
+[Okręgi Senat] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Senat2015okregi.md)  
 
 W skład **rejonowej komisji wyborczej** wchodzi 5 sędziów, w tym z urzędu, jako jej przewodniczący, komisarz wyborczy. W skład komisji może być także powołany sędzia w stanie spoczynku, który nie ukończył 70 lat.
 
@@ -43,6 +46,6 @@ Jeżeli liczba kandydatów zgłoszonych jest mniejsza od dopuszczalnego minimaln
 Nie później niż w 5. dniu po powołaniu Obwodowa komisja wyborcza odbywa pierwsze posiedzenie, na którym dokonuje wyboru przewodniczącego komisji i jego zastępcy oraz, po zapoznaniu się z wytycznymi PKW, ustala sposób wykonania swoich zadań.
 Komisja podaje do publicznej wiadomości, w sposób zwyczajowo przyjęty, informację o swoim składzie z uwzględnieniem pełnionych funkcji. W dniu głosowania informację o składzie komisji wywiesza się w lokalu wyborczym.
 
-WARSZAWA wymaga osobnego omówienia - inna ustawa reguluje wybory w mieście
-* 18 Dzielnicowych Komisji Wyborczych (równorzędne jednocześnie do Gminnej i Powiatowej Komisji Wyborczej)
-* ok 1000 OKW 
+WARSZAWA - wymaga osobnego omówienia -  
+* 18 Dzielnicowych Komisji Wyborczych (odpowiednik Powiatowej Komisji Wyborczej)
+* ok 1000 Obwodowych Komisji Wyborczych 
