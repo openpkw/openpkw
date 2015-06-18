@@ -25,6 +25,7 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
    * [**Ciekawostki wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/ciekawostki%20wyborcze.md) - Jak się liczy i głosuje - i dzieli mandaty - w innych krajach świata.
    * [**Sejm2015okregi**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Sejm2015okregi.md) - podział Polski na okręgi wyborcze w wyborach do Sejmu RP
    * [**Senat2015okregi**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Senat2015okregi.md) - podział Polski na okręgi wyborcze w wyborach do Senatu RP
+   * [**Referendum2015komisarze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Referendum2015komisarze.md) - Komisarze Wyborczy wraz z zasięgiem terytorialnym. Referendum 2015.
 
 
 # Zawartość katalogu:
