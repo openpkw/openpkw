@@ -42,7 +42,7 @@ Wyborca ma do dyspozycji dwa głosy; pierwszy oddaje na kandydata umieszczonego 
 zgodnie z systemem proporcjonalnym). Drugi głos jest ważniejszy, ponieważ decyduje o tym, ilu deputowanych z danej 
 partii zasiądzie w Bundestagu. W tym systemie wyborczym mogą się wyłonić mandaty nadwyżkowe dla partii, która uzyskała 
 więcej mandatów większościowych, niż przysługuje jej według stosunku proporcjonalnego. Mandaty większościowe mają więc 
-decydujący wpływ na osta-teczną liczbę deputowanych zasiadających w Bundestagu. W niemieckiej ordynacji ist¬nieje także 
+decydujący wpływ na ostateczną liczbę deputowanych zasiadających w Bundestagu. W niemieckiej ordynacji istnieje także 
 próg wyborczy: partie muszą uzyskać 5 proc. ważnie oddanych głosów drugich głosów lub trzy mandaty w systemie większościowym, 
 aby mogły uczestniczyć w rozdziale mandatów.  
 
