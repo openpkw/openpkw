@@ -75,9 +75,9 @@ Lokale wyborcze otwarte od 6:00 do 22:00 (jednodniowe referendum) lub od 6:00 do
 # Organy
 
 Referendum organizuje i przeprowadza:  
-    - Panstwowa Komisja Wyborcza
-    - Komisarz Wyborczy
-    - Obwodowa Komisja d/s referendum
+    - Panstwowa Komisja Wyborcza  
+    - Komisarz Wyborczy  
+    - Obwodowa Komisja d/s referendum  
 
 W skład Obwodowej Komisji d/s referendum wchodzi od 4 do 8 osób (jednodniowe referendum) lub od 6 do 10 osób (dwudniowe referendum) wyłonione w drodze losowania z kandydatów zgłoszonych przez podmioty uprawnione oraz 1 osoba wskazana przez wójta/burmistrza/prezydenta.  
 Podmiotami uprawnionymi do zgłoszenia kandydatów na członków Obwodowej Komisji d/s referendum są:  
