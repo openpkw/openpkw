@@ -8,12 +8,19 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
       * [System_OpenPKW_B.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW_B.md) - opis działu B Systemu OpenPKW - Kalkulator wyborczy.
       * [System_OpenPKW_C.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW_C.md) - opis działu C Systemu OpenPKW - programy mobilne.
       * [System_OpenPKW_D.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW_D.md) - opis działu D Systemu OpenPKW - e-Wybory.
-   * [**Prawo wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze.md) - spis i linki do ustaw, rozporządzeń i uchwał PKW dotyczących wyborów.
+   * [**Prawo wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze.md) - spis i linki do ustaw, rozporządzeń i uchwał PKW dotyczących wyborów.  
+      * Rozdziały I - III. **Przepisy ogólne**  
+   * Rozdział IV. [**W zakresie wyborów samorządowych**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4.md)  
+   * Rozdział V. [**W zakresie wyborów do Sejmu i Senatu**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_5.md)  
+   * Rozdział VI. [**W zakresie wyborów prezydenckich**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6.md)  
+   * Rozdział VII. [**W zakresie wyborów do Europarlamentu**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_7.md)  
+   * Rozdział VIII. [**W zakresie referendów ogólnokrajowych**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md)  
+   * Rozdział IX. [**W zakresie referendów lokalnych**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md)  
    * [**Liczby wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Wybory_statystyka.md) - zestawienie statystyczne dotyczące ilości komisji wyborczych różnych szczebli oraz innych wyborczych danych liczbowych.
    * [**Przetargi**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) - ogłaszane przez PKW w latach 2013/2014.
    * [**Komisje wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Struktura_komisji_wyborczych.md) - opis struktury i wzajemnych powiązań komisji wyborczych wszystkich szczebli.
    * [**Archiwum KBW**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/bazaKBW.md) - struktura bazy archiwalnej KBW (przeszłe akcje wyborcze).
-   * [**Propozycja funkcjonalności**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/oper_kalkulator.md) - kalkulatora wyborczego na localhost.
+   * [**Propozycja funkcjonalności**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/oper_kalkulator.md) - kalkulatora wyborczego na localhost - Moduł **K** (powiązany z modułem **G**).
    * [**Walidacja prezydent 2015**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_prezydent_2015.md) - zasady walidacji poprawności wypełnienia protokołu w wyborach prezydenckich 2015.
    * [**Walidacja podstawy**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_podstawy.md) - zasady walidacji protokołów wyborczych w akcjach dotychczasowych.
    * [**Zmiany**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/zmiana_filozofii_PKW.md) - w obsłudze informatycznej wprowadzone uchwałami PKW z 9 marca 2015 oraz
@@ -67,7 +74,7 @@ Katalog [**master\pliki klk**] (https://github.com/openpkw/openpkw/tree/master/p
 * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FObwodowa%2520komisja%2520wyborcza.xml) - przedstawiający w postaci graficznej przebieg procesów w Obwodowej komisji wyborczej w dniu głosowania.
 * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2Fprzed_wyborami.xml) przedstawiający w postaci graficznej wzajemne powiązania systemów, organizacji i organów wyborczych przed dniam głosowania.
 * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FObwodowa_komisja_A.xml) przedstawiający w postaci graficznej działanie Obwodowej Komisji Wyborczej po zamknięciu lokalu o godz. 21:00 i przystapieniu do wypełniania brudnopisu protokołu - cześć A dotyczy prac **przed** otwarciem urny wyborczej. 
-* [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FObwodowa_komisja_B.xml) przedstawiający w postaci graficznej działanie Obwodowej Komisji Wyborczej po zamknięciu lokalu o godz. 21:00 i przystapieniu do wypełniania brudnopisu protokołu - cześć B dotyczy prac **po** otwarciu urny wyborczej.
+* [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FObwodowa_komisja_B.xml) przedstawiający w postaci graficznej działanie Obwodowej Komisji Wyborczej po zamknięciu lokalu o godz. 21:00 i przystapieniu do wypełniania brudnopisu protokołu - cześć B dotyczy prac **po** otwarciu urny wyborczej. 
 * [**Diagram**] (https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopenpkw%2Fopenpkw%2Fmaster%2Fdokumentacja%2Fprocesy%2FParlament_Sejm.xml) przedstawiający w postaci graficznej kolejność działań zmierzających do ustalenia wyników głosowania oraz wyników wyborów w przypadku proporcjonalnych wyborów parlamentarnych do Sejmu. Diagram pomocniczy do diagramu **Modułu O**.
 
 
