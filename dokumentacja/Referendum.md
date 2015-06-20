@@ -58,6 +58,7 @@ Takie referendum, jeżeli jest ważne, jest wiążące bez względu na frekwencj
 
 # Referendum lokalne 
 
+(do uzupełnienia)
 
 # Głosowanie
 
