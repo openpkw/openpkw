@@ -9,8 +9,9 @@
  VII. [**W zakresie wyborów do Europarlamentu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_7.md) 
 
 # VIII. W zakresie referendów ogólnokrajowych
+**(poniższe akty dotyczą byłych referendów - będą sukcesywnie zmieniane z chwilą ich uaktualnienia w związku z referendum  2015)**
 
-* Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o referendum ogólnokrajowym [**t.j. Dz.U. 2015 poz. 318**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030570507)) 
+* Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o referendum ogólnokrajowym ([**t.j. Dz.U. 2015 poz. 318**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030570507)) 
 
 * **Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 17 czerwca 2015 r. o zarządzeniu ogólnokrajowego referendum** oraz Kalendarz czynności związanych z przeprowadzeniem referendum ogólnokrajowego. ([Dz.U. 2015. poz. 852]  (http://dziennikustaw.gov.pl/DU/2015/852))  
 
