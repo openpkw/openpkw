@@ -10,12 +10,12 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
       * [System_OpenPKW_D.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW_D.md) - opis działu D Systemu OpenPKW - e-Wybory.
    * [**Prawo wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze.md) - spis i linki do ustaw, rozporządzeń i uchwał PKW dotyczących wyborów.  
       * Rozdziały I - III. **Przepisy ogólne**  
-     * Rozdział IV. [**W zakresie wyborów samorządowych**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4.md)  
-     * Rozdział V. [**W zakresie wyborów do Sejmu i Senatu**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_5.md)  
-     * Rozdział VI. [**W zakresie wyborów prezydenckich**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6.md)  
-     * Rozdział VII. [**W zakresie wyborów do Europarlamentu**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_7.md)  
-     * Rozdział VIII. [**W zakresie referendów ogólnokrajowych**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md)  
-     * Rozdział IX. [**W zakresie referendów lokalnych**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md)  
+      * Rozdział IV. [**W zakresie wyborów samorządowych**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4.md)  
+      * Rozdział V. [**W zakresie wyborów do Sejmu i Senatu**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_5.md)  
+      * Rozdział VI. [**W zakresie wyborów prezydenckich**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6.md)  
+      * Rozdział VII. [**W zakresie wyborów do Europarlamentu**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_7.md)  
+      * Rozdział VIII. [**W zakresie referendów ogólnokrajowych**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md)  
+      * Rozdział IX. [**W zakresie referendów lokalnych**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md)  
    * [**Liczby wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Wybory_statystyka.md) - zestawienie statystyczne dotyczące ilości komisji wyborczych różnych szczebli oraz innych wyborczych danych liczbowych.
    * [**Przetargi**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) - ogłaszane przez PKW w latach 2013/2014.
    * [**Komisje wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Struktura_komisji_wyborczych.md) - opis struktury i wzajemnych powiązań komisji wyborczych wszystkich szczebli.
