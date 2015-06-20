@@ -1,7 +1,7 @@
-Rozdział V. W zakresie wyborów do Sejmu i Senatu - nie aktualizuje przepisów prawa bowiem czekam na ogłoszenie wyborów i pojawienie się nowych uchwał PKW.  
-Rozdzia VIII. Referendum ogólnokrajowe - j.w.  
-Pozostałe rozdziały zostały lub są na bieżąco aktualizowane.  
-
+Poniższe rozdziały są na bieżąco aktualizowane w miarę ukazywania się nowych uchwał PKW lub rozporządzeń odpowiednich ministrów zmieniających dotychczas obowiązujące akty prawme:  
+**Rozdział V.** W zakresie wyborów do Sejmu i Senatu  
+**Rozdzia VIII.** Referendum ogólnokrajowe    
+Pozostałe rozdziały zostały zaktualizowane.
 
 # I. Ustawy związane bezpośrednio z wyborami i referendami
 (linki prowadzą do aktualnego tekstu źródłowego wraz z późn. zmianami)
