@@ -81,14 +81,16 @@ wyborach wójtów, burmistrzów i prezydentów miast, w głosowaniu korespondenc
 * Uchwała Państwowej Komisji Wyborczej z dnia 27 marca 2015 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w głosowaniu korespondencyjnym za granicą ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000328))  
 
 
- IV. [**W zakresie wyborów samorządowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4.md) 
+# Przepisy dotyczące konkretnych akcji wyborczych.  
 
- V. [**W zakresie wyborów do Sejmu i Senatu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_5.md) 
+IV. [**W zakresie wyborów samorządowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4.md) 
 
- VI. [**W zakresie wyborów prezydenckich**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6.md) 
+V. [**W zakresie wyborów do Sejmu i Senatu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_5.md) 
 
- VII. [**W zakresie wyborów do Europarlamentu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_7.md) 
+VI. [**W zakresie wyborów prezydenckich**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6.md) 
 
- VIII. [**W zakresie referendów ogólnokrajowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md) 
+VII. [**W zakresie wyborów do Europarlamentu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_7.md) 
 
- IX. [**W zakresie referendów lokalnych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md) 
+VIII. [**W zakresie referendów ogólnokrajowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md) 
+
+IX. [**W zakresie referendów lokalnych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md) 
