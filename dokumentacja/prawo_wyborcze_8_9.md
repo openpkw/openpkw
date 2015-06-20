@@ -1,3 +1,13 @@
+ I - III. [**Przepisy ogólne**] (https://github.com/openpkw/openpkw/edit/master/dokumentacja/prawo_wyborcze.md)
+ 
+ IV. [**W zakresie wyborów samorządowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4.md) 
+
+ V. [**W zakresie wyborów do Sejmu i Senatu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_5.md) 
+
+ VI. [**W zakresie wyborów prezydenckich**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6.md) 
+
+ VII. [**W zakresie wyborów do Europarlamentu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_7.md) 
+
 # VIII. W zakresie referendów ogólnokrajowych
 
 * Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o referendum ogólnokrajowym [**t.j. Dz.U. 2015 poz. 318**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030570507)) 
