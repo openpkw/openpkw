@@ -1,6 +1,8 @@
-I - III. [] ()  
-IV. [] ()  
-V. [] ()  
+I - III. [**Przepisy ogólne**] (https://github.com/openpkw/openpkw/edit/master/dokumentacja/prawo_wyborcze.md)
+ 
+ IV. [**W zakresie wyborów samorządowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4.md) 
+
+ V. [**W zakresie wyborów do Sejmu i Senatu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_5.md) 
 
 # VI. W zakresie wyborów prezydenckich
 
@@ -54,3 +56,9 @@ V. [] ()
 
 * **Uchwała Państwowej Komisji Wyborczej z dnia 20 kwietnia 2015 r. w sprawie dopuszczenia możliwości wykorzystania techniki elektronicznej w wyborach Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. oraz określenia warunków i sposobu jej wykorzystania** ([M.P. z 2015, poz 382] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000382))
 
+
+ VII. [**W zakresie wyborów do Europarlamentu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_7.md) 
+
+ VIII. [**W zakresie referendów ogólnokrajowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md) 
+
+ IX. [**W zakresie referendów lokalnych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md) 
