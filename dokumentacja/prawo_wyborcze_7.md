@@ -1,3 +1,10 @@
+I - III. [**Przepisy ogólne**] (https://github.com/openpkw/openpkw/edit/master/dokumentacja/prawo_wyborcze.md)
+ 
+ IV. [**W zakresie wyborów samorządowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4.md) 
+
+ V. [**W zakresie wyborów do Sejmu i Senatu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_5.md) 
+
+ VI. [**W zakresie wyborów prezydenckich**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6.md) 
 
 # VII. W zakresie wyborów do Europarlamentu
 
@@ -60,3 +67,6 @@ Parlamentu Europejskiego w 2014 r. ([M.P. 2014 poz. 178] (http://isap.sejm.gov.p
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 11 sierpnia 2014 r. w sprawie rozwiązania okręgowych, rejonowych i obwodowych komisji wyborczych powołanych w celu przeprowadzenia wyborów do Parlamentu Europejskiego, zarządzonych na dzień 25 maja 2014 r. ([M.P. 2014 poz. 738] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20140000738))
 
+ VIII. [**W zakresie referendów ogólnokrajowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md) 
+
+ IX. [**W zakresie referendów lokalnych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md) 
