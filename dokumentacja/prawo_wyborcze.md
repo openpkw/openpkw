@@ -1,4 +1,6 @@
-Rozdział V. W zakresie wyborów do Sejmu i Senatu - nie aktualizuje przepisów prawa bowiem czekam na ogłoszenie wyborów i pojawienie się nowych uchwał PKW. Pozostałe rozdziały zostały lub są na bieżąco aktualizowane.
+Rozdział V. W zakresie wyborów do Sejmu i Senatu - nie aktualizuje przepisów prawa bowiem czekam na ogłoszenie wyborów i pojawienie się nowych uchwał PKW.  
+Rozdzia VIII. Referendum ogólnokrajowe - j.w.  
+Pozostałe rozdziały zostały lub są na bieżąco aktualizowane.  
 
 
 # I. Ustawy związane bezpośrednio z wyborami i referendami
@@ -280,18 +282,23 @@ Parlamentu Europejskiego w 2014 r. ([M.P. 2014 poz. 178] (http://isap.sejm.gov.p
 
 # VIII. W zakresie referendów ogólnokrajowych
 
-* rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 kwietnia 2003 r. w sprawie sposobu zgłaszania kandydatów do obwodowych komisji do spraw referendum w referendum ogólnokrajowym oraz powoływania komisji ([Dz. U. Nr 74,
+* Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o referendum ogólnokrajowym [**t.j. Dz.U. 2015 poz. 318**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030570507)) 
+
+* **Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 17 czerwca 2015 r. o zarządzeniu ogólnokrajowego referendum** oraz Kalendarz czynności związanych z przeprowadzeniem referendum ogólnokrajowego. ([Dz.U. 2015. poz. 852]  (http://dziennikustaw.gov.pl/DU/2015/852))  
+
+1) rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 kwietnia 2003 r. w sprawie sposobu zgłaszania
+kandydatów do obwodowych komisji do spraw referendum w referendum ogólnokrajowym oraz powoływania komisji ([Dz. U. Nr 74,
 poz. 671] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030740671) i zmiana: [Nr 80, poz. 730] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030800730+2003%2405%2410&min=1) oraz zmiana: [2011 r. Nr 17, poz. 86] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030800730+2003%2405%2410&min=1)).  
 
-* **Uchwała Państwowej Komisji Wyborczej z dnia 12 maja 2003 r. w sprawie określenia warunków oraz sposobu wykorzystania techniki elektronicznej w referendum ogólnokrajowym w sprawie wyrażenia zgody na ratyfikację Traktatu dotyczącego przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej, zarządzonym na dzień 8 czerwca 2003 r. ([M.P. 2003 nr 25 poz. 366] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20030250366))**
+2) **Uchwała Państwowej Komisji Wyborczej z dnia 12 maja 2003 r. w sprawie określenia warunków oraz sposobu wykorzystania techniki elektronicznej w referendum ogólnokrajowym w sprawie wyrażenia zgody na ratyfikację Traktatu dotyczącego przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej, zarządzonym na dzień 8 czerwca 2003 r. ([M.P. 2003 nr 25 poz. 366] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20030250366))**
 
-* Rozporządzenie Ministra Spraw Wewnetrznych i Administracji z dnia 10 kwietnia 2009 r. zmieniające rozporządzenie w sprawie sposobu sporządzania spisu osób uprawnionych do udziału w referendum ogólnokrajowym ([Dz.U. 2009 nr 63 poz. 529] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090630529)) 
+3) Rozporządzenie Ministra Spraw Wewnetrznych i Administracji z dnia 10 kwietnia 2009 r. zmieniające rozporządzenie w sprawie sposobu sporządzania spisu osób uprawnionych do udziału w referendum ogólnokrajowym ([Dz.U. 2009 nr 63 poz. 529] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090630529)) 
 
-* Uchwała Państwowej Komisji Wyborczej z dnia 12 marca 2007 r. w sprawie wzorów protokołów głosowania i protokołów o wyniku referendum stosowanych w referendum ogólnokrajowym przez obwodowe komisje do spraw referendum, komisarzy wyborczych oraz Państwową Komisję Wyborczą ([M.P. 2007 nr 18 poz. 215] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20070180215))
+4) Uchwała Państwowej Komisji Wyborczej z dnia 12 marca 2007 r. w sprawie wzorów protokołów głosowania i protokołów o wyniku referendum stosowanych w referendum ogólnokrajowym przez obwodowe komisje do spraw referendum, komisarzy wyborczych oraz Państwową Komisję Wyborczą ([M.P. 2007 nr 18 poz. 215] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20070180215))
 
-* Rozporządzenie Ministra Spraw Zagranicznych z dnia 16 maja 2003 r. w sprawie utworzenia obwodów głosowania w referendum ogólnokrajowym dla obywateli polskich przebywających za granicą ([Dz.U. 2003 nr 89 poz. 840] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030890840))
+5) Rozporządzenie Ministra Spraw Zagranicznych z dnia 16 maja 2003 r. w sprawie utworzenia obwodów głosowania w referendum ogólnokrajowym dla obywateli polskich przebywających za granicą ([Dz.U. 2003 nr 89 poz. 840] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030890840))
 
-* Rozporządzenie Ministra Infrastruktury z dnia 16 maja 2003 r. w sprawie utworzenia obwodów głosowania w referendum ogólnokrajowym dla wyborców przebywających na polskich statkach morskich ([Dz.U. 2003 nr 89 poz. 835] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030890835))
+6) Rozporządzenie Ministra Infrastruktury z dnia 16 maja 2003 r. w sprawie utworzenia obwodów głosowania w referendum ogólnokrajowym dla wyborców przebywających na polskich statkach morskich ([Dz.U. 2003 nr 89 poz. 835] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030890835))
 
 # IX. W zakresie referendów lokalnych
 
