@@ -13,7 +13,7 @@
 
 * Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o referendum ogólnokrajowym ([**t.j. Dz.U. 2015 poz. 318**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030570507)) 
 
-* **Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 17 czerwca 2015 r. o zarządzeniu ogólnokrajowego referendum** oraz Kalendarz czynności związanych z przeprowadzeniem referendum ogólnokrajowego. ([Dz.U. 2015. poz. 852]  (http://dziennikustaw.gov.pl/DU/2015/852))
+* **Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 17 czerwca 2015 r. o zarządzeniu ogólnokrajowego referendum** oraz Kalendarz czynności związanych z przeprowadzeniem referendum ogólnokrajowego. ([Dz.U. 2015. poz. 852]  (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150000852))
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 22 czerwca 2015 r. w sprawie wzorów karty do głosowania oraz nakładki na kartę do głosowania sporządzonej w alfabecie Braille’a w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([skierowany do publikacji] (http://pkw.gov.pl/RK_2015_Uchwa%C5%82y_PKW/uchwala-panstwowej-komisji-wyborczej-z-dnia-22-czerwca-2015-r-w-sprawie-wzorow-karty-do-glosowania-oraz-nakladki-na-karte-do-glosowania-sporzadzonej-w-alfabecie-braille-a-w-referendum-ogolnokrajowym-zarzadzonym-na-dzien-6-wrzesnia-2015-r.html))  
    * [**wzór karty do głosowania**] (http://pkw.gov.pl/g2/oryginal/2015_06/ae7c321bce7ee5bc2e50df1ac8a7f5a8.pdf)  
