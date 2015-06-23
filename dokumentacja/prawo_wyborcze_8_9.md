@@ -15,8 +15,10 @@
 
 * **Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 17 czerwca 2015 r. o zarządzeniu ogólnokrajowego referendum** oraz Kalendarz czynności związanych z przeprowadzeniem referendum ogólnokrajowego. ([Dz.U. 2015. poz. 852]  (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150000852))
 
-* Uchwała Państwowej Komisji Wyborczej z dnia 22 czerwca 2015 r. w sprawie wzorów karty do głosowania oraz nakładki na kartę do głosowania sporządzonej w alfabecie Braille’a w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([skierowany do publikacji] (http://pkw.gov.pl/RK_2015_Uchwa%C5%82y_PKW/uchwala-panstwowej-komisji-wyborczej-z-dnia-22-czerwca-2015-r-w-sprawie-wzorow-karty-do-glosowania-oraz-nakladki-na-karte-do-glosowania-sporzadzonej-w-alfabecie-braille-a-w-referendum-ogolnokrajowym-zarzadzonym-na-dzien-6-wrzesnia-2015-r.html))  
+* Uchwała Państwowej Komisji Wyborczej z dnia 22 czerwca 2015 r. w sprawie wzorów karty do głosowania oraz nakładki na kartę do głosowania sporządzonej w alfabecie Braille’a w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([skierowana do publikacji] (http://pkw.gov.pl/RK_2015_Uchwa%C5%82y_PKW/uchwala-panstwowej-komisji-wyborczej-z-dnia-22-czerwca-2015-r-w-sprawie-wzorow-karty-do-glosowania-oraz-nakladki-na-karte-do-glosowania-sporzadzonej-w-alfabecie-braille-a-w-referendum-ogolnokrajowym-zarzadzonym-na-dzien-6-wrzesnia-2015-r.html))  
    * [**wzór karty do głosowania**] (http://pkw.gov.pl/g2/oryginal/2015_06/ae7c321bce7ee5bc2e50df1ac8a7f5a8.pdf)  
+
+* Uchwała Państwowej Komisji Wyborczej z dnia 22 czerwca 2015 r. w sprawie wytycznych dotyczących druku kart do głosowania oraz wytycznych dla komisarzy wyborczych dotyczących dostarczenia kart do głosowania wraz z nakładkami na karty do głosowania sporządzonymi w alfabecie Braille'a obwodowym komisjom do spraw referendum utworzonym w kraju w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([skierowana do publikacji] (http://pkw.gov.pl/g2/oryginal/2015_06/cae8a5059657db4e6813c7bb2496d20d.pdf))  
 
 * Informacja o warunkach udziału w głosowaniu w obwodach głosowania utworzonych w kraju, w referendum ogólnokrajowym, zarządzonym na dzień 6 września 2015 r. ([ZPOW-803-14/15] (http://pkw.gov.pl/g2/oryginal/2015_06/b54da212c21528d62e3b37478c44b76d.pdf))  
 
