@@ -1,15 +1,15 @@
  I - III. [**Przepisy ogólne**] (https://github.com/openpkw/openpkw/edit/master/dokumentacja/prawo_wyborcze.md)
  
- IV. [**W zakresie wyborów samorządowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4.md) 
+ IV. [**W zakresie wyborów samorządowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4_samorzad.md) 
 
- V. [**W zakresie wyborów do Sejmu i Senatu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_5.md) 
+ V. [**W zakresie wyborów do Sejmu i Senatu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_5_parlament.md) 
 
- VI. [**W zakresie wyborów prezydenckich**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6.md) 
+ VI. [**W zakresie wyborów prezydenckich**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6_prezydent.md) 
 
- VII. [**W zakresie wyborów do Europarlamentu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_7.md) 
+ VII. [**W zakresie wyborów do Europarlamentu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_7_europarlament.md) 
 
 # VIII. W zakresie referendów ogólnokrajowych
-**(poniższe akty dotyczą byłych referendów - będą sukcesywnie zmieniane z chwilą ich uaktualnienia w związku z referendum  2015)**
+
 
 * Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o referendum ogólnokrajowym ([**t.j. Dz.U. 2015 poz. 318**] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030570507)) 
 
@@ -23,6 +23,8 @@
 * Informacja o warunkach udziału w głosowaniu w obwodach głosowania utworzonych w kraju, w referendum ogólnokrajowym, zarządzonym na dzień 6 września 2015 r. ([ZPOW-803-14/15] (http://pkw.gov.pl/g2/oryginal/2015_06/b54da212c21528d62e3b37478c44b76d.pdf))  
 
 * Informacja dotycząca formy składania wniosków dotyczących: dopisania do spisu wyborców (spisu osób uprawnionych do udziału w referendum) w wybranym obwodzie głosowania, zgłoszenia zamiaru głosowania korespondencyjnego, głosowania przez pełnomocnika oraz wydania zaświadczenia o prawie do głosowania. ([ZPOW-432-7/15] (http://pkw.gov.pl/g2/oryginal/2015_06/af0411daabe8587f723e3036d6fc6763.pdf))  
+* 
+**(poniższe akty dotyczą byłych referendów - będą sukcesywnie zmieniane z chwilą ich uaktualniania w związku z referendum  2015)**  
 
 1) rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 kwietnia 2003 r. w sprawie sposobu zgłaszania
 kandydatów do obwodowych komisji do spraw referendum w referendum ogólnokrajowym oraz powoływania komisji ([Dz. U. Nr 74,
