@@ -1,6 +1,6 @@
 I - III. [**Przepisy ogólne**] (https://github.com/openpkw/openpkw/edit/master/dokumentacja/prawo_wyborcze.md)
  
-IV. [**W zakresie wyborów samorządowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4.md) 
+IV. [**W zakresie wyborów samorządowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4_samorzad.md) 
 
 # V. W zakresie wyborów do Sejmu i Senatu
 **(poniższe akty dotyczą wyborów z poprzedniej kadencji - będą sukcesywnie zmieniane z chwilą ogłoszenia wyborów do nowej kadencji 2015)**
@@ -32,11 +32,10 @@ do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej ([M.P. 
 8) uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wytycznych dotyczących stosowania uchwał Państwowej Komisji Wyborczej w wyborach uzupełniających do senatu Rzeczypospolitej Polskiej VIII kadencji ([M.P. poz. 124] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20130000124));  
 
 
+ VI. [**W zakresie wyborów prezydenckich**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6_prezydent.md) 
 
- VI. [**W zakresie wyborów prezydenckich**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6.md) 
+ VII. [**W zakresie wyborów do Europarlamentu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_7_europarlament.md) 
 
- VII. [**W zakresie wyborów do Europarlamentu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_7.md) 
+ VIII. [**W zakresie referendów ogólnokrajowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8i9_referenda.md) 
 
- VIII. [**W zakresie referendów ogólnokrajowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md) 
-
- IX. [**W zakresie referendów lokalnych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md) 
+ IX. [**W zakresie referendów lokalnych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8i9_referenda.md) 
