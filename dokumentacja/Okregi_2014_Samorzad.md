@@ -9,3 +9,5 @@ W przypadku wyborów samorządowych rolę Okręgów (okręgowych Komisji Wyborcz
 W gminach i miastach nie będących na prawach powiatów tworzy się jednomandatowe okręgi wyborcze.  
 
 W pozostałych jednostkach samorządu terytorialnego tworzy się wielomandatowe okręgi wyborcze.  
+
+Dokładniejsze informacje na temat [**Komisji wyborczych**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Struktura_komisji_wyborczych.md) oraz [**tutaj**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Wybory_statystyka.md)
