@@ -76,8 +76,8 @@ Lokale wyborcze otwarte od 6:00 do 22:00 (jednodniowe referendum) lub od 6:00 do
 # Organy
 
 Referendum organizuje i przeprowadza:  
-    - Panstwowa Komisja Wyborcza  
-    - Komisarz Wyborczy  
+    - Państwowa Komisja Wyborcza  
+    - [Komisarz Wyborczy] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Okregi_2015_Referendum.md)  
     - Obwodowa Komisja d/s referendum  
 
 W skład Obwodowej Komisji d/s referendum wchodzi od 4 do 8 osób (jednodniowe referendum) lub od 6 do 10 osób (dwudniowe referendum) wyłonione w drodze losowania z kandydatów zgłoszonych przez podmioty uprawnione oraz 1 osoba wskazana przez wójta/burmistrza/prezydenta.  
@@ -90,7 +90,7 @@ Podmiotami uprawnionymi do zgłoszenia kandydatów na członków Obwodowej Komis
 
 # Terminy
 
-40 dni przed dniem referendum - Informacja o mumerach, granicach obwodów oraz siedzibach OK d/s referendum.  
+40 dni przed dniem referendum - Informacja o mumerach, granicach obwodów oraz siedzibach Obw.Komisji d/s referendum.  
 21 dni przed dniem referendum - Powołanie Obwodowych Komisji d/s referendum przez w/b/p.  
 
 pozostale terminy zgodnie z Kodeksem Wyborczym.
