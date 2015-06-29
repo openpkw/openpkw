@@ -1,5 +1,4 @@
-# Słownik pojęć 
-Jest to plik nadrzędny w którym gromadzone są definicje pojęć. Sortujemy alfabetycznie. W podrzędnych plikach MD takich jak np. analizy bądź protokoły linkujemy bezpośrednio do definicji w słowniku.
+# Słownik pojęć wyborczych  
 
 **Błędy twarde** – informacje przekazywane przez system  lub program Kalkulator wyborczy (po -> **Walidacji**), członkom obwodowej komisji wyborczej o ewidentnych błędach obliczeniowych powstałych w trakcie tworzenia protokołu obwodowego. W systemie komunikaty o błędach twardych są sygnalizowane na czerwono. Protokołu z błedami twardymi nie można zatwierdzić (podpisać), wysłać na serwer centralny ani wydrukować. Drukowane jest jedynie -> **Zestawienie błędów**.  
 Może się zdarzyć, że to co program bierze za **błąd twardy** wystąpiło w rzeczywistości i należy z takim błędem wysłać protokół – w takim przypadku należy skontaktować się gminnym pełnomocnikiem (informatykiem). Trzeba będzie podać kod błędu oraz wyjaśnienie dlaczego taki błąd wystąpił. Te informacje przekazywane są do Okręgowej Komisji Wyborczej i po analizie możemy (lub nie) otrzymać kod odblokowujący. Kod przekazany operatorowi, umożliwia wysyłkę protokołu pomimo błędu.   
@@ -44,9 +43,11 @@ Zmiana którejkolwiek z tych informacji jest natychmiast automatycznie wprowadza
 
 **Protokół obwodowy** – dokument tworzony przez Obwodową Komisję Wyborczą, zawierający wyniki głosowania w obwodzie, wywieszany do publicznej wiadomości oraz przekazywany do Okręgowej Komisji Wyborczej w celu weryfikacji i obliczenia wyników wyborów w okręgu.
 
-**Raport frekwencji** - -> **Godziny sprawozdawcze**
+**Raport frekwencji** - patrz -> **Godziny sprawozdawcze**
 
 **Raport ostrzeżeń** – dokument zawierający informacje o ostrzeżeniach powstałych w trakcie wprowadzania wyników głosowania do programu (-> **Walidacja**). Musi być przekazany wraz z protokołami do okręgowej komisji wyborczej.
+
+**Referendum** - patrz -> [tutaj] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Referendum.md)  
 
 **Stany protokołu** - 
   * wprowadzony - dokument wypełniony przez operatora komisji obwodowej nastąpił wydruk -> **Zestawienie błędów**
@@ -59,9 +60,11 @@ Zmiana którejkolwiek z tych informacji jest natychmiast automatycznie wprowadza
       * wariant 1: Protokół wraca do stanu **wprowadzony** w obwodowej komisji wyborczej, można w nim nanieść poprawki.
       * wariant 2: W Obwodowej Komisji Wyborczej stan "czysty" tak jak przed rozpoczęciem pracy/wprowadzania danych. Wymagane wprowadzenie wszystkich danych od początku. Odrzucony protokół jest zablokowany i nie można wprowadzić w nim poprawek. Na nowym protokole w prawym górnym rogu pierwszej strony pojawia sie adnotacja **KOREKTA**.
 
+**Systemy wyborcze** - patrz -> [tutaj] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/systemy_wyborcze.md)  
+
 **Użytkownik gminny lub okręgowy** – osoba upoważniona do pracy w systemie w gminie, dzielnicy, konsulacie, Okręgowej Komisji Wyborczej lub Krajowym Biurze Wyborczym. 
 
-**Walidacja** - sprawdzenie wprowadzonych wartości liczbowych (oraz sum tych wartości) do protokołu z zasadami poprawności ustalonymi wcześniej i wprwadzonymi na stałę w systemie komputerowym. W wyniku **walidacji** pojawiają się -> **Ostrzeżenia** i -> **Błędy twarde**
+**Walidacja** - sprawdzenie wprowadzonych wartości liczbowych (oraz sum tych wartości) do protokołu z zasadami poprawności ustalonymi wcześniej i wprwadzonymi na stałę w systemie komputerowym. W wyniku **walidacji** pojawiają się patrz -> **Ostrzeżenia** i patrz -> **Błędy twarde**
 
 **Weryfikacja protokołu**  - polega na dokładnym (organoleptycznym) porównaniu wydruku protokołu obwodowego z wartościami i tekstem wprowadzonym przez komisję obwodową do systemu. 
 
