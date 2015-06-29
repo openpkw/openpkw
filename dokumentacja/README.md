@@ -10,12 +10,12 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
       * [System_OpenPKW_D.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW_D.md) - opis działu D Systemu OpenPKW - e-Wybory.
    * [**Prawo wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze.md) - spis i linki do ustaw, rozporządzeń i uchwał PKW dotyczących wyborów.  
       * Rozdziały I - III. **Przepisy ogólne**  
-      * Rozdział IV. [**W zakresie wyborów samorządowych**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4.md)  
-      * Rozdział V. [**W zakresie wyborów do Sejmu i Senatu**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_5.md)  
-      * Rozdział VI. [**W zakresie wyborów prezydenckich**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6.md)  
-      * Rozdział VII. [**W zakresie wyborów do Europarlamentu**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_7.md)  
-      * Rozdział VIII. [**W zakresie referendów ogólnokrajowych**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md)  
-      * Rozdział IX. [**W zakresie referendów lokalnych**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8_9.md)  
+      * Rozdział IV. [**W zakresie wyborów samorządowych**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4_samorzad.md)  
+      * Rozdział V. [**W zakresie wyborów do Sejmu i Senatu**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_5_parlament.md)  
+      * Rozdział VI. [**W zakresie wyborów prezydenckich**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6_prezydent.md)  
+      * Rozdział VII. [**W zakresie wyborów do Europarlamentu**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_7_europarlament.md)  
+      * Rozdział VIII. [**W zakresie referendów ogólnokrajowych**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8i9_referenda.md)  
+      * Rozdział IX. [**W zakresie referendów lokalnych**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8i9_referenda.md)  
    * [**Liczby wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Wybory_statystyka.md) - zestawienie statystyczne dotyczące ilości komisji wyborczych różnych szczebli oraz innych wyborczych danych liczbowych.
    * [**Przetargi**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Przetargi_PKW_2013_1014.md) - ogłaszane przez PKW w latach 2013/2014.
    * [**Komisje wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Struktura_komisji_wyborczych.md) - opis struktury i wzajemnych powiązań komisji wyborczych wszystkich szczebli.
@@ -30,9 +30,11 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
    * [**Walidacja parlament**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_parlament.md) - zasady walidacji protokołów wyborczych w wyborach parlamentarnych (Sejm i Senat).  
    * [**Systemy wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/systemy_wyborcze.md) - Kilka (?) podstawowych informacji o systemach wyborczych (sposobach podziału wyborczego i sposobach liczenia głosów).  
    * [**Ciekawostki wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/ciekawostki%20wyborcze.md) - Jak się liczy i głosuje - i dzieli mandaty - w innych krajach świata.
-   * [**Sejm2015okregi**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Sejm2015okregi.md) - podział Polski na okręgi wyborcze w wyborach do Sejmu RP
-   * [**Senat2015okregi**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Senat2015okregi.md) - podział Polski na okręgi wyborcze w wyborach do Senatu RP
-   * [**Referendum2015komisarze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Referendum2015komisarze.md) - Komisarze Wyborczy wraz z zasięgiem terytorialnym. Referendum 2015.
+   * [**Okregi_2015_Sejm**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Okregi_2015_Sejm.md) - podział Polski na okręgi wyborcze w wyborach do Sejmu RP
+   * [**Okregi_2015_Senat**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Okregi_2015_Senat.md) - podział Polski na okręgi wyborcze w wyborach do Senatu RP
+   * [**Okregi_2015_Referendum**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Okregi_2015_Referendum.md) - Komisarze Wyborczy wraz z zasięgiem terytorialnym. Referendum 2015.  
+   * [**Okregi_2014_Europarlament**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Okregi_2014_Europarlament.md) - podział Polski na okręgi wyborcze w wyborach do Europarlamentu 2014.     
+   * [**Okregi_2014_Samorzad**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Okregi_2014_Samorzad.md) - zasady podziału Polski w wyborach samorządowych 2014 r.  
 
 
 # Zawartość katalogu:
