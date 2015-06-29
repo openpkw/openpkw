@@ -63,8 +63,6 @@ wyborach wójtów, burmistrzów i prezydentów miast** ([M.P. 2014, poz. 903] (h
 * Uchwała Państwowej Komisji Wyborczej z dnia 12 stycznia 2015 r. zmieniająca uchwałę w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille’a, w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast ([M.P. 2015, poz. 147] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000147))
 
 
-IV. [**W zakresie wyborów samorządowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4_samorzad.md) 
-
 V. [**W zakresie wyborów do Sejmu i Senatu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_5_parlament.md) 
 
 VI. [**W zakresie wyborów prezydenckich**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6_prezydent.md) 
