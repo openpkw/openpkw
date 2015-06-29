@@ -14,8 +14,10 @@ W skład **okręgowej komisji wyborczej** wchodzi od 5 do 11 sędziów, w tym z 
 Sędziów do składu komisji zgłasza Minister Sprawiedliwości, w liczbie uzgodnionej z Państwową Komisją Wyborczą, najpóźniej w 52 dniu przed dniem wyborów.
 Państwowa Komisja Wyborcza powołuje okręgowe komisje wyborcze najpóźniej w 48 dniu przed dniem wyborów.  
 Ilość okręgów wyborczych i ich zasięg terytorialny w wyborach do Sejmu, Senatu i Parlamentu Europejskiego jest ustalona w załącznikach do [Kodeksu Wyborczego] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20110210112).  
-[Okręgi Sejm] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Sejm2015okregi.md)  
-[Okręgi Senat] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Senat2015okregi.md)  
+[Okręgi Sejm] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Okregi_2015_Sejm.md)  
+[Okręgi Senat] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Okregi_2015_Senat.md)  
+[Okręgi Europarlament] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Okregi_2014_Europarlament.md)  
+[Okręgi Referendum] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Okregi_2015_Referendum.md)  
 
 W skład **rejonowej komisji wyborczej** wchodzi 5 sędziów, w tym z urzędu, jako jej przewodniczący, komisarz wyborczy. W skład komisji może być także powołany sędzia w stanie spoczynku, który nie ukończył 70 lat.
 
