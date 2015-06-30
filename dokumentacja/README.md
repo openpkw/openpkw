@@ -9,7 +9,7 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
       * [System_OpenPKW_C.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW_C.md) - opis działu C Systemu OpenPKW - programy mobilne.
       * [System_OpenPKW_D.md] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW_D.md) - opis działu D Systemu OpenPKW - e-Wybory.
    * [**Prawo wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze.md) - spis i linki do ustaw, rozporządzeń i uchwał PKW dotyczących wyborów.  
-      * Rozdziały I - III. **Przepisy ogólne**  
+      * Rozdziały I - III. [**Przepisy ogólne**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze.md)  
       * Rozdział IV. [**W zakresie wyborów samorządowych**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4_samorzad.md)  
       * Rozdział V. [**W zakresie wyborów do Sejmu i Senatu**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_5_parlament.md)  
       * Rozdział VI. [**W zakresie wyborów prezydenckich**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6_prezydent.md)  
