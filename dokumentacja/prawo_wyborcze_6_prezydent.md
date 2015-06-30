@@ -54,7 +54,11 @@ I - III. [**Przepisy ogólne**] (https://github.com/openpkw/openpkw/edit/master/
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 14 kwietnia 2015 r. w sprawie listy kandydatów na Prezydenta Rzeczypospolitej Polskiej w wyborach zarządzonych na dzień 10 maja 2015 r. ([M.P. 2015, poz. 368]  (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000368))  
 
-* **Uchwała Państwowej Komisji Wyborczej z dnia 20 kwietnia 2015 r. w sprawie dopuszczenia możliwości wykorzystania techniki elektronicznej w wyborach Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. oraz określenia warunków i sposobu jej wykorzystania** ([M.P. z 2015, poz 382] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000382))
+* **Uchwała Państwowej Komisji Wyborczej z dnia 20 kwietnia 2015 r. w sprawie dopuszczenia możliwości wykorzystania techniki elektronicznej w wyborach Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. oraz określenia warunków i sposobu jej wykorzystania** ([M.P. z 2015, poz 382] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000382))  
+
+* Uchwała Państwowej Komisji Wyborczej w sprawie rozwiązania okręgowych i obwodowych komisji wyborczych, powołanych w celu przeprowadzenia wyborów Prezydenta Rzeczypospolitej Polskiej zarządzonych na dzień 10 maja 2015 r. ([skierowana do druku] (http://prezydent2015.pkw.gov.pl/akty_prawne/0/72_Uchwala_Panstwowej_Komisji_Wyborczej_z_dnia_24_czerwca_2015_r_w_sprawie_rozwiazania_okregowych_i_obwodowych_komisji_wyborczych_powolanych_w_celu_przeprowadzenia_wyborow__Prezydenta_Rzeczypospolitej_Polskiej_zarzadzonych_na_dzien_10_maja_2015_r))  
+
+* Uchwała Sądu Najwyższego z dnia 23 czerwca 2015 r. w sprawie ważności wyborów Prezydenta Rzeczypospolitej Polskiej przeprowadzonych w dniach 10 i 24 maja 2015 r. ([skierowany do publikacji] (http://pkw.gov.pl/g2/oryginal/2015_06/fa68063fafb410d768e95413f914e28a.pdf)) 
 
 
  VII. [**W zakresie wyborów do Europarlamentu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_7_europarlament.md) 
