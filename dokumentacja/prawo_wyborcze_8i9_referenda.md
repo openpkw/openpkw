@@ -19,6 +19,8 @@
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 22 czerwca 2015 r. w sprawie wytycznych dotyczących druku kart do głosowania oraz wytycznych dla komisarzy wyborczych dotyczących dostarczenia kart do głosowania wraz z nakładkami na karty do głosowania sporządzonymi w alfabecie Braille'a obwodowym komisjom do spraw referendum utworzonym w kraju w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([skierowana do publikacji] (http://pkw.gov.pl/g2/oryginal/2015_06/cae8a5059657db4e6813c7bb2496d20d.pdf))  
 
+* Uchwała Państwowej Komisji Wyborczej z dnia 29 czerwca 2015 r. w sprawie określenia wzoru i rozmiaru koperty na pakiet referendalny, koperty zwrotnej, koperty na kartę do głosowania, oświadczenia o osobistym i tajnym oddaniu głosu oraz instrukcji głosowania korespondencyjnego w referendum ogólnokrajowym ([skierowana do publikacji] (http://pkw.gov.pl/g2/oryginal/2015_06/490418e1c66d41a5a681b016435bd5ad.pdf)) 
+
 * Informacja o warunkach udziału w głosowaniu w obwodach głosowania utworzonych w kraju, w referendum ogólnokrajowym, zarządzonym na dzień 6 września 2015 r. ([ZPOW-803-14/15] (http://pkw.gov.pl/g2/oryginal/2015_06/b54da212c21528d62e3b37478c44b76d.pdf))  
 
 * Informacja dotycząca formy składania wniosków dotyczących: dopisania do spisu wyborców (spisu osób uprawnionych do udziału w referendum) w wybranym obwodzie głosowania, zgłoszenia zamiaru głosowania korespondencyjnego, głosowania przez pełnomocnika oraz wydania zaświadczenia o prawie do głosowania. ([ZPOW-432-7/15] (http://pkw.gov.pl/g2/oryginal/2015_06/af0411daabe8587f723e3036d6fc6763.pdf))  
