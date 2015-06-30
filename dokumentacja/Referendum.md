@@ -56,9 +56,49 @@ Ustawa o referendum ogólnokrajowym określa również w art. 78 ust. 1 słowa o
 
 Takie referendum, jeżeli jest ważne, jest wiążące bez względu na frekwencję. Jeżeli większość głosujących opowie się za zmianą Konstytucji, ustawę zmieniającą Prezydent musi podpisać w ciągu 21 dni od dostarczenia mu jej przez Marszałka Sejmu.  
 
-# Referendum lokalne 
+#Referenda lokalne
 
-(do uzupełnienia)
+Referendum jest, (odpowiednio do wspólnoty samorządowej, której spraw dotyczy):  
+     * referendum gminnym w rozumieniu ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. 2013 r. poz. 594 i 645);  
+     * referendum powiatowym w rozumieniu ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. 2013 r. poz. 595 i 645);  
+     * referendum wojewódzkim w rozumieniu ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. 2013 r. poz. 596 i 645).  
+
+W referendum lokalnym, zwanym dalej „referendum”, mieszkańcy jednostki samorządu terytorialnego jako członkowie wspólnoty samorządowej wyrażają w drodze głosowania swoją wolę:  
+     * w sprawie odwołania organu stanowiącego tej jednostki;  
+     * co do sposobu rozstrzygania sprawy dotyczącej tej wspólnoty, mieszczącej się w zakresie zadań i kompetencji organów danej jednostki;  
+     * w innych istotnych sprawach, dotyczących społecznych, gospodarczych lub kulturowych więzi łączących tę wspólnotę.  
+Przedmiotem referendum gminnego może być również: odwołanie wójta (burmistrza, prezydenta miasta) oraz samoopodatkowanie się mieszkańców na cele publiczne mieszczące się w zakresie zadań i kompetencji organów gminy.  
+W referendum mają prawo brać udział osoby stale zamieszkujące na obszarze danej jednostki samorządu terytorialnego, posiadające czynne prawo wyborcze do organu stanowiącego tej jednostki.  
+Referendum przeprowadza się, z zastrzeżeniem z inicjatywy organu stanowiącego danej jednostki samorządu terytorialnego lub na
+wniosek co najmniej:  
+     * 10% uprawnionych do głosowania mieszkańców gminy albo powiatu;  
+     * 5% uprawnionych do głosowania mieszkańców województwa.  
+W sprawach odwołania organu stanowiącego jednostki samorządu terytorialnego przed upływem kadencji rozstrzyga się wyłącznie w drodze referendum przeprowadzonego na wniosek mieszkańców.  
+     * Wniosek mieszkańców gminy, może dotyczyć odwołania rady gminy i wójta (burmistrza, prezydenta miasta) albo odwołania jednego z tych organów.  
+     * Referendum w sprawie odwołania wójta (burmistrza, prezydenta miasta) może być przeprowadzone także z inicjatywy rady gminy.  
+Wniosek mieszkańców, może zostać złożony po upływie 10 miesięcy od dnia wyboru organu albo 10 miesięcy od dnia ostatniego referendum w sprawie jego odwołania i nie później niż na 8 miesięcy przed zakończeniem jego kadencji. 
+Uchwała organu stanowiącego jednostki samorządu terytorialnego w sprawie przeprowadzenia referendum podlega ogłoszeniu w wojewódzkim dzienniku urzędowym, przy czym uchwała rady gminy podlega ponadto bezzwłocznemu rozplakatowaniu lub ogłoszeniu w inny sposób zwyczajowo przyjęty w danej gminie.  
+Referendum przeprowadza się w dzień wolny od pracy, najpóźniej w 50 dniu od dnia opublikowania uchwały w wojewódzkim dzienniku urzędowym.  
+
+Z inicjatywą przeprowadzenia referendum na wniosek mieszkańców jednostki samorządu terytorialnego wystąpić może:  
+     * grupa co najmniej 15 obywateli, którym przysługuje prawo wybierania do organu stanowiącego danej jednostki samorządu terytorialnego, a w odniesieniu do referendum gminnego – także 5 obywateli, którym przysługuje prawo wybierania do rady gminy;  
+     * statutowa struktura terenowa partii politycznej działająca w danej jednostce samorządu terytorialnego;  
+     * organizacja społeczna posiadająca osobowość prawną, której statutowym terenem działania jest co najmniej obszar danej jednostki samorządu terytorialnego.  
+     Z inicjatywą przeprowadzenia referendum na wniosek mieszkańców gminy w sprawie utworzenia, połączenia, podziału i zniesienia gminy oraz ustalenia granic gminy wystąpić może jedynie grupa co najmniej 15 obywateli, którym przysługuje
+prawo wybierania do rady gminy.  
+Inicjator referendum powiadamia na piśmie przewodniczącego zarządu danej jednostki samorządu terytorialnego, a w gminie wójta (burmistrza, prezydenta miasta), o zamiarze wystąpienia z inicjatywą przeprowadzenia referendum. O zamiarze przeprowadzenia referendum informuje się także komisarza wyborczego.  
+We wniosku podawane są nazwiska, imiona, adresy zamieszkania oraz numery PESEL wszystkich członków grupy. Wskazany musi być w nim również jedna osoba, która będzie pełnomocnikiem. Pełnomocnikiem inicjatora referendum może być jedynie osoba, której przysługuje prawo wybierania do organu stanowiącego danej jednostki samorządu terytorialnego. Przewodniczący zarządu jednostki samorządu terytorialnego, a w gminie wójt (burmistrz, prezydent miasta), niezwłocznie potwierdza na piśmie otrzymanie powiadomienia.  
+ 
+Pomysłodawcy odwołania powinni następnie poinformować mieszkańców gminy o planowanym referendum. Może to być np. ogłoszenie w lokalnej prasie, które inicjatorzy finansują z własnej kieszeni. Mieszkańcy muszą się dowiedzieć nie tylko o samym pomyśle, lecz również o przyczynach uzasadniających odwołanie wójta czy burmistrza.    
+Informacja o planowanym referendum powinna zawierać również pytanie, na które mieszkańcy będą odpowiadać.  
+W ciągu 60 dni od powiadomienia wójta (burmistrza, prezydenta miasta) trzeba zebrać podpisy 10% osób uprawnionych do głosowania w gminie, którzy są za odwołaniem.  
+Mieszkaniec popierający wniosek o przeprowadzenie referendum podaje nazwisko, imię, adres zamieszkania i numer PESEL. Dane te potwierdza własnoręcznym podpisem. Należy pamiętać, że raz udzielonego poparcia nie możemy wycofać.  
+Wniosek z zebranymi podpisami trzeba przekazać komisarzowi wyborczemu. Jeżeli jest on kompletny (przede wszystkim zawiera wszystkie podpisy, uzasadnienie odwołania, informację o powiadomieniu wójta o referendum) to komisarz potwierdza na piśmie, że go otrzymał. W innym przypadku dostaniemy 14 dni na uzupełnienie wniosku.  
+Jeśli wszystko jest jednak w porządku, to komisarz wydaje postanowienie o przeprowadzeniu referendum. Ustala on jego termin i przedstawia wzór karty do głosowania.  
+Referendum jest ważne, jeżeli wzięło w nim udział co najmniej 30% uprawnionych do głosowania ale **Referendum w sprawie odwołania organu jednostki samorządu terytorialnego pochodzącego z wyborów bezpośrednich jest ważne w przypadku, gdy udział w nim wzięło nie mniej niż 3/5 liczby biorących udział w wyborze odwoływanego organu.**  
+ 
+Jeżeli  referendum dotyczy odwołania wójta/burmistrza/prezydenta to zostanie on pozbawiony stanowiska, gdy spośród ważnych głosów więcej będzie za odwołaniem niż przeciw. Wraz z wygaśnięciem mandatu w/b/p odwołani zostaną również jego zastępcy. Do czasu nowych wyborów obowiązki w/b/p pełni osoba wyznaczona przez premiera.  
+Szef rządu powinien również niezwłocznie zarządzić wybory przedterminowe.  
 
 # Głosowanie
 
