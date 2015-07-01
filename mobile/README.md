@@ -1,8 +1,3 @@
-##Projekt przeniesiony tu:
-https://github.com/openpkw/mobile/README.md
-## REPO Closed 01.07.2015
-
-
 
 # OpenPKW Mobile
 
