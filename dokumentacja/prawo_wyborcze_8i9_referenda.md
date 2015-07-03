@@ -14,7 +14,7 @@
 
 * **Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 17 czerwca 2015 r. o zarządzeniu ogólnokrajowego referendum** oraz Kalendarz czynności związanych z przeprowadzeniem referendum ogólnokrajowego. ([Dz.U. 2015. poz. 852]  (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150000852))
 
-* Uchwała Państwowej Komisji Wyborczej z dnia 22 czerwca 2015 r. w sprawie wzorów karty do głosowania oraz nakładki na kartę do głosowania sporządzonej w alfabecie Braille’a w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([M.P. 2015 poz. 573] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000572))  
+* Uchwała Państwowej Komisji Wyborczej z dnia 22 czerwca 2015 r. w sprawie wzorów karty do głosowania oraz nakładki na kartę do głosowania sporządzonej w alfabecie Braille’a w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([M.P. 2015 poz. 572] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000572))  
    * [**wzór karty do głosowania**] (http://pkw.gov.pl/g2/oryginal/2015_06/ae7c321bce7ee5bc2e50df1ac8a7f5a8.pdf)  
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 22 czerwca 2015 r. w sprawie wytycznych dotyczących druku kart do głosowania oraz wytycznych dla komisarzy wyborczych dotyczących dostarczenia kart do głosowania wraz z nakładkami na karty do głosowania sporządzonymi w alfabecie Braille'a obwodowym komisjom do spraw referendum utworzonym w kraju w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([M.P. 2015 poz. 573] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000573))  
