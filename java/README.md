@@ -32,18 +32,18 @@ Kontakt:
 ## Informacje o projekcie OpenPKW Java
 
 Strona główna projektu: https://openpkw.pl/ 
-GitHub: https://github.com/openpkw/openpkw/java
+GitHub: https://github.com/openpkw/openpkw/tree/master/java
 
 
 
 # Oranizacja pracy i linki
 - Do modelowania wykorzystujemy Draw.io
-- Do zmian w dokumentacji wykorzystujemy  Dillinger.io i / oraz GitHub
+- Do zmian w dokumentacji wykorzystujemy  Dillinger.io oraz GitHub
 - Do zadań wykorzystujemy Trello
 - Wszyscy developerzy mają pełny dostęp do repozytorium
 - Każdy feature implementowany jest na branchu. Przed mergem do mastera deweloperzy spotykają się i omawiają propozycje zmian
 - Wykorzystujemy metodologie Agile i spotykamy sie w sprinatch co wtorek o 20
-- Jesli zajdzie potrzeba spotykamy się częsciej komunikując sie na Skype (grupa OpenPKW Java ) bądz przez liste mailingową ( openpkw-java@openpkw.pl ) 
+- Jesli zajdzie potrzeba spotykamy się częsciej komunikując sie na Skype (grupa OpenPKWJava ) bądz przez liste mailingową ( openpkw-java@openpkw.pl ) 
 
 
 | Element  | Link  |
@@ -53,13 +53,15 @@ GitHub: https://github.com/openpkw/openpkw/java
 | Dillinger.io  |  http://dillinger.io |
 |  GitHub  |  https://github.com/openpkw|
 |  Mailing List|http://openpkw.pl/mailman/listinfo/openpkw-java|
-|Wiki / Kontakty|https://github.com/OpenPKW-Mobile/iOS/wiki/The-Team|
+
 
 
 **Aktualnie poszukujemy!**  
 
 1. Doświadczonych (bądz tez nie - ale pełnych zapału) developerów JAVA
 2. Programiste API + JSon do pomocy nad BackEnd ( Security REST ) 
+
+
 
 # Wizja Systemu
 **Opis:**
