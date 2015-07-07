@@ -1,7 +1,7 @@
 
 # OpenPKW JAVA
 
-W obecnej chwili podstawowym celem zespołu developerów JAVA jest  zbudowanie niezależnej i obiektywnej formy weryfikacja wyników Wyborów za pomocą tworzonego backend. System ten przeznaczony będzie dla ok 27816 ochotników będących mężami zaufania w obwodowych komisjach wyborczych. Użytkownicy Ci, mają za zadanie za pomocą aplikacji mobilnych przesłać dane z protokołow wyborczych wraz ze zdjeciami tychże protokołów, które udostępnione są publicznie w komisjach obwodowych na koniec dnia wyborczego do zbiorczego systemu agregacji danych (backend). System ten prócz zbierania danych ma zadanie wizualizować pozyskane informacje w postaci diagramów wyborczych z podziałem na województwa. 
+W obecnej chwili podstawowym celem zespołu developerów JAVA jest  zbudowanie niezależnej i obiektywnej formy weryfikacja wyników wyborów za pomocą tworzonego backend. System ten przeznaczony będzie dla ok 27816 ochotników będących mężami zaufania w obwodowych komisjach wyborczych. Użytkownicy Ci, mają za zadanie za pomocą aplikacji mobilnych przesłać dane z protokołow wyborczych wraz ze zdjeciami tychże protokołów, które udostępnione są publicznie w komisjach obwodowych na koniec dnia wyborczego do zbiorczego systemu agregacji danych (backend). System ten prócz zbierania danych ma zadanie wizualizować pozyskane informacje w postaci diagramów wyborczych z podziałem na województwa. 
  
  
 
@@ -98,7 +98,7 @@ GitHub: https://github.com/openpkw/openpkw/tree/master/java
  * Ilość kart ważnych
  * Ilość głosów nieważnych
  * Ilość głosów ważnych
- * Ilość głosów dla poszczególnych kandydatow
+ * Ilość głosów dla poszczególnych kandydatow / odpowiedzi na pytania zadane w referendum
  
 4.  Użytkownik ma rowniez możliwość wysłania informacji z innych dodatkowych komisji wyborczych po przez zmiane okregu, do którego jest automatycznie przypisany ( po przez nacisniećie przycisku Inna Komisja )
 5. Użytkownik otrzymuje informacje zwrotną o poprawnym dostarczeniu danych do Systemu BackEnd oraz gratulacje za dobrze wypełnioną "misje" dotyczącą obrony demokracji w PL
@@ -119,10 +119,8 @@ GitHub: https://github.com/openpkw/openpkw/tree/master/java
 
 2.  W przypadku gdy usługa będzie cieszyć sie bardzo dużą popularnoscią, Goście (wyborcy), którzy będą chcieli sprawdzić niezależne wyniki wyborów na stronie www - mogą spowodować problemy wydajnosciowe i/lub zawieszenie sie serwerów. Do rozważenia wprowadzenie modułu logowania na gości i ograniczenie ilości połaczeń dla danego gościa.   
 
-## Appendix Features:
 
-  
-  
+
 ##Wymagane oprogramowanie, środowiska DEV oraz technologie
 
 ### Mobile
