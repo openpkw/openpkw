@@ -1,38 +1,25 @@
 
-# OpenPKW Mobile
+# OpenPKW JAVA
 
-OpenPKW Mobile  w skrócie OPM, to oprogramowanie typu Service Oriented Architecture (SOA) przeznaczone  m.in. na telefony komórkowe w postaci aplikacji mobilnych dla systemów Android, iOS oraz  Windows Phone. Podstawowym celem OPM jest niezależna i obiektywna weryfikacja wyników Wyborów za pomocą aplikacji mobilnych. Aplikacje te, przeznaczone są dla ok 27816 ochotników będących mężami zaufania w obwodowych komisjach wyborczych. Użytkownicy Ci, mają za zadanie za pomocą aplikacji mobilnych przesłać dane z protokołow wyborczych wraz ze zdjeciami tychże protokołów, które udostępnione są publicznie w komisjach obwodowych na koniec dnia wyborczego. Zważywszy na fakt, iż obecnie aplikacja w fazie projektowania i implementacji nie spełnia przyjętych kryteriów OpenPKW
- * OpenPKW dąży do pełnej zgodności z polskim prawem wyborczym
- * Aplikacja mobilna, w proponowanej wersji, przesyła tylko część protokołu komisji, nie spełnia ona powyższego wymagania
+W obecnej chwili podstawowym celem zespołu developerów JAVA jest  zbudowanie niezależnej i obiektywnej formy weryfikacja wyników Wyborów za pomocą tworzonego backend. System ten przeznaczony będzie dla ok 27816 ochotników będących mężami zaufania w obwodowych komisjach wyborczych. Użytkownicy Ci, mają za zadanie za pomocą aplikacji mobilnych przesłać dane z protokołow wyborczych wraz ze zdjeciami tychże protokołów, które udostępnione są publicznie w komisjach obwodowych na koniec dnia wyborczego do zbiorczego systemu agregacji danych (backend). System ten prócz zbierania danych ma zadanie wizualizować pozyskane informacje w postaci diagramów wyborczych z podziałem na województwa. 
  
-główne jej repozytorium zostaje wydzielone do odrębnego pod projektu. Docelowo jednak po zaimplementowaniu pełnej funkcjonalnośći zgodnej z Prawem Polskim  przewiduje się ze repozytorium zostanie włączone w główny nurt OpenPKW. Obecnie OpenPKW Mobile  **tworzy dodatkową funkcjonalność nie sprecycowaną dotychczas przez Panstwową Komisje Wyborczą**.  
  
 
 # Członkowie w porzadku alfabetycnzym 
 
 | Członek  | Rola  |
 | ------------- | ------------- |
-|Bartek_S | Developer Android, BackEnd |
-|Dagna_S | Developer Windows Phone|
-|Kamil_S | Developer Android  |
-|Lukasz_S|  Developer iOs |
-|Marcin_N | Developer Tester Android  |
-|Mariusz_W | Developer Windows Phone, BackEnd|
-|Marzena Z_I| Media, www|
-|Mateusz_A | Developer Windows Phone  |
-|Mateusz_J | Developer iOs |
-|Mateusz_P | Developer Android,BackEnd  |
-|Michal_U | Developer Android  |
-|Michal_K | Developer Android  |
-|Piotr_T | Developer iOs  |
-|Przemek_J | Weryfikacja, Analiza  |
-|Przemek_K | Developer Android  |
-|Radek_M | Developer Windows Phone  |
-|Rafal_M | Prawnik  |
-|Rafal_R | Architektura, Organizacja  |
-|Robert_P  |Weryfikacja, Analiza   |
-|Slawek_P  |Weryfikacja, Analiza   |
-|Wojciech_R | Developer Android  |
+|Bartek_M |  Developer Java  BackEnd |
+|Grzegorz|  Developer Java  BackEnd|
+|Adam_K  |  Developer Java  BackEnd |
+|Jacek_F|   Developer Java  BackEnd|
+|Lukasz_F |  Developer Java  BackEnd  |
+|Piotr_T |  Developer Java  BackEnd|
+|Tomek |  Developer Java  BackEnd|
+|Mateusz_A |  Developer Java  BackEnd  |
+|Wojtek_R |  Developer Java  BackEnd |
+|Rafal_R | Koordynacja/Organizacja  |
+ |
 
 
 **Jak do nas dołączyć?**  
@@ -42,40 +29,37 @@ Kontakt:
   - Rafał Reguła: <rafal.regula@openpkw.pl>
   - Skype: rafal.regula
   
-## Informacje o projekcie OpenPKW / Mobile
+## Informacje o projekcie OpenPKW Java
 
 Strona główna projektu: https://openpkw.pl/ 
-
-GitHub: https://github.com/OpenPKW-Mobile/O_Projekcie
+GitHub: https://github.com/openpkw/openpkw/java
 
 
 
 # Oranizacja pracy i linki
-- Do modelowania Paper Browser wykorzystujemy Draw.io
-- Do zmian w dokumentacji wykorzystujemy  Dillinger.io oraz GitHub
-- Do zadań wykorzystujemy Trello bądź/i OpenProject
+- Do modelowania wykorzystujemy Draw.io
+- Do zmian w dokumentacji wykorzystujemy  Dillinger.io i / oraz GitHub
+- Do zadań wykorzystujemy Trello
 - Wszyscy developerzy mają pełny dostęp do repozytorium
 - Każdy feature implementowany jest na branchu. Przed mergem do mastera deweloperzy spotykają się i omawiają propozycje zmian
-- Wykorzystujemy metodologie Agile i spotykamy sie w sprinatch co poniedziałek i czwartek
-- Jesli zajdzie potrzeba spotykamy się częsciej komunikując sie na Skype (grupa OpenPKW Mobile) bądz przez liste mailingową ( mobilki@openpkw.pl ) 
+- Wykorzystujemy metodologie Agile i spotykamy sie w sprinatch co wtorek o 20
+- Jesli zajdzie potrzeba spotykamy się częsciej komunikując sie na Skype (grupa OpenPKW Java ) bądz przez liste mailingową ( openpkw-java@openpkw.pl ) 
 
 
 | Element  | Link  |
 | ------------- | ------------- |
-| Tablica Trello Android | https://trello.com/b/G0qEJ9M5/openpkw-android|
-| Tablica Trello WindowsPhone |    https://trello.com/b/XlP5rmVb/openpkw-windowsphone|
-| Tablica Trello iOS |   https://trello.com/b/lzuEMRP3/openpkw-ios |
+| Tablica Trello Java | https://trello.com/b/eX0kOIwp/openpkw-java|
 |  Draw.io |    https://www.draw.io  |
 | Dillinger.io  |  http://dillinger.io |
-|  GitHub  |  https://github.com/OpenPKW-Mobile|
-|  Mailing List|http://openpkw.pl/mailman/listinfo/mobilki|
+|  GitHub  |  https://github.com/openpkw|
+|  Mailing List|http://openpkw.pl/mailman/listinfo/openpkw-java|
 |Wiki / Kontakty|https://github.com/OpenPKW-Mobile/iOS/wiki/The-Team|
 
 
 **Aktualnie poszukujemy!**  
 
-1. Doświadczonych (bądz tez nie - ale pełnych zapału) developerów iOS, Android oraz WindowsPhone
-2. Programiste API + JSon do pomocy nad BackEnd
+1. Doświadczonych (bądz tez nie - ale pełnych zapału) developerów JAVA
+2. Programiste API + JSon do pomocy nad BackEnd ( Security REST ) 
 
 # Wizja Systemu
 **Opis:**
@@ -122,10 +106,7 @@ GitHub: https://github.com/OpenPKW-Mobile/O_Projekcie
 3. Operator  Systemu (operator)
 3. Gość (guest)
 
-## Atrakcyjna, zachęcająca grafika - Paper Browser :)
 
-
-![Wygląd PaperBrowser dla Mobile Apps](http://openpkw.nazwa.pl/mobilki.png)
 
 ## Risk & Issue Logs
 1. Wysyłanie protokołów i zakonczenie liczenia głosów w 25000 komisjach zazwyczaj konczy się o tej samej porze +/- 15 min w przypadku prostych wyborów jakimi są Wybory Prezydenckie.Potrzebna Analiza wydajnosciowa serwerów  w tym (SQL, Moc Obliczeniowa maszyny oraz sama przepustowość łącza i-net). Zastanowić się nad modułem synchronizacji otrzymywania wyników.
@@ -160,40 +141,3 @@ GitHub: https://github.com/OpenPKW-Mobile/O_Projekcie
 4. Bootstrap 
 
 
-
-## Roadmap
-Plan implementacji:
-
-### Wersja 0.1 
-* UI - Draw.io Mockup [Done]
-* Paper Browser [WiP]
-
-### Wersja 0.2 
-* API Concept
-* Json Conector Concept
-
-### Wersja 0.3
-* API Implementation
-* Json Implementation 
-
-### Wersja 0.4
-* Prototype Apps
-* SQL Sychronization 
-
-
-### Wersja 0.5
-* Bug Fixing 
-* Code Review
-
-
-### Wersja 0.6
-* Beta Release
-* Apps Testing
-
-
-### Wersja 0.7
-* Bug Fixing 
-* Code Review (Niebezpiecznik, HackerSpace)
-
-### Wersja 1.0
-* Final Release
