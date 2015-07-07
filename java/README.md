@@ -9,17 +9,18 @@ W obecnej chwili podstawowym celem zespołu developerów JAVA jest  zbudowanie n
 
 | Członek  | Rola  |
 | ------------- | ------------- |
+|Adam_K  |  Developer Java  BackEnd |
 |Bartek_M |  Developer Java  BackEnd |
 |Grzegorz|  Developer Java  BackEnd|
-|Adam_K  |  Developer Java  BackEnd |
 |Jacek_F|   Developer Java  BackEnd|
 |Lukasz_F |  Developer Java  BackEnd  |
-|Piotr_T |  Developer Java  BackEnd|
-|Tomek |  Developer Java  BackEnd|
 |Mateusz_A |  Developer Java  BackEnd  |
-|Wojtek_R |  Developer Java  BackEnd |
+|Piotr_T |  Developer Java  BackEnd|
 |Rafal_R | Koordynacja/Organizacja  |
- |
+|Tomek |  Developer Java  BackEnd|
+|Wojtek_R |  Developer Java  BackEnd |
+
+
 
 
 **Jak do nas dołączyć?**  
@@ -32,11 +33,14 @@ Kontakt:
 ## Informacje o projekcie OpenPKW Java
 
 Strona główna projektu: https://openpkw.pl/ 
+
 GitHub: https://github.com/openpkw/openpkw/tree/master/java
 
 
 
+
 # Oranizacja pracy i linki
+
 - Do modelowania wykorzystujemy Draw.io
 - Do zmian w dokumentacji wykorzystujemy  Dillinger.io oraz GitHub
 - Do zadań wykorzystujemy Trello
@@ -129,7 +133,7 @@ GitHub: https://github.com/openpkw/openpkw/tree/master/java
 
 ### Backend (Przewidziana Architektura)
 1. Java EE 7 (GlassFish 4, JPA2, CDI, EJB, JSF 2.2 (PrimeFaces 5.1), JAX-RS, JAAS, JavaMail)
-2. MySQL 5.5 (UTF8, InnoDB, MySQL Workbench)
+2. Postgress 
 3. REST
 4. HTML5 
 5. CSS3
