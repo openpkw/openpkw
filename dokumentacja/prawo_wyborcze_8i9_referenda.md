@@ -24,8 +24,21 @@
 * Informacja o warunkach udziału w głosowaniu w obwodach głosowania utworzonych w kraju, w referendum ogólnokrajowym, zarządzonym na dzień 6 września 2015 r. ([ZPOW-803-14/15] (http://pkw.gov.pl/g2/oryginal/2015_06/b54da212c21528d62e3b37478c44b76d.pdf))  
 
 * Informacja dotycząca formy składania wniosków dotyczących: dopisania do spisu wyborców (spisu osób uprawnionych do udziału w referendum) w wybranym obwodzie głosowania, zgłoszenia zamiaru głosowania korespondencyjnego, głosowania przez pełnomocnika oraz wydania zaświadczenia o prawie do głosowania. ([ZPOW-432-7/15] (http://pkw.gov.pl/g2/oryginal/2015_06/af0411daabe8587f723e3036d6fc6763.pdf))  
- 
-**(poniższe akty dotyczą byłych referendów - będą sukcesywnie zmieniane z chwilą ich uaktualniania w związku z referendum  2015)**  
+
+* UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 6 lipca 2015 r. w sprawie wzorów protokołów głosowania i protokołów o wyniku referendum stosowanych w referendum ogólnokrajowym przez obwodowe komisje do spraw referendum, komisarzy wyborczych oraz Państwową Komisję Wyborczą ([M.P. 2015 skierowane do publikacji] (http://referendum2015.pkw.gov.pl/akty_prawne/0/12_UCHWALA_PANSTWOWEJ_KOMISJI_WYBORCZEJ_z_dnia_6_lipca_2015_r_w_sprawie_wzorow_protokolow_glosowania_i_protokolow_o_wyniku_referendum_stosowanych_w_referendum_ogolnokrajowym_przez_obwodowe_komisje_do_spraw_referendum_komisarzy_wyborczych_oraz_Panstwowa_Komisje_Wyborcza))  
+  * Protokół Obwodowej Komisji ds. Referendum [wzór protokołu] (http://referendum2015.pkw.gov.pl/pliki/1436263547_Za%C5%82%C4%85cznik%20nr%201.docx)
+  * Protokół zbiorczy Komisarza Wyborczego [wzór protokołu] (http://referendum2015.pkw.gov.pl/pliki/1436263571_Za%C5%82%C4%85cznik%20nr%203.docx)
+  * Protokół zbiorczy PKW [wzór protokołu] (http://referendum2015.pkw.gov.pl/pliki/1436263590_Za%C5%82%C4%85cznik%20nr%205.docx)  
+
+* UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 6 lipca 2015 r. w sprawie trybu i terminu powoływania obwodowych komisji do spraw referendum w obwodach głosowania utworzonych za granicą w referendum ogólnokrajowym ([M.P. 2015 skierowane do publikacji] ([M.P. 2015 skierowane do publikacji] (http://referendum2015.pkw.gov.pl/akty_prawne/0/13_UCHWALA_PANSTWOWEJ_KOMISJI_WYBORCZEJ_z_dnia_6_lipca_2015_r_w_sprawie_trybu_i_terminu_powolywania_obwodowych_komisji_do_spraw_referendum_w_obwodach_glosowania_utworzonych_za_granica_w_referendum_ogolnokrajowym))  
+
+* UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 6 lipca 2015 r. w sprawie trybu i terminu powoływania obwodowych komisji do spraw referendum w obwodach głosowania utworzonych na polskich statkach morskich w referendum ogólnokrajowym ([M.P. 2015 skierowane do publikacji] (http://referendum2015.pkw.gov.pl/akty_prawne/0/14_UCHWALA_PANSTWOWEJ_KOMISJI_WYBORCZEJ_z_dnia_6_lipca_2015_r_w_sprawie_trybu_i_terminu_powolywania_obwodowych_komisji_do_spraw_referendum_w_obwodach_glosowania_utworzonych_na_polskich_statkach_morskich__w_referendum_ogolnokrajowym))  
+
+* UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 6 lipca 2015 r. w sprawie regulaminu obwodowych komisji do spraw referendum powołanych do przeprowadzenia referendum ogólnokrajowego ([M.P. 2015 skierowane do publikacji] (http://referendum2015.pkw.gov.pl/akty_prawne/0/15_UCHWALA__PANSTWOWEJ_KOMISJI_WYBORCZEJ_z_dnia_6_lipca_2015_r_w_sprawie_regulaminu_obwodowych_komisji_do_spraw_referendum_powolanych_do_przeprowadzenia_referendum_ogolnokrajowego))  
+
+* UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 6 lipca 2015 r. w sprawie wzoru zaświadczenia dla mężów zaufania w referendum ogólnokrajowym ([M.P. 2015 skierowane do publikacji] (http://referendum2015.pkw.gov.pl/akty_prawne/0/16_UCHWALA_PANSTWOWEJ_KOMISJI_WYBORCZEJ_z_dnia_6_lipca_2015_r_w_sprawie_wzoru_zaswiadczenia_dla_mezow_zaufania_w_referendum_ogolnokrajowym))  
+
+**(poniższe akty są obowiązujce - ale mogą być sukcesywnie zmieniane w związku z referendum  2015)**  
 
 1) rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 kwietnia 2003 r. w sprawie sposobu zgłaszania
 kandydatów do obwodowych komisji do spraw referendum w referendum ogólnokrajowym oraz powoływania komisji ([Dz. U. Nr 74,
@@ -33,11 +46,9 @@ poz. 671] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030740671) i zmiana: [
 
 2) **Uchwała Państwowej Komisji Wyborczej z dnia 12 maja 2003 r. w sprawie określenia warunków oraz sposobu wykorzystania techniki elektronicznej w referendum ogólnokrajowym w sprawie wyrażenia zgody na ratyfikację Traktatu dotyczącego przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej, zarządzonym na dzień 8 czerwca 2003 r. ([M.P. 2003 nr 25 poz. 366] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20030250366))**
 
-3) Uchwała Państwowej Komisji Wyborczej z dnia 12 marca 2007 r. w sprawie wzorów protokołów głosowania i protokołów o wyniku referendum stosowanych w referendum ogólnokrajowym przez obwodowe komisje do spraw referendum, komisarzy wyborczych oraz Państwową Komisję Wyborczą ([M.P. 2007 nr 18 poz. 215] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20070180215))
+3) Rozporządzenie Ministra Spraw Zagranicznych z dnia 16 maja 2003 r. w sprawie utworzenia obwodów głosowania w referendum ogólnokrajowym dla obywateli polskich przebywających za granicą ([Dz.U. 2003 nr 89 poz. 840] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030890840))
 
-4) Rozporządzenie Ministra Spraw Zagranicznych z dnia 16 maja 2003 r. w sprawie utworzenia obwodów głosowania w referendum ogólnokrajowym dla obywateli polskich przebywających za granicą ([Dz.U. 2003 nr 89 poz. 840] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030890840))
-
-5) Rozporządzenie Ministra Infrastruktury z dnia 16 maja 2003 r. w sprawie utworzenia obwodów głosowania w referendum ogólnokrajowym dla wyborców przebywających na polskich statkach morskich ([Dz.U. 2003 nr 89 poz. 835] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030890835))
+4) Rozporządzenie Ministra Infrastruktury z dnia 16 maja 2003 r. w sprawie utworzenia obwodów głosowania w referendum ogólnokrajowym dla wyborców przebywających na polskich statkach morskich ([Dz.U. 2003 nr 89 poz. 835] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030890835))
 
 # IX. W zakresie referendów lokalnych
 
