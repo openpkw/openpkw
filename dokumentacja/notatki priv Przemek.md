@@ -41,3 +41,6 @@ http://uxbite.com/wp-content/uploads/2011/10/palmballot.jpg
 http://andrys.com/vballot.jpg
 http://m.natemat.pl/215d9ee1e18a52c0fd8e76fd16ee8fd6,640,0,0,0.jpg
 http://maciejkowalski.natemat.pl/106947,alternatywne-wybory
+http://www.washingtonpost.com/blogs/the-fix/post/name-that-district-winner-upside-down-elephant/2011/08/11/gIQABOTABJ_blog.html  
+http://price.house.gov/images/new_district.jpg  
+http://www.washingtonpost.com/blogs/the-fix/post/name-that-district-contest-winner-goofy-kicking-donald-duck/2011/12/29/gIQA2Fa2OP_blog.html  
