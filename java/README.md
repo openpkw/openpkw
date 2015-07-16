@@ -130,13 +130,13 @@ GitHub: https://github.com/openpkw/openpkw/tree/master/java
 
 
 ### Backend (Przewidziana Architektura)
-1. Java EE 7 (GlassFish 4, JPA2, CDI, EJB, JSF 2.2 (PrimeFaces 5.1), JAX-RS, JAAS, JavaMail)
-2. Postgress 
+1. Java EE 7 (GlassFish 4/ WildFly 8.2, JPA2, Spring 4, JAX-RS, JAAS, JavaMail)
+2. PostgreSQL 
 3. REST
 4. HTML5 
 5. CSS3
 6. Maven 3
-7. Json 2.0 (revised verson)
+7. Json 2.0 (revised version)
 
 ### Frontend 
 1. HTML5
