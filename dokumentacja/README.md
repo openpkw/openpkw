@@ -35,6 +35,7 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
    * [**Okregi_2015_Referendum**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Okregi_2015_Referendum.md) - Komisarze Wyborczy wraz z zasięgiem terytorialnym. Referendum 2015.  
    * [**Okregi_2014_Europarlament**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Okregi_2014_Europarlament.md) - podział Polski na okręgi wyborcze w wyborach do Europarlamentu 2014.     
    * [**Okregi_2014_Samorzad**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Okregi_2014_Samorzad.md) - zasady podziału Polski w wyborach samorządowych 2014 r.  
+   * [**QRcode_referendum1**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/QRcode_referendum1.md) - Zasady i obliczenia maksymalnej długości (liczby) znaków do zaszycia w OR code w przypadku Referendum ogólnopolskiego, jednodniowego w protokole Komisji Obwodowej ds. referendum.
 
 
 # Zawartość katalogu:
