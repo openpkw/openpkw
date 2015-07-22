@@ -56,6 +56,15 @@
             <artifactId>jackson-annotations</artifactId>
         </dependency>
 
+
+        <dependency>
+            <groupId>org.openpkw</groupId>
+            <artifactId>openpkw-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.openpkw</groupId>
+            <artifactId>openpkw-model</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
