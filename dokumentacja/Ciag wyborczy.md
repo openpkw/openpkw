@@ -3,7 +3,8 @@
 ## 2015
 - 10 maja I tura wyborów prezydenckich
 - 24 maja II tura wyborów prezydenckich (ewentualnie)
-- październik - wybory parlamentarne (Sejm, Senat)  
+- 6 wrzenia - referendum ogólnopolskie w sprawie JOW.
+- 25 październik - wybory parlamentarne (Sejm, Senat)  
 Zgodnie z postanowieniami Konstytucji termin wyborów do parlamentu powinien przypadać 11, 18 lub 25 października 2015 roku. 
 
 ## 2018
