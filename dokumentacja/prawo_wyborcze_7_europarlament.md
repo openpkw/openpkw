@@ -65,7 +65,9 @@ Parlamentu Europejskiego w 2014 r. ([M.P. 2014 poz. 178] (http://isap.sejm.gov.p
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 14 maja 2014 r. zmieniająca uchwałę w sprawie wytycznych dla rejonowych i okręgowych komisji wyborczych, dotyczących trybu i sposobu wykonywania zadań związanych z ustalaniem wyników głosowania w wyborach do Parlamentu Europejskiego ([M.P. 2014 poz. 375] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20140000375))
 
-* Uchwała Państwowej Komisji Wyborczej z dnia 11 sierpnia 2014 r. w sprawie rozwiązania okręgowych, rejonowych i obwodowych komisji wyborczych powołanych w celu przeprowadzenia wyborów do Parlamentu Europejskiego, zarządzonych na dzień 25 maja 2014 r. ([M.P. 2014 poz. 738] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20140000738))
+* Uchwała Państwowej Komisji Wyborczej z dnia 11 sierpnia 2014 r. w sprawie rozwiązania okręgowych, rejonowych i obwodowych komisji wyborczych powołanych w celu przeprowadzenia wyborów do Parlamentu Europejskiego, zarządzonych na dzień 25 maja 2014 r. ([M.P. 2014 poz. 738] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20140000738))  
+
+* Uchwała Składu Całej Izby Pracy, Ubezpieczeń Społecznych i Spraw Publicznych Sądu Najwyższego z dnia 7 sierpnia 2014 r. ([Dz.U. 2014 poz. 1166] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20140001166))   
 
  VIII. [**W zakresie referendów ogólnokrajowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_8i9_referenda.md) 
 
