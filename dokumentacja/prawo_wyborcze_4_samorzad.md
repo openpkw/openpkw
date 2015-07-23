@@ -60,7 +60,13 @@ wyborach wójtów, burmistrzów i prezydentów miast** ([M.P. 2014, poz. 903] (h
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 22 grudnia 2014 r. w sprawie wytycznych dla komisarzy wyborczych oraz terytorialnych i obwodowych komisji wyborczych, dotyczących przygotowania i przeprowadzania wyborów do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz wyborów wójtów, burmistrzów i prezydentów miast w toku kadencji w latach 2014–2018 ([M.P. 2015, poz. 66] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000066))
 
-* Uchwała Państwowej Komisji Wyborczej z dnia 12 stycznia 2015 r. zmieniająca uchwałę w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille’a, w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast ([M.P. 2015, poz. 147] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000147))
+* Uchwała Państwowej Komisji Wyborczej z dnia 12 stycznia 2015 r. zmieniająca uchwałę w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille’a, w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast ([M.P. 2015, poz. 147] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000147))  
+
+* Obwieszczenie Państwowej Komisji Wyborczej z dnia 23 listopada 2014 r. o zbiorczych wynikach wyborów do rad na obszarze kraju, przeprowadzonych w dniu 16 listopada 2014 r. ([Dz.U. 2014 poz. 1640] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20140001640))  
+
+* Obwieszczenie Państwowej Komisji Wyborczej z dnia 23 listopada 2014 r. o zbiorczych wynikach wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju, przeprowadzonych w dniu 16 listopada 2014 r. ([Dz.U. 2014 poz. 1642] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20140001642))  
+
+* Obwieszczenie Państwowej Komisji Wyborczej z dnia 1 grudnia 2014 r. uzupełniające obwieszczenie z dnia 23 listopada 2014 r. o zbiorczych wynikach wyborów wójtów, burmistrzów i prezydentów miast na obszarze kraju ([Dz.U. 2014 poz. 1700] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20140001700))  
 
 
 V. [**W zakresie wyborów do Sejmu i Senatu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_5_parlament.md) 
