@@ -1,11 +1,11 @@
 
 # OpenPKW Mobile
 
-OpenPKW Mobile  w skrócie OPM, to oprogramowanie typu Service Oriented Architecture (SOA) przeznaczone  m.in. na telefony komórkowe w postaci aplikacji mobilnych dla systemów Android, iOS oraz  Windows Phone. Podstawowym celem OPM jest niezależna i obiektywna weryfikacja wyników Wyborów za pomocą aplikacji mobilnych. Aplikacje te, przeznaczone są dla ok 27816 ochotników będących mężami zaufania w obwodowych komisjach wyborczych. Użytkownicy Ci, mają za zadanie za pomocą aplikacji mobilnych przesłać dane z protokołow wyborczych wraz ze zdjeciami tychże protokołów, które udostępnione są publicznie w komisjach obwodowych na koniec dnia wyborczego. Zważywszy na fakt, iż obecnie aplikacja w fazie projektowania i implementacji nie spełnia przyjętych kryteriów OpenPKW
+OpenPKW Mobile, w skrócie OPM, to oprogramowanie typu Service Oriented Architecture (SOA) przeznaczone m.in. na telefony komórkowe w postaci aplikacji mobilnych dla systemów Android, iOS oraz Windows Phone. Podstawowym celem OPM jest niezależna i obiektywna weryfikacja wyników Wyborów za pomocą aplikacji mobilnych. Aplikacje te przeznaczone są dla ok. 27816 ochotników będących mężami zaufania w obwodowych komisjach wyborczych. Użytkownicy Ci mają za zadanie za pomocą aplikacji mobilnych przesłać dane z protokołów wyborczych wraz ze zdjęciami tychże protokołów, które udostępnione są publicznie w komisjach obwodowych na koniec dnia wyborczego. Zważywszy na fakt, iż obecnie aplikacja w fazie projektowania i implementacji nie spełnia przyjętych kryteriów OpenPKW
  * OpenPKW dąży do pełnej zgodności z polskim prawem wyborczym
  * Aplikacja mobilna, w proponowanej wersji, przesyła tylko część protokołu komisji, nie spełnia ona powyższego wymagania
  
-główne jej repozytorium zostaje wydzielone do odrębnego pod projektu. Docelowo jednak po zaimplementowaniu pełnej funkcjonalnośći zgodnej z Prawem Polskim  przewiduje się ze repozytorium zostanie włączone w główny nurt OpenPKW. Obecnie OpenPKW Mobile  **tworzy dodatkową funkcjonalność nie sprecycowaną dotychczas przez Panstwową Komisje Wyborczą**.  
+główne jej repozytorium zostaje wydzielone do odrębnego podprojektu. Docelowo jednak po zaimplementowaniu pełnej funkcjonalności zgodnej z Prawem Polskim przewiduje się, że repozytorium zostanie włączone w główny nurt OpenPKW. Obecnie OpenPKW Mobile  **tworzy dodatkową funkcjonalność nie sprecyzowaną dotychczas przez Panstwową Komisję Wyborczą**.  
  
 
 # Członkowie w porzadku alfabetycnzym 
@@ -52,12 +52,12 @@ GitHub: https://github.com/OpenPKW-Mobile/O_Projekcie
 
 # Oranizacja pracy i linki
 - Do modelowania Paper Browser wykorzystujemy Draw.io
-- Do zmian w dokumentacji wykorzystujemy  Dillinger.io oraz GitHub
+- Do zmian w dokumentacji wykorzystujemy Dillinger.io oraz GitHub
 - Do zadań wykorzystujemy Trello bądź/i OpenProject
 - Wszyscy developerzy mają pełny dostęp do repozytorium
 - Każdy feature implementowany jest na branchu. Przed mergem do mastera deweloperzy spotykają się i omawiają propozycje zmian
 - Wykorzystujemy metodologie Agile i spotykamy sie w sprinatch co poniedziałek i czwartek
-- Jesli zajdzie potrzeba spotykamy się częsciej komunikując sie na Skype (grupa OpenPKW Mobile) bądz przez liste mailingową ( mobilki@openpkw.pl ) 
+- Jesli zajdzie potrzeba spotykamy się częściej komunikując sie na Skype (grupa OpenPKW Mobile) bądź przez listę mailingową ( mobilki@openpkw.pl ) 
 
 
 | Element  | Link  |
@@ -74,16 +74,16 @@ GitHub: https://github.com/OpenPKW-Mobile/O_Projekcie
 
 **Aktualnie poszukujemy!**  
 
-1. Doświadczonych (bądz tez nie - ale pełnych zapału) developerów iOS, Android oraz WindowsPhone
-2. Programiste API + JSon do pomocy nad BackEnd
+1. Doświadczonych (bądź też nie - ale pełnych zapału) developerów iOS, Android oraz WindowsPhone
+2. Programistę API + JSon do pomocy nad BackEnd
 
 # Wizja Systemu
 **Opis:**
 
 1.  Za pomocą aplikacji mobilnej użytkownicy (mężowie zaufania), przesyłają dane z protokółow wyborczych z obwodowych komisji
-2.  Dane z obwodowej komisji i protokołu wraz ze zdjecięm przesyłane są do BackEndowego systemu
-3.  System odbiera dane i zapisuje niezbędne informacje wraz ze zdjeciami zapisanym w oddzielnym katalogu i linkami do zdjęc w samym SQL
-4.  System umożliwia przetwarzanie tych danych a także ich weryfikacje przez operatorów 
+2.  Dane z obwodowej komisji i protokołu wraz ze zdjęciem przesyłane są do BackEndowego systemu
+3.  System odbiera dane i zapisuje niezbędne informacje wraz ze zdjęciami zapisanymi w oddzielnym katalogu i linkami do zdjęć w samym SQL
+4.  System umożliwia przetwarzanie tych danych a także ich weryfikację przez operatorów 
 5.  System udostępnia zweryfikowane dane za pomocą strony www i wykresów, wyspecyfikowanym grupom użytkowników (docelowo wszystkim wyborcom) 
 
 
@@ -91,27 +91,27 @@ GitHub: https://github.com/OpenPKW-Mobile/O_Projekcie
 **Perspektywa Administratora / Przygotowanie do wyborów** (Backend)
 
 1. Administrator zakłada konta użytkownikom (mężom zaufania)
-2. Administrator rozsyła hasła użytkowikom 
-3. Administrator zbiera dane użytkownika bądź/i importuje je  z XLS  (Imie, nazwisko, mail , telefon, nr komisji) 
+2. Administrator rozsyła hasła użytkownikom 
+3. Administrator zbiera dane użytkownika bądź/i importuje je z XLS (imię, nazwisko, mail, telefon, nr komisji) 
 4. System automatycznie wysyła link do aktywacji kont, login i hasło użytkownikom na podany adres e-mail
 5. Administrator systemu ma możliwość edycji i weryfikacji kont użytkownków wraz ich danymi (duża fluktuacja użytkownków przed wyborami)
-6. Administrator ma możliwość weryfikacji i podglądu listy użytkownikow, ktorzy odebrali hasła i poprawnie przesli procedurę testowego logowania do systemu
+6. Administrator ma możliwość weryfikacji i podglądu listy użytkownikow, ktorzy odebrali hasła i poprawnie przeszli procedurę testowego logowania do systemu
 
 
  **Perspektywa Użytkownika / Dzień Wyborczy** (Aplikacje Mobilne)
 
 1. Użytkownik uwierzytelnia się w aplikacji mobilnej za pomocą uprzednio otrzymanego loginu i hasła od Administratora
-2. Po poprawnym uwierzytelnieniu się system rozpoznaje użytkownika i przypisuje mu automatycznie wczesniej przydzielony numer obwodowej komisji do której się zgłosił mąż zaufania
-3. Użytkownik przesyła dane recznie wprowadzajac je do aplikacji mobilnej z protokołu wyborczego wywieszonego publicznie w obwodowej komisji wyborczej. Przekazuje następujące dane:   
+2. Po poprawnym uwierzytelnieniu się system rozpoznaje użytkownika i przypisuje mu automatycznie wcześniej przydzielony numer obwodowej komisji, do której się zgłosił mąż zaufania
+3. Użytkownik przesyła dane ręcznie wprowadzając je do aplikacji mobilnej z protokołu wyborczego wywieszonego publicznie w obwodowej komisji wyborczej. Przekazuje następujące dane:   
  * Ilość uprawnionych do głosowania
  * Ilość wydanych kart do głosowania
  * Ilość kart ważnych
  * Ilość głosów nieważnych
  * Ilość głosów ważnych
- * Ilość głosów dla poszczególnych kandydatow
+ * Ilość głosów dla poszczególnych kandydatów
  
-4.  Użytkownik ma rowniez możliwość wysłania informacji z innych dodatkowych komisji wyborczych po przez zmiane okregu, do którego jest automatycznie przypisany ( po przez nacisniećie przycisku Inna Komisja )
-5. Użytkownik otrzymuje informacje zwrotną o poprawnym dostarczeniu danych do Systemu BackEnd oraz gratulacje za dobrze wypełnioną "misje" dotyczącą obrony demokracji w PL
+4.  Użytkownik ma rownież możliwość wysłania informacji z innych dodatkowych komisji wyborczych poprzez zmianę okregu, do którego jest automatycznie przypisany (poprzez nacisnięcie przycisku Inna Komisja)
+5. Użytkownik otrzymuje informację zwrotną o poprawnym dostarczeniu danych do Systemu BackEnd oraz gratulacje za dobrze wypełnioną "misje" dotyczącą obrony demokracji w PL
 
 
 # Specyfikacja
@@ -128,9 +128,9 @@ GitHub: https://github.com/OpenPKW-Mobile/O_Projekcie
 ![Wygląd PaperBrowser dla Mobile Apps](http://openpkw.nazwa.pl/mobilki.png)
 
 ## Risk & Issue Logs
-1. Wysyłanie protokołów i zakonczenie liczenia głosów w 25000 komisjach zazwyczaj konczy się o tej samej porze +/- 15 min w przypadku prostych wyborów jakimi są Wybory Prezydenckie.Potrzebna Analiza wydajnosciowa serwerów  w tym (SQL, Moc Obliczeniowa maszyny oraz sama przepustowość łącza i-net). Zastanowić się nad modułem synchronizacji otrzymywania wyników.
+1. Wysyłanie protokołów i zakończenie liczenia głosów w 25000 komisjach zazwyczaj kończy się o tej samej porze +/- 15 min w przypadku prostych wyborów jakimi są Wybory Prezydenckie. Potrzebna Analiza wydajnosciowa serwerów w tym (SQL, Moc Obliczeniowa maszyny oraz sama przepustowość łącza i-net). Zastanowić się nad modułem synchronizacji otrzymywania wyników.
 
-2.  W przypadku gdy usługa będzie cieszyć sie bardzo dużą popularnoscią, Goście (wyborcy), którzy będą chcieli sprawdzić niezależne wyniki wyborów na stronie www - mogą spowodować problemy wydajnosciowe i/lub zawieszenie sie serwerów. Do rozważenia wprowadzenie modułu logowania na gości i ograniczenie ilości połaczeń dla danego gościa.   
+2.  W przypadku, gdy usługa będzie cieszyć się bardzo dużą popularnością, Goście (wyborcy), którzy będą chcieli sprawdzić niezależne wyniki wyborów na stronie www - mogą spowodować problemy wydajnościowe i/lub zawieszenie się serwerów. Do rozważenia wprowadzenie modułu logowania na gości i ograniczenie ilości połączeń dla danego gościa.   
 
 ## Appendix Features:
 
