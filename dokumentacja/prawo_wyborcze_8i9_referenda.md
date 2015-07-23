@@ -38,7 +38,11 @@
 
 * UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 6 lipca 2015 r. w sprawie wzoru zaświadczenia dla mężów zaufania w referendum ogólnokrajowym ([M.P. 2015 skierowane do publikacji] (http://referendum2015.pkw.gov.pl/akty_prawne/0/16_UCHWALA_PANSTWOWEJ_KOMISJI_WYBORCZEJ_z_dnia_6_lipca_2015_r_w_sprawie_wzoru_zaswiadczenia_dla_mezow_zaufania_w_referendum_ogolnokrajowym))  
 
-* **Uchwała Państwowej Komisji Wyborczej z dnia 20 lipca 2015 r. w sprawie warunków oraz sposobu wykorzystania techniki elektronicznej w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([M.P. 2015, skierowany do publikacji] (http://referendum2015.pkw.gov.pl/akty_prawne/0/22_Uchwala_Panstwowej_Komisji_Wyborczej_z_dnia_20_lipca_2015_r_w_sprawie_warunkow_oraz_sposobu_wykorzystania_techniki_elektronicznej_w_referendum_ogolnokrajowym_zarzadzonym_na_dzien_6_wrzesnia_2015_r))**
+* **Uchwała Państwowej Komisji Wyborczej z dnia 20 lipca 2015 r. w sprawie warunków oraz sposobu wykorzystania techniki elektronicznej w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([M.P. 2015, skierowany do publikacji] (http://referendum2015.pkw.gov.pl/akty_prawne/0/22_Uchwala_Panstwowej_Komisji_Wyborczej_z_dnia_20_lipca_2015_r_w_sprawie_warunkow_oraz_sposobu_wykorzystania_techniki_elektronicznej_w_referendum_ogolnokrajowym_zarzadzonym_na_dzien_6_wrzesnia_2015_r))**  
+
+* Uchwała Państwowej Komisji Wyborczej z dnia 20 lipca 2015 r. w sprawie zasad i trybu przekazywania Komisarzowi Wyborczemu w Warszawie wyników głosowania i protokołów głosowania z obwodów utworzonych za granicą w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([M.P. 2015 skierowany do publikacji] (http://referendum2015.pkw.gov.pl/pliki/1437475718_UCHWA%C5%81A%20przekazanie%20wynik%C3%B3w%20za%20granica.pdf))  
+
+* Uchwała Państwowej Komisji Wyborczej z dnia 20 lipca 2015 r. w sprawie zasad i trybu przekazywania komisarzowi wyborczemu właściwemu dla siedziby armatora wyników głosowania i protokołów głosowania z obwodów utworzonych na polskich statkach morskich w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([M.P. 2015 skierowany do publikacji] (http://referendum2015.pkw.gov.pl/pliki/1437475920_UCHWA%C5%81A%20przekazanie%20wynik%C3%B3w%20statki.pdf))   
 
 
 **(poniższe akty są obowiązujce - ale mogą być sukcesywnie zmieniane w związku z referendum  2015)**  
