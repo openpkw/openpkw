@@ -3,7 +3,7 @@ I - III. [**Przepisy ogólne**] (https://github.com/openpkw/openpkw/edit/master/
 IV. [**W zakresie wyborów samorządowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4_samorzad.md) 
 
 # V. W zakresie wyborów do Sejmu i Senatu
-**(poniższe akty dotyczą wyborów z poprzedniej kadencji - będą sukcesywnie zmieniane z chwilą ogłoszenia wyborów do nowej kadencji 2015)**
+
 
 * Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 17 lipca 2015 r. w sprawie zarządzenia wyborów do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej ([Dz.U. 2015, poz. 1017] ())  
   * [Kalendarz wyborczy] (http://parlament2015.pkw.gov.pl/pliki/1437566443_Postanowienie.pdf) 
@@ -27,6 +27,15 @@ Polskiej ([M.P. 2011, Nr 30, poz. 345] (http://isap.sejm.gov.pl/DetailsServlet?i
       * protokół zbiorczy PKW - ([SEJM] (http://parlament2015.pkw.gov.pl/pliki/1437472178_za%C5%82_8_wzor%20protokolu%20Sejm%20-%20PKW-zbiorcze.pdf))  
     
 * Uchwała Państwowej Komisji Wyborczej z dnia 20 lipca 2015 r. w sprawie wzorów potwierdzenia zgłoszenia listy kandydatów na posłów i protokołu rejestracji listy kandydatów na posłów oraz potwierdzenia zgłoszenia kandydata na senatora i protokołu rejestracji kandydata na senatora ([M.P. 2015, skierowany do publikacji] (http://parlament2015.pkw.gov.pl/akty_prawne/0/38_Uchwala_Panstwowej_Komisji_Wyborczej_z_dnia_20_lipca_2015_r_w_sprawie_wzorow_potwierdzenia_zgloszenia_listy_kandydatow_na_poslow_i_protokolu_rejestracji_listy_kandydatow_na_poslow_oraz_potwierdzenia_zgloszenia_kandydata_na_senatora_i_protokolu_rejestracji_kandydata_na_senatora))   
+
+* **Informacje PKW**
+    * Informacja o tworzeniu komitetu wyborczego partii politycznej w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r. (oraz wzory dokumentów zgłoszeniowych) ([ZPOW-503-17/15] (http://parlament2015.pkw.gov.pl/aktualnosci/0/2_Informacja_o_tworzeniu_komitetu_wyborczego_partii_politycznej_w_wyborach_do_Sejmu_Rzeczypospolitej_Polskiej_i_do_Senatu_Rzeczypospolitej_Polskiej_zarzadzonych_na_dzien_25_pazdziernika_2015_r))  
+    * Informacja o tworzeniu komitetu wyborczego wyborców w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r. (oraz wzory dokumentów zgłoszeniowych) ([ZPOW-503-19/15] (http://parlament2015.pkw.gov.pl/aktualnosci/0/4_Informacja_o_tworzeniu_komitetu_wyborczego_wyborcow_w_wyborach_do_Sejmu_Rzeczypospolitej_Polskiej_i_do_Senatu_Rzeczypospolitej_Polskiej_zarzadzonych_na_dzien_25_pazdziernika_2015_r))  
+    * Informacja o tworzeniu koalicyjnego komitetu wyborczego w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r. (oraz wzory dokumentów zgłoszeniowych) ([ZPOW-503-18/15] (http://parlament2015.pkw.gov.pl/aktualnosci/0/3_Informacja_o_tworzeniu_koalicyjnego_komitetu_wyborczego__w_wyborach_do_Sejmu_Rzeczypospolitej_Polskiej_i_do_Senatu_Rzeczypospolitej_Polskiej_zarzadzonych_na_dzien_25_pazdziernika_2015_r))  
+    * Informacja o zasadach i sposobie zgłaszania list kandydatów na posłów w wyborach do Sejmu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r. (oraz wzory dokumentów zgłoszeniowych) ([ZPOW-503-20-15] (http://parlament2015.pkw.gov.pl/aktualnosci/0/5_Informacja_o_zasadach_i_sposobie_zglaszania_list_kandydatow_na_poslow_w_wyborach_do_Sejmu_Rzeczypospolitej_Polskiej_zarzadzonych_na_dzien_25_pazdziernika_2015_r))  
+    * Informacja o zasadach i sposobie zgłaszania kandydatów na senatorów w wyborach do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r. (oraz wzory dokumentów zgłoszeniowych) ([ZPOW-503-21/15] (http://parlament2015.pkw.gov.pl/aktualnosci/0/6_Informacja_o_zasadach_i_sposobie_zglaszania_kandydatow_na_senatorow_w_wyborach_do_Senatu_Rzeczypospolitej_Polskiej_zarzadzonych_na_dzien_25_pazdziernika_2015_r))  
+
+**(poniższe akty dotyczą wyborów z poprzedniej kadencji - będą sukcesywnie zmieniane z chwilą ogłoszenia wyborów do nowej kadencji 2015)**    
 
 1) **uchwała Państwowej Komisji Wyborczej z dnia 27 czerwca 2011 r. w sprawie warunków i sposobu wykorzystania techniki elektronicznej oraz trybu przekazywania danych za pośrednictwem sieci elektronicznego przekazywania danych w wyborach
 do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej ([M.P. 2011, Nr 63, poz. 601] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20110630601)),**  
