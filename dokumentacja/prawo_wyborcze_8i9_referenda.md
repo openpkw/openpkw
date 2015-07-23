@@ -53,10 +53,6 @@ poz. 671] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030740671) i zmiana: [
 
 2) UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 17 kwietnia 2003 r. w sprawie wzorów pieczęci obwodowych komisji do spraw referendum, powołanych do przeprowadzenia referendum ogólnokrajowego ([M.P. 2003 nr 20 poz. 304] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20030200304))
 
-3) Rozporządzenie Ministra Spraw Zagranicznych z dnia 16 maja 2003 r. w sprawie utworzenia obwodów głosowania w referendum ogólnokrajowym dla obywateli polskich przebywających za granicą ([Dz.U. 2003 nr 89 poz. 840] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030890840))
-
-4) Rozporządzenie Ministra Infrastruktury z dnia 16 maja 2003 r. w sprawie utworzenia obwodów głosowania w referendum ogólnokrajowym dla wyborców przebywających na polskich statkach morskich ([Dz.U. 2003 nr 89 poz. 835] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030890835))
-
 # IX. W zakresie referendów lokalnych
 
 * Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 marca 2013 r. w sprawie ogłoszenia jednolitego tekstu ustawy o referendum lokalnym ([Dz.U. 2013 poz. 706] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20130000706&min=1))
