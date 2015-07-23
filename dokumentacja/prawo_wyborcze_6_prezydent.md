@@ -58,7 +58,7 @@ I - III. [**Przepisy ogólne**] (https://github.com/openpkw/openpkw/edit/master/
 
 * Uchwała Państwowej Komisji Wyborczej w sprawie rozwiązania okręgowych i obwodowych komisji wyborczych, powołanych w celu przeprowadzenia wyborów Prezydenta Rzeczypospolitej Polskiej zarządzonych na dzień 10 maja 2015 r. ([M.P. 2015 poz. 574] (http://monitorpolski.gov.pl/mp/2015/574/1))  
 
-* Uchwała Sądu Najwyższego z dnia 23 czerwca 2015 r. w sprawie ważności wyborów Prezydenta Rzeczypospolitej Polskiej przeprowadzonych w dniach 10 i 24 maja 2015 r. ([skierowany do publikacji] (http://pkw.gov.pl/g2/oryginal/2015_06/fa68063fafb410d768e95413f914e28a.pdf)) 
+* Uchwała Sądu Najwyższego z dnia 23 czerwca 2015 r. w sprawie ważności wyborów Prezydenta Rzeczypospolitej Polskiej przeprowadzonych w dniach 10 i 24 maja 2015 r. ([Dz.U. 2015 poz. 952] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150000952)) 
 
 
  VII. [**W zakresie wyborów do Europarlamentu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_7_europarlament.md) 
