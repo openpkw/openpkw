@@ -20,9 +20,10 @@ Polskiej ([M.P. 2011, Nr 30, poz. 345] (http://isap.sejm.gov.pl/DetailsServlet?i
 * Uchwała Państwowej Komisji Wyborczej z dnia 20 lipca 2015 r. w sprawie wzorów protokołów głosowania i protokołów z wyborów stosowanych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej ([M.P. 2015, skierowany do publikacji] (http://parlament2015.pkw.gov.pl/akty_prawne/0/37_Uchwala_Panstwowej_Komisji_Wyborczej_z_dnia_20_lipca_2015_r_w_sprawie_wzorow_protokolow_glosowania_i_protokolow_z_wyborow_stosowanych_w_wyborach_do_Sejmu_Rzeczypospolitej_Polskiej_i_do_Senatu_Rzeczypospolitej_Polskiej))  
       * protokół Obwodowej Komisji Wyborczej - ([SEJM] (http://parlament2015.pkw.gov.pl/pliki/1437472106_za%C5%82_1_wzor%20protokolu%20Sejm%20-%20obwod.pdf))  
       * protokół Obwodowej Komisji Wyborczej - ([SENAT] (http://parlament2015.pkw.gov.pl/pliki/1437472146_za%C5%82_4_wzor%20protokolu%20Senat%20-%20obwod.pdf))  
+      * protokół Obwodowej Komisji Wyborczej 1 kandydat - ([SENAT] (http://parlament2015.pkw.gov.pl/pliki/1437472162_za%C5%82_6_wzor%20protokolu%20Senat%20-%20obwod_1_kandydat.pdf))
       * protokół okręgowy głosowanie - ([SEJM] (http://parlament2015.pkw.gov.pl/pliki/1437472113_za%C5%82_2_wzor%20protokolu%20Sejm%20-%20okreg%20-%20glosowanie.pdf))  
       * protokół okręgowy głosowanie - ([SENAT] (http://parlament2015.pkw.gov.pl/pliki/1437472154_za%C5%82_5_wzor%20protokolu%20Senat%20-%20okreg.pdf))  
-      * protokół okręgowy - 1 kandydat głosowanie - ([SENAT] (http://parlament2015.pkw.gov.pl/pliki/1437472171_za%C5%82_7_wzor%20protokolu%20Senat%20-%20okreg_1_kandydat.pdf))  
+      * protokół okręgowy - 1 kandydat - ([SENAT] (http://parlament2015.pkw.gov.pl/pliki/1437472171_za%C5%82_7_wzor%20protokolu%20Senat%20-%20okreg_1_kandydat.pdf))  
       * protokół okręgowy wybór - ([SEJM] (http://parlament2015.pkw.gov.pl/pliki/1437472124_za%C5%82_3_wzor%20protokolu%20Sejm%20-%20okreg%20-%20wybory.pdf))  
       * protokół zbiorczy PKW - ([SEJM] (http://parlament2015.pkw.gov.pl/pliki/1437472178_za%C5%82_8_wzor%20protokolu%20Sejm%20-%20PKW-zbiorcze.pdf))  
     
