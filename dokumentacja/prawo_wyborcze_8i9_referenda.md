@@ -38,6 +38,9 @@
 
 * UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 6 lipca 2015 r. w sprawie wzoru zaświadczenia dla mężów zaufania w referendum ogólnokrajowym ([M.P. 2015 skierowane do publikacji] (http://referendum2015.pkw.gov.pl/akty_prawne/0/16_UCHWALA_PANSTWOWEJ_KOMISJI_WYBORCZEJ_z_dnia_6_lipca_2015_r_w_sprawie_wzoru_zaswiadczenia_dla_mezow_zaufania_w_referendum_ogolnokrajowym))  
 
+* **Uchwała Państwowej Komisji Wyborczej z dnia 20 lipca 2015 r. w sprawie warunków oraz sposobu wykorzystania techniki elektronicznej w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([M.P. 2015, skierowany do publikacji] (http://referendum2015.pkw.gov.pl/akty_prawne/0/22_Uchwala_Panstwowej_Komisji_Wyborczej_z_dnia_20_lipca_2015_r_w_sprawie_warunkow_oraz_sposobu_wykorzystania_techniki_elektronicznej_w_referendum_ogolnokrajowym_zarzadzonym_na_dzien_6_wrzesnia_2015_r))**
+
+
 **(poniższe akty są obowiązujce - ale mogą być sukcesywnie zmieniane w związku z referendum  2015)**  
 
 1) rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 kwietnia 2003 r. w sprawie sposobu zgłaszania
@@ -46,11 +49,9 @@ poz. 671] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030740671) i zmiana: [
 
 2) UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 17 kwietnia 2003 r. w sprawie wzorów pieczęci obwodowych komisji do spraw referendum, powołanych do przeprowadzenia referendum ogólnokrajowego ([M.P. 2003 nr 20 poz. 304] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20030200304))
 
-3) **Uchwała Państwowej Komisji Wyborczej z dnia 12 maja 2003 r. w sprawie określenia warunków oraz sposobu wykorzystania techniki elektronicznej w referendum ogólnokrajowym w sprawie wyrażenia zgody na ratyfikację Traktatu dotyczącego przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej, zarządzonym na dzień 8 czerwca 2003 r. ([M.P. 2003 nr 25 poz. 366] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20030250366))**
+3) Rozporządzenie Ministra Spraw Zagranicznych z dnia 16 maja 2003 r. w sprawie utworzenia obwodów głosowania w referendum ogólnokrajowym dla obywateli polskich przebywających za granicą ([Dz.U. 2003 nr 89 poz. 840] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030890840))
 
-4) Rozporządzenie Ministra Spraw Zagranicznych z dnia 16 maja 2003 r. w sprawie utworzenia obwodów głosowania w referendum ogólnokrajowym dla obywateli polskich przebywających za granicą ([Dz.U. 2003 nr 89 poz. 840] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030890840))
-
-5) Rozporządzenie Ministra Infrastruktury z dnia 16 maja 2003 r. w sprawie utworzenia obwodów głosowania w referendum ogólnokrajowym dla wyborców przebywających na polskich statkach morskich ([Dz.U. 2003 nr 89 poz. 835] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030890835))
+4) Rozporządzenie Ministra Infrastruktury z dnia 16 maja 2003 r. w sprawie utworzenia obwodów głosowania w referendum ogólnokrajowym dla wyborców przebywających na polskich statkach morskich ([Dz.U. 2003 nr 89 poz. 835] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20030890835))
 
 # IX. W zakresie referendów lokalnych
 
