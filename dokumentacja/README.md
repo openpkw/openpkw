@@ -37,6 +37,7 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
    * [**Okregi_2014_Samorzad**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Okregi_2014_Samorzad.md) - zasady podziału Polski w wyborach samorządowych 2014 r.  
    * [**QRcode_referendum1**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/QRcode_referendum1.md) - Zasady i obliczenia maksymalnej długości (liczby) znaków do zaszycia w OR code w przypadku Referendum ogólnopolskiego, jednodniowego w protokole Komisji Obwodowej ds. referendum.
    * [**QRcode_Sejm_Obwody**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/QRcode_Sejm_Obwody.md) - Zasady i obliczenia maksymalnej długości (liczby) znaków do zaszycia w OR code w przypadku wyborów do Sejmu 2015 w protokole Obwodowej Komisji Wyborczej.
+   * [**Walidacja_referendum_2015**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_referendum_2015.md)  - zasady walidacji protokołów obwodowych w Referendum ogólnopolskim 5 września 2015 r.  
 
 
 # Zawartość katalogu:
