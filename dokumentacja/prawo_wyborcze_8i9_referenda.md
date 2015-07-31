@@ -50,6 +50,8 @@
 
 * Uchwała Państwowej Komsji Wyborczej z dnia 27 lipca 2015 r. w sprawie wytycznych dla obwodowych komisji do spraw referendum, dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w obwodach głosowania utworzonych za granicą i na polskich statkach morskich w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([M.P. 2015 skierowany do publikacji] (http://referendum2015.pkw.gov.pl/pliki/1438072179_Wytyczne%20dla%20obwodowych%20komisji%20do%20spraw%20referendum%20za%20granic%C4%85.pdf))  
 
+* ROZPORZĄDZENIE MINISTRA ADMINISTRACJI I CYFRYZACJI z dnia 29 lipca 2015 r. w sprawie spisu osób uprawnionych do udziału w referendum ogólnokrajowym ([Dz.U. z 2015 r., poz. 1086] (http://referendum2015.pkw.gov.pl/pliki/1438357373_D2015000108601.pdf))  
+
 
 **(poniższe akty są obowiązujce - ale mogą być sukcesywnie zmieniane w związku z referendum  2015)**  
 
