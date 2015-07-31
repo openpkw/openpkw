@@ -1,4 +1,4 @@
- I - III. [**Przepisy ogólne**] (https://github.com/openpkw/openpkw/edit/master/dokumentacja/prawo_wyborcze.md)
+ I - III. [**Przepisy ogólne**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze.md)
  
  IV. [**W zakresie wyborów samorządowych**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_4_samorzad.md) 
 
