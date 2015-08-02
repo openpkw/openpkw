@@ -8,7 +8,8 @@
         <jta-data-source>java:/jboss/databases/openpkw</jta-data-source>
         <properties>
             <property name="hibernate.dialect" value="org.hibernate.dialect.H2Dialect"/>
-
+            <property name="jboss.entity.manager.factory.jndi.name" value="java:jboss/opkwEntityManagerFactory" />
+            <property name="jboss.entity.manager.jndi.name" value="java:/opkwEntityManager"/>
         </properties>
 
     </persistence-unit>
