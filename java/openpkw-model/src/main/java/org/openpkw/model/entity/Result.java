@@ -6,11 +6,13 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
 /**
  * Created by Łukasz Franczuk (luk.franczuk@gmail.com) on 2015-08-05. 
- * Edit by Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-06.
+ * Edit by Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-07.
  */
 
 @Entity
@@ -19,16 +21,29 @@ public class Result {
 
 	@Id
 	@GeneratedValue
+	@Column(name="id")
 	private int id;
-	@Column(name="PytanieId")
-	private int pytanieId;
-	private int opm_obwodowa_komisja_id;
+			
 	@Column(name="WynikOdpowiedzi")
-	private String wynikOdpowiedzi;
+	private String answerId;
+	
 	@Column(name="StepelCzasowy")
-	private Timestamp stepelCzasowy;
+	private Timestamp timeMark;
+	
 	@Column(name="OpmUserId")
-	private int opmUserId;
+	@OneToOne
+	@JoinColumn(name="id")
+	private User user;
+	
+	@Column(name="PytanieId")
+	@OneToOne
+	@JoinColumn(name="id")
+	private ProtocolItem protocolItem;
+	
+	@Column(name="opm_obwodowa_komisja_id")
+	@OneToOne
+	@JoinColumn(name="id")
+	private PeripheralCommittee peripheralCommittee;
 
 	public int getId() {
 		return id;
@@ -38,44 +53,44 @@ public class Result {
 		this.id = id;
 	}
 
-	public int getPytanieId() {
-		return pytanieId;
+	public String getAnswerId() {
+		return answerId;
 	}
 
-	public void setPytanieId(int pytanieId) {
-		this.pytanieId = pytanieId;
+	public void setAnswerId(String answerId) {
+		this.answerId = answerId;
 	}
 
-	public int getOpm_obwodowa_komisja_id() {
-		return opm_obwodowa_komisja_id;
+	public Timestamp getTimeMark() {
+		return timeMark;
 	}
 
-	public void setOpm_obwodowa_komisja_id(int opm_obwodowa_komisja_id) {
-		this.opm_obwodowa_komisja_id = opm_obwodowa_komisja_id;
+	public void setTimeMark(Timestamp timeMark) {
+		this.timeMark = timeMark;
 	}
 
-	public String getWynikOdpowiedzi() {
-		return wynikOdpowiedzi;
+	public User getUser() {
+		return user;
 	}
 
-	public void setWynikOdpowiedzi(String wynikOdpowiedzi) {
-		this.wynikOdpowiedzi = wynikOdpowiedzi;
+	public void setUser(User user) {
+		this.user = user;
 	}
 
-	public Timestamp getStepelCzasowy() {
-		return stepelCzasowy;
+	public ProtocolItem getProtocolItem() {
+		return protocolItem;
 	}
 
-	public void setStepelCzasowy(Timestamp stepelCzasowy) {
-		this.stepelCzasowy = stepelCzasowy;
+	public void setProtocolItem(ProtocolItem protocolItem) {
+		this.protocolItem = protocolItem;
 	}
 
-	public int getOpmUserId() {
-		return opmUserId;
+	public PeripheralCommittee getPeripheralCommittee() {
+		return peripheralCommittee;
 	}
 
-	public void setOpmUserId(int opmUserId) {
-		this.opmUserId = opmUserId;
+	public void setPeripheralCommittee(PeripheralCommittee peripheralCommittee) {
+		this.peripheralCommittee = peripheralCommittee;
 	}
 
 }

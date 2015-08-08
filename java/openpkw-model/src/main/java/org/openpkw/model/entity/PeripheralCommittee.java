@@ -2,12 +2,13 @@ package org.openpkw.model.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * Created by Łukasz Franczuk (luk.franczuk@gmail.com) on 2015-08-05. Edit by
- * Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-06.
+ * Created by Łukasz Franczuk (luk.franczuk@gmail.com) on 2015-08-05. 
+ * Edit by Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-07.
  */
 
 @Entity
@@ -15,23 +16,39 @@ import javax.persistence.Table;
 public class PeripheralCommittee {
 
 	@Id
-	private int id;
+	@GeneratedValue
+	@Column(name="id")
+	private Long id;
+	
+	@Column(name="pkwId")
 	private String pkwId;
+	
+	@Column(name="name")
 	private String name;
+	
+	@Column(name="address")
 	private String address;
+	
+	@Column(name="type")
 	private String type;
-	private int allowedToVote;
-	private int opm_okregowa_komisja_id;
+	
+	@Column(name="allowedToVote")
+	private long allowedToVote;
+	
+	@Column(name="opm_okregowa_komisja_id")
+	private long opmOkregowaKomisjaId;
+	
 	@Column(name="KodTeryt")
-	private int kodTeryt;
+	private long territoryCode;
+	
 	@Column(name="KodObwodu")
-	private int kodObwodu;
+	private long areaCode;
 
-	public int getId() {
+	public long getId() {
 		return id;
 	}
 
-	public void setId(int id) {
+	public void setIdCommittee(long id) {
 		this.id = id;
 	}
 
@@ -67,36 +84,35 @@ public class PeripheralCommittee {
 		this.type = type;
 	}
 
-	public int getAllowedToVote() {
+	public long getAllowedToVote() {
 		return allowedToVote;
 	}
 
-	public void setAllowedToVote(int allowedToVote) {
+	public void setAllowedToVote(long allowedToVote) {
 		this.allowedToVote = allowedToVote;
 	}
 
-	public int getOpm_okregowa_komisja_id() {
-		return opm_okregowa_komisja_id;
+	public long getOpmOkregowaKomisjaId() {
+		return opmOkregowaKomisjaId;
 	}
 
-	public void setOpm_okregowa_komisja_id(int opm_okregowa_komisja_id) {
-		this.opm_okregowa_komisja_id = opm_okregowa_komisja_id;
+	public void setOpmOkregowaKomisjaId(long opmOkregowaKomisjaId) {
+		this.opmOkregowaKomisjaId = opmOkregowaKomisjaId;
 	}
 
-	public int getKodTeryt() {
-		return kodTeryt;
+	public long getTerritoryCode() {
+		return territoryCode;
 	}
 
-	public void setKodTeryt(int kodTeryt) {
-		this.kodTeryt = kodTeryt;
+	public void setTerritoryCode(long territoryCode) {
+		this.territoryCode = territoryCode;
 	}
 
-	public int getKodObwodu() {
-		return kodObwodu;
+	public long getAreaCode() {
+		return areaCode;
 	}
 
-	public void setKodObwodu(int kodObwodu) {
-		this.kodObwodu = kodObwodu;
+	public void setAreaCode(long areaCode) {
+		this.areaCode = areaCode;
 	}
-
 }

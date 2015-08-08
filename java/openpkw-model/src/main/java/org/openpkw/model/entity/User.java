@@ -1,12 +1,14 @@
 package org.openpkw.model.entity;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
  * Created by Łukasz Franczuk (luk.franczuk@gmail.com) on 2015-08-05. 
- * Edit by Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-06.
+ * Edit by Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-07.
  */
 
 @Entity
@@ -14,21 +16,40 @@ import javax.persistence.Table;
 public class User {
 	
 	@Id
-	private int id;
+	@GeneratedValue
+	@Column(name="id")
+	private long id;
+	
+	@Column(name="firstName")
 	private String firstName;
+	
+	@Column(name="lastName")
 	private String lastName;
+	
+	@Column(name="email")
 	private String email;
+	
+	@Column(name="password")
 	private String password;
+	
+	@Column(name="type")
 	private String type;
+	
+	@Column(name="salt")
 	private String salt;
+	
+	@Column(name="active")
 	private Boolean active;
+	
+	@Column(name="userName")
 	private String userName;
 
-	public int getId() {
+	
+	public long getId() {
 		return id;
 	}
 
-	public void setId(int id) {
+	public void setId(long id) {
 		this.id = id;
 	}
 
@@ -95,5 +116,4 @@ public class User {
 	public void setUserName(String userName) {
 		this.userName = userName;
 	}
-
 }

@@ -4,6 +4,8 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
 /**
@@ -17,30 +19,34 @@ public class ProtocolItem {
 
 	@Id
 	@GeneratedValue
-	private int id;
-	@Column(name="TrescPozycjiProtokolu")
-	private String trescPozycjiProtokolu;
-	@Column(name="ProtokolID")
-	private int protokolID;
+	@Column(name="id")
+	private long id;
 	
-	public int getId() {
+	@Column(name="TrescPozycjiProtokolu")
+	private String protocolItemContent;
+	
+	@Column(name="ProtokolID")
+	@OneToOne
+	@JoinColumn(name="id")
+	private Protocol protocol;
+	
+	public long getId() {
 		return id;
 	}
-	public void setId(int id) {
+	public void setId(long id) {
 		this.id = id;
 	}
-	public String getTrescPozycjiProtokolu() {
-		return trescPozycjiProtokolu;
+	public String getProtocolItemContent() {
+		return protocolItemContent;
 	}
-	public void setTrescPozycjiProtokolu(String trescPozycjiProtokolu) {
-		this.trescPozycjiProtokolu = trescPozycjiProtokolu;
+	public void setProtocolItemContent(String protocolItemContent) {
+		this.protocolItemContent = protocolItemContent;
 	}
-	public int getProtokolID() {
-		return protokolID;
+	public Protocol getProtocol() {
+		return protocol;
 	}
-	public void setProtokolID(int protokolID) {
-		this.protokolID = protokolID;
+	public void setProtocol(Protocol protocol) {
+		this.protocol = protocol;
 	}
-
 	
 }

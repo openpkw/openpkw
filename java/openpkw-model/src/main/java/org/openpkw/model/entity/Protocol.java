@@ -2,6 +2,7 @@ package org.openpkw.model.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
@@ -15,9 +16,11 @@ import javax.persistence.Table;
 public class Protocol {
 
 	@Id
+	@GeneratedValue
 	private int id;
-	@Column(name="Nazwa")
-	private String nazwa;
+	
+	@Column(name = "Nazwa")
+	private String name;
 
 	public int getId() {
 		return id;
@@ -27,12 +30,11 @@ public class Protocol {
 		this.id = id;
 	}
 
-	public String getNazwa() {
-		return nazwa;
+	public String getName() {
+		return name;
 	}
 
-	public void setNazwa(String nazwa) {
-		this.nazwa = nazwa;
+	public void setName(String name) {
+		this.name = name;
 	}
-
 }
