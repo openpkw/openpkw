@@ -38,7 +38,7 @@
 
 * UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 6 lipca 2015 r. w sprawie wzoru zaświadczenia dla mężów zaufania w referendum ogólnokrajowym ([[M.P. 2015 poz. 616] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000616))  
 
-* **Uchwała Państwowej Komisji Wyborczej z dnia 20 lipca 2015 r. w sprawie warunków oraz sposobu wykorzystania techniki elektronicznej w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([M.P. 2015, skierowany do publikacji] (http://referendum2015.pkw.gov.pl/akty_prawne/0/22_Uchwala_Panstwowej_Komisji_Wyborczej_z_dnia_20_lipca_2015_r_w_sprawie_warunkow_oraz_sposobu_wykorzystania_techniki_elektronicznej_w_referendum_ogolnokrajowym_zarzadzonym_na_dzien_6_wrzesnia_2015_r))**  
+* **Uchwała Państwowej Komisji Wyborczej z dnia 20 lipca 2015 r. w sprawie warunków oraz sposobu wykorzystania techniki elektronicznej w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([M.P. 2015, poz. 663] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000663))**  
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 20 lipca 2015 r. w sprawie zasad i trybu przekazywania Komisarzowi Wyborczemu w Warszawie wyników głosowania i protokołów głosowania z obwodów utworzonych za granicą w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([M.P. 2015 skierowany do publikacji] (http://referendum2015.pkw.gov.pl/pliki/1437475718_UCHWA%C5%81A%20przekazanie%20wynik%C3%B3w%20za%20granica.pdf))  
 
