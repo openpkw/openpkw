@@ -55,8 +55,7 @@
 * Uchwała Państwowej Komisji Wyborczej z dnia 6 sierpnia 2015 r. w sprawie ustalenia wzoru informacji o sposobie głosowania i warunkach ważności głosu w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r.([skierowano do publikacji](http://referendum2015.pkw.gov.pl/akty_prawne/0/29_Uchwala_Panstwowej_Komisji_Wyborczej_z_dnia_6_sierpnia_2015_r_w_sprawie_ustalenia_wzoru_informacji_o_sposobie_glosowania_i_warunkach_waznosci_glosu_w_referendum_ogolnokrajowym_zarzadzonym_na_dzien_6_wrzesnia_2015_r))  
  * [Załącznik graficzny](http://referendum2015.pkw.gov.pl/pliki/1438862609_Za%C5%82%C4%85cznik%20do%20uchwa%C5%82y%20w%20sprawie%20sposobu%20g%C5%82osowania%20w%20referendum.pdf)  
 
- * ROZPORZĄDZENIE MINISTRA ADMINISTRACJI I CYFRYZACJI z dnia 27 lipca 2015 r. zmieniające rozporządzenie w sprawie należności pieniężnych przysługujących członkom obwodowych komisji do spraw referendum w referendum ogólnokrajowym oraz trybu udzielania im dni wolnych od pracy ([Dz.U. 2015 poz. 1068](http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150001068))  
-
+* ROZPORZĄDZENIE MINISTRA ADMINISTRACJI I CYFRYZACJI z dnia 27 lipca 2015 r. zmieniające rozporządzenie w sprawie należności pieniężnych przysługujących członkom obwodowych komisji do spraw referendum w referendum ogólnokrajowym oraz trybu udzielania im dni wolnych od pracy ([Dz.U. 2015 poz. 1068](http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150001068))  
 
 
 **(poniższe akty są obowiązujce - ale mogą być sukcesywnie zmieniane w związku z referendum  2015)**  
