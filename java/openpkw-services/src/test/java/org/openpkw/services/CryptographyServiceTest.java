@@ -1,20 +1,19 @@
 package org.openpkw.services;
 
-import org.junit.Assert;
-import org.junit.Before;
-import org.junit.Test;
-import org.mockito.Mock;
+
 import org.openpkw.exceptions.CryptographyException;
+import org.testng.Assert;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
 
 /**
  * Created by kdziegie on 8/13/2015.
  */
 public class CryptographyServiceTest {
 
-    @Mock
     private CryptographyService cryptographyService;
 
-    @Before
+    @BeforeClass
     public void init() {
         cryptographyService = new CryptographyService();
     }
