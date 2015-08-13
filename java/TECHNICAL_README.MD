@@ -12,3 +12,4 @@ Pliki \*_database.cli odpowiadają za instalację datasource. Prefiks oznacza we
 UWAGA!!! Należy zwrócić uwagę na parametry połączenia zdefiniowane w plikach. Należy je dostosować
 do swojego środowiska.   
 Plik openpkw-queue.cli odpowiada za założenie kolejki zgodnej z JMS do przesyłania komunikatów.
+
