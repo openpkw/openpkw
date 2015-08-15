@@ -30,5 +30,18 @@ public class CryptographyServiceTest {
         Assert.assertEquals(encryptedSentence, testedResult);
     }
 
+    @Test
+    public void testDigestPasswordNotEquals(){
+        String encryptedSentence = "d1217aeeb182c9106254d397ba743802c26d6afe";
+        //encryptedSentence is "alamakota"
+        String sentence = "alaniemakota";
+        String testedResult = null;
+        try{
+            testedResult = cryptographyService.digestPassword(sentence);
+        } catch (CryptographyException e){
+        }
+        Assert.assertNotEquals(encryptedSentence, testedResult);
+    }
+
 
 }
