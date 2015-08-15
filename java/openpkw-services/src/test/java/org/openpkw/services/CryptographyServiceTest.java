@@ -31,17 +31,43 @@ public class CryptographyServiceTest {
     }
 
     @Test
-    public void testDigestPasswordNotEquals(){
+    public void testDigestPasswordNotEquals() {
         String encryptedSentence = "d1217aeeb182c9106254d397ba743802c26d6afe";
         //encryptedSentence is "alamakota"
         String sentence = "alaniemakota";
         String testedResult = null;
-        try{
+        try {
             testedResult = cryptographyService.digestPassword(sentence);
-        } catch (CryptographyException e){
+        } catch (CryptographyException e) {
         }
         Assert.assertNotEquals(encryptedSentence, testedResult);
     }
 
+    @Test
+    public void testIsPasswordCorrectTrue() {
+        String passwordExample = "alamakota";
+        String hashedPasswordExample = "d1217aeeb182c9106254d397ba743802c26d6afe";
+        boolean doesPasswordMatchHash = false;
+        doesPasswordMatchHash = cryptographyService.isPasswordCorrect(passwordExample, hashedPasswordExample);
+        Assert.assertTrue(doesPasswordMatchHash);
+    }
+
+    @Test
+    public void testIsPasswordCorrectWrongPassword() {
+        String passwordExample = "alaniemakota";
+        String hashedPassword = "d1217aeeb182c9106254d397ba743802c26d6afe";
+        boolean doesPasswordMatch = true;
+        doesPasswordMatch = cryptographyService.isPasswordCorrect(passwordExample, hashedPassword);
+        Assert.assertFalse(doesPasswordMatch);
+    }
+
+    @Test
+    public void testIsPasswordCorrectHash() {
+        String passwordExample = "alamakota";
+        String hashedPassword = "d1217aeeb182c9106254d397ba743802c26d6aff";
+        boolean doesPasswordMatch = true;
+        doesPasswordMatch = cryptographyService.isPasswordCorrect(passwordExample, hashedPassword);
+        Assert.assertFalse(doesPasswordMatch);
+    }
 
 }

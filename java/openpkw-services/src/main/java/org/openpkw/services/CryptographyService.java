@@ -35,7 +35,17 @@ public class CryptographyService {
     }
 
     public boolean isPasswordCorrect(String password, String hash) {
-        return false;
+        String hashedPassword = null;
+        try {
+            hashedPassword = digestPassword(password);
+
+        } catch (CryptographyException e) {
+            //sth to do?
+        }
+        if (hashedPassword != null) {
+            if (hashedPassword.equals(hash)) return true;
+            else return false;
+        } else return false;
     }
 
 }
