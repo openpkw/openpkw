@@ -8,14 +8,20 @@ import java.security.NoSuchAlgorithmException;
 
 
 /**
- * Created by kdziegie on 8/13/2015.
+ * Created by Karol Dziegiel on 8/13/2015.
  */
 @Service
 public class CryptographyService {
 
     private final String HASHING_ALGHORITM = "SHA1";
 
-
+    /**
+     * Creates hash out of given password
+     *
+     * @param password password given for encrypting
+     * @return returns hash of the given password
+     * @throws CryptographyException
+     */
     public String digestPassword(String password) throws CryptographyException {
         MessageDigest messageDigest = null;
         try {
@@ -34,6 +40,12 @@ public class CryptographyService {
 
     }
 
+    /**
+     * Checks if given password matches given hash
+     * @param password password given to check with the given hash
+     * @param hash given to check it the password matches it
+     * @return true value if the password matches the hash
+     */
     public boolean isPasswordCorrect(String password, String hash) {
         String hashedPassword = null;
         try {

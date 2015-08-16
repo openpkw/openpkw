@@ -7,7 +7,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 /**
- * Created by kdziegie on 8/13/2015.
+ * Created by Karol Dziegiel on 8/13/2015.
  */
 public class CryptographyServiceTest {
 
