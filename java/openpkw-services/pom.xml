@@ -11,6 +11,10 @@
     <packaging>jar</packaging>
 
     <dependencies>
+        <dependency>
+            <groupId>org.openpkw</groupId>
+            <artifactId>openpkw-repositories</artifactId>
+        </dependency>
         <!--Spring-->
         <dependency>
             <groupId>org.springframework</groupId>
