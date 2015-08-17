@@ -42,22 +42,17 @@ public class CryptographyService {
 
     /**
      * Checks if given password matches given hash
+     *
      * @param password password given to check with the given hash
-     * @param hash given to check it the password matches it
+     * @param hash     given to check it the password matches it
      * @return true value if the password matches the hash
      */
-    public boolean isPasswordCorrect(String password, String hash) {
-        String hashedPassword = null;
-        try {
-            hashedPassword = digestPassword(password);
+    public boolean isPasswordCorrect(String password, String hash) throws CryptographyException {
+        String hashedPassword = digestPassword(password);
 
-        } catch (CryptographyException e) {
-            //sth to do?
-        }
-        if (hashedPassword != null) {
+        if (hashedPassword != null)
             if (hashedPassword.equals(hash)) return true;
-            else return false;
-        } else return false;
+        return false;
     }
 
 }

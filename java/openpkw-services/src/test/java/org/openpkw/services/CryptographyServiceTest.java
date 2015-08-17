@@ -48,7 +48,11 @@ public class CryptographyServiceTest {
         String passwordExample = "alamakota";
         String hashedPasswordExample = "d1217aeeb182c9106254d397ba743802c26d6afe";
         boolean doesPasswordMatchHash = false;
-        doesPasswordMatchHash = cryptographyService.isPasswordCorrect(passwordExample, hashedPasswordExample);
+        try {
+            doesPasswordMatchHash = cryptographyService.isPasswordCorrect(passwordExample, hashedPasswordExample);
+        } catch (CryptographyException e) {
+            e.printStackTrace();
+        }
         Assert.assertTrue(doesPasswordMatchHash);
     }
 
@@ -57,7 +61,11 @@ public class CryptographyServiceTest {
         String passwordExample = "alaniemakota";
         String hashedPassword = "d1217aeeb182c9106254d397ba743802c26d6afe";
         boolean doesPasswordMatch = true;
-        doesPasswordMatch = cryptographyService.isPasswordCorrect(passwordExample, hashedPassword);
+        try {
+            doesPasswordMatch = cryptographyService.isPasswordCorrect(passwordExample, hashedPassword);
+        } catch (CryptographyException e) {
+            e.printStackTrace();
+        }
         Assert.assertFalse(doesPasswordMatch);
     }
 
@@ -66,7 +74,11 @@ public class CryptographyServiceTest {
         String passwordExample = "alamakota";
         String hashedPassword = "d1217aeeb182c9106254d397ba743802c26d6aff";
         boolean doesPasswordMatch = true;
-        doesPasswordMatch = cryptographyService.isPasswordCorrect(passwordExample, hashedPassword);
+        try {
+            doesPasswordMatch = cryptographyService.isPasswordCorrect(passwordExample, hashedPassword);
+        } catch (CryptographyException e) {
+            e.printStackTrace();
+        }
         Assert.assertFalse(doesPasswordMatch);
     }
 
