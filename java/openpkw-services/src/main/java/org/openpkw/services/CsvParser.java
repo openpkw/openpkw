@@ -20,22 +20,16 @@ public class CsvParser<T>
         this.lineMapper = lineMapper;
     }
 
-    public List<T> parse(File file)
+    public List<T> parse(File file) throws Exception
     {
         List<T> result = new ArrayList<>();
 
-        try {
-            BufferedReader br = new BufferedReader(new FileReader(file));
+        BufferedReader br = new BufferedReader(new FileReader(file));
 
-            int lineNumber = 0;
-            for(String line; (line = br.readLine()) != null; ) {
-                T fieldSet = (T) lineMapper.mapLine(line, lineNumber);
-                result.add(fieldSet);
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        } catch (Exception e) {
-            e.printStackTrace();
+        int lineNumber = 0;
+        for(String line; (line = br.readLine()) != null; ) {
+            T fieldSet = (T) lineMapper.mapLine(line, lineNumber);
+            result.add(fieldSet);
         }
 
         return result;

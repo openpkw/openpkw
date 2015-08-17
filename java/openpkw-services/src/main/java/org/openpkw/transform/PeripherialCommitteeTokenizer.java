@@ -8,5 +8,6 @@ import org.springframework.batch.item.file.transform.DelimitedLineTokenizer;
 public class PeripherialCommitteeTokenizer extends DelimitedLineTokenizer {
     public PeripherialCommitteeTokenizer() {
         this.setDelimiter("|");
+        this.setQuoteCharacter('\'');
     }
 }
