@@ -23,7 +23,7 @@ public class PeripherialCommitteeCsvParserTest {
     }
 
     @Test
-    public void canParseFile() {
+    public void canParseFileSkipingFailedLines() {
         File tmpFile = new File("src/test/resources/pollstations.csv");
         List<PeripheralCommittee> result = null;
         try {
@@ -32,8 +32,20 @@ public class PeripherialCommitteeCsvParserTest {
             e.printStackTrace();
         }
 
-        Assert.assertEquals(result.get(0).getPkwId(), "020101");
-        Assert.assertEquals(result.get(0).getTerritoryCode(), 1);
+        Assert.assertEquals(result.size(), 2);
+
+        PeripheralCommittee firstLine = result.get(0);
+        Assert.assertEquals(firstLine.getPkwId(), "20101-1");
+        Assert.assertEquals(firstLine.getTerritoryCode(), 20101);
+
+        PeripheralCommittee secondLine = result.get(1);
+        Assert.assertEquals(secondLine.getTerritoryCode(), 20101);
+        Assert.assertEquals(secondLine.getAreaCode(), 2);
+        Assert.assertEquals(secondLine.getPkwId(), "20101-2");
+        Assert.assertEquals(secondLine.getType(), "COMM");
+        Assert.assertEquals(secondLine.getName(), "Szkoła Podstawowa Nr 3");
+        Assert.assertEquals(secondLine.getAddress(), "ul. Ceramiczna 5\n59-700 Bolesławiec");
+        Assert.assertEquals(secondLine.getAllowedToVote(), 1394);
     }
 
     @Test

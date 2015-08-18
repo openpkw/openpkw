@@ -5,7 +5,6 @@ import org.springframework.batch.item.file.LineMapper;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -29,7 +28,9 @@ public class CsvParser<T>
         int lineNumber = 0;
         for(String line; (line = br.readLine()) != null; ) {
             T fieldSet = (T) lineMapper.mapLine(line, lineNumber);
-            result.add(fieldSet);
+            if (fieldSet != null) {
+                result.add(fieldSet);
+            }
         }
 
         return result;
