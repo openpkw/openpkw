@@ -23,14 +23,10 @@ public class PeripherialCommitteeCsvParserTest {
     }
 
     @Test
-    public void canParseFileSkipingFailedLines() {
+    public void canParseFileSkipingFailedLines() throws Exception {
         File tmpFile = new File("src/test/resources/pollstations.csv");
         List<PeripheralCommittee> result = null;
-        try {
-            result = csvParser.parse(tmpFile);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+        result = csvParser.parse(tmpFile);
 
         Assert.assertEquals(result.size(), 2);
 
