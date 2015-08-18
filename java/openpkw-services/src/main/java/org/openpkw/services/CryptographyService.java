@@ -1,8 +1,6 @@
 package org.openpkw.services;
 
 import org.openpkw.exceptions.CryptographyException;
-import org.openpkw.repositories.ResultRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.security.MessageDigest;
@@ -17,9 +15,6 @@ import java.security.NoSuchAlgorithmException;
 public class CryptographyService {
 
     private final String HASHING_ALGHORITM = "SHA1";
-
-    @Autowired
-    private ResultRepository resultRepository;
 
     /**
      * Creates hash out of given password
