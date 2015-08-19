@@ -7,8 +7,8 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * Created by Łukasz Franczuk (luk.franczuk@gmail.com) on 2015-08-05. 
- * Edit by Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-07.
+ * Created by Łukasz Franczuk (luk.franczuk@gmail.com) on 2015-08-05. Edit by
+ * Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-07.
  */
 
 @Entity
@@ -17,38 +17,38 @@ public class PeripheralCommittee {
 
 	@Id
 	@GeneratedValue
-	@Column(name="id")
+	@Column(name = "id")
 	private Long id;
-	
-	@Column(name="pkwId")
-	private String pkwId;
-	
-	@Column(name="name")
-	private String name;
-	
-	@Column(name="address")
-	private String address;
-	
-	@Column(name="type")
-	private String type;
-	
-	@Column(name="allowedToVote")
-	private long allowedToVote;
-	
-	@Column(name="opm_okregowa_komisja_id")
-	private long opmOkregowaKomisjaId;
-	
-	@Column(name="KodTeryt")
-	private long territoryCode;
-	
-	@Column(name="KodObwodu")
-	private long areaCode;
 
-	public long getId() {
+	@Column(name = "pkwId")
+	private String pkwId;
+
+	@Column(name = "name")
+	private String name;
+
+	@Column(name = "address")
+	private String address;
+
+	@Column(name = "type")
+	private String type;
+
+	@Column(name = "allowedToVote")
+	private Long allowedToVote;
+
+	@Column(name = "opm_okregowa_komisja_id")
+	private Long opmOkregowaKomisjaId;
+
+	@Column(name = "KodTeryt")
+	private Long territoryCode;
+
+	@Column(name = "KodObwodu")
+	private Long areaCode;
+
+	public Long getId() {
 		return id;
 	}
 
-	public void setIdCommittee(long id) {
+	public void setId(Long id) {
 		this.id = id;
 	}
 
@@ -84,35 +84,36 @@ public class PeripheralCommittee {
 		this.type = type;
 	}
 
-	public long getAllowedToVote() {
+	public Long getAllowedToVote() {
 		return allowedToVote;
 	}
 
-	public void setAllowedToVote(long allowedToVote) {
+	public void setAllowedToVote(Long allowedToVote) {
 		this.allowedToVote = allowedToVote;
 	}
 
-	public long getOpmOkregowaKomisjaId() {
+	public Long getOpmOkregowaKomisjaId() {
 		return opmOkregowaKomisjaId;
 	}
 
-	public void setOpmOkregowaKomisjaId(long opmOkregowaKomisjaId) {
+	public void setOpmOkregowaKomisjaId(Long opmOkregowaKomisjaId) {
 		this.opmOkregowaKomisjaId = opmOkregowaKomisjaId;
 	}
 
-	public long getTerritoryCode() {
+	public Long getTerritoryCode() {
 		return territoryCode;
 	}
 
-	public void setTerritoryCode(long territoryCode) {
+	public void setTerritoryCode(Long territoryCode) {
 		this.territoryCode = territoryCode;
 	}
 
-	public long getAreaCode() {
+	public Long getAreaCode() {
 		return areaCode;
 	}
 
-	public void setAreaCode(long areaCode) {
+	public void setAreaCode(Long areaCode) {
 		this.areaCode = areaCode;
 	}
+
 }

@@ -20,7 +20,7 @@ public class ProtocolItem {
 	@Id
 	@GeneratedValue
 	@Column(name="id")
-	private long id;
+	private Long id;
 	
 	@Column(name="TrescPozycjiProtokolu")
 	private String protocolItemContent;
@@ -30,10 +30,10 @@ public class ProtocolItem {
 	@JoinColumn(name="id")
 	private Protocol protocol;
 	
-	public long getId() {
+	public Long getId() {
 		return id;
 	}
-	public void setId(long id) {
+	public void setId(Long id) {
 		this.id = id;
 	}
 	public String getProtocolItemContent() {

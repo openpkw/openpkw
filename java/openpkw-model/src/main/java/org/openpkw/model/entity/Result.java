@@ -1,6 +1,7 @@
 package org.openpkw.model.entity;
 
 import java.sql.Timestamp;
+import java.util.Date;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -22,13 +23,13 @@ public class Result {
 	@Id
 	@GeneratedValue
 	@Column(name="id")
-	private int id;
+	private Long id;
 			
 	@Column(name="WynikOdpowiedzi")
 	private String answerId;
 	
 	@Column(name="StepelCzasowy")
-	private Timestamp timeMark;
+	private Date timeMark;
 	
 	@Column(name="OpmUserId")
 	@OneToOne
@@ -45,11 +46,11 @@ public class Result {
 	@JoinColumn(name="id")
 	private PeripheralCommittee peripheralCommittee;
 
-	public int getId() {
+	public Long getId() {
 		return id;
 	}
 
-	public void setId(int id) {
+	public void setId(Long id) {
 		this.id = id;
 	}
 
@@ -61,11 +62,11 @@ public class Result {
 		this.answerId = answerId;
 	}
 
-	public Timestamp getTimeMark() {
+	public Date getTimeMark() {
 		return timeMark;
 	}
 
-	public void setTimeMark(Timestamp timeMark) {
+	public void setTimeMark(Date timeMark) {
 		this.timeMark = timeMark;
 	}
 
