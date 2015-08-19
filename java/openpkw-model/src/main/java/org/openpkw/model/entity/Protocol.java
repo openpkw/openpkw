@@ -1,14 +1,17 @@
 package org.openpkw.model.entity;
 
+import java.util.List;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 /**
- * Created by Łukasz Franczuk (luk.franczuk@gmail.com) on 2015-08-05. 
- * Edit by Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-06.
+ * Created by Łukasz Franczuk (luk.franczuk@gmail.com) on 2015-08-05. Edit by
+ * Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-06.
  */
 
 @Entity
@@ -17,16 +20,22 @@ public class Protocol {
 
 	@Id
 	@GeneratedValue
-	private int id;
-	
+	private Long id;
+
 	@Column(name = "Nazwa")
 	private String name;
 
-	public int getId() {
+	@OneToMany
+	private List<Photo> photosList;
+
+	@OneToMany
+	private List<ProtocolItem> protocolItemsList;
+
+	public Long getId() {
 		return id;
 	}
 
-	public void setId(int id) {
+	public void setId(Long id) {
 		this.id = id;
 	}
 
@@ -37,4 +46,21 @@ public class Protocol {
 	public void setName(String name) {
 		this.name = name;
 	}
+
+	public List<Photo> getPhotosList() {
+		return photosList;
+	}
+
+	public void setPhotosList(List<Photo> photosList) {
+		this.photosList = photosList;
+	}
+
+	public List<ProtocolItem> getProtocolItemsList() {
+		return protocolItemsList;
+	}
+
+	public void setProtocolItemsList(List<ProtocolItem> protocolItemsList) {
+		this.protocolItemsList = protocolItemsList;
+	}
+
 }

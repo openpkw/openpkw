@@ -1,55 +1,64 @@
 package org.openpkw.model.entity;
 
+import java.util.List;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.ManyToOne;
+import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 /**
- * Created by Łukasz Franczuk (luk.franczuk@gmail.com) on 2015-08-05. 
- * Edit by Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-07.
+ * Created by Łukasz Franczuk (luk.franczuk@gmail.com) on 2015-08-05. Edit by
+ * Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-07.
  */
 
 @Entity
 @Table(name = "opm_user")
 public class User {
-	
+
 	@Id
 	@GeneratedValue
-	@Column(name="id")
-	private long id;
-	
-	@Column(name="firstName")
+	@Column(name = "id")
+	private Long id;
+
+	@Column(name = "firstName")
 	private String firstName;
-	
-	@Column(name="lastName")
+
+	@Column(name = "lastName")
 	private String lastName;
-	
-	@Column(name="email")
+
+	@Column(name = "email")
 	private String email;
-	
-	@Column(name="password")
+
+	@Column(name = "password")
 	private String password;
-	
-	@Column(name="type")
+
+	@Column(name = "type")
 	private String type;
-	
-	@Column(name="salt")
+
+	@Column(name = "salt")
 	private String salt;
-	
-	@Column(name="active")
+
+	@Column(name = "active")
 	private Boolean active;
-	
-	@Column(name="userName")
+
+	@Column(name = "userName")
 	private String userName;
 
-	
-	public long getId() {
+	@OneToMany
+	private List<Photo> photoList;
+
+	@ManyToOne
+	private PeripheralCommittee peripheralCommittee;
+
+	public Long getId() {
 		return id;
 	}
 
-	public void setId(long id) {
+	public void setId(Long id) {
 		this.id = id;
 	}
 
@@ -116,4 +125,13 @@ public class User {
 	public void setUserName(String userName) {
 		this.userName = userName;
 	}
+
+	public List<Photo> getPhoto() {
+		return photoList;
+	}
+
+	public void setPhoto(List<Photo> photoList) {
+		this.photoList = photoList;
+	}
+
 }
