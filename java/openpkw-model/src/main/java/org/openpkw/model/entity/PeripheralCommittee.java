@@ -1,9 +1,12 @@
 package org.openpkw.model.entity;
 
+import java.util.List;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 /**
@@ -43,6 +46,12 @@ public class PeripheralCommittee {
 
 	@Column(name = "KodObwodu")
 	private Long areaCode;
+	
+	@OneToMany
+	private List<User> usersList;
+	
+	@OneToMany
+	private List<Photo> photosList;
 
 	public Long getId() {
 		return id;
@@ -115,5 +124,14 @@ public class PeripheralCommittee {
 	public void setAreaCode(Long areaCode) {
 		this.areaCode = areaCode;
 	}
+
+	public List<User> getUsersList() {
+		return usersList;
+	}
+
+	public void setUsersList(List<User> usersList) {
+		this.usersList = usersList;
+	}
+	
 
 }

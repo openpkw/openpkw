@@ -5,7 +5,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
-import javax.persistence.OneToOne;
+import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
 /**
@@ -26,7 +26,7 @@ public class ProtocolItem {
 	private String protocolItemContent;
 	
 	@Column(name="ProtokolID")
-	@OneToOne
+	@ManyToOne
 	@JoinColumn(name="id")
 	private Protocol protocol;
 	

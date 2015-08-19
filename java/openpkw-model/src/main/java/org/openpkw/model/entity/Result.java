@@ -24,6 +24,7 @@ public class Result {
 	@GeneratedValue
 	@Column(name="id")
 	private Long id;
+	
 			
 	@Column(name="WynikOdpowiedzi")
 	private String answerId;

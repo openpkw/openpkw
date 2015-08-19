@@ -7,6 +7,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
 import javax.persistence.OneToOne;
 import javax.persistence.Table;
 import javax.persistence.Temporal;
@@ -43,17 +44,17 @@ public class Photo {
 	private String fileType;
 	
 	@Column(name="opm_user_id")
-	@OneToOne
+	@ManyToOne
 	@JoinColumn(name="id")
 	private User user;
 	
 	@Column(name="protokol")
-	@OneToOne
+	@ManyToOne
 	@JoinColumn(name="id")
 	private Protocol protokol;
 	
 	@Column(name="komisjaID")
-	@OneToOne
+	@ManyToOne
 	@JoinColumn(name="id")
 	private PeripheralCommittee committee;
 

@@ -1,9 +1,13 @@
 package org.openpkw.model.entity;
 
+import java.util.List;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.ManyToOne;
+import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 /**
@@ -44,6 +48,11 @@ public class User {
 	@Column(name="userName")
 	private String userName;
 
+	@OneToMany
+	private List<Photo> photoList;
+	
+	@ManyToOne
+	private PeripheralCommittee peripheralCommittee;
 	
 	public Long getId() {
 		return id;
@@ -115,5 +124,14 @@ public class User {
 
 	public void setUserName(String userName) {
 		this.userName = userName;
+}
+
+	public List<Photo> getPhoto() {
+		return photoList;
 	}
+
+	public void setPhoto(List<Photo> photoList) {
+		this.photoList = photoList;
+	}
+	
 }
