@@ -14,8 +14,8 @@ import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
 /**
- * Created by Łukasz Franczuk (luk.franczuk@gmail.com) on 2015-08-05. 
- * Edit by Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-06.
+ * Created by Łukasz Franczuk (luk.franczuk@gmail.com) on 2015-08-05. Edit by
+ * Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-06.
  */
 
 @Entity
@@ -24,38 +24,38 @@ public class Photo {
 
 	@Id
 	@GeneratedValue
-	@Column(name="id")
+	@Column(name = "id")
 	private Long id;
-	
-	@Column(name="opm_obwodowa_komisja_pkwId")
+
+	@Column(name = "opm_obwodowa_komisja_pkwId")
 	private String opmObwodowaKomisjaPkwId;
-	
-	@Column(name="timeStamp")
+
+	@Column(name = "timeStamp")
 	@Temporal(TemporalType.TIMESTAMP)
 	private Date timeStamp;
-		
-	@Column(name="userFileName")
+
+	@Column(name = "userFileName")
 	private String userFileName;
-	
-	@Column(name="token")
+
+	@Column(name = "token")
 	private String token;
-	
-	@Column(name="file_type")
+
+	@Column(name = "file_type")
 	private String fileType;
-	
-	@Column(name="opm_user_id")
+
+	@Column(name = "opm_user_id")
 	@ManyToOne
-	@JoinColumn(name="id")
+	@JoinColumn(name = "id")
 	private User user;
-	
-	@Column(name="protokol")
+
+	@Column(name = "protokol")
 	@ManyToOne
-	@JoinColumn(name="id")
+	@JoinColumn(name = "id")
 	private Protocol protokol;
-	
-	@Column(name="komisjaID")
+
+	@Column(name = "komisjaID")
 	@ManyToOne
-	@JoinColumn(name="id")
+	@JoinColumn(name = "id")
 	private PeripheralCommittee committee;
 
 	public Long getId() {

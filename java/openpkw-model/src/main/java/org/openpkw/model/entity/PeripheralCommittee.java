@@ -46,12 +46,15 @@ public class PeripheralCommittee {
 
 	@Column(name = "KodObwodu")
 	private Long areaCode;
-	
+
 	@OneToMany
 	private List<User> usersList;
-	
+
 	@OneToMany
 	private List<Photo> photosList;
+
+	@OneToMany
+	private List<Result> resultList;
 
 	public Long getId() {
 		return id;
@@ -132,6 +135,21 @@ public class PeripheralCommittee {
 	public void setUsersList(List<User> usersList) {
 		this.usersList = usersList;
 	}
-	
+
+	public List<Photo> getPhotosList() {
+		return photosList;
+	}
+
+	public void setPhotosList(List<Photo> photosList) {
+		this.photosList = photosList;
+	}
+
+	public List<Result> getResultList() {
+		return resultList;
+	}
+
+	public void setResultList(List<Result> resultList) {
+		this.resultList = resultList;
+	}
 
 }

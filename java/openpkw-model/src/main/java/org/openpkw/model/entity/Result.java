@@ -12,8 +12,8 @@ import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
 /**
- * Created by Łukasz Franczuk (luk.franczuk@gmail.com) on 2015-08-05. 
- * Edit by Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-07.
+ * Created by Łukasz Franczuk (luk.franczuk@gmail.com) on 2015-08-05. Edit by
+ * Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-07.
  */
 
 @Entity
@@ -22,29 +22,28 @@ public class Result {
 
 	@Id
 	@GeneratedValue
-	@Column(name="id")
+	@Column(name = "id")
 	private Long id;
-	
-			
-	@Column(name="WynikOdpowiedzi")
+
+	@Column(name = "WynikOdpowiedzi")
 	private String answerId;
-	
-	@Column(name="StepelCzasowy")
+
+	@Column(name = "StepelCzasowy")
 	private Date timeMark;
-	
-	@Column(name="OpmUserId")
+
+	@Column(name = "OpmUserId")
 	@OneToOne
-	@JoinColumn(name="id")
+	@JoinColumn(name = "id")
 	private User user;
-	
-	@Column(name="PytanieId")
+
+	@Column(name = "PytanieId")
 	@OneToOne
-	@JoinColumn(name="id")
+	@JoinColumn(name = "id")
 	private ProtocolItem protocolItem;
-	
-	@Column(name="opm_obwodowa_komisja_id")
+
+	@Column(name = "opm_obwodowa_komisja_id")
 	@OneToOne
-	@JoinColumn(name="id")
+	@JoinColumn(name = "id")
 	private PeripheralCommittee peripheralCommittee;
 
 	public Long getId() {
