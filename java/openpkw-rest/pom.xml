@@ -20,6 +20,10 @@
 
     <dependencies>
         <dependency>
+            <groupId>org.openpkw</groupId>
+            <artifactId>openpkw-services</artifactId>
+        </dependency>
+        <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-api</artifactId>
         </dependency>

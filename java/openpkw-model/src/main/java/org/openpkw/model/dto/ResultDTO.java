@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * Created by Karol Dzięgiel on 8/21/2015.
  * POJO file used as middle layer between REST Service and Entity from DataBase.
- * This file shall be converted to JSON as a form of transfer of data
+ * This file could be converted to JSON as a form of transfer of data
  */
 public class ResultDTO {
     private Date timestampt;
@@ -23,6 +23,7 @@ public class ResultDTO {
         this.countedCommitteesPercentage = countedCommitteesPercentage;
         this.timestampt = new Date(); //timestamp of generation time of this particular DTO
     }
+
 
     public Date getTimestampt() {
         return timestampt;
