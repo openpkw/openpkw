@@ -53,6 +53,7 @@ Katalog [**master\pliki klk**] (https://github.com/openpkw/openpkw/tree/master/p
   *  plik [Prezydent2015_2tura_wyniki.csv]  (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/Prezydent2015_2tura_wyniki.csv) - plik z wynikami gosowania II tura Prezydent 2015.  
   *  plik [KLK_180801_1_2015-05-10_13-00.json]  (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/KLK_180801_1_2015-05-10_13-00.json) - autentyczny plik KLK z nowej wersji programu WOW z dnia 10 maja 2015 - Wybory Prezydenckie 2015 I tura - gmina miasto Leżajsk.   
   *  plik [protokol-180801-6.json] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/protokol-180801-6.json) - plik protokołu z Komisji Obwodowej Nr 6 w Leżajsku - Prezydent 2015, I tura głosowania
+  *  plik [obwody_geografia.csv] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/obwody_geografia.csv) - plik z danymi obwodów wyborczych - Referendum 6 wrzenia 2015 r.
 
 # Zawartość katalogu:
 
