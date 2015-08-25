@@ -9,6 +9,7 @@ import java.security.NoSuchAlgorithmException;
 
 /**
  * Created by Karol Dziegiel on 8/13/2015.
+ * Class with methods to hash (digest) given password and to check if the given password matches with hash
  */
 @Service
 public class CryptographyService {
@@ -46,6 +47,7 @@ public class CryptographyService {
      * @param password password given to check with the given hash
      * @param hash     given to check it the password matches it
      * @return true value if the password matches the hash
+     * @throws CryptographyException
      */
     public boolean isPasswordCorrect(String password, String hash) throws CryptographyException {
         String hashedPassword = digestPassword(password);
