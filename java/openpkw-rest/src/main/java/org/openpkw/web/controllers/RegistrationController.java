@@ -1,7 +1,7 @@
 package org.openpkw.web.controllers;
 
 import org.openpkw.exceptions.CryptographyException;
-import org.openpkw.exceptions.ValidatingException;
+import org.openpkw.exceptions.ValidationException;
 import org.openpkw.model.entity.User;
 import org.openpkw.services.RegisteringService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,12 +16,12 @@ public class RegistrationController {
 
 	@Autowired
 	private RegisteringService registeringService;
-	
 
 	@RequestMapping(method = RequestMethod.POST)
 	void registerUser(@PathVariable String firstName,
 			@PathVariable String lastName, @PathVariable String email,
-			@PathVariable String password, @PathVariable String userName) throws CryptographyException {
+			@PathVariable String password, @PathVariable String userName) {
+
 		User user = new User();
 		user.setFirstName(firstName);
 		user.setLastName(lastName);
@@ -30,6 +30,13 @@ public class RegistrationController {
 		user.setUserName(userName);
 		user.setActive(true);
 		user.setType("Volunteer");
-		registeringService.validationAndSave(user);
+		try {
+			registeringService.validationAndSave(user);
+		} catch (CryptographyException e) {
+			e.printStackTrace();
+		} catch (ValidationException e) {
+			System.out.println("Nie prawidłowy email lub hasło.");
+			e.printStackTrace();
+		}
 	}
 }

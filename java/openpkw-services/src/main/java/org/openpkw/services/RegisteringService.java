@@ -1,10 +1,11 @@
 package org.openpkw.services;
 
 import org.openpkw.exceptions.CryptographyException;
+import org.openpkw.exceptions.ValidationException;
 import org.openpkw.model.entity.User;
 import org.openpkw.repositories.UserRepository;
-import org.openpkw.validations.EmailValidation;
-import org.openpkw.validations.PasswordValidation;
+import org.openpkw.validations.EmailValidator;
+import org.openpkw.validations.PasswordValidator;
 import org.springframework.beans.factory.annotation.Autowired;
 
 public class RegisteringService {
@@ -15,23 +16,24 @@ public class RegisteringService {
 	private UserRepository userRepository;
 
 	@Autowired
-	private PasswordValidation passwordValidation;
-
-	@Autowired
 	private CryptographyService cryptographyService;
 
-	@Autowired
-	private EmailValidation emailValidation;
+	public void validationAndSave(User user) throws CryptographyException, ValidationException {
 
-	public void validationAndSave(User user) throws CryptographyException {
-
-		if (emailValidation.validate(user.getEmail()) == true
-				&& passwordValidation.validate(user.getPassword()) == true) {
-			user.setPassword(cryptographyService.digestPassword(user.getPassword()));
+		if (validation(user.getEmail(), user.getPassword())) {
+			user.setPassword(cryptographyService.digestPassword(user
+					.getPassword()));
 			userRepository.save(user);
 
 		} else {
-			System.out.println("Proszę poprawić email lub hasło.");
+			System.out.println("Nie prawidłowy email lub hasło.");
 		}
+	}
+
+	public boolean validation(String email, String password) {
+		if (EmailValidator.isValid(email)) {
+			return PasswordValidator.isValid(password);
+		}
+		return false;
 	}
 }
