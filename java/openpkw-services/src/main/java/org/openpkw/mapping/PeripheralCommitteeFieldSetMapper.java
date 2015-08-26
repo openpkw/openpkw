@@ -41,7 +41,7 @@ public class PeripheralCommitteeFieldSetMapper implements FieldSetMapper<Periphe
         try {
             peripheralCommittee.setAllowedToVote(fieldSet.readLong(16));
         } catch (NumberFormatException e) {
-            peripheralCommittee.setAllowedToVote(0);
+            peripheralCommittee.setAllowedToVote(0L);
         }
 
 //        TODO: all fields from CSV
