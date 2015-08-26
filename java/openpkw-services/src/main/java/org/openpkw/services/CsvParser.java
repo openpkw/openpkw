@@ -13,7 +13,7 @@ import java.util.List;
  */
 public class CsvParser<T>
 {
-    private LineMapper lineMapper;
+    private LineMapper<T> lineMapper;
 
     public CsvParser(LineMapper<T> lineMapper) {
         this.lineMapper = lineMapper;
@@ -27,7 +27,7 @@ public class CsvParser<T>
 
         int lineNumber = 0;
         for(String line; (line = br.readLine()) != null; ) {
-            T fieldSet = (T) lineMapper.mapLine(line, lineNumber);
+            T fieldSet = lineMapper.mapLine(line, lineNumber);
             if (fieldSet != null) {
                 result.add(fieldSet);
             }
