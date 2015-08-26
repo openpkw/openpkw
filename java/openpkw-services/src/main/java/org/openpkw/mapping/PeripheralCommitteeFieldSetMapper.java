@@ -21,7 +21,7 @@ public class PeripheralCommitteeFieldSetMapper implements FieldSetMapper<Periphe
         PeripheralCommittee peripheralCommittee = new PeripheralCommittee();
 
         if (fieldSet.getFieldCount() < 17) {
-            LOGGER.info("Wrong line format: ", Arrays.toString(fieldSet.getValues()));
+            LOGGER.info("Wrong line format: {}", fieldSet.getValues());
             return null;
         }
 
