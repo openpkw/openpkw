@@ -1,5 +1,6 @@
 package org.openpkw.model.dto;
 
+import java.io.Serializable;
 import java.util.Date;
 
 /**
@@ -7,7 +8,7 @@ import java.util.Date;
  * POJO file used as middle layer between REST Service and Entity from DataBase.
  * This file could be converted to JSON as a form of transfer of data
  */
-public class ResultDTO {
+public class ResultDTO implements Serializable {
     private Date timestampt;
     private Integer answerOneYesPercentage;
     private Integer answerTwoYesPercentage;
