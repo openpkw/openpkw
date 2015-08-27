@@ -25,8 +25,14 @@ public class CsvParser<T>
 
         BufferedReader br = new BufferedReader(new FileReader(file));
 
-        int lineNumber = 0;
+        int lineNumber = 1;
+        boolean header = true;
         for(String line; (line = br.readLine()) != null; ) {
+            if (header) {
+                header = false;
+                continue;
+            }
+
             T fieldSet = lineMapper.mapLine(line, lineNumber);
             if (fieldSet != null) {
                 result.add(fieldSet);

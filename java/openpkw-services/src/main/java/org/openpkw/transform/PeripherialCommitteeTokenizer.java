@@ -7,7 +7,18 @@ import org.springframework.batch.item.file.transform.DelimitedLineTokenizer;
  */
 public class PeripherialCommitteeTokenizer extends DelimitedLineTokenizer {
     public PeripherialCommitteeTokenizer() {
-        this.setDelimiter("|");
-        this.setQuoteCharacter('\'');
+        String[] names = {
+                "teryt-gminy", "gmina", "numer-obwodu", "liczba-mieszkancow",
+                "liczba-wyborcow", "liczba-wyslanych-pakietow-wyborczych",
+                "liczba-pelnomocnictw-do-glosowania", "siedziba", "ulica",
+                "numer-posesji", "numer-lokalu", "miejscowosc", "kraj",
+                "kod-pocztowy", "poczta", "dla-niepelnosprawnych",
+                "korespondencyjny", "granice", "typ-obszaru", "typ-obwodu",
+                "tajny", "pelna-siedziba"
+        };
+
+        this.setDelimiter(";");
+        this.setQuoteCharacter('"');
+        this.setNames(names);
     }
 }

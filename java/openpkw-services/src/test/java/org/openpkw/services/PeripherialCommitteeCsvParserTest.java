@@ -31,17 +31,17 @@ public class PeripherialCommitteeCsvParserTest {
         Assert.assertEquals(result.size(), 2);
 
         PeripheralCommittee firstLine = result.get(0);
-        Assert.assertEquals(firstLine.getPkwId(), "20101-1");
-        Assert.assertEquals(firstLine.getTerritoryCode().longValue(), 20101L);
+        Assert.assertEquals(firstLine.getPkwId(), "=\"020101\"-1");
+        // Assert.assertEquals(firstLine.getTerritoryCode().longValue(), 20101L);
 
         PeripheralCommittee secondLine = result.get(1);
-        Assert.assertEquals(secondLine.getTerritoryCode().longValue(), 20101);
+        // Assert.assertEquals(secondLine.getTerritoryCode().longValue(), 20101L);
         Assert.assertEquals(secondLine.getAreaCode().longValue(), 2);
-        Assert.assertEquals(secondLine.getPkwId(), "20101-2");
-        Assert.assertEquals(secondLine.getType(), "COMM");
+        Assert.assertEquals(secondLine.getPkwId(), "=\"020101\"-2");
+        Assert.assertEquals(secondLine.getType(), "gmina miejska");
         Assert.assertEquals(secondLine.getName(), "Szkoła Podstawowa Nr 3");
-        Assert.assertEquals(secondLine.getAddress(), "ul. Ceramiczna 5\n59-700 Bolesławiec");
-        Assert.assertEquals(secondLine.getAllowedToVote().longValue(), 1394);
+        Assert.assertEquals(secondLine.getAddress(), "Szkoła Podstawowa Nr 3, ul. Ceramiczna 5, 59-700 Bolesławiec");
+        Assert.assertEquals(secondLine.getAllowedToVote().longValue(), 1406);
     }
 
     @Test
