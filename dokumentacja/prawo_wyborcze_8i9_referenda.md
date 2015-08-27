@@ -46,7 +46,7 @@
 
 * Uchwała Państwowej Komsji Wyborczej  z dnia 27 lipca 2015 r. w sprawie wytycznych dla komisarzy wyborczych dotyczących przygotowania i przeprowadzenia referendum ogólnokrajowego zarządzonego na dzień 6 września 2015 r.M.P. 2015 r. ([M.P. 2015, poz. 743] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000743))  
 
-* Uchwała Państwowej Komsji Wyborczej z dnia 27 lipca 2015 r. w sprawie wytycznych dla obwodowych komisji do spraw referendum, dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w obwodach głosowania utworzonych w kraju w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015r. ([M.P. 2015, poz. 743] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000743))  
+* Uchwała Państwowej Komsji Wyborczej z dnia 27 lipca 2015 r. w sprawie wytycznych dla obwodowych komisji do spraw referendum, dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w obwodach głosowania utworzonych w kraju w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015r. ([M.P. 2015, poz. 757] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000757))  
 
 * Uchwała Państwowej Komsji Wyborczej z dnia 27 lipca 2015 r. w sprawie wytycznych dla obwodowych komisji do spraw referendum, dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w obwodach głosowania utworzonych za granicą i na polskich statkach morskich w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([M.P. 2015 poz. 749] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000749))  
 
