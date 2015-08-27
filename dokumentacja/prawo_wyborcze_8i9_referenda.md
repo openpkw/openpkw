@@ -30,7 +30,7 @@
   * Protokół zbiorczy Komisarza Wyborczego [wzór protokołu] (http://referendum2015.pkw.gov.pl/pliki/1436263571_Za%C5%82%C4%85cznik%20nr%203.docx)  
   * Protokół zbiorczy PKW [wzór protokołu] (http://referendum2015.pkw.gov.pl/pliki/1436263590_Za%C5%82%C4%85cznik%20nr%205.docx)  
 
-* UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 6 lipca 2015 r. w sprawie trybu i terminu powoływania obwodowych komisji do spraw referendum w obwodach głosowania utworzonych za granicą w referendum ogólnokrajowym ([M.P. 2015, poz. 633] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000633)  
+* UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 6 lipca 2015 r. w sprawie trybu i terminu powoływania obwodowych komisji do spraw referendum w obwodach głosowania utworzonych za granicą w referendum ogólnokrajowym ([M.P. 2015, poz. 633] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000633))  
 
 * UCHWAŁA PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 6 lipca 2015 r. w sprawie trybu i terminu powoływania obwodowych komisji do spraw referendum w obwodach głosowania utworzonych na polskich statkach morskich w referendum ogólnokrajowym ([M.P. 2015, poz. 632] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000632))  
 
@@ -46,13 +46,13 @@
 
 * Uchwała Państwowej Komsji Wyborczej  z dnia 27 lipca 2015 r. w sprawie wytycznych dla komisarzy wyborczych dotyczących przygotowania i przeprowadzenia referendum ogólnokrajowego zarządzonego na dzień 6 września 2015 r.M.P. 2015 r. ([M.P. 2015, poz. 743] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000743))  
 
-* Uchwała Państwowej Komsji Wyborczej z dnia 27 lipca 2015 r. w sprawie wytycznych dla obwodowych komisji do spraw referendum, dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w obwodach głosowania utworzonych w kraju w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([M.P. 152 0,poz. 7ji] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000749))  
+* Uchwała Państwowej Komsji Wyborczej z dnia 27 lipca 2015 r. w sprawie wytycznych dla obwodowych komisji do spraw referendum, dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w obwodach głosowania utworzonych w kraju w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015r. ([M.P. 2015, poz. 743] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000743))  
 
-* Uchwała Państwowej Komsji Wyborczej z dnia 27 lipca 2015 r. w sprawie wytycznych dla obwodowych komisji do spraw referendum, dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w obwodach głosowania utworzonych za granicą i na polskich statkach morskich w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([M.P. 2015 skierowany do publikacji] (http://referendum2015.pkw.gov.pl/pliki/1438072179_Wytyczne%20dla%20obwodowych%20komisji%20do%20spraw%20referendum%20za%20granic%C4%85.pdf))  
+* Uchwała Państwowej Komsji Wyborczej z dnia 27 lipca 2015 r. w sprawie wytycznych dla obwodowych komisji do spraw referendum, dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w obwodach głosowania utworzonych za granicą i na polskich statkach morskich w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r. ([M.P. 2015 poz. 749] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000749))  
 
 * ROZPORZĄDZENIE MINISTRA ADMINISTRACJI I CYFRYZACJI z dnia 29 lipca 2015 r. w sprawie spisu osób uprawnionych do udziału w referendum ogólnokrajowym ([Dz.U. z 2015 r., poz. 1086] (http://referendum2015.pkw.gov.pl/pliki/1438357373_D2015000108601.pdf))  
 
-* Uchwała Państwowej Komisji Wyborczej z dnia 6 sierpnia 2015 r. w sprawie ustalenia wzoru informacji o sposobie głosowania i warunkach ważności głosu w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r.([skierowano do publikacji](http://referendum2015.pkw.gov.pl/akty_prawne/0/29_Uchwala_Panstwowej_Komisji_Wyborczej_z_dnia_6_sierpnia_2015_r_w_sprawie_ustalenia_wzoru_informacji_o_sposobie_glosowania_i_warunkach_waznosci_glosu_w_referendum_ogolnokrajowym_zarzadzonym_na_dzien_6_wrzesnia_2015_r))  
+* Uchwała Państwowej Komisji Wyborczej z dnia 6 sierpnia 2015 r. w sprawie ustalenia wzoru informacji o sposobie głosowania i warunkach ważności głosu w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r.([M.P. 2015, poz. 730](http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000730))  
  * [Załącznik graficzny](http://referendum2015.pkw.gov.pl/pliki/1438862609_Za%C5%82%C4%85cznik%20do%20uchwa%C5%82y%20w%20sprawie%20sposobu%20g%C5%82osowania%20w%20referendum.pdf)  
 
 * ROZPORZĄDZENIE MINISTRA ADMINISTRACJI I CYFRYZACJI z dnia 27 lipca 2015 r. zmieniające rozporządzenie w sprawie należności pieniężnych przysługujących członkom obwodowych komisji do spraw referendum w referendum ogólnokrajowym oraz trybu udzielania im dni wolnych od pracy ([Dz.U. 2015 poz. 1068](http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150001068))  
