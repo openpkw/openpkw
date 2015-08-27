@@ -11,6 +11,7 @@ W obecnej chwili podstawowym celem zespołu developerów JAVA jest  zbudowanie n
 | ------------- | ------------- |
 |Adam_K  |  Developer Java  BackEnd |
 |Bartek_M |  Developer Java  BackEnd |
+|Karol_D | Developer Java BackEnd |
 |Grzegorz|  Developer Java  BackEnd|
 |Jacek_F|   Developer Java  BackEnd|
 |Lukasz_F |  Developer Java  BackEnd  |
