@@ -15,13 +15,13 @@ public class Photo {
     @NotNull
     @GeneratedValue
     @Column(name = "photo_id")
-    private Integer id;
+    private Long id;
 
     @Column(name = "timestamp")
     private Date timestamp;
 
     @Column(name = "user_id")
-    private Integer userID;
+    private Long userID;
 
     @Column(name = "user_file_name")
     private String userFileName;
@@ -36,11 +36,11 @@ public class Photo {
     @JoinColumn(name = "protocol_id")
     private Protocol protocol;
 
-    public Integer getId() {
+    public Long getId() {
         return id;
     }
 
-    public void setId(Integer id) {
+    public void setId(Long id) {
         this.id = id;
     }
 
@@ -52,11 +52,11 @@ public class Photo {
         this.timestamp = timestamp;
     }
 
-    public Integer getUserID() {
+    public Long getUserID() {
         return userID;
     }
 
-    public void setUserID(Integer userID) {
+    public void setUserID(Long userID) {
         this.userID = userID;
     }
 

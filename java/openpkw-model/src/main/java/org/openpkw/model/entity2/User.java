@@ -18,7 +18,7 @@ public class User implements Serializable {
     @NotNull
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
     @Column(name = "USER_ID")
-    private Integer UserID;
+    private Long UserID;
 
     @Column(name = "first_name")
     private String firstname;
@@ -45,11 +45,11 @@ public class User implements Serializable {
     @Enumerated(EnumType.ORDINAL)
     private UserType userType;
 
-    public Integer getUserID() {
+    public Long getUserID() {
         return UserID;
     }
 
-    public void setUserID(Integer UserID) {
+    public void setUserID(Long UserID) {
         this.UserID = UserID;
     }
 

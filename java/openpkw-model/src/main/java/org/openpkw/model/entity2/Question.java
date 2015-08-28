@@ -14,32 +14,32 @@ public class Question {
     @NotNull
     @GeneratedValue
     @Column(name = "question_id")
-    private Integer questionID;
+    private Long questionID;
 
     @Column(name = "content")
     private String content;
 
     @Column(name = "yes_answers_amount")
-    private Integer yesAnswersAmount;
+    private Long yesAnswersAmount;
 
     @Column(name = "no_answers_amount")
-    private Integer noAnswersAmount;
+    private Long noAnswersAmount;
 
     @Column(name = "invalid_answers_amount")
-    private Integer invalidAnswersAmount;
+    private Long invalidAnswersAmount;
 
     @Column(name = "valid_answers")
-    private Integer validAnswersAmount;
+    private Long validAnswersAmount;
 
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "protocol_id")
     Protocol protocol;
 
-    public Integer getQuestionID() {
+    public Long getQuestionID() {
         return questionID;
     }
 
-    public void setQuestionID(Integer questionID) {
+    public void setQuestionID(Long questionID) {
         this.questionID = questionID;
     }
 
@@ -51,35 +51,35 @@ public class Question {
         this.content = content;
     }
 
-    public Integer getYesAnswersAmount() {
+    public Long getYesAnswersAmount() {
         return yesAnswersAmount;
     }
 
-    public void setYesAnswersAmount(Integer yesAnswersAmount) {
+    public void setYesAnswersAmount(Long yesAnswersAmount) {
         this.yesAnswersAmount = yesAnswersAmount;
     }
 
-    public Integer getNoAnswersAmount() {
+    public Long getNoAnswersAmount() {
         return noAnswersAmount;
     }
 
-    public void setNoAnswersAmount(Integer noAnswersAmount) {
+    public void setNoAnswersAmount(Long noAnswersAmount) {
         this.noAnswersAmount = noAnswersAmount;
     }
 
-    public Integer getInvalidAnswersAmount() {
+    public Long getInvalidAnswersAmount() {
         return invalidAnswersAmount;
     }
 
-    public void setInvalidAnswersAmount(Integer invalidAnswersAmount) {
+    public void setInvalidAnswersAmount(Long invalidAnswersAmount) {
         this.invalidAnswersAmount = invalidAnswersAmount;
     }
 
-    public Integer getValidAnswersAmount() {
+    public Long getValidAnswersAmount() {
         return validAnswersAmount;
     }
 
-    public void setValidAnswersAmount(Integer validAnswersAmount) {
+    public void setValidAnswersAmount(Long validAnswersAmount) {
         this.validAnswersAmount = validAnswersAmount;
     }
 

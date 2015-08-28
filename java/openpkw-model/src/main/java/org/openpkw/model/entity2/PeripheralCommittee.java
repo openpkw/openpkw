@@ -17,7 +17,7 @@ public class PeripheralCommittee implements Serializable {
     @NotNull
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
     @Column(name = "peripheral_committee_id")
-    private Integer peripheralCommitteeID;
+    private Long peripheralCommitteeID;
 
     @Column(name = "name")
     private String name;
@@ -26,7 +26,7 @@ public class PeripheralCommittee implements Serializable {
     private String type;
 
     @Column(name = "allowed_to_vote")
-    private Integer allowedToVote;
+    private Long allowedToVote;
 
     @Column(name = "territorial_code")
     private String territorialCode;
@@ -42,11 +42,11 @@ public class PeripheralCommittee implements Serializable {
         return serialVersionUID;
     }
 
-    public Integer getPeripheralCommitteeID() {
+    public Long getPeripheralCommitteeID() {
         return peripheralCommitteeID;
     }
 
-    public void setPeripheralCommitteeID(Integer peripheralCommitteeID) {
+    public void setPeripheralCommitteeID(Long peripheralCommitteeID) {
         this.peripheralCommitteeID = peripheralCommitteeID;
     }
 
@@ -66,11 +66,11 @@ public class PeripheralCommittee implements Serializable {
         this.type = type;
     }
 
-    public Integer getAllowedToVote() {
+    public Long getAllowedToVote() {
         return allowedToVote;
     }
 
-    public void setAllowedToVote(Integer allowedToVote) {
+    public void setAllowedToVote(Long allowedToVote) {
         this.allowedToVote = allowedToVote;
     }
 

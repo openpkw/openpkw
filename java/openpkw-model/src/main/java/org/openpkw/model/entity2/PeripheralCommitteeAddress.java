@@ -18,7 +18,7 @@ public class PeripheralCommitteeAddress implements Serializable {
     @NotNull
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
     @Column(name = "peripheral_committee_address_id")
-    private Integer peripheralCommitteeAddressID;
+    private Long peripheralCommitteeAddressID;
 
     @Column(name = "name")
     private String name;
@@ -45,11 +45,11 @@ public class PeripheralCommitteeAddress implements Serializable {
         return serialVersionUID;
     }
 
-    public Integer getPeripheralCommitteeAddressID() {
+    public Long getPeripheralCommitteeAddressID() {
         return peripheralCommitteeAddressID;
     }
 
-    public void setPeripheralCommitteeAddressID(Integer peripheralCommitteeAddressID) {
+    public void setPeripheralCommitteeAddressID(Long peripheralCommitteeAddressID) {
         this.peripheralCommitteeAddressID = peripheralCommitteeAddressID;
     }
 

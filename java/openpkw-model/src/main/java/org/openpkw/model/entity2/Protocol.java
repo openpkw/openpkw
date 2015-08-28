@@ -16,13 +16,13 @@ public class Protocol {
     @NotNull
     @GeneratedValue
     @Column(name = "protocol_id")
-    private Integer protocolID;
+    private Long protocolID;
 
     @Column(name = "name")
     private String name;
 
     @Column(name = "cards_given")
-    private Integer cardsGiven;
+    private Long cardsGiven;
 
     @Column(name = "received_date")
     private Date receivedDate;
@@ -37,11 +37,11 @@ public class Protocol {
     @OneToMany(fetch = FetchType.LAZY, mappedBy = "protocol_id")
     private List<Question> questions;
 
-    public Integer getProtocolID() {
+    public Long getProtocolID() {
         return protocolID;
     }
 
-    public void setProtocolID(Integer protocolID) {
+    public void setProtocolID(Long protocolID) {
         this.protocolID = protocolID;
     }
 
@@ -53,11 +53,11 @@ public class Protocol {
         this.name = name;
     }
 
-    public Integer getCardsGiven() {
+    public Long getCardsGiven() {
         return cardsGiven;
     }
 
-    public void setCardsGiven(Integer cardsGiven) {
+    public void setCardsGiven(Long cardsGiven) {
         this.cardsGiven = cardsGiven;
     }
 
