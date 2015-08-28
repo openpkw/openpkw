@@ -1,0 +1,7 @@
+.idea
+*.iml
+java/openpkw-core/target/
+java/openpkw-model/target/
+java/openpkw-repositories/target/
+java/openpkw-rest/target/
+java/openpkw-services/target/
