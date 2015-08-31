@@ -13,17 +13,17 @@ import java.util.List;
 /**
  * Created by wojciech.szostak on 15.08.2015.
  */
-public class PeripherialCommitteeCsvParserTest {
-    private PeripherialCommitteeCsvParser csvParser;
+public class PeripheralCommitteeCsvParserTest {
+    private PeripheralCommitteeCsvParser csvParser;
 
     @BeforeClass
     public void init(){
-        csvParser = new PeripherialCommitteeCsvParser(
+        csvParser = new PeripheralCommitteeCsvParser(
                 new PeripherialCommitteeLineMapper());
     }
 
     @Test
-    public void canParseFileSkipingFailedLines() throws Exception {
+    public void canParseFileSkippingFailedLines() throws Exception {
         File tmpFile = new File("src/test/resources/pollstations.csv");
         List<PeripheralCommittee> result = null;
         result = csvParser.parse(tmpFile);
@@ -31,16 +31,16 @@ public class PeripherialCommitteeCsvParserTest {
         Assert.assertEquals(result.size(), 2);
 
         PeripheralCommittee firstLine = result.get(0);
-        Assert.assertEquals(firstLine.getPkwId(), "=\"020101\"-1");
+        Assert.assertEquals(firstLine.getTerritorialCode(), "=\"020101\"");
         // Assert.assertEquals(firstLine.getTerritoryCode().longValue(), 20101L);
 
         PeripheralCommittee secondLine = result.get(1);
         // Assert.assertEquals(secondLine.getTerritoryCode().longValue(), 20101L);
-        Assert.assertEquals(secondLine.getAreaCode().longValue(), 2);
-        Assert.assertEquals(secondLine.getPkwId(), "=\"020101\"-2");
+        Assert.assertEquals(secondLine.getPeripheralCode(), "2");
+        Assert.assertEquals(secondLine.getTerritorialCode(), "=\"020101\"");
         Assert.assertEquals(secondLine.getType(), "gmina miejska");
         Assert.assertEquals(secondLine.getName(), "Szkoła Podstawowa Nr 3");
-        Assert.assertEquals(secondLine.getAddress(), "Szkoła Podstawowa Nr 3, ul. Ceramiczna 5, 59-700 Bolesławiec");
+//        Assert.assertEquals(secondLine.getAddress(), "Szkoła Podstawowa Nr 3, ul. Ceramiczna 5, 59-700 Bolesławiec");
         Assert.assertEquals(secondLine.getAllowedToVote().longValue(), 1406);
     }
 

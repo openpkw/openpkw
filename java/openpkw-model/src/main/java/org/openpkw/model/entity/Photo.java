@@ -1,133 +1,94 @@
 package org.openpkw.model.entity;
 
+import javax.persistence.*;
+import javax.validation.constraints.NotNull;
 import java.util.Date;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-import javax.persistence.JoinColumn;
-import javax.persistence.ManyToOne;
-import javax.persistence.OneToOne;
-import javax.persistence.Table;
-import javax.persistence.Temporal;
-import javax.persistence.TemporalType;
-
 /**
- * Created by Łukasz Franczuk (luk.franczuk@gmail.com) on 2015-08-05. Edit by
- * Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-06.
+ * Created by Karol Dzięgiel on 8/27/2015.
  */
-
 @Entity
-@Table(name = "opm_zdjecie")
+@Table(name = "photo")
 public class Photo {
 
-	@Id
-	@GeneratedValue
-	@Column(name = "id")
-	private Long id;
+    @Id
+    @NotNull
+    @GeneratedValue
+    @Column(name = "photo_id")
+    private Long id;
 
-	@Column(name = "opm_obwodowa_komisja_pkwId")
-	private String opmObwodowaKomisjaPkwId;
+    @Column(name = "timestamp")
+    private Date timestamp;
 
-	@Column(name = "timeStamp")
-	@Temporal(TemporalType.TIMESTAMP)
-	private Date timeStamp;
+    @Column(name = "user_id")
+    private Long userID;
 
-	@Column(name = "userFileName")
-	private String userFileName;
+    @Column(name = "user_file_name")
+    private String userFileName;
 
-	@Column(name = "token")
-	private String token;
+    @Column(name = "token")
+    private String token;
 
-	@Column(name = "file_type")
-	private String fileType;
+    @Column(name = "filetype")
+    private String filetype;
 
-	@Column(name = "opm_user_id")
-	@ManyToOne
-	@JoinColumn(name = "id")
-	private User user;
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "protocol_id")
+    private Protocol protocol;
 
-	@Column(name = "protokol")
-	@ManyToOne
-	@JoinColumn(name = "id")
-	private Protocol protokol;
+    public Long getId() {
+        return id;
+    }
 
-	@Column(name = "komisjaID")
-	@ManyToOne
-	@JoinColumn(name = "id")
-	private PeripheralCommittee committee;
+    public void setId(Long id) {
+        this.id = id;
+    }
 
-	public Long getId() {
-		return id;
-	}
+    public Date getTimestamp() {
+        return timestamp;
+    }
 
-	public void setId(Long id) {
-		this.id = id;
-	}
+    public void setTimestamp(Date timestamp) {
+        this.timestamp = timestamp;
+    }
 
-	public String getOpmObwodowaKomisjaPkwId() {
-		return opmObwodowaKomisjaPkwId;
-	}
+    public Long getUserID() {
+        return userID;
+    }
 
-	public void setOpmObwodowaKomisjaPkwId(String opmObwodowaKomisjaPkwId) {
-		this.opmObwodowaKomisjaPkwId = opmObwodowaKomisjaPkwId;
-	}
+    public void setUserID(Long userID) {
+        this.userID = userID;
+    }
 
-	public Date getTimeStamp() {
-		return timeStamp;
-	}
+    public String getUserFileName() {
+        return userFileName;
+    }
 
-	public void setTimeStamp(Date timeStamp) {
-		this.timeStamp = timeStamp;
-	}
+    public void setUserFileName(String userFileName) {
+        this.userFileName = userFileName;
+    }
 
-	public String getUserFileName() {
-		return userFileName;
-	}
+    public String getToken() {
+        return token;
+    }
 
-	public void setUserFileName(String userFileName) {
-		this.userFileName = userFileName;
-	}
+    public void setToken(String token) {
+        this.token = token;
+    }
 
-	public String getToken() {
-		return token;
-	}
+    public String getFiletype() {
+        return filetype;
+    }
 
-	public void setToken(String token) {
-		this.token = token;
-	}
+    public void setFiletype(String filetype) {
+        this.filetype = filetype;
+    }
 
-	public String getFileType() {
-		return fileType;
-	}
+    public Protocol getProtocol() {
+        return protocol;
+    }
 
-	public void setFileType(String fileType) {
-		this.fileType = fileType;
-	}
-
-	public User getUser() {
-		return user;
-	}
-
-	public void setUser(User user) {
-		this.user = user;
-	}
-
-	public Protocol getProtokol() {
-		return protokol;
-	}
-
-	public void setProtokol(Protocol protokol) {
-		this.protokol = protokol;
-	}
-
-	public PeripheralCommittee getCommittee() {
-		return committee;
-	}
-
-	public void setCommittee(PeripheralCommittee committee) {
-		this.committee = committee;
-	}
-
+    public void setProtocol(Protocol protocol) {
+        this.protocol = protocol;
+    }
 }

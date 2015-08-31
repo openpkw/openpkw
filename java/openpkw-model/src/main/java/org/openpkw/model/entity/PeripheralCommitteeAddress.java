@@ -1,4 +1,4 @@
-package org.openpkw.model.entity2;
+package org.openpkw.model.entity;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;

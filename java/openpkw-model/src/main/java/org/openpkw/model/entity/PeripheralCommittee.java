@@ -1,155 +1,100 @@
 package org.openpkw.model.entity;
 
-import java.util.List;
-
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-import javax.persistence.OneToMany;
-import javax.persistence.Table;
+import javax.persistence.*;
+import javax.validation.constraints.NotNull;
+import java.io.Serializable;
 
 /**
- * Created by Łukasz Franczuk (luk.franczuk@gmail.com) on 2015-08-05. Edit by
- * Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-07.
+ * Created by Karol Dzięgiel on 8/27/2015.
  */
-
 @Entity
-@Table(name = "opm_obwodowa_komisja")
-public class PeripheralCommittee {
+@Table(name = "peripheral_commitee")
+public class PeripheralCommittee implements Serializable {
 
-	@Id
-	@GeneratedValue
-	@Column(name = "id")
-	private Long id;
+    private static final long serialVersionUID = 1409616309807301974L;
 
-	@Column(name = "pkwId")
-	private String pkwId;
+    @Id
+    @NotNull
+    @GeneratedValue(strategy = GenerationType.SEQUENCE)
+    @Column(name = "peripheral_committee_id")
+    private Long peripheralCommitteeID;
 
-	@Column(name = "name")
-	private String name;
+    @Column(name = "name")
+    private String name;
 
-	@Column(name = "address")
-	private String address;
+    @Column(name = "type")
+    private String type;
 
-	@Column(name = "type")
-	private String type;
+    @Column(name = "allowed_to_vote")
+    private Long allowedToVote;
 
-	@Column(name = "allowedToVote")
-	private Long allowedToVote;
+    @Column(name = "territorial_code")
+    private String territorialCode;
 
-	@Column(name = "opm_okregowa_komisja_id")
-	private Long opmOkregowaKomisjaId;
+    @Column(name = "peripheral_code")
+    private String peripheralCode;
 
-	@Column(name = "KodTeryt")
-	private Long territoryCode;
+    @OneToOne
+    @JoinColumn(name = "peripheral_committee_address_id")
+    private PeripheralCommitteeAddress peripheralCommitteeAddress;
 
-	@Column(name = "KodObwodu")
-	private Long areaCode;
+    public static long getSerialVersionUID() {
+        return serialVersionUID;
+    }
 
-	@OneToMany
-	private List<User> usersList;
+    public Long getPeripheralCommitteeID() {
+        return peripheralCommitteeID;
+    }
 
-	@OneToMany
-	private List<Photo> photosList;
+    public void setPeripheralCommitteeID(Long peripheralCommitteeID) {
+        this.peripheralCommitteeID = peripheralCommitteeID;
+    }
 
-	@OneToMany
-	private List<Result> resultList;
+    public String getName() {
+        return name;
+    }
 
-	public Long getId() {
-		return id;
-	}
+    public void setName(String name) {
+        this.name = name;
+    }
 
-	public void setId(Long id) {
-		this.id = id;
-	}
+    public String getType() {
+        return type;
+    }
 
-	public String getPkwId() {
-		return pkwId;
-	}
+    public void setType(String type) {
+        this.type = type;
+    }
 
-	public void setPkwId(String pkwId) {
-		this.pkwId = pkwId;
-	}
+    public Long getAllowedToVote() {
+        return allowedToVote;
+    }
 
-	public String getName() {
-		return name;
-	}
+    public void setAllowedToVote(Long allowedToVote) {
+        this.allowedToVote = allowedToVote;
+    }
 
-	public void setName(String name) {
-		this.name = name;
-	}
+    public String getTerritorialCode() {
+        return territorialCode;
+    }
 
-	public String getAddress() {
-		return address;
-	}
+    public void setTerritorialCode(String territorialCode) {
+        this.territorialCode = territorialCode;
+    }
 
-	public void setAddress(String address) {
-		this.address = address;
-	}
+    public String getPeripheralCode() {
+        return peripheralCode;
+    }
 
-	public String getType() {
-		return type;
-	}
+    public void setPeripheralCode(String peripheralCode) {
+        this.peripheralCode = peripheralCode;
+    }
 
-	public void setType(String type) {
-		this.type = type;
-	}
+    public PeripheralCommitteeAddress getPeripheralCommitteeAddress() {
+        return peripheralCommitteeAddress;
+    }
 
-	public Long getAllowedToVote() {
-		return allowedToVote;
-	}
-
-	public void setAllowedToVote(Long allowedToVote) {
-		this.allowedToVote = allowedToVote;
-	}
-
-	public Long getOpmOkregowaKomisjaId() {
-		return opmOkregowaKomisjaId;
-	}
-
-	public void setOpmOkregowaKomisjaId(Long opmOkregowaKomisjaId) {
-		this.opmOkregowaKomisjaId = opmOkregowaKomisjaId;
-	}
-
-	public Long getTerritoryCode() {
-		return territoryCode;
-	}
-
-	public void setTerritoryCode(Long territoryCode) {
-		this.territoryCode = territoryCode;
-	}
-
-	public Long getAreaCode() {
-		return areaCode;
-	}
-
-	public void setAreaCode(Long areaCode) {
-		this.areaCode = areaCode;
-	}
-
-	public List<User> getUsersList() {
-		return usersList;
-	}
-
-	public void setUsersList(List<User> usersList) {
-		this.usersList = usersList;
-	}
-
-	public List<Photo> getPhotosList() {
-		return photosList;
-	}
-
-	public void setPhotosList(List<Photo> photosList) {
-		this.photosList = photosList;
-	}
-
-	public List<Result> getResultList() {
-		return resultList;
-	}
-
-	public void setResultList(List<Result> resultList) {
-		this.resultList = resultList;
-	}
-
+    public void setPeripheralCommitteeAddress(PeripheralCommitteeAddress peripheralCommitteeAddress) {
+        this.peripheralCommitteeAddress = peripheralCommitteeAddress;
+    }
 }

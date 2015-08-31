@@ -1,6 +1,6 @@
 package org.openpkw.repositories;
 
-import org.openpkw.model.entity2.Question;
+import org.openpkw.model.entity.Question;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

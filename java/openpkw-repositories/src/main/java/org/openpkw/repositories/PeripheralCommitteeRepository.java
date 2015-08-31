@@ -1,6 +1,6 @@
 package org.openpkw.repositories;
 
-import org.openpkw.model.entity2.PeripheralCommittee;
+import org.openpkw.model.entity.PeripheralCommittee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

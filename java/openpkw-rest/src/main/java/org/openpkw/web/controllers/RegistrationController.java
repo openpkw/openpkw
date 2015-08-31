@@ -2,8 +2,8 @@ package org.openpkw.web.controllers;
 
 import org.openpkw.exceptions.CryptographyException;
 import org.openpkw.exceptions.ValidationException;
-import org.openpkw.model.entity2.User;
-import org.openpkw.model.entity2.UserType;
+import org.openpkw.model.entity.User;
+import org.openpkw.model.entity.UserType;
 import org.openpkw.services.RegisteringService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;

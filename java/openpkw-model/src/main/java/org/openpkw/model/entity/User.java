@@ -1,137 +1,120 @@
 package org.openpkw.model.entity;
 
-import java.util.List;
-
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-import javax.persistence.ManyToOne;
-import javax.persistence.OneToMany;
-import javax.persistence.Table;
+import javax.persistence.*;
+import javax.validation.constraints.NotNull;
+import java.io.Serializable;
+import java.util.Date;
 
 /**
- * Created by Łukasz Franczuk (luk.franczuk@gmail.com) on 2015-08-05. Edit by
- * Jacek Feliksiak (jacekfeliksiak@gmail.com) on 2015-08-07.
+ * Created by Karol Dzięgiel on 8/26/2015.
  */
-
 @Entity
-@Table(name = "opm_user")
-public class User {
+@Table(name = "USER")
+public class User implements Serializable {
 
-	@Id
-	@GeneratedValue
-	@Column(name = "id")
-	private Long id;
+    private static final long serialVersionUID = 6814143181739850328L;
 
-	@Column(name = "firstName")
-	private String firstName;
+    @Id
+    @NotNull
+    @GeneratedValue(strategy = GenerationType.SEQUENCE)
+    @Column(name = "USER_ID")
+    private Long UserID;
 
-	@Column(name = "lastName")
-	private String lastName;
+    @Column(name = "first_name")
+    private String firstName;
 
-	@Column(name = "email")
-	private String email;
+    @Column(name = "last_name")
+    private String lastName;
 
-	@Column(name = "password")
-	private String password;
+    @Column(name = "email")
+    private String email;
 
-	@Column(name = "type")
-	private String type;
+    @Column(name = "password")
+    private String password;
 
-	@Column(name = "salt")
-	private String salt;
+    @Column(name = "is_Active")
+    private Boolean isActive;
 
-	@Column(name = "active")
-	private Boolean active;
+    @Column(name = "token")
+    private String token;
 
-	@Column(name = "userName")
-	private String userName;
+    @Column(name = "token_created_date")
+    private Date tokenCreatedDate;
 
-	@OneToMany
-	private List<Photo> photoList;
+    @Column(name = "user_type_id")
+    @Enumerated(EnumType.ORDINAL)
+    private UserType userType;
 
-	@ManyToOne
-	private PeripheralCommittee peripheralCommittee;
+    public Long getUserID() {
+        return UserID;
+    }
 
-	public Long getId() {
-		return id;
-	}
+    public void setUserID(Long UserID) {
+        this.UserID = UserID;
+    }
 
-	public void setId(Long id) {
-		this.id = id;
-	}
+    public String getFirstName() {
+        return firstName;
+    }
 
-	public String getFirstName() {
-		return firstName;
-	}
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
+    }
 
-	public void setFirstName(String firstName) {
-		this.firstName = firstName;
-	}
+    public String getLastName() {
+        return lastName;
+    }
 
-	public String getLastName() {
-		return lastName;
-	}
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
 
-	public void setLastName(String lastName) {
-		this.lastName = lastName;
-	}
+    public String getEmail() {
+        return email;
+    }
 
-	public String getEmail() {
-		return email;
-	}
+    public void setEmail(String email) {
+        this.email = email;
+    }
 
-	public void setEmail(String email) {
-		this.email = email;
-	}
+    public String getPassword() {
+        return password;
+    }
 
-	public String getPassword() {
-		return password;
-	}
+    public void setPassword(String password) {
+        this.password = password;
+    }
 
-	public void setPassword(String password) {
-		this.password = password;
-	}
+    public Boolean getIsActive() {
+        return isActive;
+    }
 
-	public String getType() {
-		return type;
-	}
+    public void setIsActive(Boolean isActive) {
+        this.isActive = isActive;
+    }
 
-	public void setType(String type) {
-		this.type = type;
-	}
+    public String getToken() {
+        return token;
+    }
 
-	public String getSalt() {
-		return salt;
-	}
+    public void setToken(String token) {
+        this.token = token;
+    }
 
-	public void setSalt(String salt) {
-		this.salt = salt;
-	}
+    public Date getTokenCreatedDate() {
+        return tokenCreatedDate;
+    }
 
-	public Boolean getActive() {
-		return active;
-	}
+    public void setTokenCreatedDate(Date tokenCreatedDate) {
+        this.tokenCreatedDate = tokenCreatedDate;
+    }
 
-	public void setActive(Boolean active) {
-		this.active = active;
-	}
+    public UserType getUserType() {
+        return userType;
+    }
 
-	public String getUserName() {
-		return userName;
-	}
-
-	public void setUserName(String userName) {
-		this.userName = userName;
-	}
-
-	public List<Photo> getPhoto() {
-		return photoList;
-	}
-
-	public void setPhoto(List<Photo> photoList) {
-		this.photoList = photoList;
-	}
-
+    public void setUserType(UserType userType) {
+        this.userType = userType;
+    }
 }
+
