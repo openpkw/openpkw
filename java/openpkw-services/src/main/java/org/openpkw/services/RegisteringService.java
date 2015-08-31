@@ -2,7 +2,7 @@ package org.openpkw.services;
 
 import org.openpkw.exceptions.CryptographyException;
 import org.openpkw.exceptions.ValidationException;
-import org.openpkw.model.entity.User;
+import org.openpkw.model.entity2.User;
 import org.openpkw.repositories.UserRepository;
 import org.openpkw.validations.EmailValidator;
 import org.openpkw.validations.PasswordValidator;
