@@ -1,10 +1,11 @@
-package org.openpkw.services;
+package org.openpkw.services.implementation;
 
 import org.openpkw.model.dto.ResultDTO;
 import org.openpkw.model.entity.PeripheralCommittee;
 import org.openpkw.model.entity.Protocol;
 import org.openpkw.repositories.PeripheralCommitteeRepository;
 import org.openpkw.repositories.ProtocolRepository;
+import org.openpkw.services.interfaces.CurrentResultService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -15,7 +16,7 @@ import java.util.List;
  */
 
 @Service
-public class CurrentResultService {
+public class CurrentResultServiceImpl implements CurrentResultService {
 
     @Autowired
     private ProtocolRepository protocolRepository;

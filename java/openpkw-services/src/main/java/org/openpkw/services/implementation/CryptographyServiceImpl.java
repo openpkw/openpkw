@@ -1,6 +1,7 @@
-package org.openpkw.services;
+package org.openpkw.services.implementation;
 
 import org.openpkw.exceptions.CryptographyException;
+import org.openpkw.services.interfaces.CryptographyService;
 import org.springframework.stereotype.Service;
 
 import java.security.MessageDigest;
@@ -10,9 +11,10 @@ import java.security.NoSuchAlgorithmException;
 /**
  * Created by Karol Dziegiel on 8/13/2015.
  * Class with methods to hash (digest) given password and to check if the given password matches with hash
+ *
  */
 @Service
-public class CryptographyService {
+public class CryptographyServiceImpl implements CryptographyService {
 
     private final String HASHING_ALGHORITM = "SHA1";
 
@@ -23,6 +25,7 @@ public class CryptographyService {
      * @return returns hash of the given password
      * @throws CryptographyException
      */
+    @Override
     public String digestPassword(String password) throws CryptographyException {
         MessageDigest messageDigest = null;
         try {
@@ -49,6 +52,7 @@ public class CryptographyService {
      * @return true value if the password matches the hash
      * @throws CryptographyException
      */
+    @Override
     public boolean isPasswordCorrect(String password, String hash) throws CryptographyException {
         String hashedPassword = digestPassword(password);
 

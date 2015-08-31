@@ -4,6 +4,7 @@ import org.openpkw.exceptions.CryptographyException;
 import org.openpkw.exceptions.ValidationException;
 import org.openpkw.model.entity.User;
 import org.openpkw.repositories.UserRepository;
+import org.openpkw.services.implementation.CryptographyServiceImpl;
 import org.openpkw.validations.EmailValidator;
 import org.openpkw.validations.PasswordValidator;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,12 +17,12 @@ public class RegisteringService {
 	private UserRepository userRepository;
 
 	@Autowired
-	private CryptographyService cryptographyService;
+	private CryptographyServiceImpl cryptographyServiceImpl;
 
 	public void validationAndSave(User user) throws CryptographyException, ValidationException {
 
 		if (validation(user.getEmail(), user.getPassword())) {
-			user.setPassword(cryptographyService.digestPassword(user
+			user.setPassword(cryptographyServiceImpl.digestPassword(user
 					.getPassword()));
 			userRepository.save(user);
 

@@ -2,6 +2,7 @@ package org.openpkw.services;
 
 
 import org.openpkw.exceptions.CryptographyException;
+import org.openpkw.services.implementation.CryptographyServiceImpl;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
@@ -9,13 +10,13 @@ import org.testng.annotations.Test;
 /**
  * Created by Karol Dziegiel on 8/13/2015.
  */
-public class CryptographyServiceTest {
+public class CryptographyServiceImplTest {
 
-    private CryptographyService cryptographyService;
+    private CryptographyServiceImpl cryptographyServiceImpl;
 
     @BeforeClass
     public void init() {
-        cryptographyService = new CryptographyService();
+        cryptographyServiceImpl = new CryptographyServiceImpl();
     }
 
     @Test
@@ -24,7 +25,7 @@ public class CryptographyServiceTest {
         String sentence = "alamakota";
         String testedResult = null;
         try {
-            testedResult = cryptographyService.digestPassword(sentence);
+            testedResult = cryptographyServiceImpl.digestPassword(sentence);
         } catch (CryptographyException e) {
         }
         Assert.assertEquals(encryptedSentence, testedResult);
@@ -37,7 +38,7 @@ public class CryptographyServiceTest {
         String sentence = "alaniemakota";
         String testedResult = null;
         try {
-            testedResult = cryptographyService.digestPassword(sentence);
+            testedResult = cryptographyServiceImpl.digestPassword(sentence);
         } catch (CryptographyException e) {
         }
         Assert.assertNotEquals(encryptedSentence, testedResult);
@@ -49,7 +50,7 @@ public class CryptographyServiceTest {
         String hashedPasswordExample = "d1217aeeb182c9106254d397ba743802c26d6afe";
         boolean doesPasswordMatchHash = false;
         try {
-            doesPasswordMatchHash = cryptographyService.isPasswordCorrect(passwordExample, hashedPasswordExample);
+            doesPasswordMatchHash = cryptographyServiceImpl.isPasswordCorrect(passwordExample, hashedPasswordExample);
         } catch (CryptographyException e) {
             e.printStackTrace();
         }
@@ -62,7 +63,7 @@ public class CryptographyServiceTest {
         String hashedPassword = "d1217aeeb182c9106254d397ba743802c26d6afe";
         boolean doesPasswordMatch = true;
         try {
-            doesPasswordMatch = cryptographyService.isPasswordCorrect(passwordExample, hashedPassword);
+            doesPasswordMatch = cryptographyServiceImpl.isPasswordCorrect(passwordExample, hashedPassword);
         } catch (CryptographyException e) {
             e.printStackTrace();
         }
@@ -75,7 +76,7 @@ public class CryptographyServiceTest {
         String hashedPassword = "d1217aeeb182c9106254d397ba743802c26d6aff";
         boolean doesPasswordMatch = true;
         try {
-            doesPasswordMatch = cryptographyService.isPasswordCorrect(passwordExample, hashedPassword);
+            doesPasswordMatch = cryptographyServiceImpl.isPasswordCorrect(passwordExample, hashedPassword);
         } catch (CryptographyException e) {
             e.printStackTrace();
         }
