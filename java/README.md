@@ -5,7 +5,7 @@ W obecnej chwili podstawowym celem zespołu developerów JAVA jest  zbudowanie n
  
  
 
-# Członkowie w porzadku alfabetycnzym 
+# Członkowie w porzadku alfabetycznym 
 
 | Członek  | Rola  |
 | ------------- | ------------- |
