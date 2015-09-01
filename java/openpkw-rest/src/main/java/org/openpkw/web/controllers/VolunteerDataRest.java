@@ -1,11 +1,11 @@
 package org.openpkw.web.controllers;
 
-import org.springframework.web.bind.annotation.RestController;
+import org.openpkw.qualifier.OpenPKWAPIController;
 
 /**
  * Created by tbiernat on 2015-08-27.
  */
-@RestController
+@OpenPKWAPIController
 public class VolunteerDataRest {
 
 

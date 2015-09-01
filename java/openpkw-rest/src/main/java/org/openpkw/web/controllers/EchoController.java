@@ -10,7 +10,6 @@ import java.util.Map;
  * @author Tomasz Łabuz on 2015-07-17.
  */
 @OpenPKWAPIController
-@RequestMapping("/echo")
 public class EchoController {
 
     @RequestMapping(value = "/echo",
