@@ -31,10 +31,10 @@ public class Protocol {
     @JoinColumn(name = "peripheral_committee_id")
     private PeripheralCommittee peripheralCommittee;
 
-    @OneToMany(fetch = FetchType.LAZY, mappedBy = "protocol_id")
+    @OneToMany(fetch = FetchType.LAZY, mappedBy = "protocol")
     private List<Photo> photos;
 
-    @OneToMany(fetch = FetchType.LAZY, mappedBy = "protocol_id")
+    @OneToMany(fetch = FetchType.LAZY, mappedBy = "protocol")
     private List<Question> questions;
 
     public Long getProtocolID() {

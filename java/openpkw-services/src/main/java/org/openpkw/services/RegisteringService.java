@@ -8,7 +8,9 @@ import org.openpkw.services.implementation.CryptographyServiceImpl;
 import org.openpkw.validations.EmailValidator;
 import org.openpkw.validations.PasswordValidator;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
+@Service
 public class RegisteringService {
 
 	// private static final long serialVersionUID = 1L;
