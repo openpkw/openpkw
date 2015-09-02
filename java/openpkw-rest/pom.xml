@@ -62,7 +62,7 @@
     </dependencies>
 
     <build>
-        <finalName>voting</finalName>
+        <finalName>openpkw</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

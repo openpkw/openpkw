@@ -13,7 +13,6 @@ import java.lang.annotation.*;
 @Target({ElementType.TYPE})
 @Documented
 @RestController
-@RequestMapping(value="/api", consumes = {"application/json"}, produces = {"application/json"})
 @Qualifier
 public @interface OpenPKWAPIController {
 }
