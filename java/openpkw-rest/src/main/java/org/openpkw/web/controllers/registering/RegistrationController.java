@@ -8,8 +8,7 @@ import org.openpkw.services.RegisteringService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
+import org.springframework.http.*;
 import org.springframework.web.bind.annotation.*;
 
 @OpenPKWAPIController
@@ -22,8 +21,8 @@ public class RegistrationController {
     private RegisteringService registeringService;
 
     @RequestMapping(value = "", method = RequestMethod.POST)
-    ResponseEntity<Object> registerUser(@RequestBody RegisterUserRequest request) {
-        User user = request.getUser();
+    ResponseEntity<Object> registerUser(RequestEntity<User> request) {
+        User user = request.getBody();
         try {
             registeringService.validationAndSave(user);
             return new ResponseEntity<>(HttpStatus.CREATED);
