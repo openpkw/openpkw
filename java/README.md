@@ -67,15 +67,19 @@ GitHub: https://github.com/openpkw/openpkw/tree/master/java
 2. Programiste API + JSon do pomocy nad BackEnd ( Security REST ) 
 
 
-
 # Wizja Systemu
 **Opis:**
 
-1.  Za pomocą aplikacji mobilnej użytkownicy (mężowie zaufania), przesyłają dane z protokółow wyborczych z obwodowych komisji
-2.  Dane z obwodowej komisji i protokołu wraz ze zdjecięm przesyłane są do BackEndowego systemu
-3.  System odbiera dane i zapisuje niezbędne informacje wraz ze zdjeciami zapisanym w oddzielnym katalogu i linkami do zdjęc w samym SQL
-4.  System umożliwia przetwarzanie tych danych a także ich weryfikacje przez operatorów 
-5.  System udostępnia zweryfikowane dane za pomocą strony www i wykresów, wyspecyfikowanym grupom użytkowników (docelowo wszystkim wyborcom) 
+1.  Za pomocą aplikacji mobilnej użytkownicy (mężowie zaufania), przesyłają dane z protokółow wyborczych z obwodowych komisji. 
+2. Opcjonalnie dane zostana przekaze w jeden w nastepujących sposobów
+- REST 
+- FTP
+- WWW
+- MAIL 
+3.  Dane z obwodowej komisji i protokołu wraz ze zdjecięm przesyłane są do BackEndowego systemu
+4.  System odbiera dane i zapisuje niezbędne informacje wraz ze zdjeciami zapisanym w oddzielnym katalogu i linkami do zdjęc w samym SQL
+5.  System umożliwia przetwarzanie tych danych a także ich weryfikacje
+6.  System udostępnia zweryfikowane dane za pomocą strony www i wykresów, wyspecyfikowanym grupom użytkowników (docelowo wszystkim wyborcom) 
 
 
 # Proces
@@ -92,17 +96,15 @@ GitHub: https://github.com/openpkw/openpkw/tree/master/java
  **Perspektywa Użytkownika / Dzień Wyborczy** (Aplikacje Mobilne)
 
 1. Użytkownik uwierzytelnia się w aplikacji mobilnej za pomocą uprzednio otrzymanego loginu i hasła od Administratora
-2. Po poprawnym uwierzytelnieniu się system rozpoznaje użytkownika i przypisuje mu automatycznie wczesniej przydzielony numer obwodowej komisji do której się zgłosił mąż zaufania
-3. Użytkownik przesyła dane recznie wprowadzajac je do aplikacji mobilnej z protokołu wyborczego wywieszonego publicznie w obwodowej komisji wyborczej. Przekazuje następujące dane:   
+2. Po poprawnym uwierzytelnieniu się system rozpoznaje użytkownika i przypisuje automatycznie wczesniej  numer obwodowej komisji z której przekazuje dane za pomoca QR
+3. Użytkownik przesyła dane automatycznie robiąc zdjecie kodu QR a także samych stron protokoły wyborczego. Przekazuje następujące dane:   
  * Ilość uprawnionych do głosowania
  * Ilość wydanych kart do głosowania
  * Ilość kart ważnych
  * Ilość głosów nieważnych
  * Ilość głosów ważnych
- * Ilość głosów dla poszczególnych kandydatow / odpowiedzi na pytania zadane w referendum
+ * Ilość głosów dla poszczególnych kandydatow / komitetów wyborczej 
  
-4.  Użytkownik ma rowniez możliwość wysłania informacji z innych dodatkowych komisji wyborczych po przez zmiane okregu, do którego jest automatycznie przypisany ( po przez nacisniećie przycisku Inna Komisja )
-5. Użytkownik otrzymuje informacje zwrotną o poprawnym dostarczeniu danych do Systemu BackEnd oraz gratulacje za dobrze wypełnioną "misje" dotyczącą obrony demokracji w PL
 
 
 # Specyfikacja
@@ -111,7 +113,7 @@ GitHub: https://github.com/openpkw/openpkw/tree/master/java
 1. Administrator Systemu (admin)
 2. Użytkownik Aplikacji (user)
 3. Operator  Systemu (operator)
-3. Gość (guest)
+4. Użytkownik www (frontend)
 
 
 
