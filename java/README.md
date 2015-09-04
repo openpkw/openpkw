@@ -1,7 +1,7 @@
 
 # OpenPKW JAVA
 
-W obecnej chwili podstawowym celem zespołu developerów JAVA jest  zbudowanie niezależnej i obiektywnej formy weryfikacja wyników wyborów za pomocą tworzonego backend. System ten przeznaczony będzie dla ok 27816 ochotników będących mężami zaufania w obwodowych komisjach wyborczych. Użytkownicy Ci, mają za zadanie za pomocą aplikacji mobilnych przesłać dane z protokołow wyborczych wraz ze zdjeciami tychże protokołów, które udostępnione są publicznie w komisjach obwodowych na koniec dnia wyborczego do zbiorczego systemu agregacji danych (backend). System ten prócz zbierania danych ma zadanie wizualizować pozyskane informacje w postaci diagramów wyborczych z podziałem na województwa. 
+W obecnej chwili podstawowym celem zespołu developerów JAVA jest  zbudowanie niezależnej i obiektywnej formy weryfikacji wyników wyborów za pomocą tworzonego backend. System ten przeznaczony będzie dla ok 27800 ochotników będących mężami zaufania w obwodowych komisjach wyborczych. Użytkownicy Ci, mają za zadanie za pomocą aplikacji mobilnych przesłać dane z protokołow wyborczych wraz ze zdjeciami tychże protokołów, które udostępnione są publicznie w komisjach obwodowych na koniec dnia wyborczego do zbiorczego systemu agregacji danych (backend). System ten prócz zbierania danych ma zadanie wizualizować pozyskane informacje w postaci diagramów wyborczych z podziałem na województwa. 
  
  
 
@@ -20,8 +20,6 @@ W obecnej chwili podstawowym celem zespołu developerów JAVA jest  zbudowanie n
 |Rafal_R | Koordynacja/Organizacja  |
 |Tomek |  Developer Java  BackEnd|
 |Wojtek_R |  Developer Java  BackEnd |
-
-
 
 
 **Jak do nas dołączyć?**  
@@ -70,8 +68,8 @@ GitHub: https://github.com/openpkw/openpkw/tree/master/java
 # Wizja Systemu
 **Opis:**
 
-1.  Za pomocą aplikacji mobilnej użytkownicy (mężowie zaufania), przesyłają dane z protokółow wyborczych z obwodowych komisji. 
-2. Opcjonalnie dane zostana przekaze w jeden w nastepujących sposobów
+1.  Za pomocą aplikacji mobilnej użytkownicy (mężowie zaufania), przesyłają dane z protokółow wyborczych z obwodowych komisji przy pomocy QR kodu 
+2. Opcjonalnie dane te zostaną przekaze w jeden w nastepujących sposobów przez PKW
 - REST 
 - FTP
 - WWW
@@ -79,7 +77,7 @@ GitHub: https://github.com/openpkw/openpkw/tree/master/java
 3.  Dane z obwodowej komisji i protokołu wraz ze zdjecięm przesyłane są do BackEndowego systemu
 4.  System odbiera dane i zapisuje niezbędne informacje wraz ze zdjeciami zapisanym w oddzielnym katalogu i linkami do zdjęc w samym SQL
 5.  System umożliwia przetwarzanie tych danych a także ich weryfikacje
-6.  System udostępnia zweryfikowane dane za pomocą strony www i wykresów, wyspecyfikowanym grupom użytkowników (docelowo wszystkim wyborcom) 
+6.  System udostępnia zweryfikowane dane za pomocą strony www i wykresów, wyspecyfikowanym grupom użytkowników (docelowo wszystkim wyborcom) potwierdzając wyniki wyborów
 
 
 # Proces
