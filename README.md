@@ -1,27 +1,9 @@
 #OpenPKW
 
-## OpenPKW w liczbach 
-| Liczba  | Temat  |
-| ------------- | ------------- |
-| 10 | Liczba aktywnych kontrybutorów |
-| 3 | Analityków  |
-| 3 | Frontend - Programiści JavaScript  |
-| 1 | Backend - Programiści Java / JavaEE |
-
-## Kontakt
-Serdecznie zapraszamy do bezpośredniej współpracy na github'ie. Proces: fork -> patch -> pull request 
-
-| Temat  | Bezpośredni kontakt  |
-| ------------- | ------------- |
-| Analiza / PKW | [Przemek](https://github.com/Tirramisu) |
-| Architektura | [Adam](https://github.com/adamkowalewski) | 
-| JavaScript - AngularJS | [Marcin](https://github.com/marcintokarski)  |
-| JavaScript - jQuery | [Kacper](https://github.com/Krzyku) |
-| Platformy mobilne | [Rafał](https://github.com/RafalRegula) | 
 
 
 ## O projekcie
-Państwo uważa, że bez niego obywatele nie są w stanie egzystować. Jest inaczej. Skoro instytucje państwowe nie są w stanie przeprowadzić przetargu na stworzenie działającego systemu do głosowania, to jest to moment na zadziałanie społeczności.
+Państwo uważa, że bez niego obywatele nie są w stanie egzystować. Jest inaczej. Skoro instytucje państwowe miały problem z przekazaniem wyników wyborów samorządowych 2014 a sytuacja z róznych przyczyn może się powtórzyć, postanowilismy wspomóc oragana państwowe i powołać do życia obywatelski projekt OPENPKW.
 
 ## O co chodzi?
 
@@ -33,13 +15,13 @@ Projekt jest w pełni obywatelski, wspierają go specjaliści w każdej dziedzin
 
 ## Jak pomóc?
   * Wypełnij formularz na: https://openpkw.pl/dolacz/
-  * Zapisz się na wybraną listę dyskusyjną tutaj: http://openpkw.pl/mailman/listinfo
+  * Zapisz się do wybranego działu na forum http://openpkw.pl/forum
   * Czytaj regularnie: https://openpkw.pl/aktualnosci/
 
 ## Aktualny status
-  * Nastąpiła zmiana organizacji projektu. Jest ona skutkiem zarówno zrezygnowania z udziału w projekcie dotychczasowych liderów zespołów Public Relations, Analizy, Architektury i Technicznego, jak i specyfiki pracy rozproszonego zespołu wolontariuszy. Wyłonił się zespół zajmujący się analizą, a także organizowane są zespoły programistów. Prawdopodobnie w najbliższym czasie nastąpią dalsze zmiany kadrowe. TODO: Zaktualizować stronę https://openpkw.pl/kontakt/ .
-  * Na chwilę obecną toczą się prace analityczne nad jednym z kilkunastu modułów OpenPKW, mianowicie Kalkulatorem Wyborczym. Jest to aplikacja służąca Obwodowym Komisjom Wyborczym do weryfikowania, drukowania i przesyłania formularzy zawierających wyniki wyborów.
-  * W ramach prac analitycznych tworzony jest prototyp Kalkulatora Wyborczego OpenPKW w technologiach webowych. Prototyp ma posłużyć do zweryfikowania czy zespół analityczny dobrze rozumie wymagania, czy rozumiemy specyfikę pracy komisji wyborczych, czy nasze wyobrażenia o tym, jak ma działać kalkulator, są poprawne itd.
+  * Nastąpiła zmiana organizacji projektu. Wyłonił się zespół zajmujący się analizą, architekturą, aplikacjami mobilnymi oraz backend`em a takze wizualizacją wyniików wyborów za pomocą strony www
+  * Na chwilę obecną toczą się prace programistyczne nad stworzeniem rozwiazania i systemu do nieżaleznej weryfikacji wyników wyborów. 
+  * W ramach  tych prac tworzone są aplikacje mobilne przekazujące wyniki z OKW za pomocą QR kodu do niezależnego systemy agregującego te dane (backendu)
   * Pojawiają się zręby infrastruktury: tworzone i konfigurowane są serwery, które będą służyć do budowania, testowania i hostowania efektów pracy zespołu OpenPKW.
   * Ciekawym, ale i trudnym zadaniem jest włączanie do projektu nowych ochotników, a także wypracowywanie wspólnej metodyki pracy. Zespół jest rozproszony, są to ochotnicy pracujący w swoim wolnym czasie (skąpym!), ustalenia są wypracowywane w trakcie dyskusji, a spektrum poglądów na niemal każdy temat jest bardzo szerokie.
   
@@ -47,6 +29,7 @@ Projekt jest w pełni obywatelski, wspierają go specjaliści w każdej dziedzin
 
  * Strona informacyjna: https://openpkw.pl/
  * Listy dyskusyjne: https://openpkw.pl/mailman/listinfo
+ * Forum dyskusyjne: https://openpkw.pl/forum
  * Grupa na FB https://www.facebook.com/groups/1507165176234887/
  * Fanpage na FB: https://www.facebook.com/openpkw
  * Twitter: @OpenPKW https://twitter.com/OpenPKW
