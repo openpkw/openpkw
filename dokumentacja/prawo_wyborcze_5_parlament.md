@@ -5,7 +5,8 @@ IV. [**W zakresie wyborów samorządowych**] (https://github.com/openpkw/openpkw
 # V. W zakresie wyborów do Sejmu i Senatu
 
 
-* Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 17 lipca 2015 r. w sprawie zarządzenia wyborów do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej ([Dz.U. 2015, poz. 1017] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150001017))  
+* Postanowienie Prezydenta Rzeczypospolitej Polskiej z dnia 17 lipca 2015 r. w sprawie zarządzenia wyborów do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej ([Dz.U. 2015, poz. 1017] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150001017)); zmiana: ([Dz.U.2015.1131] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150001131))  
+
   * [Kalendarz wyborczy] (http://parlament2015.pkw.gov.pl/pliki/1437566443_Postanowienie.pdf) 
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 11 kwietnia 2011 r. w sprawie powoływania obwodowych komisji
