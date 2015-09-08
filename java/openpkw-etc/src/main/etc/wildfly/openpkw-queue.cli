@@ -1,1 +1,0 @@
-jms-queue add --queue-address=OpenPKWQueue --entries=queue/OpenPKWQueue

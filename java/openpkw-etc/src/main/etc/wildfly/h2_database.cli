@@ -1,1 +1,0 @@
-/subsystem=datasources/data-source=OpenPKWDS/:add(user-name=sa, jndi-name=java:/jboss/databases/openpkw,driver-name=h2,connection-url=jdbc:h2:tcp://localhost:3306/openpkw_1,max-pool-size=20,track-statements=NOWARN,flush-strategy=FailingConnectionOnly,min-pool-size=0)
