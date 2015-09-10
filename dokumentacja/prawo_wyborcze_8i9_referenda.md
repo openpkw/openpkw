@@ -57,6 +57,11 @@
 
 * ROZPORZĄDZENIE MINISTRA ADMINISTRACJI I CYFRYZACJI z dnia 27 lipca 2015 r. zmieniające rozporządzenie w sprawie należności pieniężnych przysługujących członkom obwodowych komisji do spraw referendum w referendum ogólnokrajowym oraz trybu udzielania im dni wolnych od pracy ([Dz.U. 2015 poz. 1068](http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150001068))  
 
+* **OBWIESZCZENIE PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 7 września 2015 r. o wynikach głosowania i wyniku referendum przeprowadzonego w dniu 6 września 2015 r.([Dz.U. 2015 skierowany do publikacji] (http://referendum2015.pkw.gov.pl/pliki/1441637773_Obwieszczenie.pdf))**  
+   ([Załącznik Nr 1] (http://referendum2015.pkw.gov.pl/pliki/1441637778_Zalacznik_nr1.pdf))  
+   ([Załącznik Nr 2] (http://referendum2015.pkw.gov.pl/pliki/1441637784_Zalacznik_nr2.pdf))  
+   ([Załącznik Nr 3] (http://referendum2015.pkw.gov.pl/pliki/1441637790_Zalacznik%20_nr3.pdf)) 
+
 
 **(poniższe akty są obowiązujce - ale mogą być sukcesywnie zmieniane w związku z referendum  2015)**  
 
