@@ -12,7 +12,7 @@ IV. [**W zakresie wyborów samorządowych**] (https://github.com/openpkw/openpkw
 * Uchwała Państwowej Komisji Wyborczej z dnia 11 kwietnia 2011 r. w sprawie powoływania obwodowych komisji
 wyborczych w obwodach głosowania utworzonych w kraju, w wyborach do Sejmu Rzeczypospolitej Polskiej i do
 Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej oraz do Parlamentu Europejskiego w Rzeczypospolitej
-Polskiej ([M.P. 2011, Nr 30, poz. 345] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20110300345+2015%2402%2409&min=1), zmiana: [M.P. 2015 poz. 223] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000223))  
+Polskiej ([M.P. 2011, Nr 30, poz. 345] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20110300345+2015%2402%2409&min=1), zmiana: ([M.P. 2015 poz. 223] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000223)), zmiana: ([M.P. 2015, poz. skierowany do publikacji] (http://parlament2015.pkw.gov.pl/pliki/1441291345_Zmiana%20uchwa%C5%82y%20w%20sprawie%20powo%C5%82ania%20obwodowych%20komisji%20wyborczych.odt))  
 
 * uchwała Państwowej Komisji Wyborczej z dnia 9 czerwca 2015 r. w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille’a, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych w kraju ([M.P. 2015, poz. 538] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000538));  
 
