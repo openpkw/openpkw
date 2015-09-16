@@ -40,7 +40,13 @@ Polskiej ([M.P. 2011, Nr 30, poz. 345] (http://isap.sejm.gov.pl/DetailsServlet?i
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 16 września 2015 r. w sprawie trybu i terminu powoływania obwodowych komisji wyborczych w obwodach głosowania utworzonych za granicą ([M.P. 2015, poz. skierowany do publikacji] (http://parlament2015.pkw.gov.pl/pliki/1442409265_Zagranica%20-%20powolywanie_komisji_obwodowych.pdf))  
 
-* Uchwała Państwowej Komisji Wyborczej z dnia 16 września 2015 r. w sprawie ustalenia wzorów informacji o sposobie głosowania stosowanej w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej ([M.P. 2015, poz. skierowany do publikacji] (http://parlament2015.pkw.gov.pl/pliki/1442407742_informacja%20o%20sposobie%20g%C5%82osowania.pdf)) 
+* Uchwała Państwowej Komisji Wyborczej z dnia 16 września 2015 r. w sprawie ustalenia wzorów informacji o sposobie głosowania stosowanej w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej ([M.P. 2015, poz. skierowany do publikacji] (http://parlament2015.pkw.gov.pl/pliki/1442407742_informacja%20o%20sposobie%20g%C5%82osowania.pdf))  
+
+* Uchwała Państwowej Komisji Wyborczej z dnia 16 września 2015 r. w sprawie zasad i trybu przekazywania Okręgowej Komisji Wyborczej w Warszawie I, właściwej dla dzielnicy Śródmieście m.st. Warszawy, wyników głosowania i protokołów głosowania z obwodów utworzonych za granicą w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r. ([M.P. 2015, poz. skierowany do publikacji] (http://parlament2015.pkw.gov.pl/pliki/1442408514_Przekazywanie%20wynikow%20z%20zagranicy.pdf))   
+
+* Uchwała Państwowej Komisji Wyborczej z dnia 16 września 2015 r. w sprawie trybu i terminu powoływania obwodowych komisji wyborczych w obwodach głosowania utworzonych na polskich statkach morskich ([M.P. 2015, poz. skierowany do publikacji] (http://parlament2015.pkw.gov.pl/pliki/1442409107_Statki%20-%20powolywanie_komisji_obwodowych.pdf))  
+
+*  
 
 * **Informacje PKW**
     * Informacja o tworzeniu komitetu wyborczego partii politycznej w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r. (oraz wzory dokumentów zgłoszeniowych) ([ZPOW-503-17/15] (http://parlament2015.pkw.gov.pl/aktualnosci/0/2_Informacja_o_tworzeniu_komitetu_wyborczego_partii_politycznej_w_wyborach_do_Sejmu_Rzeczypospolitej_Polskiej_i_do_Senatu_Rzeczypospolitej_Polskiej_zarzadzonych_na_dzien_25_pazdziernika_2015_r))  
