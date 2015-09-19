@@ -42,20 +42,20 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
 
 # Zawartość katalogu:
 
-Katalog [**master\pliki klk**] (https://github.com/openpkw/openpkw/tree/master/pliki%20klk) - zawiera przykładowe pliki definicyjne w formacie (dotychczas używanym) .klk  
+Katalog [**dokumentacji\pliki klk**] (https://github.com/openpkw/openpkw/tree/master/dokumentacja//pliki%20klk) - zawiera przykładowe pliki definicyjne w formacie (dotychczas używanym) .klk  
 
-  *  plik [README.md] (https://github.com/openpkw/openpkw/tree/master/pliki%20klk) ogólna informacja o plikach klk oraz rozszyfrowanie kodów rodzajów akcji wyborczej.  
-  *  plik [klk-obd-lodz-2014.xml] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/klk-obd-lodz-2014.xml) - plik z wyborów do Parlamentu Unii Europejskiej 2014;  
-  *  plik [klk-obd-wawa-2011.xml] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/klk-obd-wawa-2011.xml) - plik z wyborów parlamentarnych Sejm + Senat 2011;  
-  *  plik [klk-obd-lodz-2010.xml] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/klk-obd-lodz-2010.xml) - plik z wyborów prezydenckich 2010;
-  *  plik [pollstations.csv] (https://raw.githubusercontent.com/openpkw/openpkw/master/pliki%20klk/pollstations.csv) - plik z danymi obwodów wyborczych - Prezydent 2015.  
-  *  plik [Prezydent2015_1tura_wyniki.csv]  (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/Prezydent2015_1tura_wyniki.csv) - plik z wynikami gosowania I tura Prezydent 2015  
-  *  plik [Prezydent2015_2tura_wyniki.csv]  (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/Prezydent2015_2tura_wyniki.csv) - plik z wynikami gosowania II tura Prezydent 2015.  
-  *  plik [KLK_180801_1_2015-05-10_13-00.json]  (http://www.jsoneditoronline.org/?url=https://raw.githubusercontent.com/openpkw/openpkw/master/pliki%20klk/KLK_180801_1_2015-05-10_13-00.json) - autentyczny plik KLK z nowej wersji programu WOW z dnia 10 maja 2015 - Wybory Prezydenckie 2015 I tura - gmina miasto Leżajsk.   
-  *  plik [protokol-180801-6.json] (http://www.jsoneditoronline.org/?url=https://raw.githubusercontent.com/openpkw/openpkw/master/pliki%20klk/protokol-180801-6.json) - plik protokołu z Komisji Obwodowej Nr 6 w Leżajsku - Prezydent 2015, I tura głosowania
-  *  plik [obwody_geografia.csv] (https://github.com/openpkw/openpkw/blob/master/pliki%20klk/obwody_geografia.csv) - plik z danymi obwodów wyborczych - Referendum 6 września 2015 r.
-  *  **plik [KLK_180801_2015-08-26_19-46.json]  (http://www.jsoneditoronline.org/?url=https://raw.githubusercontent.com/openpkw/openpkw/master/pliki%20klk/KLK_180801_2015-08-26_19-46.json) - plik KLK z nowej wersji programu WOW (test ogólnopolski 27 sierpnia 2015 r.) - Referendum ogólnopolskie 6 września 2015 r. - gmina miasto Leżajsk.**  
-  *  **plik [protokol-180801-5.json] (http://www.jsoneditoronline.org/?url=https://raw.githubusercontent.com/openpkw/openpkw/master/pliki%20klk/protokol-180801-5.json) - plik protokołu z Komisji Obwodowej Nr 5 w Leżajsku (test ogólnopolski 27 sierpnia 2015 r.) - Referendum 6 września 2015 r.**  
+  *  plik [README.md] (https://github.com/openpkw/openpkw/tree/master/dokumentacja/pliki%20klk) ogólna informacja o plikach klk oraz rozszyfrowanie kodów rodzajów akcji wyborczej.  
+  *  plik [klk-obd-lodz-2014.xml] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/pliki%20klk/klk-obd-lodz-2014.xml) - plik z wyborów do Parlamentu Unii Europejskiej 2014;  
+  *  plik [klk-obd-wawa-2011.xml] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/pliki%20klk/klk-obd-wawa-2011.xml) - plik z wyborów parlamentarnych Sejm + Senat 2011;  
+  *  plik [klk-obd-lodz-2010.xml] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/pliki%20klk/klk-obd-lodz-2010.xml) - plik z wyborów prezydenckich 2010;
+  *  plik [pollstations.csv] (https://raw.githubusercontent.com/openpkw/openpkw/master/dokumentacja/pliki%20klk/pollstations.csv) - plik z danymi obwodów wyborczych - Prezydent 2015.  
+  *  plik [Prezydent2015_1tura_wyniki.csv]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/pliki%20klk/Prezydent2015_1tura_wyniki.csv) - plik z wynikami gosowania I tura Prezydent 2015  
+  *  plik [Prezydent2015_2tura_wyniki.csv]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/pliki%20klk/Prezydent2015_2tura_wyniki.csv) - plik z wynikami gosowania II tura Prezydent 2015.  
+  *  plik [KLK_180801_1_2015-05-10_13-00.json]  (http://www.jsoneditoronline.org/?url=https://raw.githubusercontent.com/openpkw/openpkw/master/dokumentacja/pliki%20klk/KLK_180801_1_2015-05-10_13-00.json) - autentyczny plik KLK z nowej wersji programu WOW z dnia 10 maja 2015 - Wybory Prezydenckie 2015 I tura - gmina miasto Leżajsk.   
+  *  plik [protokol-180801-6.json] (http://www.jsoneditoronline.org/?url=https://raw.githubusercontent.com/openpkw/openpkw/master/dokumentacja/pliki%20klk/protokol-180801-6.json) - plik protokołu z Komisji Obwodowej Nr 6 w Leżajsku - Prezydent 2015, I tura głosowania
+  *  plik [obwody_geografia.csv] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/pliki%20klk/obwody_geografia.csv) - plik z danymi obwodów wyborczych - Referendum 6 września 2015 r.
+  *  **plik [KLK_180801_2015-08-26_19-46.json]  (http://www.jsoneditoronline.org/?url=https://raw.githubusercontent.com/openpkw/openpkw/master/dokumentacja/pliki%20klk/KLK_180801_2015-08-26_19-46.json) - plik KLK z nowej wersji programu WOW (test ogólnopolski 27 sierpnia 2015 r.) - Referendum ogólnopolskie 6 września 2015 r. - gmina miasto Leżajsk.**  
+  *  **plik [protokol-180801-5.json] (http://www.jsoneditoronline.org/?url=https://raw.githubusercontent.com/openpkw/openpkw/master/dokumentacja/pliki%20klk/protokol-180801-5.json) - plik protokołu z Komisji Obwodowej Nr 5 w Leżajsku (test ogólnopolski 27 sierpnia 2015 r.) - Referendum 6 września 2015 r.**  
 
 # Zawartość katalogu:
 
