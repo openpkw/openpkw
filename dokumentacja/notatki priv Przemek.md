@@ -6,12 +6,6 @@
 
 4.  jak stworzyc nowy katalog ? (potrzebny katalog "informacje publiczne\instrukcje")
 
-5.  diagram nakładki HTML na moduły PW (Moduł A)
-
-6.  jak dodać pliki binarne ? (np. pdf)
-
-7. analiza plików Bartosza(?) Kokoszki
-
 
 C.1
 
