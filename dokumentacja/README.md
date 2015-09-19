@@ -71,9 +71,9 @@ Katalog [**dokumentacji\pliki klk**] (https://github.com/openpkw/openpkw/tree/ma
 
 # Zawartość katalogu:
 
-   * Katalog [**dokumentacja\informacja publiczna\informacja publiczna o PW2**] (https://github.com/openpkw/openpkw/tree/master/dokumentacja/informacja%20publiczna/informacja%20publiczna%20o%20PW2) - zawiera:
+   * Katalog [**dokumentacja\informacja publiczna\przetarg 28.11.2013**] (https://github.com/openpkw/openpkw/tree/master/dokumentacja/informacja%20publiczna/przetarg%2028.11.2013) - zawiera:
 
-    * dokumenty z przetargu z dnia 18.11.2014 r. [SIWZ] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/informacja%20publiczna/informacja%20publiczna%20o%20PW2/SIWZ-PW_2.0_wesja_5_GR_RD_AK-opracowanie.pdf); [Załącznik Nr 1] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/informacja%20publiczna/informacja%20publiczna%20o%20PW2/Za%C5%82%C4%85cznik_Nr_1_-_Podstawy_prawne.pdf); [Załącznik Nr 2] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/informacja%20publiczna/informacja%20publiczna%20o%20PW2/Za%C5%82%C4%85cznik_Nr_2___Za%C5%82o%C5%BCenia_do_PW2_i_opis_modu%C5%82%C3%B3w_PW2.pdf); [Załącznik Nr 4] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/informacja%20publiczna/informacja%20publiczna%20o%20PW2/Za%C5%82%C4%85cznik_Nr_4___Wdro%C5%BCenie_PW2.pdf).
+    * dokumenty z przetargu z dnia 18.11.2014 r. [SIWZ] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/informacja%20publiczna/przetarg%2028.11.2013/SIWZ-PW_2.0_wesja_5_GR_RD_AK-opracowanie.pdf); [Załącznik Nr 1] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/informacja%20publiczna/przetarg%2028.11.2013/Za%C5%82%C4%85cznik_Nr_1_-_Podstawy_prawne.pdf); [Załącznik Nr 2] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/informacja%20publiczna/przetarg%2028.11.2013/Za%C5%82%C4%85cznik_Nr_2___Za%C5%82o%C5%BCenia_do_PW2_i_opis_modu%C5%82%C3%B3w_PW2.pdf); [Załącznik Nr 4] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/informacja%20publiczna/przetarg%2028.11.2013/Za%C5%82%C4%85cznik_Nr_4___Wdro%C5%BCenie_PW2.pdf).
     * plik [Instrukcja] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/informacja%20publiczna/Kalkulator_wyborczy-v2_2014.10.30.pdf) obsługi kalkulatora wyborczego 2.0  
 
 # Zawartość katalogu:
