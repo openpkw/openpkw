@@ -53,6 +53,20 @@ Zmiana którejkolwiek z tych informacji jest natychmiast automatycznie wprowadza
 
 **Referendum** - szczegóły patrz -> [tutaj] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Referendum.md)  
 
+**Referendum ważne** – oznacza, iż referendum zostało przeprowadzone zgodnie z prawem, co każdorazowo stwierdza Sąd Najwyższy. Ważność nie zależy wobec tego od ilości głosujących oraz od tego, czy oddali swoje głosy poprawnie (zgodnie z instrukcją zamieszczoną na kartach do głosowania).  
+
+**Referendum wiążące** – zgodnie z art. 66 ustawy z dnia 14 marca 2003 r. o referendum ogólnokrajowym wynik referendum jest wiążący, jeżeli wzięła w nim udział więcej niż połowa uprawnionych do głosowania.  
+Wymóg frekwencji dotyczy referendum w sprawach o szczególnym znaczeniu dla państwa oraz w sprawie wyrażenia zgody 
+na ratyfikację umowy międzynarodowej.  
+Wiążący wynik oznacza, że referendum staje się podstawą wydania odpowiednich regulacji prawnych i nakłada na organy państwa 
+obowiązek ich wydania bądź nakazuje tym organom powstrzymanie się od ingerencji w sferę, co do której suweren opowiedział 
+się za pozostawieniem jej bez zmian. W drugim przypadku próba regulacji tej materii wbrew głosującym będzie naruszeniem 
+Konstytucji.  
+Jeżeli w głosowaniu weźmie udział mniej niż połowa uprawnionych, wówczas jest ono ważne, jednak traktuje się je jedynie 
+jako referendum opiniodawcze. Oznacza to, że organy państwowe mogą wziąć jego wynik pod uwagę, jednak nie muszą.  
+
+**Referendum rozstrzygające** – z wynikiem rozstrzygającym referendum mamy do czynienia wtedy, gdy było ono ważne oraz gdy za określoną opcją opowiedziała się większość głosujących (w głosowaniu na "Tak" lub "Nie"). W przypadku referendów, w których możliwe jest wybranie jednego z zaproponowanych wariantów rozwiązań (jest ich więcej niż dwa), wynik uważa się za rozstrzygający, gdy na którąś z opcji oddano najwięcej głosów. Bierze się w obu tych przypadkach jedynie ważnie oddane głosy.  Zatem referendum może nie być rozstrzygające, gdy głosy na dwie opcje oddano najwięcej i dokładnie po tyle samo głosów.  
+
 **Stany protokołu** - 
   * wprowadzony - dokument wypełniony przez operatora komisji obwodowej nastąpił wydruk -> **Zestawienie błędów**
   * gotowy - dokument sprawdzony, poprawiony/brak błędów, gotowy do uwierzytelnienia/podpisania
