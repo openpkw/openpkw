@@ -46,7 +46,7 @@ Polskiej ([M.P. 2011, Nr 30, poz. 345] (http://isap.sejm.gov.pl/DetailsServlet?i
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 16 września 2015 r. w sprawie trybu i terminu powoływania obwodowych komisji wyborczych w obwodach głosowania utworzonych na polskich statkach morskich ([M.P. 2015, poz. skierowany do publikacji] (http://parlament2015.pkw.gov.pl/pliki/1442409107_Statki%20-%20powolywanie_komisji_obwodowych.pdf))  
 
-*  
+* **Uchwała Państwowej Komisji Wyborczej z dnia 25 września 2015 r. w sprawie warunków oraz sposobu wykorzystania techniki elektronicznej w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r. ([M.P. 2015, poz. skierowany do publikacji] (http://parlament2015.pkw.gov.pl/pliki/1443184561_Uchwa%C5%82a%20informatyczna.pdf))**   
 
 * **Informacje PKW**
     * Informacja o tworzeniu komitetu wyborczego partii politycznej w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r. (oraz wzory dokumentów zgłoszeniowych) ([ZPOW-503-17/15] (http://parlament2015.pkw.gov.pl/aktualnosci/0/2_Informacja_o_tworzeniu_komitetu_wyborczego_partii_politycznej_w_wyborach_do_Sejmu_Rzeczypospolitej_Polskiej_i_do_Senatu_Rzeczypospolitej_Polskiej_zarzadzonych_na_dzien_25_pazdziernika_2015_r))  
@@ -57,18 +57,15 @@ Polskiej ([M.P. 2011, Nr 30, poz. 345] (http://isap.sejm.gov.pl/DetailsServlet?i
 
 **(poniższe akty dotyczą wyborów z poprzedniej kadencji - będą sukcesywnie zmieniane z chwilą ogłoszenia wyborów do nowej kadencji 2015)**    
 
-1) **uchwała Państwowej Komisji Wyborczej z dnia 27 czerwca 2011 r. w sprawie warunków i sposobu wykorzystania techniki elektronicznej oraz trybu przekazywania danych za pośrednictwem sieci elektronicznego przekazywania danych w wyborach
-do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej ([M.P. 2011, Nr 63, poz. 601] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20110630601)),**  
+1) Uchwała Państwowej Komisji Wyborczej z dnia 16 maja 2011 r. w sprawie trybu i terminu powoływania obwodowych komisji wyborczych w obwodach głosowania utworzonych za granicą ([M.P. Nr 44, poz. 477] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20110440477))
 
-2) Uchwała Państwowej Komisji Wyborczej z dnia 16 maja 2011 r. w sprawie trybu i terminu powoływania obwodowych komisji wyborczych w obwodach głosowania utworzonych za granicą ([M.P. Nr 44, poz. 477] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20110440477))
+2) uchwała Państwowej Komisji Wyborczej z dnia 23 maja 2011 r. w sprawie regulaminów okręgowych i obwodowych komisji wyborczych powołanych do przeprowadzenia wyborów do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej ([M.P. Nr 44, poz. 478] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20110440478)),  
 
-3) uchwała Państwowej Komisji Wyborczej z dnia 23 maja 2011 r. w sprawie regulaminów okręgowych i obwodowych komisji wyborczych powołanych do przeprowadzenia wyborów do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej ([M.P. Nr 44, poz. 478] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20110440478)),  
+3) uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wytycznych dla obwodowych komisji wyborczych, dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej ([M.P. 2013, poz 189] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20130000189)),  
 
-4) uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wytycznych dla obwodowych komisji wyborczych, dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej ([M.P. 2013, poz 189] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20130000189)),  
+4) uchwała Państwowej Komisji Wyborczej z dnia 12 września 2011 r. w sprawie wytycznych dla okręgowych komisji wyborczych, dotyczących wykonywania zadań związanych z ustalaniem wyników głosowania i wyników wyborów oraz trybu i zasad powoływania pełnomocników okręgowych komisji wyborczych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 9 października 2011 r. ([M.P. Nr 87, poz. 911] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20110870911)),  
 
-5) uchwała Państwowej Komisji Wyborczej z dnia 12 września 2011 r. w sprawie wytycznych dla okręgowych komisji wyborczych, dotyczących wykonywania zadań związanych z ustalaniem wyników głosowania i wyników wyborów oraz trybu i zasad powoływania pełnomocników okręgowych komisji wyborczych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 9 października 2011 r. ([M.P. Nr 87, poz. 911] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20110870911)),  
-
-6) uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wytycznych dotyczących stosowania uchwał Państwowej Komisji Wyborczej w wyborach uzupełniających do senatu Rzeczypospolitej Polskiej VIII kadencji ([M.P. poz. 124] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20130000124));  
+5) uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wytycznych dotyczących stosowania uchwał Państwowej Komisji Wyborczej w wyborach uzupełniających do senatu Rzeczypospolitej Polskiej VIII kadencji ([M.P. poz. 124] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20130000124));  
 
 
  VI. [**W zakresie wyborów prezydenckich**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6_prezydent.md) 
