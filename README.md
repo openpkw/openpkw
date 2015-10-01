@@ -31,6 +31,14 @@ Projekt jest w pełni obywatelski, wspierają go specjaliści w każdej dziedzin
   * Pojawiają się zręby infrastruktury: tworzone i konfigurowane są serwery, które będą służyć do budowania, testowania i hostowania efektów pracy zespołu OpenPKW.
   * Ciekawym, ale i trudnym zadaniem jest włączanie do projektu nowych ochotników, a także wypracowywanie wspólnej metodyki pracy. Zespół jest rozproszony, są to ochotnicy pracujący w swoim wolnym czasie (skąpym!), ustalenia są wypracowywane w trakcie dyskusji, a spektrum poglądów na niemal każdy temat jest bardzo szerokie.
   
+## Aktualna architektura systemu
+
+![Architektura aktualna](https://raw.githubusercontent.com/openpkw/openpkw-devops/master/OpenPKW%20Architecture.png)
+
+## Docelowa architektura systemu
+
+![Architektura docelowa](https://raw.githubusercontent.com/openpkw/openpkw/master/dokumentacja/procesy/SW_OpenPKW.png)
+
 ## Adresy!
 
  * Strona informacyjna: https://openpkw.pl/
