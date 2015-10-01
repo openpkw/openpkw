@@ -1,29 +1,5 @@
 # Protokoły spotkań
 
-## Agenda na najbliższe spotkanie
-Zbieramy tematy na najbliższą telekonferencje tj. ??.06.2015. Będę wdzięczny za akceptację schematu:   
-**data [autor] [status] [treść]**  
-
-### Stałe tematy 
-* Status implementacji
-  * [openpkw-kalkulator-obwodowy-web](https://github.com/openpkw/openpkw-kalkulator-obwodowy-web) - Marcin T.
-  * [openpkw-dokument-generator](https://github.com/openpkw/openpkw-dokument-generator) - Sebastian C.
-* Analiza jak i nowości z PKW [Przemek, Robert] 
-* [Przemek] [Permanent] Kontynuacja analizy OpenPKW oraz analiza działania państwowych systemów wyborczych. Budowa Systemu Wyborczego OpenPKW.  
-Linki: [**tutaj**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/System_OpenPKW.md) i tutaj: [**katalog DOKUMENTACJA**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja) oraz aktualizowany spis plików i ich zawartość
-w [**README.md**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/README.md)  
-
-### Dodatkowe tematy
-* 2015.05.03 [Rafał Malujda] [new] System do przeprowadzenia głosowania: wybór budżetu obywatelskiego m.Szczecin.  
-* 2015.04.05 [Adam] Proces integracji kontrybutorów. OpenProject pozwala na zakładanie konta ale co dzieje się z tymi ludźmi? Czy nowi użytkownicy mogą sami dopisać się do zespołów? 
-
-## Aktualna lista ToDo: 
-Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje.   
-Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
-
-* 2015.03.25-0 [Tomek] [Pending] Przekazać namiary na Java Developers. 
-* 2015.03.25-9 [Tomek, Rafał Malujda] [Pending] Dokończyć temat prawny ws AGPL i kodu systemu dla OpenPKW.
-
 ## 2015.05.13 20:00
 Format: Telekonferencja / Skype  
 Czas: 120 min.  
