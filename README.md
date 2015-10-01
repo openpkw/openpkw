@@ -17,6 +17,10 @@ Projekt jest w pełni obywatelski, wspierają go specjaliści w każdej dziedzin
   * Wypełnij formularz na: https://openpkw.pl/dolacz/
   * Zapisz się do wybranego działu na forum http://openpkw.pl/forum
   * Czytaj regularnie: https://openpkw.pl/aktualnosci/
+  * Zapoznaj się z README poszczególnych komponentów systemu OpenPKW. Znajdziesz tam wymagania, listy zadań, opisy konfiguracji środowiska deweloperskiego i inne informacje.
+    * https://github.com/openpkw/openpkw-weryfikator/blob/master/README.md
+    * https://github.com/openpkw/openpkw-dokument-generator/blob/master/README.md
+    * https://github.com/openpkw/openpkw-kalkulator-obwodowy-web/blob/master/README.md
 
 ## Aktualny status
   * Nastąpiła zmiana organizacji projektu. Wyłonił się zespół zajmujący się analizą, architekturą, aplikacjami mobilnymi oraz backend`em a takze wizualizacją wyniików wyborów za pomocą strony www
