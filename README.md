@@ -21,6 +21,8 @@ Projekt jest w pełni obywatelski, wspierają go specjaliści w każdej dziedzin
     * https://github.com/openpkw/openpkw-weryfikator/blob/master/README.md
     * https://github.com/openpkw/openpkw-dokument-generator/blob/master/README.md
     * https://github.com/openpkw/openpkw-kalkulator-obwodowy-web/blob/master/README.md
+  * Zapoznaj się z README devops. Znajdziesz tam opis środowisk OpenPKW, konfigurację serwerów i inne informacje.
+    * https://github.com/openpkw/openpkw-devops/blob/master/README.md
 
 ## Aktualny status
   * Nastąpiła zmiana organizacji projektu. Wyłonił się zespół zajmujący się analizą, architekturą, aplikacjami mobilnymi oraz backend`em a takze wizualizacją wyniików wyborów za pomocą strony www
