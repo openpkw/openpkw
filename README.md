@@ -25,6 +25,7 @@ Projekt jest w pełni obywatelski, wspierają go specjaliści w każdej dziedzin
     * https://github.com/openpkw/openpkw-devops/blob/master/README.md
 
 ## Aktualny status
+  * W ostatnich dniach następuje reorganizacja zespołów i repozytoriów. Jej celem jest określenie liczby osób specjalizujących się w poszczególnych technologiach i uporządkowanie uprawnień do poszczególnych repozytoriów.
   * Nastąpiła zmiana organizacji projektu. Wyłonił się zespół zajmujący się analizą, architekturą, aplikacjami mobilnymi oraz backend`em a takze wizualizacją wyniików wyborów za pomocą strony www
   * Na chwilę obecną toczą się prace programistyczne nad stworzeniem rozwiazania i systemu do nieżaleznej weryfikacji wyników wyborów. 
   * W ramach  tych prac tworzone są aplikacje mobilne przekazujące wyniki z OKW za pomocą QR kodu do niezależnego systemy agregującego te dane (backendu)
