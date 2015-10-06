@@ -65,9 +65,7 @@ Polskiej ([M.P. 2011, Nr 30, poz. 345] (http://isap.sejm.gov.pl/DetailsServlet?i
 
 **(poniższe akty dotyczą wyborów z poprzedniej kadencji - będą sukcesywnie zmieniane z chwilą ogłoszenia wyborów do nowej kadencji 2015)**    
 
-1) uchwała Państwowej Komisji Wyborczej z dnia 12 września 2011 r. w sprawie wytycznych dla okręgowych komisji wyborczych, dotyczących wykonywania zadań związanych z ustalaniem wyników głosowania i wyników wyborów oraz trybu i zasad powoływania pełnomocników okręgowych komisji wyborczych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 9 października 2011 r. ([M.P. Nr 87, poz. 911] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20110870911)),  
-
-2) uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wytycznych dotyczących stosowania uchwał Państwowej Komisji Wyborczej w wyborach uzupełniających do senatu Rzeczypospolitej Polskiej VIII kadencji ([M.P. poz. 124] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20130000124));  
+1) uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wytycznych dotyczących stosowania uchwał Państwowej Komisji Wyborczej w wyborach uzupełniających do senatu Rzeczypospolitej Polskiej VIII kadencji ([M.P. poz. 124] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20130000124));  
 
 
  VI. [**W zakresie wyborów prezydenckich**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6_prezydent.md) 
