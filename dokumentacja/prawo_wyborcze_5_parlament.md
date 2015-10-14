@@ -63,10 +63,6 @@ Polskiej ([M.P. 2011, Nr 30, poz. 345] (http://isap.sejm.gov.pl/DetailsServlet?i
     * Informacja o zasadach i sposobie zgłaszania list kandydatów na posłów w wyborach do Sejmu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r. (oraz wzory dokumentów zgłoszeniowych) ([ZPOW-503-20-15] (http://parlament2015.pkw.gov.pl/aktualnosci/0/5_Informacja_o_zasadach_i_sposobie_zglaszania_list_kandydatow_na_poslow_w_wyborach_do_Sejmu_Rzeczypospolitej_Polskiej_zarzadzonych_na_dzien_25_pazdziernika_2015_r))  
     * Informacja o zasadach i sposobie zgłaszania kandydatów na senatorów w wyborach do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r. (oraz wzory dokumentów zgłoszeniowych) ([ZPOW-503-21/15] (http://parlament2015.pkw.gov.pl/aktualnosci/0/6_Informacja_o_zasadach_i_sposobie_zglaszania_kandydatow_na_senatorow_w_wyborach_do_Senatu_Rzeczypospolitej_Polskiej_zarzadzonych_na_dzien_25_pazdziernika_2015_r))  
 
-**(poniższe akty dotyczą wyborów z poprzedniej kadencji - będą sukcesywnie zmieniane z chwilą ogłoszenia wyborów do nowej kadencji 2015)**    
-
-1) uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wytycznych dotyczących stosowania uchwał Państwowej Komisji Wyborczej w wyborach uzupełniających do senatu Rzeczypospolitej Polskiej VIII kadencji ([M.P. poz. 124] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20130000124));  
-
 
  VI. [**W zakresie wyborów prezydenckich**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6_prezydent.md) 
 
