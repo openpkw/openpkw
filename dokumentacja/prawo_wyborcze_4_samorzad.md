@@ -7,6 +7,7 @@ I - III. [**Przepisy ogólne.**] (https://github.com/openpkw/openpkw/blob/master
 * uchwała Państwowej Komisji Wyborczej z dnia 4 sierpnia 2014 r. w sprawie ustalenia wzorów wydawanych przez komisarzy wyborczych potwierdzeń złożenia zawiadomienia o utworzeniu komitetu wyborczego w wyborach do rad gmin, rad powiatów i sejmików województw ([M.P. 2014, poz. 674] (http://www.monitorpolski.gov.pl/mp/2014/674/1)),  
 
 * uchwała Państwowej Komisji Wyborczej z dnia 11 sierpnia 2014 r. w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille'a, w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast ([M.P. 2014, poz. 734] (http://www.monitorpolski.gov.pl/mp/2014/734/1) i [735] (http://www.monitorpolski.gov.pl/mp/2014/735/1)),  
+zmiana: Uchwała Państwowej Komisji Wyborczej z dnia 12 stycznia 2015 r. ([M.P. 2015, poz. 147] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000147))  
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 11 sierpnia 2014 r. w sprawie wzoru zaświadczenia dla męża zaufania wyznaczonego do obwodowej komisji wyborczej w wyborach do organów jednostek samorządu terytorialnego ([M.P. 2014, poz. 701] (http://www.monitorpolski.gov.pl/mp/2014/701/1))
 
@@ -61,7 +62,7 @@ zmiana: Uchwała Państwowej Komisji Wyborczej z dnia 3 września 2015 r. ([M.P.
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 22 grudnia 2014 r. w sprawie wytycznych dla komisarzy wyborczych oraz terytorialnych i obwodowych komisji wyborczych, dotyczących przygotowania i przeprowadzania wyborów do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz wyborów wójtów, burmistrzów i prezydentów miast w toku kadencji w latach 2014–2018 ([M.P. 2015, poz. 66] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000066))
 
-* Uchwała Państwowej Komisji Wyborczej z dnia 12 stycznia 2015 r. zmieniająca uchwałę w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille’a, w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast ([M.P. 2015, poz. 147] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000147))  
+
 
 * Obwieszczenie Państwowej Komisji Wyborczej z dnia 23 listopada 2014 r. o zbiorczych wynikach wyborów do rad na obszarze kraju, przeprowadzonych w dniu 16 listopada 2014 r. ([Dz.U. 2014 poz. 1640] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20140001640))  
 
