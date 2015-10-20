@@ -25,7 +25,7 @@ zgłoszenia do rejestracji kandydata na wójta, burmistrza i prezydenta miasta i
 
 * uchwała Państwowej Komisji Wyborczej z dnia 1 września 2014 r. w sprawie ustalenia wzorów protokołów sporządzanych przez obwodowe komisje wyborcze, w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz wyborach wójtów, burmistrzów i prezydentów miast ([M.P. 2014, poz. 882] (http://www.monitorpolski.gov.pl/mp/2014/882/1)),   
 zmiana: Uchwała Państwowej Komisji Wyborczej z dnia 6 listopada 2014 r. ([M.P. 2014, poz. 1053] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20140001053))    
-zmiana: Uchwała Państwowej Komisji Wyborczej z dnia 3 września 2015 r.([M.P. 2015, poz. skierowany do publikacji] (http://pkw.gov.pl/aktualnosci/uchwala-panstwowej-komisji-wyborczej-z-dnia-3-wrzesnia-2015-r-zmieniajaca-uchwale-w-sprawie-ustalenia-wzorow-protokolow-sporzadzanych-przez-obwodowe-komisje-wyborcze-w-wyborach-do-rad-gmin-rad-powiatow-sejmikow-wojewodztw-i-rad-dzielnic-m-st-warszawy-oraz.html))   
+zmiana: Uchwała Państwowej Komisji Wyborczej z dnia 3 września 2015 r.([M.P. 2015, poz. 921] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000921))   
 
 * uchwała Państwowej Komisji Wyborczej z dnia 8 września 2014 r. w sprawie wytycznych dla terytorialnych komisji wyborczych w sprawie sposobu zapisu nazwisk i imion kandydatów oraz skrótów nazw komitetów wyborczych na obwieszczeniach i kartach do głosowania ([M.P. 2014, poz. 807] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20140000807));  
 
@@ -37,7 +37,7 @@ wyborach wójtów, burmistrzów i prezydentów miast** ([M.P. 2014, poz. 903] (h
 * uchwała Państwowej Komisji Wyborczej z dnia 29 września 2014 r. w sprawie wytycznych dla obwodowych komisji wyborczych dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w wyborach organów jednostek samorządu terytorialnego, zarządzonych na dzień 16 listopada 2014 r. ([M.P. 2014, poz. 934] (http://www.monitorpolski.gov.pl/mp/2014/934/1)),
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 6 października 2014 r. w sprawie ustalenia wzorów protokołów, zestawień i zaświadczeń o wyborze sporządzanych przez terytorialne komisje wyborcze w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast ([M.P. 2014, poz. 933] (http://www.monitorpolski.gov.pl/mp/2014/933/1)),   
-zmiana: Uchwała Państwowej Komisji Wyborczej z dnia 3 września 2015 r. ([M.P. 2015, poz. skierowano do publikacji] (http://pkw.gov.pl/aktualnosci/uchwala-panstwowej-komisji-wyborczej-z-dnia-3-wrzesnia-2015-r-zmieniajaca-uchwale-w-sprawie-ustalenia-wzorow-protokolow-zestawien-i-zaswiadczen-o-wyborze-sporzadzanych-przez-terytorialne-komisje-wyborcze-w-wyborach-do-rad-gmin-rad-powiatow-sejmikow-wojewo.html))
+zmiana: Uchwała Państwowej Komisji Wyborczej z dnia 3 września 2015 r. ([M.P. 2015, poz. 923] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000923))
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 6 października 2014 r. w sprawie ustalenia wzorów informacji o sposobie głosowania i warunkach ważności głosu w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast ([M.P. 2014, poz. 896] (http://www.monitorpolski.gov.pl/mp/2014/896/1))
 
