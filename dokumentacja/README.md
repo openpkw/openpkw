@@ -27,7 +27,7 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
    * [**Słownik pojec**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Slownik%20pojec.md) - plik z wyjaśnieniami terminologii używanej w "języku wyborczym".  
    * [**Walidacja meldunek wyborczy**]  (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_meldunek_wyborczy.md) - plik z zasadami walidacji poprawności meldunku wyborczego (część meldunek kwartalny - zwykły).  
    * [**Referendum**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Referendum.md) - omówienie zasad dotyczących referendów.
-   * [**Walidacja parlament**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_parlament.md) - zasady walidacji protokołów wyborczych w wyborach parlamentarnych (Sejm i Senat).  
+   * [**Walidacja parlament**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_parlament.md) - zasady walidacji protokołów wyborczych komisji obwodowych w wyborach parlamentarnych (Sejm i Senat).  
    * [**Systemy wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/systemy_wyborcze.md) - Kilka (?) podstawowych informacji o systemach wyborczych (sposobach podziału wyborczego i sposobach liczenia głosów).  
    * [**Ciekawostki wyborcze**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/ciekawostki%20wyborcze.md) - Jak się liczy i głosuje - i dzieli mandaty - w innych krajach świata.
    * [**Okregi_2015_Sejm**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Okregi_2015_Sejm.md) - podział Polski na okręgi wyborcze w wyborach do Sejmu RP
@@ -37,7 +37,8 @@ Bardzo proszę, po stworzeniu jakiegokolwiek nowego pliku, o umieszczenie tutaj 
    * [**Okregi_2014_Samorzad**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/Okregi_2014_Samorzad.md) - zasady podziału Polski w wyborach samorządowych 2014 r.  
    * [**QRcode_referendum1**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/QRcode_referendum1.md) - Zasady i obliczenia maksymalnej długości (liczby) znaków do zaszycia w OR code w przypadku Referendum ogólnopolskiego, jednodniowego w protokole Komisji Obwodowej ds. referendum.
    * [**QRcode_Sejm_Obwody**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/QRcode_Sejm_Obwody.md) - Zasady i obliczenia maksymalnej długości (liczby) znaków do zaszycia w OR code w przypadku wyborów do Sejmu 2015 w protokole Obwodowej Komisji Wyborczej.
-   * [**Walidacja_referendum_2015**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_referendum_2015.md)  - zasady walidacji protokołów obwodowych w Referendum ogólnopolskim 5 września 2015 r.  
+   * [**Walidacja_referendum_2015**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_referendum_2015.md) - zasady walidacji protokołów komisji obwodowych w Referendum ogólnopolskim 5 września 2015 r.  
+   * [**Walidacja_parlament_2015**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/walidacja_parlament_2015.md) - zasady walidacji protokoów komisji obwodowych w wyborach Parlamentarnych 25 października 2015 r.
 
 
 # Zawartość katalogu:
