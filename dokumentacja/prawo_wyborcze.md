@@ -80,6 +80,11 @@ wyborach wójtów, burmistrzów i prezydentów miast, w głosowaniu korespondenc
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 27 marca 2015 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w głosowaniu korespondencyjnym za granicą ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000328))  
 
+# IV. Wyjanienia, wytyczne, i pisma PKW.
+
+* [ZPOW-066-700/15] (http://parlament2015.pkw.gov.pl/aktualnosci/0/55_Wyjasnienia_Panstwowej_Komisji_Wyborczej_w_zwiazku_z_postulatami_Ruchu_Kontroli_Wyborow) Wyjaśnienia Państwowej Komisji Wyborczej w związku z postulatami Ruchu Kontroli Wyborów. 
+
+
 
 # Przepisy dotyczące konkretnych akcji wyborczych.  
 
