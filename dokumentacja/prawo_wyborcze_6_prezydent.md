@@ -58,6 +58,9 @@ I - III. [**Przepisy ogólne**] (https://github.com/openpkw/openpkw/blob/master/
 
 * Uchwała Państwowej Komisji Wyborczej w sprawie rozwiązania okręgowych i obwodowych komisji wyborczych, powołanych w celu przeprowadzenia wyborów Prezydenta Rzeczypospolitej Polskiej zarządzonych na dzień 10 maja 2015 r. ([M.P. 2015 poz. 574] (http://monitorpolski.gov.pl/mp/2015/574/1))  
 
+* Obwieszczenie Państwowej Komisji Wyborczej z dnia 11 maja 2015 r. o wynikach głosowania i wyniku wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. ([Dz.U. z 2015, poz. 650]  (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150000650))
+*  Obwieszczenie Państwowej Komisji Wyborczej z dnia 13 maja 2015 r. w sprawie zmiany obwieszczenia o wynikach głosowania i wyniku wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. ([Dz.U. z 2015 r, poz. 705]  (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150000705))  
+
 * Uchwała Sądu Najwyższego z dnia 23 czerwca 2015 r. w sprawie ważności wyborów Prezydenta Rzeczypospolitej Polskiej przeprowadzonych w dniach 10 i 24 maja 2015 r. ([Dz.U. 2015 poz. 952] (http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150000952)) 
 
 
