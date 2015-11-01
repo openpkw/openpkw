@@ -66,13 +66,14 @@ Polskiej ([M.P. 2011, Nr 30, poz. 345] (http://isap.sejm.gov.pl/DetailsServlet?i
     * Informacja o tworzeniu koalicyjnego komitetu wyborczego w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r. (oraz wzory dokumentów zgłoszeniowych) ([ZPOW-503-18/15] (http://parlament2015.pkw.gov.pl/aktualnosci/0/3_Informacja_o_tworzeniu_koalicyjnego_komitetu_wyborczego__w_wyborach_do_Sejmu_Rzeczypospolitej_Polskiej_i_do_Senatu_Rzeczypospolitej_Polskiej_zarzadzonych_na_dzien_25_pazdziernika_2015_r))  
     * Informacja o zasadach i sposobie zgłaszania list kandydatów na posłów w wyborach do Sejmu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r. (oraz wzory dokumentów zgłoszeniowych) ([ZPOW-503-20-15] (http://parlament2015.pkw.gov.pl/aktualnosci/0/5_Informacja_o_zasadach_i_sposobie_zglaszania_list_kandydatow_na_poslow_w_wyborach_do_Sejmu_Rzeczypospolitej_Polskiej_zarzadzonych_na_dzien_25_pazdziernika_2015_r))  
     * Informacja o zasadach i sposobie zgłaszania kandydatów na senatorów w wyborach do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r. (oraz wzory dokumentów zgłoszeniowych) ([ZPOW-503-21/15] (http://parlament2015.pkw.gov.pl/aktualnosci/0/6_Informacja_o_zasadach_i_sposobie_zglaszania_kandydatow_na_senatorow_w_wyborach_do_Senatu_Rzeczypospolitej_Polskiej_zarzadzonych_na_dzien_25_pazdziernika_2015_r))  
-
-* **Obwieszczenia PKW**
-    *  Obwieszczenie Państwowej Komisji Wyborczej z dnia 24 sierpnia 2015 r. o okręgu wyborczym w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r. ([Obwieszczenie] (http://parlament2015.pkw.gov.pl/pliki/1440658594_Obwieszczenie%20o%20okr%C4%99gach%20wyborczych.pdf))  
-
-    * Obwieszczenie Państwowej Komisji Wyborczej z dnia 27 października 2015r. o wynikach wyborów do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 25 października 2015r. (Obwieszczenie[] (http://parlament2015.pkw.gov.pl/pliki/1445959339_obwieszczenie_senat_wybory_wyniki.pdf))  
-    
-    *  Obwieszczenie Państwowej Komisji Wyborczej z dnia 27 października 2015 r. o wynikach wyborów do Sejmu Rzeczypospolitej Polskiej przeprowadzonych w dniu 25 października 2015 r. ([Obwieszczenie] (http://parlament2015.pkw.gov.pl/pliki/1445959303_obwieszczenie_sejm_wybory_wyniki.pdf))  
+  
+  
+* **Obwieszczenia PKW**  
+ 
+   *  Obwieszczenie Państwowej Komisji Wyborczej z dnia 24 sierpnia 2015 r. o okręgu wyborczym w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r. ([Obwieszczenie] (http://parlament2015.pkw.gov.pl/pliki/1440658594_Obwieszczenie%20o%20okr%C4%99gach%20wyborczych.pdf))  
+   * Obwieszczenie Państwowej Komisji Wyborczej z dnia 27 października 2015r. o wynikach wyborów do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 25 października 2015r. (Obwieszczenie[] (http://parlament2015.pkw.gov.pl/pliki/1445959339_obwieszczenie_senat_wybory_wyniki.pdf))  
+   * Obwieszczenie Państwowej Komisji Wyborczej z dnia 27 października 2015 r. o wynikach wyborów do Sejmu Rzeczypospolitej Polskiej przeprowadzonych w dniu 25 października 2015 r. ([Obwieszczenie] (http://parlament2015.pkw.gov.pl/pliki/1445959303_obwieszczenie_sejm_wybory_wyniki.pdf))  
+   * Obwieszczenie Państwowej Komisji Wyborczej z dnia 29 października 2015 r. o sprostowaniu błędów ([Obwieszczenie] (http://parlament2015.pkw.gov.pl/pliki/1446121155_Obwieszczenie%20o%20sprostowaniu%20b%C5%82%C4%99d%C3%B3w%20-%20Sejm.pdf))  
 
  VI. [**W zakresie wyborów prezydenckich**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6_prezydent.md) 
 
