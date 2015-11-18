@@ -75,6 +75,11 @@ Polskiej ([M.P. 2011, Nr 30, poz. 345] (http://isap.sejm.gov.pl/DetailsServlet?i
    * Obwieszczenie Państwowej Komisji Wyborczej z dnia 27 października 2015 r. o wynikach wyborów do Sejmu Rzeczypospolitej Polskiej przeprowadzonych w dniu 25 października 2015 r. ([Obwieszczenie] (http://parlament2015.pkw.gov.pl/pliki/1445959303_obwieszczenie_sejm_wybory_wyniki.pdf))  
    * Obwieszczenie Państwowej Komisji Wyborczej z dnia 29 października 2015 r. o sprostowaniu błędów ([Obwieszczenie] (http://parlament2015.pkw.gov.pl/pliki/1446121155_Obwieszczenie%20o%20sprostowaniu%20b%C5%82%C4%99d%C3%B3w%20-%20Sejm.pdf))  
 
+
+* **Sprawozdanie PKW**  
+
+   * Sprawozdanie z wyborów do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej przeprowadzonych 25 października 2015 r. ([Sprawozdanie] (http://pkw.gov.pl/g2/oryginal/2015_11/76e0b8f65e45e35a79c3f2a21fd262f6.pdf))  
+
  VI. [**W zakresie wyborów prezydenckich**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_6_prezydent.md) 
 
  VII. [**W zakresie wyborów do Europarlamentu**] (https://github.com/openpkw/openpkw/blob/master/dokumentacja/prawo_wyborcze_7_europarlament.md) 
