@@ -62,6 +62,7 @@
    ([Załącznik Nr 2] (http://referendum2015.pkw.gov.pl/pliki/1441637784_Zalacznik_nr2.pdf))  
    ([Załącznik Nr 3] (http://referendum2015.pkw.gov.pl/pliki/1441637790_Zalacznik%20_nr3.pdf)) 
 
+* Obwieszczenie Państwowej Komisji Wyborczej z dnia 23 listopada 2015 r. o skorygowanych wynikach głosowania i wyniku referendum ogólnokrajowego przeprowadzonego w dniu 6 września 2015 r. ([Obwieszczenie] (http://pkw.gov.pl/g2/oryginal/2015_11/0c276c7b265df86a1b132469004734b6.pdf)) ([Załącznik] (http://pkw.gov.pl/g2/oryginal/2015_11/262311c668c06b492c24ea670a98eece.pdf))  
 
 **(poniższe akty są obowiązujce - ale mogą być sukcesywnie zmieniane w związku z referendum  2015)**  
 
