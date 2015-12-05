@@ -79,6 +79,9 @@ wyborach wójtów, burmistrzów i prezydentów miast, w głosowaniu korespondenc
 * Uchwała Państwowej Komisji Wyborczej z dnia 9 lutego 2015 r. w sprawie określenia wzoru i rozmiaru koperty na pakiet wyborczy, koperty zwrotnej, koperty na kartę do głosowania, oświadczenia o osobistym i tajnym oddaniu głosu oraz instrukcji głosowania korespondencyjnego ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000211))  
 
 * Uchwała Państwowej Komisji Wyborczej z dnia 27 marca 2015 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w głosowaniu korespondencyjnym za granicą ([M.P. 2015, poz. 37] (http://isap.sejm.gov.pl/DetailsServlet?id=WMP20150000328))  
+# III.b. Uchwały PKW  
+
+* Uchwała Państwowej Komisji Wyborczej z dnia 23 listopada 2015 r. w sprawie wzorów informacji o terminie wyborów, godzinach głosowania, sposobie głosowania oraz warunkach ważności głosu, a także o możliwości głosowania korespondencyjnego lub przez pełnomocnika (informacji o wyborach) ([Uchwała] (http://pkw.gov.pl/g2/oryginal/2015_11/157cd6220bc19fe5b117260f1fa9149a.pdf))  
 
 # IV. Wyjanienia, wytyczne, i pisma PKW.
 
