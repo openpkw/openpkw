@@ -1,5 +1,17 @@
 # Protokoły spotkań
 
+## 2015.12.16 20:00
+Format: Telekonferencja / Skype  
+Czas: 30 min.  
+Obecni: Sebastian Celejewski, Adam Kowalewski, Przemek Jodkowski, Rafał Reguła
+
+### Przebieg dyskusji
+* Obecny stan prac. Rozwijane są komponenty aplikacji OpenPKW Weryfikator: aplikacja mobilna do skanowania kodów QR na protokołach, aplikacja backendowa zbierająca dane, aplikacja webowa prezentująca dane.
+* Co robimy jak skończymy Weryfikator? Prawdopodobnie powrócimy do prac nad Kalkulatorem.
+* Pomysł: Wykorzystać aplikacje OpenPKW podczas wyborów szkolnych.
+* Problemy: najpilniejsze jest zaktualizowanie certyfikatu dla strony www.openpkw.pl. Być może przydałoby się dołączenie kogoś do zadań związanych z zarządzaniem domeną.
+
+
 ## 2015.05.13 20:00
 Format: Telekonferencja / Skype  
 Czas: 120 min.  
@@ -488,5 +500,5 @@ Format: Spotkanie inicjujące we Wrocławiu <br/>
 * Kalkulator musi być zdolny do pracy offline. Nie wszystkie komisje mają dostęp do internetu. 
 * Kryteria walidacji są określone ustawowo. 
 * Testy wyborcze 
-1. 	na 3 tyg przed wyborami
-2. 	na 1/2 tyg przed wyborami
+1.  na 3 tyg przed wyborami
+2.  na 1/2 tyg przed wyborami
