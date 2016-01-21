@@ -1,5 +1,51 @@
 # Protokoły spotkań
 
+## 2016.01.20 20:00
+format: Telekonferencja / Skype  
+czas:  
+Obecni:  Sebastian Celejewski, Adam Kowalewski, Przemek Jodkowski, Rafał Reguła  
+
+### Przebieg dyskusji  
+
+1. Informacja na temat przejęcia "na wyłączność" serwerów, list mailingowych, komunikatorów społecznościowych.
+
+2. Omówienie dotychczasowego zakresu prac programistycznych:  
+W trakcie tworzenia:  
+
+  - moduł wczytywania danych z oficjalnego pliku danych PKW do bazy;  
+
+  - moduł tworzenia QR z danych z bazy (zasilonej j.w.) i dodanie jako oddzielnej (?) kolejnej (?) strony z QR do generowanego niżej pdf.
+
+  - moduł tworzenia pdf z danych z bazy (zasilonej j.w.);  
+
+Przemek pytanie: który wzór protokołu jest generowany - przypominam, że do każdych wyborów jest inny, a w niektórych jest kilka rodzajów protokołów? Czy jest stworzony jakiś generator “odpowiednich” wzorów protokołów?  
+
+  - “dane” z QR zasilają bazę danych (odrębną niż wyżej, która była zasilona z csv) poprzez moduły mobilne (Android, iOS);  
+  - moduł porównujący dane z “bazy zasilonej QR” z danymi z bazy zasilonej csv  
+
+Brakuje:  
+
+  - kalkulator obwodowy;  
+  - kalkulator okręgowy;  
+  - "drukarka wyborcza"
+  - moduł wizualizacji danych z “bazy zasilonej QR”;  
+  - ?
+
+3. Formalizowanie działań Openpkw:  
+
+  - Stowarzyszenie - potrzebujemy, krótkiej informacji zasadach, tworzeniu, itp.  
+  - Wzory dokumentów “założycielskich”  
+  - Szacunek kosztów (składki itp).  
+
+Kolejne spotkanie 27.01.2016 godz. 20:00
+
+##TODO:  
+[Rafał] Kontatkt z prawnikami, stworzenie i dostarczenie projektów dokumentów założycielskich;  
+[Rafał] Ustalenie kolejności sprintów;  
+[Rafał] Ustalenie dat podsumowania prac nad modułami i dat testów poszczególnych modułów.  
+
+
+
 ## 2015.12.16 20:00
 Format: Telekonferencja / Skype  
 Czas: 30 min.  
