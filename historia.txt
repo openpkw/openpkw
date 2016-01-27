@@ -1,0 +1,21 @@
+2014-11-18 Tomek WoŸniak uruchamia grupê "Spo³ecznoœciowy System Liczenia G³osów dla PKW" na Facebooku
+2014-11-19 Tomek WoŸniak zak³ada repozytorium na GitHubie
+2014-11-20 Szluug wysy³a do PKW wniosek o udostêpnienie informacji publicznej na temat projektu i wykonania softu dla PKW
+2014-11-23 Tomek WoŸniak uruchamia listy mailingowe
+2014-11-25 Uruchomienie strony OpenPKW na Facebooku
+2014-11-25 Pierwszy komunikat prasowy OpenPKW
+2014-11-26 OpenPKW pojawia siê po raz pierwszy na Wykop.pl
+2014-11-29 OpenPKW w Wydarzeniach Polsatu
+2014-12-06 Spotkanie inicjuj¹ce projekt - Wroc³aw
+2014-12-11 Sebastian zrobi³ ankietê "OpenPKW - kim jesteœmy?"
+2015-01-23 Sebastian poszukuje domain eksperta. Zg³asza siê Przemek
+2015-01-28 Sebastian proponuje zrobiæ kalkulator minimalny na najbli¿sze wybory prezydenckie
+2015-02-07 Spotkanie OpenPKW na Politechnice Gdañskiej
+2015-02-08 Adam kontaktuje siê z Sebastianem
+2015-02-11 Pierwsze spotkanie œrodowców: Sebastian, Adam i Tomek Klasa
+2015-02-18 Drugie spotkanie œrodowców
+2015-03-04 Rafa³ Regu³a pojawia siê pierwszy raz na spotkaniu œrodowców
+2015-03-15 Adam zak³ada repozytorium OPW
+2015-03-18 Magdalena Szecówka, Robert Partyka, Kamil Porembiñski i Marek Zibrow odchodz¹ z OpenPKW
+2015-03-26 Continuous Delivery dla kalkulatora na serwerze Adama
+2015-04-03 Kod kalkulatora OpenPKW komentowany na Wykop.pl
