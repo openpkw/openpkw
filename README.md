@@ -25,13 +25,13 @@ Projekt jest w pełni obywatelski, wspierają go specjaliści w każdej dziedzin
     * https://github.com/openpkw/openpkw-devops/blob/master/README.md
 
 ## Aktualny status
-  * W ostatnich dniach następuje reorganizacja zespołów i repozytoriów. Jej celem jest określenie liczby osób specjalizujących się w poszczególnych technologiach i uporządkowanie uprawnień do poszczególnych repozytoriów.
-  * Nastąpiła zmiana organizacji projektu. Wyłonił się zespół zajmujący się analizą, architekturą, aplikacjami mobilnymi oraz backend`em a takze wizualizacją wyniików wyborów za pomocą strony www
-  * Na chwilę obecną toczą się prace programistyczne nad stworzeniem rozwiazania i systemu do nieżaleznej weryfikacji wyników wyborów. 
-  * W ramach  tych prac tworzone są aplikacje mobilne przekazujące wyniki z OKW za pomocą QR kodu do niezależnego systemy agregującego te dane (backendu)
-  * Pojawiają się zręby infrastruktury: tworzone i konfigurowane są serwery, które będą służyć do budowania, testowania i hostowania efektów pracy zespołu OpenPKW.
-  * Ciekawym, ale i trudnym zadaniem jest włączanie do projektu nowych ochotników, a także wypracowywanie wspólnej metodyki pracy. Zespół jest rozproszony, są to ochotnicy pracujący w swoim wolnym czasie (skąpym!), ustalenia są wypracowywane w trakcie dyskusji, a spektrum poglądów na niemal każdy temat jest bardzo szerokie.
+
+Notatki ze spotkań zespołu OpenPKW można poczytać tutaj:
+
+https://github.com/openpkw/openpkw/blob/master/Protokoly%20spotkan.md
   
+Obecnie jedynym aktywnym wątkiem w pracach OpenPKW jest Weryfikator OpenPKW.
+
 ## Aktualna architektura systemu
 
 ![Architektura aktualna](https://raw.githubusercontent.com/openpkw/openpkw-devops/master/OpenPKW%20Architecture.png)
