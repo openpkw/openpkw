@@ -23,9 +23,6 @@ Tematy:
 2. Propozycja: rozbicie backendu na mniejsze, niezależne komponenty. Jedna aplikacja dla frontendu, druga dla aplikacji moblilnej, trzecia do inicjalnego ładowania danych do bazy itd.
 3. Nowa wersja frontendu Weryfikatora jest gotowa do testowania. Nie działa mapka, bo nie wiemy jak ją napisać.
 
-
-# Notatki ze spotkań zespołu OpenPKW Weryfikator
-
 ## Wtorek, 24 maja 2016 r.
 
 Obecni: Rafał Reguła, Remigiusz Mrozek, Sebastian Celejewski
@@ -115,14 +112,11 @@ Tematy:
 5. Jak testować aplikację androidową bez używania Androida.
 
 
+## 20 stycznia 2016 r., 20:00
 
-
-## 2016.01.20 20:00
-format: Telekonferencja / Skype  
-czas:  
 Obecni:  Sebastian Celejewski, Adam Kowalewski, Przemek Jodkowski, Rafał Reguła  
 
-### Przebieg dyskusji  
+Przebieg dyskusji  
 
 1. Informacja na temat przejęcia "na wyłączność" serwerów, list mailingowych, komunikatorów społecznościowych.
 
@@ -205,12 +199,11 @@ Tematy dyskusji:
 
 
 
-## 2015.12.16 20:00
-Format: Telekonferencja / Skype  
-Czas: 30 min.  
+## 16 grudnia 2015 r., 20:00
+
 Obecni: Sebastian Celejewski, Adam Kowalewski, Przemek Jodkowski, Rafał Reguła
 
-### Przebieg dyskusji
+Przebieg dyskusji
 * Obecny stan prac. Rozwijane są komponenty aplikacji OpenPKW Weryfikator: aplikacja mobilna do skanowania kodów QR na protokołach, aplikacja backendowa zbierająca dane, aplikacja webowa prezentująca dane.
 * Co robimy jak skończymy Weryfikator? Prawdopodobnie powrócimy do prac nad Kalkulatorem.
 * Pomysł: Wykorzystać aplikacje OpenPKW podczas wyborów szkolnych.
@@ -292,12 +285,12 @@ Obecni: Rafał, Łukasz, Bartek, Remek, Sebastian, Kamil
 
 7. Najbliższe zadanie: wygenerowanie protokołu dla komisji obwodowej w postaci pliku PDF z kodem QR. Sebastian adaptuje generator dokumentów do wyborów parlamentarnych, Remek robi aplikację, która będzie strzelać do generatora po PDFy podając dane z CSV.
 
-## 2015.05.13 20:00
-Format: Telekonferencja / Skype  
-Czas: 120 min.  
+## 13 maja 2015 r., 20:00
+
 Obecni: Piotr Tobolski, Sebastian Celejewski, Adam Kowalewski, Przemek Jodkowski, Rafał Reguła, Kacper Jasiński
 
-### Przebieg dyskusji
+Przebieg dyskusji
+
 * Rozliczenie zadań z ostatnich dwóch tygodni.
 * Stan implementacji:
   * openpkw-kalkulator-obwodowy-web - widoczne postępy w walidacji, poprawione błędy
@@ -323,15 +316,11 @@ Zrealizowane TODO:
 * 2015.04.22-2 [Marcin] [Done] Wysłać Przemkowi co już zrobił w zipie lub wystawić na Dobromirze ręcznie
 * 2015.04.22-3 [Sebastian] [Done] Wywalić credentials JBossa z pom.xml
 
-## 2015.05.06 20:00
-Format: Telekonferencja / Skype  
-Czas: 15 min.  
+## 6 maja 2015 r., 20:00
 Obecni: Kacper Jasiński, Przemek Jodkowski, Rafał Reguła
 
-Odpowiedzialny za protokół: Rafał 
+Przebieg dyskusji
 
-
-### Przebieg dyskusji
 * Nie udało sie rozliczyć wiekszosci tasków z poprzedniego tygodnia, gdyż było za mało osób na Telco
 * Zostały przekazane informacje odnosnie aplikacji mobilnych i ich statusu gotowości wraz z podanymi wtępnymi terminami i funkcjonalnościami
 * Nad Aplikacjami mobilnymi pracuje obecnie 15 do 18 developerów mobilnych
@@ -343,7 +332,8 @@ z powodu m.in Todos ---> 2015.03.25-0. Innym problemem jest pojedyncza maszyna D
 *  Mamy stały i dynamiczny progres w rozwoju oprogramowania w OpenPKW. Przejawia się on np w nawiązaniu kontaktu z PKW w celu upowrzechnienia idei przejrzystosci wyborów i pokazaniu gotowego rozwiazania będącego w posiadaniu OpenPKW-Mobile (aplikacji mobilnych). Rozwiązanie te zostanie przedstawione na robocznym spotkaniu z PKW zaplanowanym na nastepny tydzień 
 * Wszyscy obecni wyrazili ubolewanie z powodu absensji wiekszosci kontrybutorów OpenPKW na konferencji
 
-### Todo zrealizowane
+Todo zrealizowane
+
 2015.04.15-3 [Rafal Malujda] Wysłanie pisma do PKW w sprawie spisu Obwodowych Komisji Wyborczych w trybie dostępu do informacji publicznej (plik csv)
 
 ## 2015.04.29 20:00
